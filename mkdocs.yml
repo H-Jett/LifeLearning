@@ -1,0 +1,62 @@
+site_name: 系统学茶
+site_description: 一本边学边记、力求正确的茶学入门书 —— 工艺原理 + 茶叶化学 + 感官审评
+site_url: https://H-Jett.github.io/TeaLearning/
+repo_url: https://github.com/H-Jett/TeaLearning
+repo_name: H-Jett/TeaLearning
+theme:
+  name: material
+  language: zh
+  palette:
+    # 亮色 / 暗色切换
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 切换到暗色
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到亮色
+  features:
+    - navigation.indexes    # 允许"章"节点本身是一个页面，补充内容缩进其下
+    - navigation.footer     # 页脚上一页/下一页翻页
+    - navigation.top        # 回到顶部
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+# 书内容放在 docs/（MkDocs 默认文档目录）。GitHub 上照样能浏览 docs/ 里的 .md，
+# 二者共用同一批文件，零内容重复。
+
+# 只用 GitHub / 阅读器 / MkDocs 三边通用的可移植 Markdown 扩展。
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search:
+      lang: zh
+
+nav:
+  - 首页: index.md
+  - 学习路线图: roadmap.md
+  - 术语表: glossary.md
+  - 国标与文献索引: standards.md
+  - 第一部分 · 茶的物质基础:
+      - chapters/01-foundation/00-intro.md
+      - 第 1 章 · 一片叶子里有什么: chapters/01-foundation/01-leaf-chemistry.md
+  - 记录表:
+      - 冲泡记录表: forms/brewing-log.md
+  - 思考题参考答案:
+      - 第 1 章 · 成分与滋味: qa/01-leaf-chemistry-qa.md
