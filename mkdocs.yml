@@ -1,8 +1,8 @@
 site_name: 系统学茶
 site_description: 一本边学边记、力求正确的茶学入门书 —— 工艺原理 + 茶叶化学 + 感官审评
-site_url: https://H-Jett.github.io/H-Jett-TeaLearning/
-repo_url: https://github.com/H-Jett/H-Jett-TeaLearning
-repo_name: H-Jett/H-Jett-TeaLearning
+site_url: https://H-Jett.github.io/TeaLearning/
+repo_url: https://github.com/H-Jett/TeaLearning
+repo_name: H-Jett/TeaLearning
 theme:
   name: material
   language: zh
