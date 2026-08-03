@@ -33,6 +33,8 @@ DOCS = REPO_ROOT / "docs"
 
 # [文字](路径#锚点) —— 只关心站内 .md 链接
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)\s]+\.md)(#[^)\s]+)?\)")
+# 外部链接前缀：这些不是站内文件，即使以 .md 结尾也要跳过
+EXTERNAL_PREFIXES = ("http://", "https://", "mailto:", "//")
 # 显式 HTML 锚点 <a id="xxx"></a>
 ANCHOR_RE = re.compile(r'<a\s+id="([^"]+)"')
 # Markdown 标题（用于 toc 自动锚点的兜底判断）
@@ -71,6 +73,8 @@ def check_links(md_files: list[Path], anchor_cache: dict[Path, set[str]]) -> Non
     """检查站内 .md 链接的目标文件与锚点都存在。"""
     for md in md_files:
         for target, frag in LINK_RE.findall(md.read_text(encoding="utf-8")):
+            if target.startswith(EXTERNAL_PREFIXES):
+                continue        # 外部 URL 交给 mkdocs / 人工检查，不在此校验
             dest = (md.parent / unquote(target)).resolve()
             rel = md.relative_to(REPO_ROOT)
             if not dest.exists():

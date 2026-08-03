@@ -56,7 +56,14 @@ nav:
   - 第一部分 · 茶的物质基础:
       - chapters/01-foundation/00-intro.md
       - 第 1 章 · 一片叶子里有什么: chapters/01-foundation/01-leaf-chemistry.md
+      - 第 2 章 · 品种、产地与"山场": chapters/01-foundation/02-cultivar-terroir.md
+      - 第 3 章 · 鲜叶与采摘: chapters/01-foundation/03-plucking.md
+      - 第 4 章 · 酶与氧化: chapters/01-foundation/04-enzymes-oxidation.md
+      - 第一部分小结（速查）: chapters/01-foundation/summary.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
       - 第 1 章 · 成分与滋味: qa/01-leaf-chemistry-qa.md
+      - 第 2 章 · 品种与产地: qa/02-cultivar-terroir-qa.md
+      - 第 3 章 · 鲜叶与采摘: qa/03-plucking-qa.md
+      - 第 4 章 · 酶与氧化: qa/04-enzymes-oxidation-qa.md
