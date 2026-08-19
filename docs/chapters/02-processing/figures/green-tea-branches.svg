@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 486" width="900" height="486" role="img">
+<title>绿茶四类的划分依据</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="900" height="486" fill="#FFFFFF"/>
+<text x="24" y="34" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="18" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">绿茶四类是怎么分出来的（一个常被讲错的问题）</text>
+<text x="24" y="58" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">蒸青按「杀青方式」命名；炒青 / 烘青 / 晒青按「最终干燥方式」命名</text>
+<rect x="30" y="180" width="110" height="54" fill="#666666" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="85.0" y="207.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">鲜叶</text>
+<path d="M 140 207 L 172 207" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="146" y="196" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">杀青方式</text>
+<rect x="205" y="120" width="140" height="54" fill="#56B4E9" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="275.0" y="147.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">蒸汽杀青</text>
+<rect x="205" y="240" width="140" height="54" fill="#0072B2" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="275.0" y="263.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">炒热杀青</text>
+<text x="275.0" y="283.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFFDD" text-anchor="middle" font-weight="normal" font-style="normal">锅炒 / 滚筒</text>
+<path d="M 172 207 L 172 147 L 205 147" fill="none" stroke="#222222" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 172 207 L 172 267 L 205 267" fill="none" stroke="#222222" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 345 147 L 560 147" fill="none" stroke="#222222" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="565" y="120" width="130" height="54" fill="#56B4E9" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="630.0" y="147.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">蒸青绿茶</text>
+<text x="705" y="143" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">恩施玉露；日本煎茶 / 玉露 / 抹茶</text>
+<text x="705" y="161" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#666666" text-anchor="start" font-weight="normal" font-style="italic">唐宋古法，明代起中国改锅炒</text>
+<text x="404" y="258" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">最终干燥方式</text>
+<path d="M 345 267 L 400 267 L 400 316 L 430 316" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="404" y="310" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">炒干</text>
+<rect x="435" y="296" width="125" height="40" fill="#0072B2" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="497.5" y="316.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">炒青绿茶</text>
+<text x="570" y="321" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">龙井 / 碧螺春 / 眉茶 / 珠茶</text>
+<path d="M 345 267 L 400 267 L 400 372 L 430 372" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="404" y="366" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">烘干</text>
+<rect x="435" y="352" width="125" height="40" fill="#3E7FA6" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="497.5" y="372.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">烘青绿茶</text>
+<text x="570" y="377" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">黄山毛峰 / 太平猴魁 / 花茶茶坯</text>
+<path d="M 345 267 L 400 267 L 400 428 L 430 428" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="404" y="422" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">晒干</text>
+<rect x="435" y="408" width="125" height="40" fill="#7A6A2E" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="497.5" y="428.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">晒青绿茶</text>
+<text x="570" y="433" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">普洱生茶的原料（晒青毛茶）</text>
+<text x="24" y="466" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">关键佐证：普洱生茶也用锅炒杀青，但因为最终是晒干的，所以归晒青绿茶——命名的落脚点在干燥，不在杀青。</text>
+</svg>

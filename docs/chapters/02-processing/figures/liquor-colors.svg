@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 872 360" width="872" height="360" role="img">
+<title>六大茶类汤色示意色卡</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="872" height="360" fill="#FFFFFF"/>
+<text x="24" y="34" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="18" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">六大茶类汤色（示意色卡）</text>
+<text x="24" y="58" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">色值为示意，用于建立「术语 ↔ 颜色」的对应；实际汤色随品种、等级、冲泡浓度、光源变化很大，审评须用标准审评碗与自然光</text>
+<text x="24" y="84" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12" fill="#666666" text-anchor="start" font-weight="normal" font-style="italic">术语依据 GB/T 14487《茶叶感官审评术语》</text>
+<rect x="40" y="108" width="118" height="120" fill="#C6D64F" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="99.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">绿茶</text>
+<text x="99.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">嫩绿明亮 / 黄绿</text>
+<rect x="172" y="108" width="118" height="120" fill="#EBD98C" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="231.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">白茶</text>
+<text x="231.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">浅杏黄</text>
+<rect x="304" y="108" width="118" height="120" fill="#E8B84B" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="363.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">黄茶</text>
+<text x="363.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">杏黄 / 嫩黄</text>
+<rect x="436" y="108" width="118" height="120" fill="#DE9A2C" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="495.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">乌龙茶</text>
+<text x="495.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">金黄 / 橙黄 / 橙红</text>
+<rect x="568" y="108" width="118" height="120" fill="#BE4520" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="627.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">红茶</text>
+<text x="627.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">红艳 / 红亮</text>
+<rect x="700" y="108" width="118" height="120" fill="#6E2A15" stroke="#00000022" stroke-width="1" rx="6" fill-opacity="1.0"/>
+<text x="759.0" y="254" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold" font-style="normal">黑茶</text>
+<text x="759.0" y="276" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">红浓 / 红褐</text>
+<text x="24" y="310" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">一条实用经验：汤色的「亮」比「深」更重要。</text>
+<text x="24" y="332" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">红茶「红艳明亮」对应茶黄素充足；「红暗」对应茶褐素偏高（发酵过度）——深而不亮通常是缺陷，不是浓。</text>
+</svg>

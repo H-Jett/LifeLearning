@@ -60,6 +60,10 @@ nav:
       - 第 3 章 · 鲜叶与采摘: chapters/01-foundation/03-plucking.md
       - 第 4 章 · 酶与氧化: chapters/01-foundation/04-enzymes-oxidation.md
       - 第一部分小结（速查）: chapters/01-foundation/summary.md
+  - 第二部分 · 六大茶类与工艺原理:
+      - chapters/02-processing/00-intro.md
+      - 第 5 章 · 分类的逻辑: chapters/02-processing/05-classification.md
+      - 第 6 章 · 绿茶：杀青: chapters/02-processing/06-green-tea.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -67,3 +71,5 @@ nav:
       - 第 2 章 · 品种与产地: qa/02-cultivar-terroir-qa.md
       - 第 3 章 · 鲜叶与采摘: qa/03-plucking-qa.md
       - 第 4 章 · 酶与氧化: qa/04-enzymes-oxidation-qa.md
+      - 第 5 章 · 分类的逻辑: qa/05-classification-qa.md
+      - 第 6 章 · 绿茶：杀青: qa/06-green-tea-qa.md

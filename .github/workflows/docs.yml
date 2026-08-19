@@ -31,6 +31,9 @@ jobs:
       - name: 内容校验（锚点/绝对路径/出处）
         run: python scripts/check_book.py --quiet
 
+      - name: 校验插图已生成且为合法 SVG
+        run: python scripts/figures/make_figures.py --check
+
       - name: 构建站点
         run: mkdocs build --strict   # --strict：有坏链接/警告直接失败
 

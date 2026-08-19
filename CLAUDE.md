@@ -119,10 +119,25 @@ mkdocs.yml                     # 站点配置
 
 - **工艺流程 / 分类树 / 机理链条 / 时序 → Mermaid**：```mermaid 代码块，三边都渲染、可 diff。
   茶书里最常用：六大茶类工艺流程图、成分—滋味对应图、氧化路径图、审评流程图。
-- **数据图表 → matplotlib PNG**：**只在有可靠数据来源时才画**，图注必须写来源；
-  没有来源就不要画成"像实测数据"的图，改用示意图并在标题里写明"示意"。
-  规范：Okabe-Ito 色盲安全配色（`#0072B2 #E69F00 #D55E00 #009E73 #56B4E9 #CC79A7`）、白底、
-  英文标签（避免 matplotlib 缺中文字体出方框）、细线淡网格、**不要双 Y 轴**；生成后打开图看一眼。
+- **结构示意 / 色卡 / 参数区间 → SVG**，由 `scripts/figures/make_figures.py` 生成到
+  `docs/chapters/PART/figures/`。**不要用 matplotlib**：本机没有任何中文字体，
+  matplotlib 出图标中文会变方框；SVG 的文字由**读者浏览器**渲染，中文正常，而且 SVG 是文本、可 diff。
+  茶书里最有价值的几类：**工序矩阵**、**汤色/叶底色卡**、结构示意（新梢叶位、开面三档）、
+  参数区间（酶活性—温度）。
+  规范：Okabe-Ito 色盲安全配色（`#0072B2 #E69F00 #D55E00 #009E73 #56B4E9 #CC79A7`）、
+  白底、细线淡网格、直接标注而非图例、**不要双 Y 轴**。
+- **没有实测数据的图，标题里必须写明「示意」**，绝不画成像实测数据的样子；有数据的图注写来源。
+- **生成后必须目检**（硬要求，不是走过场）：
+  ```bash
+  python scripts/figures/make_figures.py           # 生成 + XML 合法性校验
+  # 再用装了 cairosvg 的环境把 SVG 栅格化成 PNG 来看（需系统有 libcairo2）：
+  python -c "import cairosvg; cairosvg.svg2png(url='docs/chapters/PART/figures/X.svg', \
+             write_to='out.png', scale=1.4, background_color='white')"
+  ```
+  然后**打开 PNG 看一眼**有没有重叠、溢出画布、标签串位。
+  （本机中文渲染成方框属正常，只用于检查**版面几何**；文字内容看源码。）
+  ⚠️ 写图内文案时**不要在 Python 字符串里嵌 ASCII 引号**，会截断字符串——用「」。
+  也不要手工写 `&lt;` 之类实体，`esc()` 会二次转义。
 
 ## 8. 新增一章的标准流程（照做）
 
@@ -136,11 +151,12 @@ mkdocs.yml                     # 站点配置
 ## 9. 构建与校验（提交前必做）
 
 ```bash
-python scripts/check_book.py     # 思考题锚点/术语锚点/绝对路径/裸数字提醒
-mkdocs build --strict            # 坏链接/警告即失败（CI 也跑这条）
+python scripts/figures/make_figures.py --check   # 插图已生成且为合法 SVG
+python scripts/check_book.py                     # 思考题锚点/术语锚点/绝对路径/裸数字提醒
+mkdocs build --strict                            # 坏链接/警告即失败（CI 也跑这条）
 ```
 
-两条全过才提交。`--strict` 失败会导致 GitHub Actions 部署失败、网页冻结——务必本地先过。
+三条全过才提交。`--strict` 失败会导致 GitHub Actions 部署失败、网页冻结——务必本地先过。
 
 ## 10. 提交与发布
 
