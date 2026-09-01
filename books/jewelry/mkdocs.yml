@@ -1,0 +1,91 @@
+site_name: 珠宝入门：从宝石学原理到选购决策
+site_description: 一本边学边记、力求正确的珠宝书——选购避坑 + 系统宝石学
+site_url: https://h-jett.github.io/JewelryLearning/
+repo_url: https://github.com/H-Jett/JewelryLearning
+repo_name: H-Jett/JewelryLearning
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    # 亮色 / 暗色切换
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 切换到暗色
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到亮色
+  features:
+    - navigation.indexes    # 允许"章"节点本身是一个页面，补充内容缩进其下
+    - navigation.footer     # 页脚上一页/下一页翻页
+    - navigation.top        # 回到顶部
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit   # 每页「在 GitHub 上编辑」
+    - content.code.copy
+
+# 书的内容全部在 docs/（MkDocs 默认文档目录）。GitHub 上照样能直接浏览 docs/ 里的 .md，
+# 二者共用同一批文件，零内容重复。只用 GitHub / 阅读器 / MkDocs 三边通用的可移植 Markdown。
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search:
+      lang: zh
+
+nav:
+  - 首页: index.md
+  - 学习路线图: roadmap.md
+  - 第一部分 · 宝石学地基:
+      - chapters/01-gemology/00-intro.md
+      - 第 1 章 · 什么是宝石（定名规则）: chapters/01-gemology/01-what-is-gemstone.md
+      - 第 2 章 · 晶体与结构: chapters/01-gemology/02-crystal-structure.md
+      - 第 3 章 · 光学①：折射率与临界角: chapters/01-gemology/03-optics-refraction.md
+      - 第 4 章 · 光学②：双折射·色散·多色性: chapters/01-gemology/04-optics-birefringence.md
+      - 第 5 章 · 颜色的成因: chapters/01-gemology/05-color-origin.md
+      - 第 6 章 · 特殊光学效应: chapters/01-gemology/06-optical-phenomena.md
+      - 第 7 章 · 耐久性：硬度·韧性·稳定性: chapters/01-gemology/07-durability.md
+      - 第 8 章 · 成因与产地: chapters/01-gemology/08-origin.md
+      - 第 9 章 · 鉴定工具与流程: chapters/01-gemology/09-instruments.md
+      - 第 10 章 · 优化、处理与合成: chapters/01-gemology/10-treatment-synthetic.md
+      - 第 11 章 · 证书体系: chapters/01-gemology/11-certificates.md
+      - 🛠 项目 P1 · 首饰尽职调查: chapters/01-gemology/project-P1-due-diligence.md
+      - 第一部分小结（速查）: chapters/01-gemology/summary.md
+  - 速查与资料:
+      - 宝石物理常数速查表: reference/constants.md
+      - 标准与文献索引: reference/standards.md
+      - 权威图库索引: reference/gallery.md
+  - 记录表:
+      - forms/index.md
+      - 宝石观察记录表: forms/stone-observation.md
+      - 证书核对清单: forms/certificate-checklist.md
+  - 术语表: glossary.md
+  - 思考题参考答案:
+      - 第 1 章: qa/01-what-is-gemstone-qa.md
+      - 第 2 章: qa/02-crystal-structure-qa.md
+      - 第 3 章: qa/03-optics-refraction-qa.md
+      - 第 4 章: qa/04-optics-birefringence-qa.md
+      - 第 5 章: qa/05-color-origin-qa.md
+      - 第 6 章: qa/06-optical-phenomena-qa.md
+      - 第 7 章: qa/07-durability-qa.md
+      - 第 8 章: qa/08-origin-qa.md
+      - 第 9 章: qa/09-instruments-qa.md
+      - 第 10 章: qa/10-treatment-synthetic-qa.md
+      - 第 11 章: qa/11-certificates-qa.md
