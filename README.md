@@ -1,61 +1,66 @@
-# 系统学茶：从一片叶子到一杯茶汤
+# 边学边记
 
-> 📖 **在线阅读**：<https://H-Jett.github.io/TeaLearning/>
+> 📖 **在线阅读**：<https://h-jett.github.io/learning/>
 
-一本"边学边记"的茶学入门书，深度对标**评茶员知识体系**：**工艺原理 + 茶叶化学 + 感官审评**。
-不从"记名字"开始，而是先建立机理、再挂名字。
+一个方向一个仓库；这个仓库放**「边学边记」的书**。每本书自成体系、独立成站。
 
-## 核心观点
+## 书目
 
-> **茶的一切技术问题，本质都是一件事——让哪些成分、以多少比例、进入茶汤。**
+| 书 | 主题 | 在线阅读 | 目录 |
+|---|---|---|---|
+| **系统学茶** | 工艺原理 + 茶叶化学 + 感官审评，对标评茶员知识体系 | [/tea/](https://h-jett.github.io/learning/tea/) | [`books/tea`](books/tea) |
+| **珠宝入门** | 选购避坑 + 系统宝石学，对标准 GIA / FGA 知识框架 | [/jewelry/](https://h-jett.github.io/learning/jewelry/) | [`books/jewelry`](books/jewelry) |
 
-- **工艺**在定向改造成分（六大茶类的分野 = 改造程度的分野）；
-- **冲泡**在选择性溶出成分（四个旋钮各自调的是不同分子）；
-- **审评**在从感受反向读出成分格局。
+## 共同的写法
 
-## 快速入口
+- **教学法**：概念 → 思考题 → 实操（分「无器具版 / 有条件版」两档）；思考题答案单独成册。
+- **正确性纪律**：数值必须有出处；流传的说法逐条标注**证据强度**（✅ 有共识 / ⚠️ 有争议 / ❌ 明确错误）；
+  查不到一手来源的**宁可不写**。
+- **可移植 Markdown**：在 GitHub / 任意 Markdown 阅读器 / MkDocs 三边都能读。
 
-| 页面 | 说明 |
-|------|------|
-| [首页 / 大纲与进度](docs/index.md) | 全书导航 |
-| [学习路线图](docs/roadmap.md) | 七部分 40 章 + 5 个实战项目 |
-| [第一部分 · 茶的物质基础](docs/chapters/01-foundation/00-intro.md) | 🔜 进行中 |
-| [第 1 章 · 一片叶子里有什么](docs/chapters/01-foundation/01-leaf-chemistry.md) | ✅ 成分与滋味的对应，全书地基 |
-| [术语表](docs/glossary.md) | 成分 / 工艺 / 审评术语（带国标规范词） |
-| [国标与文献索引](docs/standards.md) | 所有数值与方法的出处 |
-| [冲泡记录表](docs/forms/brewing-log.md) | 可复用的实操记录模板 |
+## 仓库结构
 
-## 这本书怎么保证"正确"
+```
+books.yml                  # 单一真源：有哪些书、站点地址
+scripts/build_site.py      # 逐本校验 + mkdocs build → site/<slug>/，再生成索引页
+books/<slug>/              # 一本书 = 一个完整的 MkDocs 工程
+  mkdocs.yml  docs/  CLAUDE.md  scripts/  README.md
+.github/workflows/pages.yml
+```
 
-姊妹项目靠真机跑数据自证，茶叶没有 GPU 可跑，所以靠三条纪律：
-
-1. **数值必须有出处**——国标编号 / 教科书 / 明确标注"行业经验值"，并说明波动范围，**不编精确数字**；
-2. **区分「机理」与「说法」**——茶圈流传的说法逐条标注证据强度（✅ 有共识 / ⚠️ 有争议 / ❌ 明确错误）；
-3. **数字只当示例，讲的是规律**。
-
-**不做医疗建议**：茶与健康只陈述研究现状与证据等级。
-
-## 体例
-
-- 每章：**概念 → 常见说法辨析 → 思考题 → 本章实操**；
-- 实操分两档：**🅐 无器具版**（现在就能做）/ **🅑 有条件版**（备齐茶具茶样后再做）；
-- 思考题答案单独成册（`docs/qa/`），只记「问题 + 正确答案」；
-- 单一真源 = 可移植标准 Markdown，在 **GitHub / 任意 Markdown 阅读器 / MkDocs** 三边都能读。
+**各书之间完全隔离**：各自的 `mkdocs.yml`、主题、搜索索引、校验脚本、`CLAUDE.md`。
+构建脚本只负责按 `books.yml` 逐本调用，不碰书的内部。
 
 ## 本地构建
 
 ```bash
-pip install mkdocs-material
-python scripts/check_book.py    # 锚点 / 绝对路径 / 出处校验
-mkdocs build --strict           # 坏链接即失败（CI 同样跑这条）
-mkdocs serve                    # 本地预览 http://127.0.0.1:8000
+pip install mkdocs-material pyyaml
+
+python scripts/build_site.py                # 全部书（含各书自己的校验）
+python scripts/build_site.py --only tea     # 只构建一本
+python scripts/build_site.py --check        # 只跑校验不构建
 ```
 
-开发约定见 [CLAUDE.md](CLAUDE.md)。
+产物在 `site/`：`site/index.html` 是书架索引，`site/<slug>/` 是各本书。
 
-## 姊妹项目
+单独调试某一本时，进到书目录直接用 mkdocs 即可（`site_url` 会回落到 localhost）：
 
-| 项目 | 主题 |
-|------|------|
+```bash
+cd books/tea && mkdocs serve
+```
+
+## 加一本新书
+
+1. `books/<slug>/` 建一个完整的 MkDocs 工程（可照抄现有任意一本的骨架）；
+2. `mkdocs.yml` 里 `site_url` 写成 `!ENV [BOOK_SITE_URL, "http://127.0.0.1:8000/"]`，
+   `edit_uri` 写成 `edit/main/books/<slug>/docs/`；
+3. 在 `books.yml` 加一条记录（含该书自己的校验命令）。
+
+索引页会自动出现新卡片，不用手工维护列表。
+
+## 姊妹仓库
+
+| 仓库 | 主题 |
+|---|---|
 | [InfraLearning](https://github.com/H-Jett/InfraLearning) | 算法工程师的 Infra 入门（推理 → 分布式训练） |
 | [MultiModalLearning](https://github.com/H-Jett/MultiModalLearning) | 多模态入门：给 LLM 工程师的一本书 |

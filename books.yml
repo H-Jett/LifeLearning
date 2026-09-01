@@ -1,0 +1,39 @@
+# 这个仓库有哪些书 —— 单一真源。
+#
+# 加一本书 = 建 books/<slug>/ 目录 + 在下面加一条记录。
+# 构建脚本据此决定「构建哪些书」和「索引页列哪些书」，
+# 不会出现「书加了但索引忘了改」。
+
+# 站点根地址。**仓库改名时只改这一行**，各书的 site_url 由它拼出。
+base_url: https://h-jett.github.io/learning/
+repo_url: https://github.com/H-Jett/learning
+
+site_title: 边学边记
+site_tagline: 一个方向一个仓库 · 这里放「边学边记」的书
+site_description: >-
+  每本书自成体系、独立成站：概念 → 思考题 → 实操，力求正确，
+  结论尽量给出处，流传的说法逐条标注证据强度。
+
+books:
+  - slug: tea
+    dir: books/tea
+    title: 系统学茶
+    subtitle: 从一片叶子到一杯茶汤
+    description: 工艺原理 + 茶叶化学 + 感官审评，深度对标评茶员知识体系。
+    status: 进行中
+    progress: 七部分 40 章 · 已完成第一部分 + 第 5、6 章
+    accent: "#6E9B3E"
+    checks:
+      - python scripts/figures/make_figures.py --check
+      - python scripts/check_book.py --quiet
+
+  - slug: jewelry
+    dir: books/jewelry
+    title: 珠宝入门
+    subtitle: 从宝石学原理到选购决策
+    description: 选购避坑 + 系统宝石学，对标准 GIA / FGA 的知识框架。
+    status: 进行中
+    progress: 已完成第一部分 · 宝石学地基（11 章 + 项目 P1）
+    accent: "#7A6BB5"
+    checks:
+      - python scripts/check_book.py

@@ -1,9 +1,9 @@
 site_name: 珠宝入门：从宝石学原理到选购决策
 site_description: 一本边学边记、力求正确的珠宝书——选购避坑 + 系统宝石学
-site_url: https://h-jett.github.io/JewelryLearning/
-repo_url: https://github.com/H-Jett/JewelryLearning
-repo_name: H-Jett/JewelryLearning
-edit_uri: edit/main/docs/
+site_url: !ENV [BOOK_SITE_URL, "http://127.0.0.1:8000/"]   # 由 scripts/build_site.py 按 books.yml 注入
+repo_url: https://github.com/H-Jett/learning
+repo_name: H-Jett/learning
+edit_uri: edit/main/books/jewelry/docs/
 
 theme:
   name: material
