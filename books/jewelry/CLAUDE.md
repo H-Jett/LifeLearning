@@ -1,4 +1,8 @@
-# CLAUDE.md — JewelryLearning 开发规范
+# CLAUDE.md — 《珠宝入门》（books/jewelry）开发规范
+
+> ⚠️ **本书是 `H-Jett/LifeLearning` 仓库中的一本**（位于 `books/jewelry/`），不再是独立仓库。
+> 仓库级约定（books.yml、统一构建、提交前缀）见根目录 [`CLAUDE.md`](../../CLAUDE.md)。
+> **书内的写作纪律以本文件为准**，仓库级文件不覆盖它。
 
 > 本文件是这个仓库的开发约定，Claude Code 会自动加载。人类或 AI 在此仓库开发时**必须遵守**。
 > 目的：让这本《珠宝入门：从宝石学原理到不被坑》保持统一、正确、可移植。
@@ -115,7 +119,6 @@ docs/                          # 正文（唯一内容真源）
   qa/NN-name-qa.md             # 思考题答案册（网页可跳转）
 scripts/check_book.py          # 校验：思考题锚点/术语锚点/标准登记/绝对路径/admonition
 mkdocs.yml                     # 站点配置
-.github/workflows/docs.yml     # GitHub Pages 自动发布（跑 check_book + build --strict）
 ```
 
 命名对应：第 N 章 → `chapters/PART/NN-name.md`、`qa/NN-name-qa.md`。
@@ -180,7 +183,8 @@ mkdocs build --strict            # 坏链接/警告即失败（CI 也跑这条�
 ## 10. 提交与发布
 
 - 提交信息中文、说清做了什么 + 为什么；**每完成一块可独立成立的内容就提交**，不要攒到最后。
-- push 到 `main` 触发 Actions 自动构建并发布到 GitHub Pages。
+- push 到 `main` 触发**仓库级** workflow（构建全部书）并发布到 GitHub Pages；
+  提交信息加书名前缀，如 `jewelry: ...`（见根 CLAUDE.md §6）。
 - `mkdocs.yml` 配 `site_url` + `repo_url` + `repo_name`；`README.md` 顶部放**在线阅读**链接——
   网页与仓库互相可达。
 

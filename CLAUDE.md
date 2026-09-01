@@ -7,7 +7,7 @@
 ## 1. 这个仓库是什么
 
 一个方向一个仓库。这个仓库是「**边学边记的书**」这个方向，站点
-<https://h-jett.github.io/learning/>。
+<https://h-jett.github.io/LifeLearning/>。
 
 目前两本：`books/tea`（系统学茶）、`books/jewelry`（珠宝入门）。
 

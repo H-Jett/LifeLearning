@@ -1,6 +1,6 @@
 # 珠宝入门：从宝石学原理到选购决策
 
-📖 **在线阅读（GitHub Pages）**：<https://h-jett.github.io/JewelryLearning/>
+📖 **在线阅读（GitHub Pages）**：<https://h-jett.github.io/LifeLearning/jewelry/>
 
 一本"边学边记"的珠宝书。**两个目标同时抓**：
 

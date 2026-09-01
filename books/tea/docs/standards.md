@@ -106,7 +106,7 @@
 | 第 3 章 鲜叶与采摘 | [3.11 本章主要参考](chapters/01-foundation/03-plucking.md) |
 | 第 4 章 酶与氧化 | [4.14 本章主要参考](chapters/01-foundation/04-enzymes-oxidation.md) |
 
-**来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/TeaLearning/blob/main/CLAUDE.md) §1.1）：
+**来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 
 > 国标 / 学术论文 / 权威教材 > 行业协会与科研院所资料 > 头部专业媒体 > 茶商与自媒体内容。
 >

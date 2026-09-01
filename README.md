@@ -1,6 +1,6 @@
 # 边学边记
 
-> 📖 **在线阅读**：<https://h-jett.github.io/learning/>
+> 📖 **在线阅读**：<https://h-jett.github.io/LifeLearning/>
 
 一个方向一个仓库；这个仓库放**「边学边记」的书**。每本书自成体系、独立成站。
 
@@ -8,8 +8,8 @@
 
 | 书 | 主题 | 在线阅读 | 目录 |
 |---|---|---|---|
-| **系统学茶** | 工艺原理 + 茶叶化学 + 感官审评，对标评茶员知识体系 | [/tea/](https://h-jett.github.io/learning/tea/) | [`books/tea`](books/tea) |
-| **珠宝入门** | 选购避坑 + 系统宝石学，对标准 GIA / FGA 知识框架 | [/jewelry/](https://h-jett.github.io/learning/jewelry/) | [`books/jewelry`](books/jewelry) |
+| **系统学茶** | 工艺原理 + 茶叶化学 + 感官审评，对标评茶员知识体系 | [/tea/](https://h-jett.github.io/LifeLearning/tea/) | [`books/tea`](books/tea) |
+| **珠宝入门** | 选购避坑 + 系统宝石学，对标准 GIA / FGA 知识框架 | [/jewelry/](https://h-jett.github.io/LifeLearning/jewelry/) | [`books/jewelry`](books/jewelry) |
 
 ## 共同的写法
 

@@ -5,8 +5,8 @@
 # 不会出现「书加了但索引忘了改」。
 
 # 站点根地址。**仓库改名时只改这一行**，各书的 site_url 由它拼出。
-base_url: https://h-jett.github.io/learning/
-repo_url: https://github.com/H-Jett/learning
+base_url: https://h-jett.github.io/LifeLearning/
+repo_url: https://github.com/H-Jett/LifeLearning
 
 site_title: 边学边记
 site_tagline: 一个方向一个仓库 · 这里放「边学边记」的书
