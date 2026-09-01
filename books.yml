@@ -8,6 +8,12 @@
 base_url: https://h-jett.github.io/LifeLearning/
 repo_url: https://github.com/H-Jett/LifeLearning
 
+# PWA（手机「添加到主屏幕」后的表现）
+app_name: 边学边记
+app_short_name: 边学边记
+app_theme_color: "#2C2C2A"        # 书架首页的地址栏配色（各书用自己的，见下）
+app_background_color: "#FBFBFA"
+
 site_title: 边学边记
 site_tagline: 一个方向一个仓库 · 这里放「边学边记」的书
 site_description: >-
@@ -22,7 +28,9 @@ books:
     description: 工艺原理 + 茶叶化学 + 感官审评，深度对标评茶员知识体系。
     status: 进行中
     progress: 七部分 40 章 · 已完成第一部分 + 第 5、6 章
-    accent: "#6E9B3E"
+    palette:                       # 这本书的专属配色（不与其他书重复，见构建脚本的查重）
+      primary: "#3F6B2B"           # 页头 / 主色
+      accent: "#6E9B3E"            # 链接 hover / 强调
     checks:
       - python scripts/figures/make_figures.py --check
       - python scripts/check_book.py --quiet
@@ -34,6 +42,8 @@ books:
     description: 选购避坑 + 系统宝石学，对标准 GIA / FGA 的知识框架。
     status: 进行中
     progress: 已完成第一部分 · 宝石学地基（11 章 + 项目 P1）
-    accent: "#7A6BB5"
+    palette:
+      primary: "#4F4287"
+      accent: "#7A6BB5"
     checks:
       - python scripts/check_book.py

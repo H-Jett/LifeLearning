@@ -6,20 +6,30 @@ repo_name: H-Jett/LifeLearning
 edit_uri: edit/main/books/tea/docs/
 theme:
   name: material
+  custom_dir: overrides        # PWA 注入（manifest / SW / 地址栏配色），由 build_site.py 生成
+  favicon: assets/favicon.svg
   language: zh
   palette:
     # 亮色 / 暗色切换
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: 切换到暗色
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: 切换到亮色
   features:
+    - navigation.instant           # 站内跳转不整页刷新，手机上体感接近 app
+    - navigation.instant.prefetch  # 悬停即预取（桌面端受益，触屏无副作用）
+    - navigation.instant.progress  # 慢网络下显示顶部进度条
+    - header.autohide              # 小屏下滚时收起页头，让出阅读区
     - navigation.indexes    # 允许"章"节点本身是一个页面，补充内容缩进其下
     - navigation.footer     # 页脚上一页/下一页翻页
     - navigation.top        # 回到顶部
@@ -75,3 +85,6 @@ nav:
       - 第 4 章 · 酶与氧化: qa/04-enzymes-oxidation-qa.md
       - 第 5 章 · 分类的逻辑: qa/05-classification-qa.md
       - 第 6 章 · 绿茶：杀青: qa/06-green-tea-qa.md
+
+extra_css:
+  - assets/palette.css   # 由 books.yml 下发，勿手改

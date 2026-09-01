@@ -1,0 +1,24 @@
+/* 由 scripts/build_site.py 依据 books.yml 生成，请勿手改 */
+/* 《系统学茶》专属配色 —— 与索引页卡片、手机地址栏同一套值 */
+
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #3F6B2B;
+  --md-primary-fg-color--light: #759466;
+  --md-primary-fg-color--dark:  #315322;
+  --md-primary-bg-color:        #ffffff;
+  --md-primary-bg-color--light: #ffffffb3;
+  --md-accent-fg-color:         #6E9B3E;
+  --md-accent-fg-color--transparent: #6E9B3E1a;
+  --md-typeset-a-color:         #3F6B2B;
+}
+
+[data-md-color-scheme="slate"] {
+  /* 深色底下主色要提亮，否则页头发闷、链接看不清 */
+  --md-primary-fg-color:        #315322;
+  --md-primary-fg-color--light: #759466;
+  --md-primary-fg-color--dark:  #315322;
+  --md-accent-fg-color:         #9AB978;
+  --md-accent-fg-color--transparent: #6E9B3E26;
+  --md-typeset-a-color:         #9AB978;
+}
