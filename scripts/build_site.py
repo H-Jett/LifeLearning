@@ -122,10 +122,54 @@ PALETTE_CSS = """/* {banner} */
   --md-accent-fg-color--transparent: {accent}26;
   --md-typeset-a-color:         {accent_light};
 }}
+
+/* ---- 顶部「返回书架」横幅 ---- */
+.md-banner {{
+  background-color: {primary_dark};
+  color: #ffffff;
+}}
+.shelf-back {{
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  color: inherit;
+  text-decoration: none;
+  font-size: .72rem;
+  line-height: 1.4;
+  padding: .1rem 0;
+}}
+.shelf-back:hover {{ color: #ffffff; }}
+.shelf-back__mark {{ font-size: .9rem; }}
+.shelf-back__text {{ font-weight: 600; }}
+.shelf-back__cta {{
+  margin-left: auto;
+  opacity: .82;
+  white-space: nowrap;
+  border-bottom: 1px solid currentColor;
+}}
+.shelf-back:hover .shelf-back__cta {{ opacity: 1; }}
+/* 窄屏只留「书架 →」，别把标题挤成两行 */
+@media screen and (max-width: 44.9375em) {{
+  .shelf-back__text {{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }}
+}}
 """
 
 OVERRIDES_MAIN = """{{% extends "base.html" %}}
 <!-- {banner} -->
+
+{{# 顶部横幅：从任意一页一键回书架。用 announce 块是 Material 的官方扩展点，
+    跨版本比覆写 header 稳；它随页头一起滚动收起，不常驻占用阅读区。 #}}
+{{% block announce %}}
+  <a class="shelf-back" href="{base}" title="返回书架，查看全部书目">
+    <span class="shelf-back__mark">🧐</span>
+    <span class="shelf-back__text">{shelf_title}</span>
+    <span class="shelf-back__cta">全部书目 →</span>
+  </a>
+{{% endblock %}}
 
 {{% block extrahead %}}
   <link rel="manifest" href="{base}manifest.webmanifest">
@@ -159,7 +203,7 @@ OVERRIDES_MAIN = """{{% extends "base.html" %}}
 """
 
 
-def book_generated_files(book: dict, base_path: str) -> dict[Path, str]:
+def book_generated_files(book: dict, base_path: str, shelf_title: str) -> dict[Path, str]:
     """这本书应该有哪些「由 books.yml 生成」的文件，以及它们应有的内容。"""
     p = book["palette"]
     primary, accent = p["primary"], p["accent"]
@@ -179,16 +223,16 @@ def book_generated_files(book: dict, base_path: str) -> dict[Path, str]:
         ),
         book_dir / "overrides" / "main.html": OVERRIDES_MAIN.format(
             banner=GENERATED_BANNER, base=base_path,
-            app_title=book["title"], primary=primary,
+            app_title=book["title"], primary=primary, shelf_title=shelf_title,
         ),
     }
 
 
-def sync_book_assets(books: list[dict], base_path: str, check: bool) -> bool:
+def sync_book_assets(books: list[dict], base_path: str, shelf_title: str, check: bool) -> bool:
     """写出（或校验）每本书的配色 CSS 与主题覆写。check 模式下不一致返回 False。"""
     ok = True
     for book in books:
-        for path, want in book_generated_files(book, base_path).items():
+        for path, want in book_generated_files(book, base_path, shelf_title).items():
             rel = path.relative_to(REPO_ROOT)
             have = path.read_text(encoding="utf-8") if path.exists() else None
             if have == want:
@@ -223,7 +267,9 @@ def build_book(book: dict, base_url: str, skip_checks: bool, build: bool) -> Non
         return
 
     out = SITE_DIR / book["slug"]
-    env = dict(os.environ, BOOK_SITE_URL=f"{base_url}{book['slug']}/")
+    env = dict(os.environ,
+               BOOK_SITE_URL=f"{base_url}{book['slug']}/",
+               SHELF_URL=base_url)          # 供 extra.homepage：点站名/logo 回书架
     log.info("  $ mkdocs build --strict  (BOOK_SITE_URL=%s)", env["BOOK_SITE_URL"])
     subprocess.run(["mkdocs", "build", "--strict", "-d", str(out)],
                    cwd=book_dir, env=env, check=True)
@@ -494,7 +540,8 @@ def main() -> int:
         books = [b for b in books if b["slug"] in wanted]
 
     # 配色 CSS 与主题覆写：check 模式只比对，不写盘
-    if not sync_book_assets(cfg["books"], base_path, check=args.check):
+    if not sync_book_assets(cfg["books"], base_path,
+                            cfg.get("site_title", "书架"), check=args.check):
         return 1
 
     build = not args.check

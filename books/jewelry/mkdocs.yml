@@ -100,5 +100,10 @@ nav:
       - 第 10 章: qa/10-treatment-synthetic-qa.md
       - 第 11 章: qa/11-certificates-qa.md
 
+extra:
+  # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
+  # 这样改仓库名仍然只需要动 books.yml 一行。
+  homepage: !ENV [SHELF_URL, "/"]
+
 extra_css:
   - assets/palette.css   # 由 books.yml 下发，勿手改

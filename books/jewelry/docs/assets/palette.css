@@ -22,3 +22,37 @@
   --md-accent-fg-color--transparent: #7A6BB526;
   --md-typeset-a-color:         #A297CB;
 }
+
+/* ---- 顶部「返回书架」横幅 ---- */
+.md-banner {
+  background-color: #3E3369;
+  color: #ffffff;
+}
+.shelf-back {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  color: inherit;
+  text-decoration: none;
+  font-size: .72rem;
+  line-height: 1.4;
+  padding: .1rem 0;
+}
+.shelf-back:hover { color: #ffffff; }
+.shelf-back__mark { font-size: .9rem; }
+.shelf-back__text { font-weight: 600; }
+.shelf-back__cta {
+  margin-left: auto;
+  opacity: .82;
+  white-space: nowrap;
+  border-bottom: 1px solid currentColor;
+}
+.shelf-back:hover .shelf-back__cta { opacity: 1; }
+/* 窄屏只留「书架 →」，别把标题挤成两行 */
+@media screen and (max-width: 44.9375em) {
+  .shelf-back__text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
