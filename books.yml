@@ -9,13 +9,13 @@ base_url: https://h-jett.github.io/LifeLearning/
 repo_url: https://github.com/H-Jett/LifeLearning
 
 # PWA（手机「添加到主屏幕」后的表现）
-app_name: 边学边记
-app_short_name: 边学边记
+app_name: 走走停停
+app_short_name: 走走停停
 app_theme_color: "#2C2C2A"        # 书架首页的地址栏配色（各书用自己的，见下）
 app_background_color: "#FBFBFA"
 
-site_title: 边学边记
-site_tagline: 一个方向一个仓库 · 这里放「边学边记」的书
+site_title: 走走停停
+site_tagline: 一个方向一个仓库 · 这里放「走走停停」的书
 site_description: >-
   每本书自成体系、独立成站：概念 → 思考题 → 实操，力求正确，
   结论尽量给出处，流传的说法逐条标注证据强度。

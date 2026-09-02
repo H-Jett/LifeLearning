@@ -2,7 +2,7 @@
 
 📖 **在线阅读（GitHub Pages）**：<https://h-jett.github.io/LifeLearning/jewelry/>
 
-一本"边学边记"的珠宝书。**两个目标同时抓**：
+一本"走走停停"的珠宝书。**两个目标同时抓**：
 
 1. **选购不被坑**——会读名称、会看证书、会识别处理与合成、知道哪些参数值得花钱；
 2. **系统学宝石学**——深度对标 GIA GG / FGA / NGTC 的知识体系，讲原理而不是背结论。
@@ -78,7 +78,7 @@ mkdocs build --strict           # 坏链接或警告即失败（CI 也跑这条�
 
 ## 姊妹项目
 
-同一套"边学边记"体例的其他几本：
+同一套"走走停停"体例的其他几本：
 
 - [InfraLearning](https://github.com/H-Jett/InfraLearning) —— 算法工程师的 Infra 入门
 - [MultiModalLearning](https://github.com/H-Jett/MultiModalLearning) —— 多模态入门

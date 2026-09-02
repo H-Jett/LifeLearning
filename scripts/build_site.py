@@ -124,37 +124,40 @@ PALETTE_CSS = """/* {banner} */
 }}
 
 /* ---- 顶部「返回书架」横幅 ---- */
+/* 颜色**写死不依赖变量**：横幅内层带 md-typeset/md-grid 等 class，
+   靠 color:inherit 容易被别的规则截胡。用 .md-banner .shelf-back 提高特异性一次说清。 */
 .md-banner {{
   background-color: {primary_dark};
   color: #ffffff;
 }}
-.shelf-back {{
+.md-banner .shelf-back {{
   display: flex;
   align-items: center;
   gap: .5rem;
-  color: inherit;
+  color: #ffffff;
   text-decoration: none;
-  font-size: .72rem;
-  line-height: 1.4;
+  font-size: .76rem;
+  font-weight: 500;
+  line-height: 1.5;
   padding: .1rem 0;
 }}
-.shelf-back:hover {{ color: #ffffff; }}
-.shelf-back__mark {{ font-size: .9rem; }}
-.shelf-back__text {{ font-weight: 600; }}
-.shelf-back__cta {{
+.md-banner .shelf-back:hover,
+.md-banner .shelf-back:focus {{ color: #ffffff; }}
+.md-banner .shelf-back__mark {{ font-size: .95rem; }}
+.md-banner .shelf-back__text {{ font-weight: 700; color: #ffffff; }}
+.md-banner .shelf-back__cta {{
   margin-left: auto;
-  opacity: .82;
+  color: #ffffff;
   white-space: nowrap;
-  border-bottom: 1px solid currentColor;
+  border-bottom: 1px solid #ffffff;
 }}
-.shelf-back:hover .shelf-back__cta {{ opacity: 1; }}
-/* 窄屏只留「书架 →」，别把标题挤成两行 */
-@media screen and (max-width: 44.9375em) {{
-  .shelf-back__text {{
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }}
+
+/* 页头文字同样写死，避免 --md-primary-bg-color 被其他规则覆盖后变暗 */
+.md-header,
+.md-header .md-header__title,
+.md-header .md-header__topic,
+.md-header .md-ellipsis {{
+  color: #ffffff;
 }}
 """
 
@@ -322,14 +325,20 @@ self.addEventListener('fetch', (e) => {{
     return;
   }}
 
+  // stale-while-revalidate：先给缓存（快），同时后台拉新版写回缓存（下次就新）。
+  // 不能用纯 cache-first —— 我们自己的 palette.css / favicon.svg 是固定文件名，
+  // 纯 cache-first 会让改过的样式永远刷不出来。
   e.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req).then((res) => {{
-      if (res.ok && res.type === 'basic') {{
-        const copy = res.clone();
-        caches.open(STATIC).then((c) => c.put(req, copy));
-      }}
-      return res;
-    }}))
+    caches.match(req).then((hit) => {{
+      const fetching = fetch(req).then((res) => {{
+        if (res.ok && res.type === 'basic') {{
+          const copy = res.clone();
+          caches.open(STATIC).then((c) => c.put(req, copy));
+        }}
+        return res;
+      }}).catch(() => hit);
+      return hit || fetching;
+    }})
   );
 }});
 """
