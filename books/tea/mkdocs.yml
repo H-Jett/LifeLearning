@@ -1,5 +1,5 @@
 site_name: 系统学茶
-site_description: 一本走走停停、力求正确的茶学入门书 —— 工艺原理 + 茶叶化学 + 感官审评
+site_description: 一本边学边记、力求正确的茶学入门书 —— 工艺原理 + 茶叶化学 + 感官审评
 site_url: !ENV [BOOK_SITE_URL, "http://127.0.0.1:8000/"]   # 由 scripts/build_site.py 按 books.yml 注入
 repo_url: https://github.com/H-Jett/LifeLearning
 repo_name: H-Jett/LifeLearning

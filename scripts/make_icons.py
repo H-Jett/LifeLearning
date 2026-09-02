@@ -62,7 +62,7 @@ def compose(size: int, scale: float, rounded: bool = True) -> str:
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{size}" height="{size}" '
         f'viewBox="0 0 {size} {size}">'
-        f'<title>走走停停</title>'
+        f'<title>站点图标</title>'
         f'<rect x="0" y="0" width="{size}" height="{size}" rx="{r:.1f}" fill="{BG}"/>'
         f'<svg x="{off:.2f}" y="{off:.2f}" width="{inner:.2f}" height="{inner:.2f}" '
         f'viewBox="{vb}">{body}</svg>'
