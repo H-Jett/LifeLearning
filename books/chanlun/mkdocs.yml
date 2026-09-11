@@ -70,6 +70,7 @@ nav:
       - 第 3 章 · 级别: chapters/01-foundation/03-levels.md
       - 第 4 章 · 拿到可复现的行情: chapters/01-foundation/04-data.md
       - 第 5 章 · 均线与「吻」：被取代的早期框架: chapters/01-foundation/05-ma-kiss.md
+      - 🛠 项目 P1 · 搭一个可复现的行情底座: chapters/01-foundation/project-P1-data-foundation.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
