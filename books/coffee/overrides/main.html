@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+<!-- 由 scripts/build_site.py 依据 books.yml 生成，请勿手改 -->
+
+{# 顶部横幅：从任意一页一键回书架。用 announce 块是 Material 的官方扩展点，
+    跨版本比覆写 header 稳；它随页头一起滚动收起，不常驻占用阅读区。
+    **刻意不显示书架名**——书的页面不跟仓库/书架的标题绑定，
+    书架以后改名，书这边一个字都不用动。 #}
+{% block announce %}
+  <a class="shelf-back" href="/LifeLearning/" title="返回书架，查看全部书目">
+    <span class="shelf-back__mark">🧐</span>
+    <span class="shelf-back__text">返回书架</span>
+    <span class="shelf-back__cta">全部书目 →</span>
+  </a>
+{% endblock %}
+
+{% block extrahead %}
+  <link rel="manifest" href="/LifeLearning/manifest.webmanifest">
+  <link rel="apple-touch-icon" href="/LifeLearning/icons/apple-touch-icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="系统学咖啡">
+  <script>
+    // 这本书的地址栏配色。Material 也会输出一条 theme-color，
+    // 这里统一成本书的颜色，避免两条并存导致表现不一致。
+    (function () {
+      function setThemeColor() {
+        document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
+          m.parentNode.removeChild(m);
+        });
+        var m = document.createElement('meta');
+        m.name = 'theme-color';
+        m.content = '#A35E2A';
+        document.head.appendChild(m);
+      }
+      setThemeColor();
+      document.addEventListener('DOMContentLoaded', setThemeColor);
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/LifeLearning/sw.js', { scope: '/LifeLearning/' });
+        });
+      }
+    })();
+  </script>
+{% endblock %}
