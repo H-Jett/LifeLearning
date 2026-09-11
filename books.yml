@@ -47,3 +47,55 @@ books:
       accent: "#7A6BB5"
     checks:
       - python scripts/check_book.py
+
+  - slug: coffee
+    dir: books/coffee
+    title: 系统学咖啡
+    subtitle: 从一颗生豆到一杯咖啡
+    description: 风味化学 + 处理法与烘焙 + 萃取原理 + 杯测感官，对标 SCA / Q-Grader 知识框架。
+    status: 进行中
+    progress: 骨架与路线图就绪 · 第 1 章已完成
+    palette:
+      primary: "#A35E2A"           # 烘焙琥珀
+      accent: "#C8873F"
+    checks:
+      - python scripts/check_book.py
+
+  - slug: wine
+    dir: books/wine
+    title: 系统品酒
+    subtitle: 从葡萄酒到烈酒
+    description: 品种与产区 + 酿造与陈年 + 系统品鉴，对标 WSET 的品酒与产区框架。
+    status: 进行中
+    progress: 骨架与路线图就绪 · 第 1 章已完成
+    palette:
+      primary: "#8E1B36"           # 勃艮第红
+      accent: "#B8455F"
+    checks:
+      - python scripts/check_book.py
+
+  - slug: chanlun
+    dir: books/chanlun
+    title: 系统学缠论
+    subtitle: 从走势分类到可检验的判据
+    description: 讲透定义链条（分型→笔→线段→中枢→背驰→买卖点），并给每条主张标清楚是定义、推论、经验断言还是不可证伪。不荐股、不预测、不构成投资建议。
+    status: 进行中
+    progress: 骨架与路线图就绪 · 第 1 章已完成
+    palette:
+      primary: "#2563EB"           # 分析蓝。刻意避开红绿——A股与欧美涨跌配色相反，
+      accent: "#5B8DEF"            # 主色带红绿会给整站页面带上方向暗示；青色已被 cooking 占用
+    checks:
+      - python scripts/check_book.py
+
+  - slug: cooking
+    dir: books/cooking
+    title: 做菜的原理
+    subtitle: 从照着菜谱做到自己决定怎么做
+    description: 给厨房小白的原理书：热、水、味、时间四条线，讲清每一步操作、每一味调料、每个先后顺序的道理。
+    status: 进行中
+    progress: 骨架与路线图就绪 · 第 1 章已完成
+    palette:
+      primary: "#0F6E7E"           # 灶台青
+      accent: "#1F8C9B"
+    checks:
+      - python scripts/check_book.py

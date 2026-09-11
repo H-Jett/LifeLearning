@@ -9,7 +9,9 @@
 一个方向一个仓库。这个仓库是「**走走停停的书**」这个方向，站点
 <https://h-jett.github.io/LifeLearning/>。
 
-目前两本：`books/tea`（系统学茶）、`books/jewelry`（珠宝入门）。
+目前六本：`books/tea`（系统学茶）、`books/jewelry`（珠宝入门）、`books/coffee`（系统学咖啡）、
+`books/wine`（系统品酒）、`books/cooking`（做菜的原理）、`books/chanlun`（系统学缠论）。技术方向的书在另一个仓库 `H-Jett/AGILearning`（infra / multimodal / rl），
+两个书架互不引用。
 
 ## 2. 铁律：书与书之间互不干涉
 

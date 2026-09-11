@@ -10,6 +10,10 @@
 |---|---|---|---|
 | **系统学茶** | 工艺原理 + 茶叶化学 + 感官审评，对标评茶员知识体系 | [/tea/](https://h-jett.github.io/LifeLearning/tea/) | [`books/tea`](books/tea) |
 | **珠宝入门** | 选购避坑 + 系统宝石学，对标准 GIA / FGA 知识框架 | [/jewelry/](https://h-jett.github.io/LifeLearning/jewelry/) | [`books/jewelry`](books/jewelry) |
+| **系统学咖啡** | 风味化学 + 处理法与烘焙 + 萃取原理 + 杯测感官，对标 SCA / Q-Grader | [/coffee/](https://h-jett.github.io/LifeLearning/coffee/) | [`books/coffee`](books/coffee) |
+| **系统品酒** | 品种产区 + 酿造陈年 + 系统品鉴，对标 WSET 框架 | [/wine/](https://h-jett.github.io/LifeLearning/wine/) | [`books/wine`](books/wine) |
+| **做菜的原理** | 热、水、味、时间四条线：每一步操作、每一味调料、每个顺序为什么 | [/cooking/](https://h-jett.github.io/LifeLearning/cooking/) | [`books/cooking`](books/cooking) |
+| **系统学缠论** | 定义链条（分型→笔→线段→中枢→背驰→买卖点）与可检验判据；不荐股、不预测 | [/chanlun/](https://h-jett.github.io/LifeLearning/chanlun/) | [`books/chanlun`](books/chanlun) |
 
 ## 共同的写法
 
