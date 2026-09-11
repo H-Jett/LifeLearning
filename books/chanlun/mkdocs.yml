@@ -68,6 +68,7 @@ nav:
       - 第 1 章 · 走势只有三类: chapters/01-foundation/01-three-types.md
       - 第 2 章 · 你在看的到底是什么: chapters/01-foundation/02-what-you-see.md
       - 第 3 章 · 级别: chapters/01-foundation/03-levels.md
+      - 第 4 章 · 拿到可复现的行情: chapters/01-foundation/04-data.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -81,6 +82,7 @@ nav:
       - 第 1 章: qa/01-three-types-qa.md
       - 第 2 章: qa/02-what-you-see-qa.md
       - 第 3 章: qa/03-levels-qa.md
+      - 第 4 章: qa/04-data-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
