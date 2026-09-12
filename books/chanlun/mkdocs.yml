@@ -75,6 +75,7 @@ nav:
       - chapters/02-geometry/00-intro.md
       - 第 6 章 · K 线的包含处理: chapters/02-geometry/06-inclusion.md
       - 第 7 章 · 分型: chapters/02-geometry/07-fractal.md
+      - 第 8 章 · 笔: chapters/02-geometry/08-stroke.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -92,6 +93,7 @@ nav:
       - 第 5 章: qa/05-ma-kiss-qa.md
       - 第 6 章: qa/06-inclusion-qa.md
       - 第 7 章: qa/07-fractal-qa.md
+      - 第 8 章: qa/08-stroke-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
