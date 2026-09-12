@@ -78,6 +78,7 @@ nav:
       - 第 8 章 · 笔: chapters/02-geometry/08-stroke.md
       - 第 9 章 · 线段（上）：为什么笔不够用: chapters/02-geometry/09-segment-why.md
       - 第 10 章 · 线段（下）：特征序列与「两种情况」: chapters/02-geometry/10-segment-how.md
+      - 第 11 章 · 把几何层写成程序: chapters/02-geometry/11-implementation.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -98,6 +99,7 @@ nav:
       - 第 8 章: qa/08-stroke-qa.md
       - 第 9 章: qa/09-segment-why-qa.md
       - 第 10 章: qa/10-segment-how-qa.md
+      - 第 11 章: qa/11-implementation-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
