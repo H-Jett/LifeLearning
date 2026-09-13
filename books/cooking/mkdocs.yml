@@ -66,6 +66,10 @@ nav:
   - 第一部分 · 底层四条线:
       - chapters/01-four-lines/00-intro.md
       - 第 1 章 · 一道菜里到底在发生什么: chapters/01-four-lines/01-what-happens-in-a-dish.md
+      - 第 2 章 · 传热：导热、对流、辐射: chapters/01-four-lines/02-heat-transfer.md
+      - 第 3 章 · 水：食材里的水、锅里的水、跑掉的水: chapters/01-four-lines/03-water.md
+      - 第 4 章 · 蛋白质：变性、凝固与保水: chapters/01-four-lines/04-protein.md
+      - 第 5 章 · 胶原与结缔组织: chapters/01-four-lines/05-collagen.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -74,6 +78,10 @@ nav:
   - 参考书目与出处登记: standards.md
   - 思考题参考答案:
       - 第 1 章: qa/01-what-happens-in-a-dish-qa.md
+      - 第 2 章: qa/02-heat-transfer-qa.md
+      - 第 3 章: qa/03-water-qa.md
+      - 第 4 章: qa/04-protein-qa.md
+      - 第 5 章: qa/05-collagen-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

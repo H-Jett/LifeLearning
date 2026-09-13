@@ -76,10 +76,13 @@
 
 - ✅ [第一部分导读](chapters/01-four-lines/00-intro.md)
 - ✅ 第 1 章 [一道菜里到底在发生什么：热、水、味、时间四条线](chapters/01-four-lines/01-what-happens-in-a-dish.md)
-- ⬜ 第 2 章 传热 ｜ ⬜ 第 3 章 水 ｜ ⬜ 第 4 章 蛋白质 ｜ ⬜ 第 5 章 胶原
+- ✅ 第 2 章 [传热：导热、对流、辐射，以及水和油为什么不是一回事](chapters/01-four-lines/02-heat-transfer.md)
+- ✅ 第 3 章 [水：食材里的水、锅里的水、跑掉的水](chapters/01-four-lines/03-water.md)
+- ✅ 第 4 章 [蛋白质：变性、凝固与保水](chapters/01-four-lines/04-protein.md)
+- ✅ 第 5 章 [胶原与结缔组织：为什么"炖得久"能让硬肉变软](chapters/01-four-lines/05-collagen.md)
 - ⬜ 第 6 章 淀粉 ｜ ⬜ 第 7 章 褐变 ｜ ⬜ 第 8 章 酸与碱 ｜ ⬜ 项目 P1
 
-**下一站**：第 2 章 · 传热：导热、对流、辐射，以及水和油为什么不是一回事。
+**下一站**：第 6 章 · 淀粉：糊化与回生——勾芡、米饭、面条、土豆其实是同一件事。
 
 ## 常用工具页
 
