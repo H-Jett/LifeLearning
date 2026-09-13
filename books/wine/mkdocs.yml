@@ -79,6 +79,12 @@ nav:
       - 第 7 章 · 从萌芽到采收：物候期与糖酸: chapters/02-grape-terroir/07-phenology-and-ripening.md
       - 第 8 章 · 风土：哪些可证，哪些是叙事: chapters/02-grape-terroir/08-terroir.md
       - 第 9 章 · 白葡萄品种谱系: chapters/02-grape-terroir/09-white-varieties.md
+      - 第 10 章 · 红葡萄品种谱系: chapters/02-grape-terroir/10-red-varieties.md
+      - 第 11 章 · 葡萄园管理：产量 · 架式 · 有机: chapters/02-grape-terroir/11-vineyard-management.md
+  - 第三部分 · 酿造与陈年工艺:
+      - chapters/03-winemaking/00-intro.md
+      - 第 12 章 · 红葡萄酒：破碎、浸皮与萃取曲线: chapters/03-winemaking/12-red-winemaking-extraction.md
+      - 第 13 章 · 白葡萄酒与桃红: chapters/03-winemaking/13-white-and-rose.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -95,6 +101,10 @@ nav:
       - 第 7 章: qa/07-phenology-and-ripening-qa.md
       - 第 8 章: qa/08-terroir-qa.md
       - 第 9 章: qa/09-white-varieties-qa.md
+      - 第 10 章: qa/10-red-varieties-qa.md
+      - 第 11 章: qa/11-vineyard-management-qa.md
+      - 第 12 章: qa/12-red-winemaking-extraction-qa.md
+      - 第 13 章: qa/13-white-and-rose-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

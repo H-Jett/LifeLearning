@@ -76,8 +76,8 @@
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
 | 一 | [一杯酒的物质基础与感官](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成，含项目 P1） |
-| 二 | [葡萄品种与风土](chapters/02-grape-terroir/00-intro.md) | 从品种 + 气候预判一瓶酒的结构（🔜 进行中） |
-| 三 | 酿造与陈年工艺 ★ | 从工艺推出成品特征，反之亦然 |
+| 二 | [葡萄品种与风土](chapters/02-grape-terroir/00-intro.md) | 从品种 + 气候预判一瓶酒的结构（✅ 已完成） |
+| 三 | [酿造与陈年工艺](chapters/03-winemaking/00-intro.md) ★ | 从工艺推出成品特征，反之亦然（🔜 进行中） |
 | 四 | 世界产区谱系与酒标法规 ★ | 读懂任何一张酒标，判断它的约束与层级 |
 | 五 | 系统品鉴与缺陷识别 ★ | 按可复现的流程品鉴，并区分"不喜欢"与"有缺陷" |
 | 六 | 烈酒：从蒸馏原理到六大门类 | 用一套框架理解威士忌 / 白兰地 / 朗姆 / 龙舌兰 / 金酒 / 白酒 |
@@ -95,17 +95,28 @@
 - ✅ 第 5 章 [配角与麻烦：二氧化硫、二氧化碳、"矿物感"与温度](chapters/01-foundation/05-so2-co2-minerality.md)
 - ✅ 🛠 [项目 P1：把一杯酒拆成六个结构要素](chapters/01-foundation/project-P1-six-structural-elements.md)
 
-**第二部分当前进度**（🔜 进行中）：
+**第二部分**（✅ 已完成，按大纲**不单独设项目**）：
 
 - ✅ [第二部分导读](chapters/02-grape-terroir/00-intro.md)
 - ✅ 第 6 章 [葡萄这种植物：物种、砧木与根瘤蚜](chapters/02-grape-terroir/06-grapevine-rootstock-phylloxera.md)
 - ✅ 第 7 章 [从萌芽到采收：物候期与糖酸的反向运动](chapters/02-grape-terroir/07-phenology-and-ripening.md)
 - ✅ 第 8 章 [风土：哪些部分可证，哪些部分是叙事](chapters/02-grape-terroir/08-terroir.md)
 - ✅ 第 9 章 [白葡萄品种谱系](chapters/02-grape-terroir/09-white-varieties.md)
-- ⬜ 第 10 章 红葡萄品种谱系
-- ⬜ 第 11 章 葡萄园管理：产量、架式、有机与生物动力
+- ✅ 第 10 章 [红葡萄品种谱系](chapters/02-grape-terroir/10-red-varieties.md)
+- ✅ 第 11 章 [葡萄园管理：产量、架式、有机与生物动力](chapters/02-grape-terroir/11-vineyard-management.md)
 
-**下一站**：第 10 章——红葡萄品种，组织维度从香气分子换成**酚类（单宁与花青素）**。
+**第三部分当前进度**（🔜 进行中）：
+
+- ✅ [第三部分导读](chapters/03-winemaking/00-intro.md)
+- ✅ 第 12 章 [红葡萄酒：破碎、浸皮与萃取曲线](chapters/03-winemaking/12-red-winemaking-extraction.md)
+- ✅ 第 13 章 [白葡萄酒与桃红：压榨、澄清与低温发酵](chapters/03-winemaking/13-white-and-rose.md)
+- ⬜ 第 14 章 苹果酸乳酸发酵与酒泥接触
+- ⬜ 第 15 章 橡木：桶的化学、新桶比例与替代品
+- ⬜ 第 16 章 起泡酒 ｜ ⬜ 第 17 章 加强酒与甜酒 ｜ ⬜ 第 18 章 装瓶与陈年化学
+- ⬜ 🛠 项目 P2：从一支酒反推它的酿造决策
+
+**下一站**：第 14 章——把"黄油、奶油、面包"这一组香气词归到具体分子与具体工序上，
+并回答第 1 章埋下的问题：**酸度可以被工艺改写吗？**
 
 ## 常用工具页
 
