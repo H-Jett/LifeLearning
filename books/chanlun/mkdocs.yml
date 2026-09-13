@@ -98,6 +98,15 @@ nav:
       - 第 23 章 · 背驰—转折定理: chapters/04-divergence/23-divergence-turn.md
       - 第 24 章 · 区间套: chapters/04-divergence/24-interval-nesting.md
       - 🛠 项目 P3 · 建立自己的背驰样本库: chapters/04-divergence/project-P3-divergence-log.md
+  - 第五部分 · 三类买卖点:
+      - chapters/05-signals/00-intro.md
+      - 第 25 章 · 第一类买卖点: chapters/05-signals/25-first-point.md
+      - 第 26 章 · 第二类买卖点: chapters/05-signals/26-second-point.md
+      - 第 27 章 · 第三类买卖点: chapters/05-signals/27-third-point.md
+      - 第 28 章 · 完备性: chapters/05-signals/28-completeness.md
+      - 第 29 章 · 同级别分解: chapters/05-signals/29-decomposition.md
+      - 第 30 章 · 持股与持币: chapters/05-signals/30-holding.md
+      - 🛠 项目 P4 · 把三类买卖点写成判定函数: chapters/05-signals/project-P4-signal-function.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -133,6 +142,12 @@ nav:
       - 第 22 章: qa/22-macd-qa.md
       - 第 23 章: qa/23-divergence-turn-qa.md
       - 第 24 章: qa/24-interval-nesting-qa.md
+      - 第 25 章: qa/25-first-point-qa.md
+      - 第 26 章: qa/26-second-point-qa.md
+      - 第 27 章: qa/27-third-point-qa.md
+      - 第 28 章: qa/28-completeness-qa.md
+      - 第 29 章: qa/29-decomposition-qa.md
+      - 第 30 章: qa/30-holding-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
