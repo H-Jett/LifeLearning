@@ -77,6 +77,10 @@ nav:
   - 第二部分 · 味觉与调味原理:
       - chapters/02-taste/00-intro.md
       - 第 9 章 · 味觉是怎么工作的: chapters/02-taste/09-taste.md
+      - 第 10 章 · 味与味之间: chapters/02-taste/10-taste-interaction.md
+      - 第 11 章 · 盐：唯一不可替代的调料: chapters/02-taste/11-salt.md
+      - 第 12 章 · 糖与酸: chapters/02-taste/12-sugar-acid.md
+      - 第 13 章 · 鲜与香: chapters/02-taste/13-umami-aroma.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -93,6 +97,10 @@ nav:
       - 第 7 章: qa/07-browning-qa.md
       - 第 8 章: qa/08-acid-alkali-qa.md
       - 第 9 章: qa/09-taste-qa.md
+      - 第 10 章: qa/10-taste-interaction-qa.md
+      - 第 11 章: qa/11-salt-qa.md
+      - 第 12 章: qa/12-sugar-acid-qa.md
+      - 第 13 章: qa/13-umami-aroma-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
