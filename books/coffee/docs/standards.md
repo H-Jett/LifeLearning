@@ -16,7 +16,7 @@
 | **SCA** | Specialty Coffee Association | 精品咖啡行业协会。官网自述"develops research, coffee standards, and tools used across the industry"，并设 Standards 与 **Coffee Value Assessment (CVA)** 两个资源入口 | <https://sca.coffee/> | ✅ |
 | **CQI** | Coffee Quality Institute | 非营利机构，官网自述"working internationally to improve the quality of coffee and the lives of people who produce it"；Q 认证体系的主办方 | <https://www.coffeeinstitute.org/> | ✅ |
 | **ICO** | International Coffee Organization | 政府间组织。发布 **ICO Composite Indicator Price (I-CIP)** 与月度 Coffee Market Report、World Coffee Statistics Database、Coffee Development Report | <https://www.ico.org/> | ✅ |
-| **WCR** | World Coffee Research | 品种目录与感官词典（Sensory Lexicon）的发布方 | <https://worldcoffeeresearch.org/> | ⚠️ 官网内容本书尚未核对 |
+| **WCR** | World Coffee Research | 官网自述为 "a 501(c)(5) non-profit, collaborative research and development program of the global coffee industry"。发布 **Varieties Catalog**（阿拉比卡与罗布斯塔品种目录，双语、可下载 PDF）与感官词典（Sensory Lexicon） | <https://worldcoffeeresearch.org/> · 目录：<https://varieties.worldcoffeeresearch.org/> | ✅ **品种目录已于 2026-09 逐页核对**（见 §1.2）；感官词典尚未核对 |
 | **ISO** | International Organization for Standardization | 咖啡相关的国际标准（取样、感官分析样品制备、术语、缺陷等） | <https://www.iso.org/> | ⚠️ 见下 §二 |
 
 > **关于 SCA 杯测表与 CVA 的版权（本书的红线）**：
@@ -50,6 +50,27 @@
 > 另外注意：上述编号与状态**会随时间变化**，正式用途请以查询当时的官网为准。
 > 本书正文引用 SCA 标准时只写编号与题名，不复制其条文与表格版式。
 
+### 1.2 WCR 品种目录的核对记录（2026-09，写第 6~9 章时做）
+
+本书编号 **[G5]**。核对范围与要点：
+
+| 项 | 核对到的内容 |
+|----|------------|
+| **定位** | 自述 "A global catalog of Arabica and Robusta coffee varieties from around the world"；提供完整 PDF 下载与一个"专为农户"的可打印版；英文 / 西班牙文双语 |
+| **分类体系** | 阿拉比卡侧分为 Ethiopian Landrace、Bourbon、Typica、Bourbon-Typica Group、Catimor Group、Sarchimor、Introgressed w/ Congensis、F1 Hybrid、Robusta 等类别；罗布斯塔侧标注 Guinea / Congo / Congo × Guinea / Uganda 等遗传群 |
+| **每个品种的字段** | Stature（株型）、Leaf tip color、Bean Size、Yield Potential、**Quality potential at high altitude**、**Optimal Altitude**、Coffee leaf rust、Nematode、Coffee Berry Disease、Year of first production、Nutrition requirement、Ripening of fruit、**Cherry to green bean outturn**、Planting density 等 |
+| **"最适海拔"的定义** | 明确写明取决于农场**纬度**，并按 5°N–5°S / 5–15° / >15° 三带分档（例如"高"分别为 >1600 m / >1300 m / >1000 m）；定义中说明该值综合考虑了**杯品潜力与对叶锈病、咖啡浆果病的耐受性** |
+| **抗性字段的通用提示** | 每个病害字段旁印有 "Plant diseases are constantly evolving. Note: A variety that is resistant to a disease today may not be resistant tomorrow." |
+| **叶锈抗性专门说明** | 渗入品种提供了近三十年保护；21 世纪初起 **Lempira**（洪都拉斯）与 **Costa Rica 95**（哥斯达黎加）出现抗性丧失；因多数抗锈品种共享同一抗源（帝汶杂交种），多数专家认为"现存多数抗锈品种在中近期内将不再抗锈"；WCR 只在两种情况下更新抗性状态（育种方正式声明；或 WCR 用 DNA 指纹并咨询育种者与当地专家后确认），并注明"在一国确认被突破不代表在所有国家被突破" |
+| **渗入品种的来源与结构** | 帝汶杂交种为 **1920 年代东帝汶岛上自然发生**的种间杂交；Catimor = HdT × Caturra、Sarchimor = HdT × Villa Sarchi；目录明确写明**两者都不是单一品种，而是一群亲本相似的不同品种**；渗入品种"传统上被认为杯品低于其他品种"，但对受病害威胁的农户至关重要 |
+| **F1 杂交种** | 定义、优势，以及**种子会分离、必须无性繁殖、应从可信苗圃购苗**的警告 |
+| **历史页要点** | 铁皮卡支的关键节点（1696/1699 荷兰人自印度送种到爪哇；**1706 年从爪哇运抵阿姆斯特丹的是一株**；1714 年赠予法国，随后经圭亚那到巴西等）；波旁支（1708/1715/1718 三次引种波旁岛，法国传教会经桑给巴尔扩散到东非，1860 年前后进入巴西）；DNA 指纹显示印度老品种 Coorg 与 Kent 属波旁一系；**巴西（约占世界产量 40%）97.55% 的栽培品种源自铁皮卡与波旁** |
+
+> **本书对该目录的使用边界**：只引用其**字段定义、分类体系与它自己写出的文字结论**，
+> **不复制任何整表版式，也不下载或转载其图片与谱系图**。
+> 需要完整信息请直接访问目录原站。
+> 另外注意：目录内容**会随时间更新**，本书正文引用的是 2026-09 的核对状态。
+
 ## 二、ISO 等标准编号（本轮**未核对**，正文暂不引用）
 
 咖啡领域确有一批 ISO 标准（取样、感官分析用样品制备、术语、缺陷判定、含水率测定等），
@@ -58,6 +79,11 @@
 > ⚠️ **本轮检索额度用尽，未能在 iso.org 上逐条核对编号与标题**，
 > 按[查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/books/coffee/CLAUDE.md) §1.1 第 5 条
 > （查不到就别写），**本页不列出任何未核对的 ISO 编号与标题**，第 1 章正文也不引用标准编号。
+>
+> **2026-09 复核记录（写第 6~9 章时）**：再次尝试访问 `iso.org` 的标准检索与条目页，
+> 请求被站点的防护层拦截（返回 403 / 人机校验页），**仍然无法核到任何编号与准确标题**。
+> 因此本轮新增的第 6~9 章**同样没有引用任何标准编号**。
+> 这条记录本身也是本书的一个态度：**核不到就写"核不到"，不靠记忆补编号。**
 >
 > 待办：写第 13 章（生豆分级与瑕疵）与第 34 章（杯测流程）之前，
 > 去 <https://www.iso.org/> 按关键词 coffee 检索，逐条核对编号、**准确标题**与现行版本，
@@ -188,6 +214,65 @@
 > 这是**本书的检索观察**，不是任何文献的结论；读者可自行重复
 > （[第 5 章 §5.10 任务四](chapters/01-foundation/05-health-evidence.md)）。
 
+### 4.9 物种、品种与育种（第 6 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[G1]** | Salojärvi, J., 等 (2024). The genome and population genomics of allopolyploid *Coffea arabica* reveal the diversification history of modern coffee cultivars. *Nature Genetics*, 56, 721–731. PMCID PMC11018527（开放获取） | 阿拉比卡是 *C. eugenioides* × *C. canephora* 的异源四倍体；多倍化事件距今 **35 万~61 万年**；野生居群与栽培祖先分化约 **3.05 万年前**；**无明显全局亚基因组优势**；数次瓶颈导致"narrow genetic variation"；阿拉比卡约占全球咖啡产品的 **60%** | ✅ 已读摘要 |
+| **[G2]** | Davis, A. P., Chadburn, H., Moat, J., O'Sullivan, R., Hargreaves, S., & Nic Lughadha, E. (2019). High extinction risk for wild coffee species and implications for coffee sector sustainability. *Science Advances*, 5, eaav3473. PMCID PMC6357749（开放获取） | 对**全部 124 个**野生咖啡物种应用 IUCN 标准：**至少 60% 受灭绝威胁、45% 未被任何种质库收藏、28% 不在任何保护区内** | ✅ 已读摘要 |
+| **[G3]** | Davis, A. P., Mieulet, D., Moat, J., Sarmu, D., & Haggar, J. (2021). Arabica-like flavour in a heat-tolerant wild coffee species. *Nature Plants*, 7, 413–418. PMID 33875832 | *C. stenophylla* 具有"analogous to high-quality Arabica coffee"的感官画像；其生长与结果的**年均温比阿拉比卡高 6.2~6.8 ℃**（同等降水条件下） | ✅ 已读摘要（**非开放获取，正文只复述摘要结论**） |
+| **[G4]** | Kurniawan, M. F., 等 (2026). Liberica Coffee (*Coffea liberica*): A Bibliometric Analysis and Targeted Review of Physical, Bioactive, and Sensory Characteristics. *Molecules*, 31(9), 1518. PMCID PMC13164717（开放获取） | 利比里卡（含 var. *dewevrei* / Excelsa）是**商业上第三重要**的咖啡物种；咖啡因中等；**咖啡豆醇 : 咖啡醇比值**可区分变种；感官报告为菠萝蜜样果香、中等酸度、较饱满 body；作者自承"standardized data remain limited" | ✅ 已读摘要 |
+| **[G5]** | World Coffee Research，*Varieties Catalog*，<https://varieties.worldcoffeeresearch.org/>（本书 2026-09 核对） | 见 §1.2 的完整核对记录。第 6、7、8、9 章均引用 | ✅ 一手网页已逐页核对 |
+| **[G6]** | Georget, F., 等 (2019). Starmaya: The First Arabica F1 Coffee Hybrid Produced Using Genetic Male Sterility. *Frontiers in Plant Science*, 10, 1344. PMCID PMC6818232（开放获取） | 利用雄性不育母本 CIR-SM01 × Marsellesa 在自然授粉采种园生产 F1 种子；F1 表现"highly superior to conventional cultivars"；**田间存在不整齐**，部分源于母本克隆的杂合性且"could not be modified"；锈病发生率 **15% → 有望降到 5%** | ✅ 已读摘要 |
+| **[G7]** | Combes, M. C., Joët, T., Stavrinides, A. K., & Lashermes, P. (2023). New cup out of old coffee: contribution of parental gene expression legacy to phenotypic novelty in coffee beans of the allopolyploid *Coffea arabica* L. *Annals of Botany*, 131, 157–170. PMCID PMC9904342 | 阿拉比卡种子中**约三分之一**基因存在同源基因表达偏倚（HEB），且随成熟增加；研究专门考察**咖啡因与绿原酸合成通路**上的表达 | ✅ 已读摘要 |
+| **[G8]** | Irchad, A., 等 (2026). Nutraceutical Profiles and FTIR Fingerprints of Comorian *Coffea canephora* and *Coffea liberica* var. *dewevrei*. *Metabolites*, 16(5), 303. PMCID PMC13208385（开放获取） | 同一火山土壤条件下罗布斯塔 vs excelsa：罗布斯塔总多酚 121.79 ± 2.73 mg GAE/g、总黄酮 29.43 ± 2.20 mg QE/g、咖啡因 1.52%（w/w）、可溶性总糖 60.47 ± 3.37 mg GE/g 均显著更高；excelsa 的镁、钙、钠、锌、铜更高 | ✅ 已读摘要 |
+| **[G9]** | Pokou, N. D., 等 (2025). Genomic insights into population structure and predictive breeding for climate-resilient coffee. *Heredity*, 134, 695–704. PMID 41261159 | *C. canephora* 栽培种质中确认三个主要遗传库：**Robusta、Conilon、Guinean** | ✅ 已读摘要 |
+| **[G10]** | Bertrand, B., 等 (2015). The Greater Phenotypic Homeostasis of the Allopolyploid *Coffea arabica* Improved the Transcriptional Homeostasis Over that of Both Diploid Parents. *Plant & Cell Physiology*, 56, 2035–2051. PMCID PMC4679393（开放获取） | 四种昼夜温度处理（18-14 / 23-19 / 28-24 / 33-29 ℃）下，异源四倍体阿拉比卡的生长速率在**最热**条件下接近 *C. canephora*、在**最冷**条件下接近 *C. eugenioides* | ✅ 已读摘要 |
+| **[G11]** | Sera, G. H., Volsi, B., Mariucci Júnior, V., Pereira, C. T. M., & Telles, T. S. (2025). Production and trade of specialty coffee in Brazil. *Scientific Reports*, 15, 42403. PMCID PMC12660380（开放获取） | 对 175 家巴西精品咖啡协会（BSCA）会员农场的调查：带 *C. canephora* 渗入的阿拉比卡品种（帝汶杂交种与 Icatu 衍生）**出现频率很高**，作者据此认为其"有生产精品咖啡的遗传潜力"。⚠️ **这是农场使用频率调查，不是杯品对照实验** | ✅ 已读摘要 |
+
+### 4.10 种植环境（第 7 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[E1]** | Grüter, R., Trachsel, T., Laube, P., & Jaisli, I. (2022). Expected global suitability of coffee, cashew and avocado due to climate change. *PLoS ONE*, 17(1), e0261976. PMCID PMC8791496（开放获取） | 其 Table 1 中 *Coffea arabica* 的生物物理需求分级（S1/S2/S3/N）：年均温 S1 **17–22 ℃**；最冷月平均最低温 S1 10–19 ℃；年降水 S1 **1400–1800 mm**；旱季 S1 1–4 个月；最干月相对湿度 S1 40–70%；坡度 S1 0–8%；土壤 pH S1 **5.5–6.5**；有机碳 S1 >1.2%；粗碎屑 S1 0–15%；盐分 S1 0–0.5。另用到"气候因子比土地与土壤因子更能限制适宜区""三种作物中咖啡最脆弱"，以及作者自承高温端限制"不够严" | ✅ 已读全文相关章节 |
+| **[E2]** | Worku, M., de Meulenaer, B., Duchateau, L., & Boeckx, P. (2018). Effect of altitude on biochemical composition and quality of green arabica coffee beans can be affected by shade and postharvest processing method. *Food Research International*, 105, 278–285. PMID 29433216 | 咖啡因 **−0.12**、绿原酸 **−1.23** g/kg per 100 m；蔗糖 **+3.02**（水洗，显著）vs **+0.36**（日晒，不显著）g/kg per 100 m；蔗糖 **+2.11**（无遮荫）vs **+0.93**（遮荫）；酸度 **+0.22 分/100 m**（仅遮荫下显著）；无遮荫下日晒物理品质分 37.2 高于水洗 29.1 | ✅ 已读摘要 |
+| **[E3]** | Tolessa, K., D'heer, J., Duchateau, L., & Boeckx, P. (2017). Influence of growing altitude, shade and harvest period on quality and biochemical composition of Ethiopian specialty coffee. *J. Sci. Food Agric.*, 97, 2849–2857. PMID 27786361 | 埃塞俄比亚按杯测总分分组（Q1 ≥ 85、Q2 为 80–84.75）；**+400 m 咖啡因约 −10%**；高海拔 + 开放或中度遮荫 + **早中期采收**品质最好；**高海拔浓密遮荫使 Q1 比例下降 50%**；**早采使 Q1 比例从 27% 升到 73%**；作者总结"分数变化本身很小，但可能引起 Q1/Q2 比例的剧烈切换" | ✅ 已读摘要 |
+| **[E4]** | Geromel, C., 等 (2008). Effects of shade on the development and sugar metabolism of coffee (*Coffea arabica* L.) fruits. *Plant Physiology and Biochemistry*, 46, 569–579. PMID 18420417 | **本书最重要的一条反直觉证据**：遮荫使豆**更大**（珠心组织发育更充分），却**显著降低蔗糖、提高还原糖**；遮荫下蔗糖合酶与 SPS 活性反而更高，作者推断蔗糖代谢被导向了其他通路 | ✅ 已读摘要 |
+| **[E5]** | Geromel, C., 等 (2006). Biochemical and genomic analysis of sucrose metabolism during coffee (*Coffea arabica*) fruit development. *Journal of Experimental Botany*, 57, 3243–3258. PMID 16926239 | 蔗糖合酶在**胚乳与果皮发育的最后阶段**活性最高，且与该阶段蔗糖积累高度同步；¹⁴CO₂ 饲喂显示**叶片光合对种子发育的贡献大于果皮**；珠心暂时积累淀粉后降解 | ✅ 已读摘要 |
+| **[E6]** | DaMatta, F. M., Avila, R. T., Cardoso, A. A., Martins, S. C. V., & Ramalho, J. C. (2018). Physiological and Agronomic Performance of the Coffee Crop in the Context of Climate Change and Global Warming: A Review. *J. Agric. Food Chem.*, 66, 5264–5274. PMID 29517900 | "warming, per se, may be less harmful to coffee suitability than previously estimated, **at least under the conditions of an adequate water supply**"；升高的大气 CO₂ 在缓解热胁迫中起关键作用 | ✅ 已读摘要 |
+| **[E7]** | Imbach, P., 等 (2017). Coupling of pollination services and coffee suitability under climate change. *PNAS*, 114, 10438–10442. PMCID PMC5625888 | 拉美适宜种植区到 2050 年**减少 73~88%**，比全球尺度评估大 46~76%；未来适宜区内蜜蜂丰富度下降 8~18% | ✅ 已读摘要 |
+| **[E8]** | Hu, R., Xu, F., Chen, X., Kuang, Q., Xiao, X., & Dong, W. (2024). The Growing Altitude Influences the Flavor Precursors, Sensory Characteristics and Cupping Quality of the Pu'er Coffee Bean. *Foods*, 13(23), 3842. PMCID PMC11640416（开放获取） | 普洱产区：脂肪酸随海拔上升、生物碱与绿原酸随海拔下降、有机酸与单糖无明显趋势；112 个检出挥发物中**仅 11 个**受海拔显著影响；杯测的香气与风味随海拔上升而其他指标不显著 | ✅ 已读摘要 |
+| **[E9]** | Piato, K., Subía, C., Lefort, F., Pico, J., Calderón, D., & Norgrove, L. (2022). No Reduction in Yield of Young Robusta Coffee When Grown under Shade Trees in Ecuadorian Amazonia. *Life*, 12(6), 807. PMCID PMC9224700（开放获取） | **约 25% 遮荫**下 5 年生罗布斯塔的果实产量与高光照相当；豆科遮荫树下植株高 10%、叶氮高 22%。⚠️ **对象是罗布斯塔幼树、湿热条件**，不可外推 | ✅ 已读摘要 |
+| **[E10]** | Schooler, S. L., Johnson, M. D., Njoroge, P., & Bean, W. T. (2020). Shade trees preserve avian insectivore biodiversity on coffee farms in a warming climate. *Ecology and Evolution*, 10, 12960–12972. PMCID PMC7713971（开放获取） | 全球气候栅格温度更接近**遮荫农场**实测值；去除遮荫树造成的升温，其影响相当于最乐观排放情景下约 50 年的气候变化。⚠️ **该研究的结局变量是鸟类多样性，不是咖啡品质**，本书只取"遮荫显著改变微气候"这一层 | ✅ 已读摘要 |
+
+### 4.11 病虫害与品种更新（第 8 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[P1]** | Avelino, J., Cristancho, M., Georgiou, S., Imbach, P., Aguilar, L., Bornemann, G., Läderach, P., Anzueto, F., Hruska, A. J., & Morales, C. (2015). The coffee rust crises in Colombia and Central America (2008–2013): impacts, plausible causes and proposed solutions. *Food Security*, 7, 303–321. doi:10.1007/s12571-015-0446-9（CC BY 开放获取） | **第 8 章主干**：病原与症状；产量影响（哥伦比亚流行年平均 **−31%** vs 2007；中美洲 2013 年 **−16%** vs 2011–12、2013–14 年 **−10%** vs 2012–13）；对小农与采摘工的粮食安全影响；**"主要驱动因素是经济的与气象的"**，且过去 37 年所有强流行都与咖啡盈利能力低迷重合；**日较差缩小**（Chinchiná +0.1/−0.5 ℃；危地马拉 1224 农场 +0.9/−1.2 ℃）可能缩短潜育期；哥伦比亚更换 **Castillo**（60 万 ha 中超过 30 万 ha，抗病品种占比 >60%），发病率从 2009 年 **>40%** 降到 2013 年 **3%**；小种演化（1970 年传入拉美、小种 II 只带九个已知毒性因子中的 v5、复杂度逐步上升至八个因子的组合、中美洲到 1997 年只鉴定出两个小种）；**基因聚合**（含来自 *C. liberica* 的 SH3）与**部分抗性**两条出路，及"部分抗性在商业品种中的部署仍只是前景"这句诚实说明 | ✅ 已读全文相关章节 |
+| **[P3]** | Mariño, Y. A., 等 (2026). Dynamics of coffee leaf rust (*Hemileia vastatrix*) in Puerto Rico: associations with season, cultivar, altitude, and hyperparasites. *Frontiers in Plant Science*, 17, 1768440. PMCID PMC13008843（开放获取） | 波多黎各 15 个点三年调查：发病率 0~100%、严重度 0~60%；**采收后的旱季上升**；与温度、降水负相关，与相对湿度、叶片湿润时间正相关；**抗病品种仍有锈病损害**，其中 **Marsellesa 最多**；在 **400–951 m** 范围内发病率与严重度**随海拔升高** | ✅ 已读摘要 |
+| **[P4]** | Vega, F. E., 等 (2021). Cultivation and Genome Sequencing of Bacteria Isolated From the Coffee Berry Borer (*Hypothenemus hampei*), With Emphasis on the Role of Caffeine Degradation. *Frontiers in Microbiology*, 12, 644768. PMCID PMC8055839（开放获取） | 咖啡果小蠹是"the only insect capable of feeding and reproducing solely on the coffee seed"；**21 个**相关细菌物种携带五个咖啡因 N-去甲基化基因（*ndmA–E*）中至少一个，数个 *Pseudomonas* 携带全套；卵中检出提示垂直传播、虫粪中检出提示水平传播 | ✅ 已读摘要 |
+| **[P5]** | Wei, S. H., Wang, L. J., & Lin, M. Y. (2023). Temperature-Dependent Biology and Population Performances of the Coffee Berry Borer *Hypothenemus hampei* on Artificial Diet. *Insects*, 14, 499. PMCID PMC10298931（开放获取） | 未成熟期**发育起点温度 8.91 ℃**、**有效积温 485.44 日·度**；24 ℃ 产卵量最高（29.0 卵/雌）；27 ℃ 内禀增长率与周限增长率最高 | ✅ 已读摘要 |
+| **[P6]** | Azrag, A. G. A., & Babin, R. (2023). Integrating temperature-dependent development and reproduction models for predicting population growth of the coffee berry borer, *Hypothenemus hampei* Ferrari. *Bulletin of Entomological Research*, 113, 79–85. PMID 35899939 | **15–30 ℃** 范围内均能产卵；**23 ℃ 繁殖力最高**；净生殖率 24 ℃ 最高；内禀增长率 **26 ℃** 最高。作为 [P5] 的独立交叉验证 | ✅ 已读摘要 |
+| **[P7]** | Quiroga-Cardona, J., Loureiro, A., Várzea, V. M. P., Flórez-Ramos, C. P., & Silva, M. D. C. (2026). Genetic Control of Resistance to *Colletotrichum kahawae* in Coffee: Evidence of Polygenic Inheritance and Differential Host Genotype Responses to Pathogen Isolates. *Plants*, 15(13), 2002. PMCID PMC13364353（开放获取） | CBD "restricted to African countries producing *C. arabica*"、是其他纬度的潜在检疫威胁；Rume Sudan 的抗性此前被报告为简单孟德尔 **3:1**，用 **10,180 株**下胚轴的 F2 群体重检后显示为**多基因（QTL）**；统计上证实存在寄主 × 病原互作，即存在**致病型**，抗性不通用 | ✅ 已读摘要 |
+| **[P8]** | Romero, G., Vásquez, L. M., Lashermes, P., Herrera, J. C., & Debener, T. (2014). Identification of a major QTL for adult plant resistance to coffee leaf rust (*Hemileia vastatrix*) in the natural Timor hybrid (*Coffea arabica* x *C. canephora*). *Plant Breeding*, 133, 121–129. doi:10.1111/pbr.12127 | 帝汶杂交种的**种间杂交身份**；在第 4 号染色体上定位到一个**独立于已知 SH 位点**的抗锈 QTL（QCLR_4，跨约 2.5 cM），作者提出可用于基因聚合 | ✅ 已读摘要 |
+| **[P9]** | Silva, R. A., Zambolim, L., Castro, I. S. L., Rodrigues, H. S., Cruz, C. D., & Caixeta, E. T. (2018). The Híbrido de Timor germplasm: identification of molecular diversity and resistance sources to coffee berry disease and leaf rust. *Euphytica*, 214, 153. doi:10.1007/s10681-018-2231-2 | 帝汶杂交种是"the most important source of resistant varieties used in breeding programs worldwide"；152 份材料**全部**抗小种 II、**141 份**抗小种 XXXIII、**106 份**带 CBD 抗性基因 *Ck-1* 的标记 | ✅ 已读摘要 |
+| **[P10]** | Moreno-Ramírez, N., Bianchi, F. J. J. A., Manzano, M. R., Martinez-Hofmans, F., & Dicke, M. (2026). Coffee berry borer infestations and natural enemy communities shaped by altitude, shade, and management practices. *Agriculture, Ecosystems & Environment*, 395 | 哥伦比亚 24 个农场两年调查：平均侵染率 **4.5%（2022）与 14.6%（2023）**；**化学防治无效**；侵染率与**遮荫树的有无不相关**、与**海拔负相关**；天敌多样性与遮荫系统及树密度**正相关**、与除草频率负相关 | ✅ 已读摘要 |
+| **[P11]** | Molina, D., Flórez-Ramos, C. P., Montoya, E. C., Medina, R., & Benavides, P. (2025). Climate-Resilient F₃ Progenies of *Coffea arabica*: Agronomic Traits and Antibiosis to *Hypothenemus hampei*. *Plants*, 14(24), 3744. PMCID PMC12736881（开放获取） | Castillo × 具抗虫性的埃塞俄比亚材料的 F3 株系：受控条件下产卵下降 **18.0%~25.8%**、田间下降 **24.1%~69.8%** | ✅ 已读摘要 |
+
+### 4.12 采收与成熟度（第 9 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[R1]** | Zhao, H., 等 (2026). Deciphering "False Maturity" in Mountain Coffee: A Multimodal Hyperspectral Framework for Non-Destructive Sugar Content Assessment. *Foods*, 15(12), 2149. PMID 42354117 | **"假熟"概念的来源**：山地环境中果实**外部转色与内部糖分积累异步**；高糖果与低糖果的光谱差异集中在红光与红边区，最大差异位于 **676 nm**；单光谱模型平均准确率 **75.93%**，多模态融合 MLP **77.22%**（平均 AUC 0.827） | ✅ 已读摘要 |
+| **[R2]** | Huang, G., Liu, S., Chen, G. L., Zhao, Y., Huang, Q., Cen, Q., & Ren, E. F. (2025). Effects of Harvesting Periods and Cultivar on the Physicochemical and Sensory Properties of Two Coffee Bean Varieties. *Foods*, 14(17), 3135. PMCID PMC12428010（开放获取） | 同园两个 Catimor 品系（7963、T8667）在 12/1/2/3 月四个采收期的对比：7963 瑕疵率从 **11.08% 降到 4.19%**、绿原酸从 **3.78% 升到 4.99%**；2 月与 3 月采收杯测分显著更高；物理指标（瑕疵率、千粒重、生豆尺寸）与化学成分、杯测分高度相关 | ✅ 已读摘要 |
+| **[R4]** | Campanharo, A., 等 (2026). Genetic variability in fruit-to-bean conversion efficiency among *Coffea canephora* genotypes. *Frontiers in Plant Science*, 17, 1878674. PMCID PMC13409374（开放获取） | **第 2 章"鲜果:生豆"欠账的补核**：44 个基因型，生豆质量占成熟果实 **48%~61%**；每 60 kg 袋处理后生豆需成熟果实 **209.22~282.61 kg**（按 12% 含水率校正），即约 **3.5~4.7 kg 鲜果 / kg 生豆**；该性状遗传力 **48%~59%**。⚠️ 罗布斯塔、巴西单一试验点 | ✅ 已读全文相关章节 |
+| **[R5]** | Osorio, V., Montoya, E. C., Rayo-Mendez, L. M., & Harris, G. K. (2026). Impact of maturity stage and prolongation of post-harvest processing and mucilage fermentation time on mycotoxin levels in coffee. *Frontiers in Plant Science*, 17, 1734522. PMCID PMC12907175（开放获取） | 三个成熟度阶段（MS1/MS2/MS3）之间**未检出显著差异**（赭曲霉毒素 2.89/2.98/3.03 μg/kg；黄曲霉毒素 0.13/0.14/0.15 μg/kg）；延长处理下最高 3.51 μg/kg；作者强调**初始果实品质关键**，应分选去除干果与瑕疵果并连续干燥。⚠️ **本书只复述研究结果，不做任何安全性推断、不解读限量** | ✅ 已读摘要 |
+| **[R6]** | Ronchi, C. P., & DaMatta, F. M. (2025). Managing the coffee crop for flowering synchronisation and fruit maturation: Agronomic and physiological issues. *Advances in Botanical Research*, 114, 421–454 | 咖啡生殖发育期长 → **多次分批开花** → 成熟不一致 → 损害采收效率与生豆品质；花芽需经干期才对复水刺激敏感，因而可用"控水—复水"同步开花；**巴西等非赤道阿拉比卡产区"几乎不做选择性采摘"** | ⚠️ **仅读到章摘要** |
+| **[R7]** | Saralaya, S., 等 (2026). Enhancing labour efficiency in coffee harvesting using process mining and statistical analysis. *BMC Plant Biology*, 26, 1482. PMCID PMC13523206（开放获取） | 印度庄园把阿拉比卡采收分为 **fly picking、mid harvesting、stripping** 三阶段；fly picking 阶段**工人数量与采摘量显著负相关**；劳动效率、天气等为关键影响因素 | ✅ 已读摘要 |
+| **[R8]** | Ferreira, L. J. C., Casé, I. N., Bertarini, P. L. L., Oliveira, L. M. d., & Santos, L. D. (2024). Impact of immature coffee fruits and water addition during spontaneous fermentation process: Chemical composition and sensory profile. *Electronic Journal of Biotechnology*, 69, 21–29 | 含 **11.0%** 与 **0.3%** 未熟果的自发厌氧发酵对照：未熟果比例**显著改变初始糖（蔗糖/葡萄糖/果糖）、灰分与可滴定酸度**；但所有处理杯测均 **>84 分**；含 11% 未熟果的水下发酵组描述最突出。⚠️ **单一研究、只有两档比例、经过特定发酵** | ✅ 已读摘要 |
+| **[R9]** | Cuchca Ramos, S., 等 (2025). Multispectral and Colorimetric Approaches for Non-Destructive Maturity Assessment of Specialty Arabica Coffee. *Foods*, 14(21), 3644. PMCID PMC12608603（开放获取） | 四个品种（Caturra Amarillo、Excelencia、Milenio、Típica）：成熟中 550 nm 反射率下降、660 nm 上升，735–790 nm 相对稳定；**a\* 是最可靠的成熟度指示**，L\* 随成熟下降；PCA 解释 >98% 变异；MLR 调整 R² **0.789~0.877** | ✅ 已读摘要 |
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -209,6 +294,11 @@
 | 7 | **咖啡果各层占果实的比例** | [F1]：果肉 29%、胶质层 4%、羊皮层 12%、种子 55%（**合计 100%**） | [F2]：果肉约 39%、羊皮层约 39%、胶质层约 14%（**合计 92%，种子无处安放**）；但同篇又写"果壳（果皮+羊皮层）约占果实干重 45%"，与 [F1] 自洽 | **采用 [F1] 的自洽一套**，并在[第 2 章 §2.1](chapters/01-foundation/02-cherry-anatomy.md) 把这条分歧写成"守恒检查"的教学实例。推测 39/22/39 原为"占**副产物**"的比例，被转引成"占果实" |
 | 8 | **水的组成会不会改变萃取** | [W1] 用 DFT 计算给出阳离子与咖啡分子的结合能差异，并讨论"理想矿物组成"——被广泛转述成"镁水萃取更好" | [A1] 的实验：常见浓度下加钙镁盐对四种有机酸影响有限；**冲煮前加与冲煮后加结果相近**，作者据此认为"酸的萃取与水组成无关" | 正文**两边都写**，并标明 [W1] 是**计算研究**、[A1] 是**实验研究**；**不写任何"最优水配方"**。见[第 3 章 §3.4](chapters/01-foundation/03-water.md) |
 | 9 | **人类有多少个苦味受体** | [N5]（2024 综述）写"**约 25 个**" | [B8]（2026 结构研究）写"在 **26 个**苦味受体中" | 正文写"**约 25~26 个（不同文献计数口径不同）**"，并说明差异可能来自是否计入某些序列与拷贝数缺失多态。见[第 4 章 §4.4](chapters/01-foundation/04-perception.md) |
+| 10 | **咖啡因随海拔下降的幅度** | [E2]：每升高 100 m 约 **−0.12 g/kg**（约合 +400 m 下降 4%，以 12 g/kg 为基数） | [E3]：从中海拔到高海拔约 **+400 m，下降约 10%** | **方向一致（三个独立产区同向，第三个为 [E8]），幅度相差约 2.5 倍**。正文**只写方向**，引用具体斜率时必须标明是哪一项研究的观测，**不通用化**。见[第 7 章 §7.3](chapters/02-upstream/07-growing-environment.md) |
+| 11 | **采收期早晚哪个更好** | [E3]（埃塞俄比亚）：**早中期采收**更好，早采使 Q1 比例从 27% 升到 73% | [R2]（中国，两个 Catimor 品系）：**推迟采收**更好，瑕疵率 11.08% → 4.19%，2–3 月采收杯测分显著更高 | **两边都写**。本书给出一个**明确标注为推测**的调和解释：两项研究里"采收期"混入了不同的东西（晚采混入过熟劣变 / 早采混入未熟），最优点在中间，日历位置取决于当地物候。两项研究都**没有测中介变量**（未熟果与过熟果比例），因此该解释只能是假说。见[第 9 章 §9.5](chapters/02-upstream/09-harvest-ripeness.md) |
+| 12 | **遮荫是否提高糖分 / 品质** | 行业叙事："遮荫 → 慢熟 → 更甜" | [E4]（对照实验）：遮荫使豆**更大**但**蔗糖显著降低**、还原糖升高；[E2]：海拔对蔗糖的正效应在遮荫下从 +2.11 减到 +0.93；[E3]：高海拔浓密遮荫使 Q1 比例**下降 50%** | 判为 ❌ **有反向证据**。同时明确写出遮荫**真正**被证实的价值（微气候缓冲 [E10]、天敌多样性 [P10]、合适遮荫度下产量不降 [E9]），**把生态价值与风味价值分开讲**。见[第 7 章 §7.4](chapters/02-upstream/07-growing-environment.md) |
+| 13 | **未熟果混入的后果** | 行业共识："混进未熟果会毁掉一批豆" | [R8]：含 11.0% 与 0.3% 未熟果的批次经自发发酵后**都在 84 分以上**；未熟果确实显著改变了初始糖、灰分与可滴定酸度 | 判为 ⚠️ **缺乏证据**，并同时强调**不能反向解读**为"未熟果没关系"。理由：单一研究、只有两档比例、经过特定发酵、无剂量—反应曲线。正文**不写"超过百分之几就不行"**。见[第 9 章 §9.6](chapters/02-upstream/09-harvest-ripeness.md) |
+| 14 | **气候变化对咖啡的影响有多大** | [E7]：拉美适宜面积到 2050 年**减少 73~88%**；[E1]：三种作物中咖啡最脆弱 | [E6]：升温本身的危害"可能小于此前估计——**至少在水分供应充足时**"，升高的 CO₂ 能缓解热胁迫 | **三边都写，并说明方法不同**：分布模型问"气候空间移到哪里"，生理学研究问"这株树扛不扛得住"。本书**不站队**，也**不给"咖啡将在某年消失"这类说法背书**（那类说法曲解了"适宜面积"）。见[第 7 章 §7.6](chapters/02-upstream/07-growing-environment.md) |
 
 ## 七、本页的"不采信"清单
 
@@ -222,7 +312,15 @@
 | 各成分的"溶出先后顺序表"（先酸后甜后苦） | [B3] 只说"不同类别化合物的萃取行为不同"，**没有**给出一张顺序表；流传的顺序表找不到原始文献 |
 | 特定水质配方（某 mg/L 钙镁比）的"最优"结论 | [A1] 的结论反而是"extraction proceeds independent of the water composition"，与流传说法冲突。**第 3 章已专门处理：本书不写任何最优配方** |
 | 流传的"SCA 水质表"中的 TDS / 硬度 / 碱度数值 | 核对当日官网标准页与研究页**未列出任何水质标准**（§1.1），无法核对其版本与效力；且本书不复制官方表格版式 |
-| "鲜果 : 生豆 = 5~6 : 1"的具体比值 | 未找到可核对的一手出处；用 [F1] 的干重比例自算只能落到同一量级。改写成第 2 章的练习 |
+| ~~"鲜果 : 生豆 = 5~6 : 1"的具体比值~~ → **2026-09 部分补核** | 已找到一手实测：[R4] 对 44 个 *C. canephora* 基因型测得约 **3.5~4.7 : 1**（按 12% 含水率校正的处理后生豆），且该性状**遗传力 48%~59%**；[G5] 也把"出品比"列为**品种字段**而非常数。**结论改为：不存在通用比值**——正文写范围 + 条件（物种、基因型、处理法、含水率基准、是否计入瑕疵与损耗）。**仍不把流传的 5~6:1 判为"错误"**，因为两者的计量基准不同、无法互相否定。见[第 9 章 §9.7](chapters/02-upstream/09-harvest-ripeness.md) |
+| "某种土壤（如火山土）赋予特定风味" | 未读到"某类土壤 → 某类风味"的对照研究；[E1] 的建模反而显示**气候因子比土壤因子更能限制咖啡适宜区**。土壤当然通过养分供给影响植株，但"土壤 = 风味签名"这一步缺乏依据 |
+| "浮豆（floaters）都是坏豆" | 密度分选在产地普遍使用，但本轮**未找到**支持"浮起 ⇒ 品质差"的可交叉验证一手研究。留到第 12、13 章去查 |
+| "咖啡将在 2050 年消失" | 曲解了原文：[E7] 说的是**适宜面积**减少 73~88%（拉美），不是物种存续；且 [E6] 给出方向相反的生理学证据。本书**不复述任何"某年消失"的时间点断言** |
+| "高海拔病虫害少"（作为一般规律） | **必须分病害与虫害**：咖啡果小蠹侵染率与海拔负相关 [P10]（与其 23–27 ℃ 最适温区一致 [P5][P6]），但叶锈病在 400–951 m 范围内反而**随海拔升高** [P3]。本书**不写一句话概括** |
+| "抗病品种一定不好喝" | [G5] 的原话是渗入品种"**传统上被认为**杯品较低"（行业印象，非实验结论）；反向还有 [G11] 的农场使用频率调查。缺**同一农场、同年、同处理、同烘焙**条件下的盲测对照，因此只能判 ⚠️ |
+| "某年某产国缺货一定是因为某个单一原因" | [P1] 显示叶锈流行是**经济 × 气象**共同驱动、且存在"价格 → 管理投入 → 病害"的正反馈回路。单因素归因不成立 |
+| 未熟果比例与杯测分的**剂量—反应关系** | [R8] 只有 0.3% 与 11% 两档，无法画出曲线。正文**不写"超过百分之几就不行"** |
+| 咖啡霉菌毒素的任何安全性判断或限量解读 | [R5] 只被用来说明"成熟度阶段之间未检出显著差异"与作者关于分选与连续干燥的表述；**本书不做任何安全性推断**，与第 5 章的红线一致 |
 | "圆豆更好喝""银皮残留导致苦""带壳储存更保鲜" | 三条都**缺对照实验**：只找到圆豆的光谱分类研究、银皮的成分测定、羊皮层的结构数据，没有任何一条做过感官或保鲜对照 |
 | "日晒豆的甜来自果肉糖分渗入豆体" | 糖分子穿过木质化羊皮层进入胚乳这一步**无直接证据**；且第 1 章已证明烘焙后蔗糖只剩痕量 |
 | "人类有 400 个嗅觉受体""人能分辨一万亿种气味"这类总数 | 计数口径与方法学均有争议。本书只写"**数百个**量级"（[N1][N2]），气味总数一律不写 |

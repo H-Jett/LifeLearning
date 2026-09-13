@@ -70,6 +70,13 @@ nav:
       - 第 3 章 · 水：被忽略的 98%: chapters/01-foundation/03-water.md
       - 第 4 章 · 风味是怎么被感知的: chapters/01-foundation/04-perception.md
       - 第 5 章 · 咖啡与健康：只讲证据等级: chapters/01-foundation/05-health-evidence.md
+      - 🛠 项目 P1 · 给三包豆做一份"成分翻译": chapters/01-foundation/project-P1-composition-translation.md
+  - 第二部分 · 上游：从一棵树到一袋生豆:
+      - chapters/02-upstream/00-intro.md
+      - 第 6 章 · 物种与品种: chapters/02-upstream/06-species-varieties.md
+      - 第 7 章 · 种植环境: chapters/02-upstream/07-growing-environment.md
+      - 第 8 章 · 病虫害与品种更新: chapters/02-upstream/08-pests-and-renewal.md
+      - 第 9 章 · 采收与成熟度: chapters/02-upstream/09-harvest-ripeness.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -83,6 +90,10 @@ nav:
       - 第 3 章: qa/03-water-qa.md
       - 第 4 章: qa/04-perception-qa.md
       - 第 5 章: qa/05-health-evidence-qa.md
+      - 第 6 章: qa/06-species-varieties-qa.md
+      - 第 7 章: qa/07-growing-environment-qa.md
+      - 第 8 章: qa/08-pests-and-renewal-qa.md
+      - 第 9 章: qa/09-harvest-ripeness-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

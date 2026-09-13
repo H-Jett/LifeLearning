@@ -50,8 +50,8 @@
 
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
-| 一 | [咖啡的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（🔜 进行中） |
-| 二 | 上游：从一棵树到一袋生豆 ★ | 读懂豆袋每个字段，判断"这支豆贵在哪" |
+| 一 | [咖啡的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成） |
+| 二 | [上游：从一棵树到一袋生豆](chapters/02-upstream/00-intro.md) ★ | 读懂豆袋每个字段，判断"这支豆贵在哪"（🔜 进行中） |
 | 三 | 烘焙：把前体变成风味 ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题 |
 | 四 | 萃取原理 ★ | 所有器具的共同底层：溶解 + 扩散 + 传质 |
 | 五 | 冲煮与意式实操 | 拿到陌生豆，三次以内找到可接受的参数 |
@@ -60,7 +60,9 @@
 
 ★ = 核心目标。
 
-**第一部分当前进度**：
+**当前进度**：
+
+**第一部分 · 咖啡的物质基础（✅ 已完成）**
 
 - ✅ [第一部分导读](chapters/01-foundation/00-intro.md)
 - ✅ 第 1 章 [一颗咖啡豆里有什么：成分与风味的对应](chapters/01-foundation/01-bean-composition.md)
@@ -68,9 +70,18 @@
 - ✅ 第 3 章 [水：被忽略的 98%](chapters/01-foundation/03-water.md)
 - ✅ 第 4 章 [风味是怎么被感知的：味觉、嗅觉与三叉神经](chapters/01-foundation/04-perception.md)
 - ✅ 第 5 章 [咖啡与健康：只讲证据等级](chapters/01-foundation/05-health-evidence.md)
-- 🔜 项目 P1 给三包豆做一份"成分翻译"
+- ✅ 🛠 [项目 P1 给三包豆做一份"成分翻译"](chapters/01-foundation/project-P1-composition-translation.md)
 
-**下一站**：第一部分的实战项目 P1，然后进入第二部分「上游：从一棵树到一袋生豆」。
+**第二部分 · 上游：从一棵树到一袋生豆（🔜 进行中）**
+
+- ✅ [第二部分导读](chapters/02-upstream/00-intro.md)
+- ✅ 第 6 章 [物种与品种：阿拉比卡、卡内弗拉与利比里卡](chapters/02-upstream/06-species-varieties.md)
+- ✅ 第 7 章 [种植环境：海拔、纬度、荫蔽、土壤与气候](chapters/02-upstream/07-growing-environment.md)
+- ✅ 第 8 章 [病虫害与品种更新](chapters/02-upstream/08-pests-and-renewal.md)
+- ✅ 第 9 章 [采收与成熟度](chapters/02-upstream/09-harvest-ripeness.md)
+- ⬜ 第 10~14 章（处理法 · 干燥与储存 · 生豆分级 · 产区地图）+ 项目 P2
+
+**下一站**：第 10 章「处理法 ①：日晒、水洗、蜜处理的原理」。
 
 ## 常用工具页
 
