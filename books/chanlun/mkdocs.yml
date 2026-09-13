@@ -107,6 +107,14 @@ nav:
       - 第 29 章 · 同级别分解: chapters/05-signals/29-decomposition.md
       - 第 30 章 · 持股与持币: chapters/05-signals/30-holding.md
       - 🛠 项目 P4 · 把三类买卖点写成判定函数: chapters/05-signals/project-P4-signal-function.md
+  - 第六部分 · 多义性与实战判读:
+      - chapters/06-practice/00-intro.md
+      - 第 31 章 · 走势的多义性: chapters/06-practice/31-ambiguity.md
+      - 第 32 章 · 每日走势的分类: chapters/06-practice/32-daily-classification.md
+      - 第 33 章 · 小级别背驰引发大级别转折: chapters/06-practice/33-small-triggers-large.md
+      - 第 34 章 · 资金管理: chapters/06-practice/34-capital.md
+      - 第 35 章 · 常见说法辨析总表: chapters/06-practice/35-claims-index.md
+      - 🛠 项目 P5 · 一次诚实的检验: chapters/06-practice/project-P5-honest-test.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -148,6 +156,11 @@ nav:
       - 第 28 章: qa/28-completeness-qa.md
       - 第 29 章: qa/29-decomposition-qa.md
       - 第 30 章: qa/30-holding-qa.md
+      - 第 31 章: qa/31-ambiguity-qa.md
+      - 第 32 章: qa/32-daily-classification-qa.md
+      - 第 33 章: qa/33-small-triggers-large-qa.md
+      - 第 34 章: qa/34-capital-qa.md
+      - 第 35 章: qa/35-claims-index-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
