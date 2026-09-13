@@ -66,6 +66,10 @@ nav:
   - 第一部分 · 咖啡的物质基础:
       - chapters/01-foundation/00-intro.md
       - 第 1 章 · 一颗咖啡豆里有什么: chapters/01-foundation/01-bean-composition.md
+      - 第 2 章 · 咖啡果与咖啡豆的结构: chapters/01-foundation/02-cherry-anatomy.md
+      - 第 3 章 · 水：被忽略的 98%: chapters/01-foundation/03-water.md
+      - 第 4 章 · 风味是怎么被感知的: chapters/01-foundation/04-perception.md
+      - 第 5 章 · 咖啡与健康：只讲证据等级: chapters/01-foundation/05-health-evidence.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -75,6 +79,10 @@ nav:
   - 出处与资料登记: standards.md
   - 思考题参考答案:
       - 第 1 章: qa/01-bean-composition-qa.md
+      - 第 2 章: qa/02-cherry-anatomy-qa.md
+      - 第 3 章: qa/03-water-qa.md
+      - 第 4 章: qa/04-perception-qa.md
+      - 第 5 章: qa/05-health-evidence-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

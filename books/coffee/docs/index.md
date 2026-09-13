@@ -64,10 +64,13 @@
 
 - ✅ [第一部分导读](chapters/01-foundation/00-intro.md)
 - ✅ 第 1 章 [一颗咖啡豆里有什么：成分与风味的对应](chapters/01-foundation/01-bean-composition.md)
-- ⬜ 第 2 章 咖啡果与咖啡豆的结构 ｜ ⬜ 第 3 章 水 ｜ ⬜ 第 4 章 风味是怎么被感知的
-- ⬜ 第 5 章 咖啡与健康（只讲证据等级）｜ ⬜ 项目 P1
+- ✅ 第 2 章 [咖啡果与咖啡豆：植物学结构与它的工艺含义](chapters/01-foundation/02-cherry-anatomy.md)
+- ✅ 第 3 章 [水：被忽略的 98%](chapters/01-foundation/03-water.md)
+- ✅ 第 4 章 [风味是怎么被感知的：味觉、嗅觉与三叉神经](chapters/01-foundation/04-perception.md)
+- ✅ 第 5 章 [咖啡与健康：只讲证据等级](chapters/01-foundation/05-health-evidence.md)
+- 🔜 项目 P1 给三包豆做一份"成分翻译"
 
-**下一站**：第 2 章 · 咖啡果与咖啡豆：植物学结构与它的工艺含义。
+**下一站**：第一部分的实战项目 P1，然后进入第二部分「上游：从一棵树到一袋生豆」。
 
 ## 常用工具页
 
