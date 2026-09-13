@@ -66,6 +66,10 @@ nav:
   - 第一部分 · 原料各自在做什么:
       - chapters/01-ingredients/00-intro.md
       - 第 1 章 · 一份配方里的每样东西在做什么: chapters/01-ingredients/01-what-each-ingredient-does.md
+      - 第 2 章 · 面粉：蛋白质、面筋、淀粉、灰分与损伤淀粉: chapters/01-ingredients/02-flour.md
+      - 第 3 章 · 水：水合、含水量与水粉比: chapters/01-ingredients/03-water.md
+      - 第 4 章 · 糖：甜以外的四件事: chapters/01-ingredients/04-sugar.md
+      - 第 5 章 · 油脂：阻断面筋、充气与口感: chapters/01-ingredients/05-fat.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -74,6 +78,10 @@ nav:
   - 参考书目与出处登记: standards.md
   - 思考题参考答案:
       - 第 1 章: qa/01-what-each-ingredient-does-qa.md
+      - 第 2 章: qa/02-flour-qa.md
+      - 第 3 章: qa/03-water-qa.md
+      - 第 4 章: qa/04-sugar-qa.md
+      - 第 5 章: qa/05-fat-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

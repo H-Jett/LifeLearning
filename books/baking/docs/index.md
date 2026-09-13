@@ -94,10 +94,13 @@
 
 - ✅ [第一部分导读](chapters/01-ingredients/00-intro.md)
 - ✅ 第 1 章 [一份配方里的每样东西在做什么](chapters/01-ingredients/01-what-each-ingredient-does.md)
-- ⬜ 第 2 章 面粉 ｜ ⬜ 第 3 章 水 ｜ ⬜ 第 4 章 糖 ｜ ⬜ 第 5 章 油脂
+- ✅ 第 2 章 [面粉：蛋白质、面筋、淀粉、灰分与损伤淀粉](chapters/01-ingredients/02-flour.md)
+- ✅ 第 3 章 [水：水合、含水量与水粉比](chapters/01-ingredients/03-water.md)
+- ✅ 第 4 章 [糖：甜以外的四件事](chapters/01-ingredients/04-sugar.md)
+- ✅ 第 5 章 [油脂：阻断面筋、充气与口感](chapters/01-ingredients/05-fat.md)
 - ⬜ 第 6 章 蛋 ｜ ⬜ 第 7 章 盐 ｜ ⬜ 第 8 章 膨松剂 ｜ ⬜ 第 9 章 烘焙百分比 ｜ ⬜ 项目 P1
 
-**下一站**：第 2 章 · 面粉：蛋白质、面筋、淀粉、灰分与损伤淀粉。
+**下一站**：第 6 章 · 蛋：一样东西同时是水分、乳化剂、结构和气泡。
 
 ## 常用工具页
 
