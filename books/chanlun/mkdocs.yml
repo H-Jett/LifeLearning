@@ -79,6 +79,16 @@ nav:
       - 第 9 章 · 线段（上）：为什么笔不够用: chapters/02-geometry/09-segment-why.md
       - 第 10 章 · 线段（下）：特征序列与「两种情况」: chapters/02-geometry/10-segment-how.md
       - 第 11 章 · 把几何层写成程序: chapters/02-geometry/11-implementation.md
+  - 第三部分 · 中枢:
+      - chapters/03-pivot/00-intro.md
+      - 第 12 章 · 中枢的定义: chapters/03-pivot/12-pivot-def.md
+      - 第 13 章 · 中枢的延伸: chapters/03-pivot/13-pivot-extend.md
+      - 第 14 章 · 中枢的新生与趋势: chapters/03-pivot/14-pivot-new.md
+      - 第 15 章 · 中枢的扩张: chapters/03-pivot/15-pivot-expand.md
+      - 第 16 章 · 中枢三定理: chapters/03-pivot/16-pivot-theorems.md
+      - 第 17 章 · 走势类型与级别的递归: chapters/03-pivot/17-recursion.md
+      - 第 18 章 · 走势终完美: chapters/03-pivot/18-perfection.md
+      - 🛠 项目 P2 · 给一段行情做完整中枢标注: chapters/03-pivot/project-P2-pivot-annotation.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -100,6 +110,13 @@ nav:
       - 第 9 章: qa/09-segment-why-qa.md
       - 第 10 章: qa/10-segment-how-qa.md
       - 第 11 章: qa/11-implementation-qa.md
+      - 第 12 章: qa/12-pivot-def-qa.md
+      - 第 13 章: qa/13-pivot-extend-qa.md
+      - 第 14 章: qa/14-pivot-new-qa.md
+      - 第 15 章: qa/15-pivot-expand-qa.md
+      - 第 16 章: qa/16-pivot-theorems-qa.md
+      - 第 17 章: qa/17-recursion-qa.md
+      - 第 18 章: qa/18-perfection-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
