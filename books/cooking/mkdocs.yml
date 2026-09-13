@@ -81,6 +81,13 @@ nav:
       - 第 11 章 · 盐：唯一不可替代的调料: chapters/02-taste/11-salt.md
       - 第 12 章 · 糖与酸: chapters/02-taste/12-sugar-acid.md
       - 第 13 章 · 鲜与香: chapters/02-taste/13-umami-aroma.md
+      - 第 14 章 · 中式调料图谱: chapters/02-taste/14-chinese-condiments.md
+      - 第 15 章 · 尝一口再决定：调味的纠偏流程: chapters/02-taste/15-tasting-loop.md
+      - 🛠 项目 P2 · 咸度与鲜度标定: chapters/02-taste/project-p2-salt-umami-baseline.md
+  - 第三部分 · 食材与预处理:
+      - chapters/03-ingredients/00-intro.md
+      - 第 16 章 · 肉的结构: chapters/03-ingredients/16-meat-structure.md
+      - 第 17 章 · 嫩化：腌制、上浆挂糊、静置: chapters/03-ingredients/17-tenderizing.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -101,6 +108,10 @@ nav:
       - 第 11 章: qa/11-salt-qa.md
       - 第 12 章: qa/12-sugar-acid-qa.md
       - 第 13 章: qa/13-umami-aroma-qa.md
+      - 第 14 章: qa/14-chinese-condiments-qa.md
+      - 第 15 章: qa/15-tasting-loop-qa.md
+      - 第 16 章: qa/16-meat-structure-qa.md
+      - 第 17 章: qa/17-tenderizing-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
