@@ -70,6 +70,13 @@ nav:
       - 第 3 章 · 水：食材里的水、锅里的水、跑掉的水: chapters/01-four-lines/03-water.md
       - 第 4 章 · 蛋白质：变性、凝固与保水: chapters/01-four-lines/04-protein.md
       - 第 5 章 · 胶原与结缔组织: chapters/01-four-lines/05-collagen.md
+      - 第 6 章 · 淀粉：糊化与回生: chapters/01-four-lines/06-starch.md
+      - 第 7 章 · 褐变：美拉德反应与焦糖化: chapters/01-four-lines/07-browning.md
+      - 第 8 章 · 酸与碱: chapters/01-four-lines/08-acid-alkali.md
+      - 🛠 项目 P1 · 把菜谱翻译成原理: chapters/01-four-lines/project-p1-recipe-translation.md
+  - 第二部分 · 味觉与调味原理:
+      - chapters/02-taste/00-intro.md
+      - 第 9 章 · 味觉是怎么工作的: chapters/02-taste/09-taste.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -82,6 +89,10 @@ nav:
       - 第 3 章: qa/03-water-qa.md
       - 第 4 章: qa/04-protein-qa.md
       - 第 5 章: qa/05-collagen-qa.md
+      - 第 6 章: qa/06-starch-qa.md
+      - 第 7 章: qa/07-browning-qa.md
+      - 第 8 章: qa/08-acid-alkali-qa.md
+      - 第 9 章: qa/09-taste-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
