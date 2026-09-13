@@ -89,6 +89,15 @@ nav:
       - 第 17 章 · 走势类型与级别的递归: chapters/03-pivot/17-recursion.md
       - 第 18 章 · 走势终完美: chapters/03-pivot/18-perfection.md
       - 🛠 项目 P2 · 给一段行情做完整中枢标注: chapters/03-pivot/project-P2-pivot-annotation.md
+  - 第四部分 · 力度与背驰:
+      - chapters/04-divergence/00-intro.md
+      - 第 19 章 · 力度: chapters/04-divergence/19-strength.md
+      - 第 20 章 · 背驰的严格条件: chapters/04-divergence/20-divergence.md
+      - 第 21 章 · 盘整背驰: chapters/04-divergence/21-consolidation-divergence.md
+      - 第 22 章 · MACD 作为辅助: chapters/04-divergence/22-macd.md
+      - 第 23 章 · 背驰—转折定理: chapters/04-divergence/23-divergence-turn.md
+      - 第 24 章 · 区间套: chapters/04-divergence/24-interval-nesting.md
+      - 🛠 项目 P3 · 建立自己的背驰样本库: chapters/04-divergence/project-P3-divergence-log.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -96,6 +105,7 @@ nav:
       - forms/index.md
       - 走势分解记录表: forms/decomposition-log.md
       - 中枢标注表: forms/pivot-worksheet.md
+      - 背驰记录表: forms/divergence-log.md
       - 检验预登记表: forms/prereg-template.md
   - 术语表: glossary.md
   - 思考题参考答案:
@@ -117,6 +127,12 @@ nav:
       - 第 16 章: qa/16-pivot-theorems-qa.md
       - 第 17 章: qa/17-recursion-qa.md
       - 第 18 章: qa/18-perfection-qa.md
+      - 第 19 章: qa/19-strength-qa.md
+      - 第 20 章: qa/20-divergence-qa.md
+      - 第 21 章: qa/21-consolidation-divergence-qa.md
+      - 第 22 章: qa/22-macd-qa.md
+      - 第 23 章: qa/23-divergence-turn-qa.md
+      - 第 24 章: qa/24-interval-nesting-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
