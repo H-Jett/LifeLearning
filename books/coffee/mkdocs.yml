@@ -77,6 +77,10 @@ nav:
       - 第 7 章 · 种植环境: chapters/02-upstream/07-growing-environment.md
       - 第 8 章 · 病虫害与品种更新: chapters/02-upstream/08-pests-and-renewal.md
       - 第 9 章 · 采收与成熟度: chapters/02-upstream/09-harvest-ripeness.md
+      - 第 10 章 · 处理法 ①：日晒、水洗、蜜处理: chapters/02-upstream/10-processing-basics.md
+      - 第 11 章 · 处理法 ②：厌氧与接种发酵: chapters/02-upstream/11-fermentation-experimental.md
+      - 第 12 章 · 干燥、含水率与生豆储存: chapters/02-upstream/12-drying-storage.md
+      - 第 13 章 · 生豆分级与瑕疵: chapters/02-upstream/13-green-grading.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -94,6 +98,10 @@ nav:
       - 第 7 章: qa/07-growing-environment-qa.md
       - 第 8 章: qa/08-pests-and-renewal-qa.md
       - 第 9 章: qa/09-harvest-ripeness-qa.md
+      - 第 10 章: qa/10-processing-basics-qa.md
+      - 第 11 章: qa/11-fermentation-experimental-qa.md
+      - 第 12 章: qa/12-drying-storage-qa.md
+      - 第 13 章: qa/13-green-grading-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

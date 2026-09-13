@@ -79,9 +79,13 @@
 - ✅ 第 7 章 [种植环境：海拔、纬度、荫蔽、土壤与气候](chapters/02-upstream/07-growing-environment.md)
 - ✅ 第 8 章 [病虫害与品种更新](chapters/02-upstream/08-pests-and-renewal.md)
 - ✅ 第 9 章 [采收与成熟度](chapters/02-upstream/09-harvest-ripeness.md)
-- ⬜ 第 10~14 章（处理法 · 干燥与储存 · 生豆分级 · 产区地图）+ 项目 P2
+- ✅ 第 10 章 [处理法 ①：日晒、水洗、蜜处理的原理](chapters/02-upstream/10-processing-basics.md)
+- ✅ 第 11 章 [处理法 ②：厌氧、接种发酵与"实验性处理"](chapters/02-upstream/11-fermentation-experimental.md)
+- ✅ 第 12 章 [干燥、含水率与生豆储存](chapters/02-upstream/12-drying-storage.md)
+- ✅ 第 13 章 [生豆分级与瑕疵](chapters/02-upstream/13-green-grading.md)
+- ⬜ 第 14 章（产区地图）+ 项目 P2
 
-**下一站**：第 10 章「处理法 ①：日晒、水洗、蜜处理的原理」。
+**下一站**：第 14 章「产区地图：主要产国的风味坐标」，之后是第二部分的项目 P2。
 
 ## 常用工具页
 

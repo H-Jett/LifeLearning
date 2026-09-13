@@ -49,6 +49,19 @@
 >
 > 另外注意：上述编号与状态**会随时间变化**，正式用途请以查询当时的官网为准。
 > 本书正文引用 SCA 标准时只写编号与题名，不复制其条文与表格版式。
+>
+> **2026-09-13 复核（写第 13 章时做，登记为 [SCA2]）**：标准页的路径已变更
+> （旧地址 404，现位于 Research → Coffee Standards）。复核当日的状态是：
+> **已发布**仍为 SCA-102/103/104/105/710 与需会员登录的 SCA-310/320/350/510；
+> **"Standards in Development"** 一栏仍列有
+> **SCA-110 Green Coffee: Grading, Specifications, and Test Methods (for the Purpose of Trading)**
+> （这次核到了完整题名中的括号部分）、SCA-131、SCA-315、SCA-352。
+>
+> **这条对第 13 章至关重要**：**核对当日，该协会的已发布标准清单里没有生豆分级标准。**
+> 因此本书**不复述**流传的"精品级生豆瑕疵表"中的任何阈值
+> （见[第 13 章 §13.7](chapters/02-upstream/13-green-grading.md)）。
+> 本书能断言的只是"核对当日它仍在制定中"，**不能**断言"从来没有过"——
+> 与 §1.1 对水质表的处理完全一致。
 
 ### 1.2 WCR 品种目录的核对记录（2026-09，写第 6~9 章时做）
 
@@ -84,6 +97,11 @@
 > 请求被站点的防护层拦截（返回 403 / 人机校验页），**仍然无法核到任何编号与准确标题**。
 > 因此本轮新增的第 6~9 章**同样没有引用任何标准编号**。
 > 这条记录本身也是本书的一个态度：**核不到就写"核不到"，不靠记忆补编号。**
+>
+> **2026-09-13 第三次复核（写第 10~13 章时）**：再次访问 `iso.org` 的检索页，
+> 仍返回 **403**。因此第 10、11、12、13 章**同样一个标准编号都不写**——
+> 包括第 12 章的含水率、第 13 章的分级与瑕疵，这两处本来是全书最需要标准编号的地方。
+> 第 13 章 §13.7 把这件事本身写成了正文的一节，说明"核不到"也是一种可交付的结论。
 >
 > 待办：写第 13 章（生豆分级与瑕疵）与第 34 章（杯测流程）之前，
 > 去 <https://www.iso.org/> 按关键词 coffee 检索，逐条核对编号、**准确标题**与现行版本，
@@ -273,6 +291,71 @@
 | **[R8]** | Ferreira, L. J. C., Casé, I. N., Bertarini, P. L. L., Oliveira, L. M. d., & Santos, L. D. (2024). Impact of immature coffee fruits and water addition during spontaneous fermentation process: Chemical composition and sensory profile. *Electronic Journal of Biotechnology*, 69, 21–29 | 含 **11.0%** 与 **0.3%** 未熟果的自发厌氧发酵对照：未熟果比例**显著改变初始糖（蔗糖/葡萄糖/果糖）、灰分与可滴定酸度**；但所有处理杯测均 **>84 分**；含 11% 未熟果的水下发酵组描述最突出。⚠️ **单一研究、只有两档比例、经过特定发酵** | ✅ 已读摘要 |
 | **[R9]** | Cuchca Ramos, S., 等 (2025). Multispectral and Colorimetric Approaches for Non-Destructive Maturity Assessment of Specialty Arabica Coffee. *Foods*, 14(21), 3644. PMCID PMC12608603（开放获取） | 四个品种（Caturra Amarillo、Excelencia、Milenio、Típica）：成熟中 550 nm 反射率下降、660 nm 上升，735–790 nm 相对稳定；**a\* 是最可靠的成熟度指示**，L\* 随成熟下降；PCA 解释 >98% 变异；MLR 调整 R² **0.789~0.877** | ✅ 已读摘要 |
 
+### 4.13 处理法：日晒 / 水洗 / 蜜处理（第 10 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[PR1]** | Bytof, G., Knopp, S.-E., Kramer, D., Breitenstein, B., Bergervoet, J. H., Groot, S. P., & Selmar, D. (2007). Transient occurrence of seed germination processes during coffee post-harvest treatment. *Annals of Botany*, 100(1), 61–66. PMCID PMC2735289 | **第 10 章的机理核心**：用发芽专属酶**异柠檬酸裂解酶（ICL）**表达、流式细胞术与 β-微管蛋白追踪发芽；**水洗约在第 2 天达峰、日晒约在第 1 周达峰**；作者据此推断处理法间的成分差异是**代谢活动差异的结果** | ✅ 已读摘要 |
+| **[PR2]** | Selmar, D., Bytof, G., Knopp, S.-E., & Breitenstein, B. (2006). Germination of coffee seeds and its significance for coffee quality. *Plant Biology*, 8(2), 260–264. PMID 16547871 | **反驳"差异只来自原料"的关键一句**：即使**同一批样品被平行地**用两种方式处理，品质差异**依然存在**，因此差异"必定由咖啡豆自身的代谢过程产生" | ✅ 已读摘要 |
+| **[PR3]** | Kramer, D., Breitenstein, B., Kleinwächter, M., & Selmar, D. (2010). Stress metabolism in green coffee beans (*Coffea arabica* L.): expression of dehydrins and accumulation of GABA during drying. *Plant & Cell Physiology*, 51(4), 546–553. PMID 20208063 | 干燥期水势下降诱发**大规模干旱胁迫反应**；GABA 出现**三个累积峰**——第一个与 ICL 表达（发芽）同步，后两个对应**胚**与**胚乳**中脱水素基因表达的高峰 | ✅ 已读摘要 |
+| **[PR4]** | Gui, R., 等 (2026). The Effect of Different Coffee Cherry Pulp-Retention Amounts on the Quality of Robusta Green Coffee Beans. *Foods*, 15(15), 2714. PMCID PMC13465081（开放获取） | **蜜处理的梯度实验**：海南罗布斯塔，果肉保留 0/33/66/100%；相对 0% 组，**66% 组**蔗糖 +8.74%、有机酸 +26.58%、吡嗪 +80.66%、酯类 +30.18%，杯测 **80.35**，综合品质优于其他处理 6.05%~18.51%。⚠️ 单一物种、单一产地、单季 | ✅ 已读摘要 |
+| **[PR5]** | Liang, Y., 等 (2026). Analysis of Changes in Taste Characteristics of Coffee at Different Primary Processing Methods Using E-Tongue, Untargeted Metabolomics and WGCNA. *Foods*, 15(9), 1475. PMCID PMC13163802（开放获取） | 五种处理（日晒 DP / 水洗 WP / 红蜜 RH / 黑蜜 BH / 厌氧 AF）的电子舌 + 感官 + 非靶向代谢组：BH 与 AF 在口感、平衡、整体分更高；WP 与 DP 的苦涩响应更高；808 个差异代谢物、8 个感官相关模块、467 个枢纽代谢物；差异通路指向咖啡因代谢与甘油磷脂代谢 | ✅ 已读摘要 |
+| **[PR6]** | Knopp, S.-E., Bytof, G., & Selmar, D. (2006). Influence of processing on the content of sugars in green Arabica coffee beans. *European Food Research and Technology*, 223(2), 195–201. doi:10.1007/s00217-005-0172-1 · Kleinwächter, M., & Selmar, D. (2010). Influence of drying on the content of sugars in wet processed green Arabica coffees. *Food Chemistry*, 119(2), 500–504. doi:10.1016/j.foodchem.2009.06.048 | 这两篇专门研究"处理与干燥如何改变生豆糖含量"。**仅登记坐标** | ⚠️ **书目已核对，正文与摘要均未读到**（Crossref/OpenAlex 均无摘要）。正文**不引用其任何数值** |
+
+> 第 10 章同时大量引用 §4.1 的 **[C2]**（本轮**已读全文相关章节**）：三种处理的流程与时间；
+> 整果含水率 65%~70%、日晒干燥 2~4 周；蜜处理保留胶质 **20%~80%**；水洗发酵 **6~48 小时**；
+> 发芽被果肉与脱落酸抑制；GABA（水洗 93 / 140 vs 日晒 1009 / 1860 nmol/种子，巴西 / 坦桑尼亚）；
+> 游离氨基酸的处理间差异 **3.3%~20.9%**；蔗糖等成分按处理法的报告区间；
+> 微生物类群与过程指标（pH 6.5 → 5.5~5.8、水分活度 0.9 → 0.7~0.8）；
+> 以及作者自承"各微生物类群的实际作用尚不清楚"。
+
+### 4.14 发酵条件与"实验性处理"（第 11 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[FM1]** | Peñuela-Martínez, A. E., Osorio-Giraldo, C. V., Buitrago-Zuluaga, C., & Medina-Rivera, R. D. (2025). Development of Fermentation Strategies for Quality Mild Coffee Production (*Coffea arabica* L.) Based on Oxygen Availability and Processing Time. *Foods*, 14(17), 3001. PMCID PMC12427761（开放获取） | **第 11 章主干**：开放槽（半厌氧 SA）vs 密闭罐（SIAF）× 整果 vs 脱皮豆，192 h、每 24 h 牺牲式生物反应器取样；16S/ITS 平均 260 ± 71 与 101 ± 24 个 OTU；*Weissella* 为优势乳酸菌；***Acetobacter* 在半厌氧下更丰富**；显著受影响的指标含 pH、葡萄糖消耗、乳酸、干物质、**胚活力**、**健康豆百分比**；综合指数"短时间 + SIAF"最佳、"长时间 + 开放槽"最差（0.497 / 0.369） | ✅ 已读摘要 |
+| **[FM2]** | Bressani, A. P. P., 等 (2025). Exploring coffee processing stages: Wet fermentation with and without *Saccharomyces cerevisiae* vs. Conventional process. *World Journal of Microbiology & Biotechnology*, 41(7), 212. PMID 40555793 | SIAF ± *S. cerevisiae* CCMA 0543 vs 常规日晒；接种组末端葡萄糖 1.30、果糖 2.64 g/kg，**乳酸 8.76、乙酸 6.40 g/kg**；常规处理乙酸 **10.12 g/kg**；**只有接种组被判为精品（85.00 分）** | ✅ 已读摘要 |
+| **[FM3]** | Madrid-Restrepo, M. A., León-Inga, A. M., Peñuela-Martínez, A. E., Cala, M. P., & Reyes, A. (2026). Metagenomic, metabolomic, and sensorial characteristics of fermented *Coffea arabica* L. var. Castillo beans inoculated with microbial starter cultures. *mSystems*, 11(1), e0136425. PMCID PMC12817937（开放获取） | 接种 vs 自发：接种组**所有感官属性**更优；蔗糖、甘露醇、甲基苯乙酸酯与苹果酸/柠檬酸/奎宁酸更高；**自发组的氨基酚与苯酚更高**，作者称这是**首次**把这两类化合物与缺陷风味直接关联，并提出接种可作为**降低杯中缺陷风险**的手段 | ✅ 已读摘要 |
+| **[FM4]** | Marques Tenório Pereira, C., 等 (2026). Enhancing coffee quality under humid subtropical conditions through ecological modulation of wet fermentation with an indigenous yeast starter. *International Journal of Food Microbiology*, 458, 111878. PMID 42229272 | 24 株分离物中筛出 *Pichia kluyveri* LBP UFSC L24；田间接种后占真菌读数 **>96%**；碳水代谢加快、乙醇更高、关键酯类累积增加；**杯测分 84.0 → 86.25** | ✅ 已读摘要 |
+| **[FM5]** | Alonso, L., 等 (2026). Industrial-scale fermentation of Arara coffee in a 15,000 L bioreactor: Impacts of process variables on quality and sensory profiles. *Food Research International*, 223(Pt 1), 117845. PMID 41352791 | **规模化与均匀性**：15,000 L 不锈钢反应器、48 h 控温 SIAF、多点取样；固态 SIAF + 接种 *S. cerevisiae* 使 SCA 分**最多 +2.7**、鉴定挥发物 **+46%**；**PERMANOVA 显示只有固态发酵在罐内不同位置间均匀** | ✅ 已读摘要 |
+| **[FM6]** | Moncayo-Palacios, M. F., 等 (2025). Impact of Coffee Cherry Fermentation Methods on the Quality Attributes of Dry-Processed Coffee. *TheScientificWorldJournal*, 2025, 4278424. PMCID PMC12767571（开放获取） | 日晒侧的五处理对照（空气 24/48 h、密闭 CO₂ 24/60 h、不发酵对照）：**改性气氛抑制蔗糖消耗**、保住绿原酸、反式油酸下降 <10%；感官品质差异显著 | ✅ 已读摘要 |
+| **[FM7]** | Silva, L. C. F., 等 (2026). Microbial community dynamics during *Coffea arabica* cv. Arara fermentation and their relationship with specialty coffee quality. *Scientific Reports*, 16(1), 21933. PMCID PMC13365391（开放获取） | SIAF 的时间 × 温度 × 固态/液态 × ±起始培养物：**真菌多样性在头 24 h 内急剧下降**；*Lactobacillus* 与 *Kazachstania* 占优；*Leuconostoc*、*Lactobacillus*、*Pichia* 为感官正相关候选标记 | ✅ 已读摘要 |
+| **[FM8]** | Carvalho, F. M., de Sousa, M. M. M., & Nadaleti, D. H. S. (2026). Label Information About Fermentation Processing Affects Consumers' Sensory and Hedonic Judgements of Specialty Coffee. *Foods*, 15(8), 1287. PMCID PMC13115149（开放获取） | **本书关于"标签效应"最重要的一篇**：180 名精品咖啡消费者、被试内设计、**同一支咖啡配三种标签**（无信息 / "fermentation" / "carbonic maceration"）；"发酵"标签被预期为**最酸、最不喜欢**并在品尝中得到证实；"碳浸渍"提升好奇与新颖感且**不损害感官接受度**；创新术语被认为更异国、**更贵** | ✅ 已读摘要 |
+| **[FM9]** | Lee, B. H., 等 (2023). Microbial Diversity of Anaerobic-Fermented Coffee and Potential for Inhibiting Ochratoxin-Produced *Aspergillus niger*. *Foods*, 12(15), 2967. PMCID PMC10418422（开放获取） | 厌氧发酵的**温度**变量：4 ℃ vs 37 ℃、12 h vs 36 h；高温下 *Acetobacter* 占优，低温下 *Leuconostoc* 与 *Gluconobacter* 占优且菌群变化较慢；并报告发酵代谢物对产赭曲霉毒素 *A. niger* 的抑制作用。**本书只复述结果，不做安全性推断** | ✅ 已读摘要 |
+| **[FM10]** | Lindsay, S. (2026). Fermenting value on Vietnamese coffee farms: working knowledge and the production of quality. *Agriculture and Human Values*, 43(1), 1. PMCID PMC12712080（开放获取） | 人类学视角：生产者如何组装"能在价值链上说得通"的**工作知识**；用于说明"实验性处理"同时是技术与叙事生产 | ✅ 已读摘要 |
+
+### 4.15 干燥、含水率与生豆储存（第 12 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[D1]** | Duque-Dussán, E., Figueroa-Varela, P. A., Cruz-Ospina, V., & Banout, J. (2026). Advances in Coffee Drying: A Comprehensive Review of Traditional, Solar, Mechanical, Hybrid, and Emerging Methods. *Foods*, 15(10), 1737. PMCID PMC13205183（开放获取） | **第 12 章主干**：刚采收 **50%~60%**（湿基）→ 安全储存 **10%~12%**（湿基）；含水率维持在 12% 以上时真菌定殖风险上升；晒场摊层 **2~5 cm**、**7~20 天**；高床高 **0.8~1.2 m**、摊层 **2~4 cm**、每日翻 **2~3 次**；机械干燥 **24~72 h**；主动式太阳能干燥高于环境 **10~25 ℃**、时间缩短 **30%~50%**；**表壳硬化与回潮**两种失败模式；作者自承多尺度建模与实时监测仍是空白 | ✅ 已读全文相关章节 |
+| **[D2]** | Selmar, D., Bytof, G., & Knopp, S.-E. (2008). The storage of green coffee (*Coffea arabica*): decrease of viability and changes of potential aroma precursors. *Annals of Botany*, 101(1), 31–38. PMCID PMC2701840 | **第 12 章最重要的一篇**：两年储存；**带壳保存活力 >1 年、其他形式 <6 个月**；葡萄糖与果糖略降、谷氨酰胺显著下降；**这些变化与活力不相关**（同时排除了活细胞代谢与死后反应两种解释）；出现特征性**蓝绿色**（推测源于绿原酸氧化及其与伯胺化合物的反应），作者提出可作为长期储存的标记；推测储存期间的 **Maillard 反应**是潜在香气前体减少的原因，并提出活力丧失与"香气变平"有关 | ✅ 已读摘要 |
+| **[D3]** | Gallego, C. P., Pabón, J., Medina, R. D., & Osorio, V. (2025). Maintenance of the Quality of Coffee (*Coffea arabica* L.) in Different Packaging and Storage Locations. *International Journal of Food Science*, 2025, 5049217. PMCID PMC12658285（开放获取） | 八种包装 × 四个地点 × **365 天**：温湿度恒定的地点有 PE-EVOH、PE-PAV、PE-double、PP-PVC 四种保住全年感官总分，**黄麻纤维未能**；高温高湿地点 **60 天**后总分受显著影响；冷库 **240 天**；作者结论是**环境条件决定包装能发挥多大作用** | ✅ 已读摘要 |
+| **[D4]** | Eshete, F. A., Tola, Y. B., Kuyu, C. G., Tolessa, K., Mulugeta, D., & Gure, S. (2024). Physicochemical stability and sensory quality of selected Ethiopian coffee (*Coffea arabica* L.) brands as affected by packaging materials during storage. *Heliyon*, 10(8), e29323. PMCID PMC11031754（开放获取） | 带壳咖啡 **12 个月**、四种包装（黄麻、内衬 LDPE 的编织 PP、GrainPro、PICS）× 三个产区品牌：**气密包装优于黄麻袋**；其中两个品牌在气密袋中维持 **80 分以上** | ✅ 已读摘要 |
+| **[D5]** | Aung Moon, S., Wongsakul, S., Kitazawa, H., Kittiwachana, S., & Saengrayap, R. (2024). Application of ATR-FTIR for Green Arabica Bean Shelf-Life Determination in Accelerated Storage. *Foods*, 13(15), 2331. PMCID PMC11311548（开放获取） | 日晒与蜜处理生豆在 GrainPro 袋中、**30/40/50 ℃、RH 50%** 下的加速储存；以过氧化值与 TBARS 建模估计货架期（日晒 45.67 / 29.9 / 24.92 天；蜜处理 60.34 / 38.07 / 19.22 天）。⚠️ **加速条件下的模型估计值，本书不换算成常温保质期** | ✅ 已读摘要 |
+| **[D6]** | Collazos-Escobar, G. A., Hurtado-Cortés, V., Bahamón-Monje, A. F., & Gutiérrez-Guzmán, N. (2025). Mathematical modeling of water sorption isotherms in specialty coffee beans processed by wet and semidry postharvest methods. *Scientific Reports*, 15(1), 3898. PMCID PMC11785944（开放获取） | 水洗与半日晒豆在 **a_w 0.1~0.85**、**25/35/45 ℃** 下的吸附等温线（动态露点法）；均为 BET 分类的 **II 型 S 形**曲线；**温度显著影响曲线**；**半日晒豆残留的胶质对吸水具有保护作用** | ✅ 已读摘要 |
+| **[D7]** | Abreu, D. J. M., Lorenço, M. S., Machado, G. G. L., Silva, J. M., Azevedo, E. C., & Carvalho, E. E. N. (2025). Influence of Drying Methods on the Post-Harvest Quality of Coffee: Effects on Physicochemical, Sensory, and Microbiological Composition. *Foods*, 14(9), 1463. PMCID PMC12071231（开放获取） | 三种干燥方式（日晒 / 日晒 + 旋转机械 / 机械干燥机）× 两个巴西产区：机械干燥组**水分活度 <0.6**、含水率 **7.73%~10.42%**、酚类与抗氧化保留更高、感官达 **80~81 分**。⚠️ 单季、具名商业设备，**本书不推荐设备** | ✅ 已读摘要 |
+| **[D8]** | Fernandez-Rosillo, F., 等 (2026). Text Mining Analysis of Q-Grader Sensory Descriptors in Specialty Coffee Under Accelerated Storage Conditions. *Foods*, 15(15), 2756. PMCID PMC13465152（开放获取） | 生豆与熟豆在八种包装配置、**40/50/60 ℃** 加速储存下的 Q-Grader 描述语文本挖掘：**真空与多层复合包装**更能保住理想属性；**高温与研磨加速劣化**；描述语系统性地由新鲜相关词转向储存相关的负面词 | ✅ 已读摘要 |
+
+### 4.16 生豆分级与瑕疵（第 13 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[GR1]** | Gebreselassie, H., Tesfaye, B., Gedebo, A., & Tolessa, K. (2024). Evaluation of physical and chemical characteristics of bean and cup quality of arabica coffee genotypes grown in Southern Ethiopia. *Heliyon*, 10(14), e34378. PMCID PMC11305185（开放获取） | **第 13 章主干**：目数以 **1/64 英寸**为单位（"screen-size holes of 14（1/64 inch of 14）"），记录**截留百分比**；ECX 实验室用约 **300 g** 生豆样评估目数、形状与制作、颜色、气味；**埃塞俄比亚分级要求 >85% 的豆达到 14 目**；评估表把**生豆物理特征（形状与制作 15、颜色 15、气味 10）与杯中品质（香气质量 5、香气强度 5、酸度 10、涩感 5、苦味 5、body 10、风味 10、整体 10）合并计分**；颜色档位 bluish > greyish > greenish > coated > faded > white；30 个基因型 × 3 地点下基因型、地点与交互作用均显著；豆型均匀可避免小颗粒被烤焦 | ✅ 已读全文相关章节 |
+| **[GR2]** | Hu, G. L., Quan, C. X., Dai, H. P., & Qiu, M. H. (2024). Characterization of defective coffee beans and blends differentiation based on ¹H qNMR technique. *Current Research in Food Science*, 9, 100870. PMCID PMC11472107（开放获取） | 酸豆、黑豆、霉豆与正常豆的对比：瑕疵豆**糖与脂质更低、乙酸更高**；水溶性部分比油相更适合判别 | ✅ 已读摘要 |
+| **[GR3]** | Kim, K. J., & Kim, D. O. (2025). Characterization of acyl-quinic acids and antioxidant capacity in defective green coffee beans using LC-HRMS. *Food Chemistry: X*, 28, 102506. PMCID PMC12133709（开放获取） | **10 类**瑕疵生豆中共鉴定 **37 种**酰基奎宁酸；**全黑、部分黑、虫蛀、萎缩、浮豆**的含量显著**高于**正常豆；黑、虫蛀、萎缩三类抗氧化能力更强。用于论证"瑕疵是**不同**，不只是**更差**"，并部分补核"浮豆"一条 | ✅ 已读摘要 |
+| **[GR4]** | Bastian, F., 等 (2026). MMSE-GC-MS volatile organic compound profiling of twelve defect categories in Robusta coffee beans. *Food Chemistry*, 523, 150212. PMID 42365769 | 罗布斯塔 **12 类**瑕疵的挥发物轮廓；42 种挥发物；PCA 解释 **57.8%** 方差，**第一主轴是"豆 vs 非豆"**；标记物在商业级未分选样品中仍可检出 | ✅ 已读摘要 |
+| **[GR5]** | Jackels, S. C., Marshall, E. E., Omaiye, A. G., Gianan, R. L., Lee, F. T., & Jackels, C. F. (2014). GCMS investigation of volatile compounds in green coffee affected by potato taste defect and the Antestia bug. *J. Agric. Food Chem.*, 62(42), 10222–10229. PMID 25284290 | PTD 证据链的第一段：PTD 豆**表面**挥发物由十三烷、十二烷、十四烷主导，与干燥盾蝽体内最主要的三种挥发物一致；**IPMP 不在表面而在豆的内部**被检出；有可见虫害的豆同时具备两者 | ✅ 已读摘要 |
+| **[GR6]** | Mutarutwa, D., Navarini, L., Lonzarich, V., Crisafulli, P., Compagnone, D., & Pittia, P. (2020). Determination of 3-Alkyl-2-methoxypyrazines in Green Coffee: A Study To Unravel Their Role on Coffee Quality. *J. Agric. Food Chem.*, 68(17), 4743–4751. PMID 31838839 | **本章最重要的反直觉证据**：三种甲氧基吡嗪在**所有优质样品**中均可检出（是浓度问题不是有无问题）；IPMP 是主要缺陷指示物；**虫害损伤不是引发该异味的充分条件**；**新鲜马铃薯中甲氧基吡嗪浓度很低**，命名来自感知联想 | ✅ 已读摘要 |
+| **[GR7]** | Cain, C. N., 等 (2021). Analytical Determination of the Severity of Potato Taste Defect in Roasted East African Arabica Coffee. *J. Agric. Food Chem.*, 69(7), 2253–2261. PMID 33566609 | IPMP 可区分缺陷与非缺陷样品、**IBMP 不能**；缺陷样品 IPMP **1.6~529.9 ng/g**、非缺陷平均 **2.0 ng/g**；浓度随异味强度显著不同（p < 0.05）；另有 21 种分析物随强度变化，且与异味强度正相关者多为气味不愉快的物质 | ✅ 已读摘要 |
+| **[GR8]** | Hale, A. R., Ruegger, P. M., Rolshausen, P., Borneman, J., & Yang, J. I. (2022). Fungi associated with the potato taste defect in coffee beans from Rwanda. *Botanical Studies*, 63(1), 17. PMCID PMC9127006（开放获取） | 6 个高丰度真菌 ASV 与杯测评分相关：4 个负相关（*Aspergillus versicolor*、*Penicillium cinnamopurpureum*、*Talaromyces radicus*、*Thermomyces lanuginosus*）、2 个正相关（*Kazachstania humilis*、*Clavispora lusitaniae*）。作者自述为**首次刻画**，给出的是**候选**而非定论 | ✅ 已读摘要 |
+| **[GR9]** | Ndayambaje, J. B., Nsabimana, A., Dushime, S., Ishimwe, F., Janvier, H., & Ongol, M. P. (2019). Microbial identification of potato taste defect from coffee beans. *Food Science & Nutrition*, 7(1), 287–292. PMCID PMC6341129（开放获取） | 卢旺达咖啡中与气味相关的细菌包括**肠杆菌科与 *Pantoea***；**马铃薯气味主要出现在受损的浮豆与人工挑出的受损豆上** | ✅ 已读摘要 |
+| **[GR10]** | Frato, K. E. (2019). Identification of Hydroxypyrazine O-Methyltransferase Genes in *Coffea arabica*: A Potential Source of Methoxypyrazines That Cause Potato Taste Defect. *J. Agric. Food Chem.*, 67(1), 341–351. PMID 30523690 | **植物侧的候选来源**：咖啡基因组中筛出与已知羟基吡嗪 O-甲基转移酶高度同源的基因；表达出的一种酶能**缓慢地**转化相应前体，提示植株本身可能参与 | ✅ 已读摘要 |
+| **[GR11]** | Hong, S., 等 (2026). Automated detection of defective coffee beans based on improved YOLOv10 framework. *Current Research in Food Science*, 13, 101461. PMCID PMC13276431（开放获取） | 在覆盖**七个瑕疵类别**的数据集上，mAP@50 **99.2%**、精确率 98.5%、召回率 98.8%、推理 **2.0 ms**。本书用它说明"**外观分类高度可自动化**"，并强调这与"外观与杯中表现的关系"是两个问题 | ✅ 已读摘要 |
+| **[ICO1]** | International Coffee Organization，*ICO Indicator Prices (I-CIP)* 日度数据表（本书 2026-09 取得） | 四个组的名称与并列关系：**Colombian Milds · Other Milds · Brazilian Naturals · Robustas**。本书**不复述价格数字**，只用其分组结构 | ✅ 一手文件已核对 |
+| **[ICO2]** | International Coffee Organization, Joint Committee 文件 **JC-03/24 Rev. 1**：*ICO composite and group indicator prices: Share of markets and group weightings*（2024-09-07；自 **2024-10-01** 生效；依据 2021—2023 年绿咖啡出口量） | 组权重：Colombian Milds **10.15%**、Other Milds **20.48%**、Brazilian Naturals **31.95%**、Robustas **37.42%**；三年平均出口总量约 **115,646,625 袋**（60 kg/袋）。用于说明"世界贸易的第一层分类是物种 × 处理法 × 产地" | ✅ 已读全文 |
+| **[SCA2]** | Specialty Coffee Association 标准页（本书 **2026-09-13** 复核） | **SCA-110 Green Coffee: Grading, Specifications, and Test Methods (for the Purpose of Trading)** 列在"**Standards in Development**"一栏，**核对当日尚未发布**。见 §1.1 的更新记录 | ✅ 一手网页已核对 |
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -300,6 +383,12 @@
 | 13 | **未熟果混入的后果** | 行业共识："混进未熟果会毁掉一批豆" | [R8]：含 11.0% 与 0.3% 未熟果的批次经自发发酵后**都在 84 分以上**；未熟果确实显著改变了初始糖、灰分与可滴定酸度 | 判为 ⚠️ **缺乏证据**，并同时强调**不能反向解读**为"未熟果没关系"。理由：单一研究、只有两档比例、经过特定发酵、无剂量—反应曲线。正文**不写"超过百分之几就不行"**。见[第 9 章 §9.6](chapters/02-upstream/09-harvest-ripeness.md) |
 | 14 | **气候变化对咖啡的影响有多大** | [E7]：拉美适宜面积到 2050 年**减少 73~88%**；[E1]：三种作物中咖啡最脆弱 | [E6]：升温本身的危害"可能小于此前估计——**至少在水分供应充足时**"，升高的 CO₂ 能缓解热胁迫 | **三边都写，并说明方法不同**：分布模型问"气候空间移到哪里"，生理学研究问"这株树扛不扛得住"。本书**不站队**，也**不给"咖啡将在某年消失"这类说法背书**（那类说法曲解了"适宜面积"）。见[第 7 章 §7.6](chapters/02-upstream/07-growing-environment.md) |
 
+| 15 | **"刚采收的含水率是多少"** | [C2]：**整颗成熟果实** 65%~70% | [D1]：**刚采收的豆** 50%~60%（湿基） | **不是矛盾，是基准不同**（果 vs 豆；且要问湿基还是干基）。本书把它写成教学点：读到任何含水率数字先问"谁的水 / 什么基准 / 哪一步"。见[第 12 章 §12.2](chapters/02-upstream/12-drying-storage.md) |
+| 16 | **发酵中微生物代谢物会不会"进入"种子** | [C2] 综述写道，发酵产生的代谢物**会扩散进入种子**从而改善品质 | 本书**未读到直接测定进入量的一手实验**；而"果肉蔗糖渗入胚乳"一条仍在下面的不采信清单上 | **把两件事分开**：小分子代谢物扩散（机理上更可能，按 ⚠️ 处理）与糖分子穿过木质化羊皮层（**缺乏证据**）。见[第 10 章 §10.5](chapters/02-upstream/10-processing-basics.md) |
+| 17 | **蜜处理的"胶质保留率"有没有统一定义** | 行业普遍使用黄蜜 / 红蜜 / 黑蜜的分档 | [C2] 只给出蜜处理整体保留 **20%~80%** 的范围；[PR4] 用的是自设的 0/33/66/100% 梯度 | **不给颜色对应任何数字**。正文只写范围，并标明颜色分档是**行业惯例**、各产地界定不一。见[第 10 章 §10.3](chapters/02-upstream/10-processing-basics.md) |
+| 18 | **"生豆蓝绿色"是好还是老** | [GR1]：ECX 颜色量表中 **bluish 是最高档**（15 分） | [D2]：长期储存会出现**特征性蓝绿色**，作者提出可作为"存放过久"的标记 | **不把两者等同**：两份资料的描述精度都不足（无色度学坐标），且颜色同时受品种、处理、含水率影响。正文只写"用颜色判断新鲜度需要更精确的定义"，并给出一个可厘清的观察方案。见[第 12 章 §12.5](chapters/02-upstream/12-drying-storage.md) |
+| 19 | **虫害与马铃薯味缺陷的关系** | 常见表述："盾蝽叮咬导致马铃薯味" | [GR6]：虫蛀样品的 IPMP 浓度**变异很大**，作者明确写出**虫害损伤不是引发该异味的充分条件**；另有微生物侧[GR9][GR8]与植物自身酶[GR10]两条候选来源 | 正文把它写成**必要但不充分**，并给出完整证据链。与[第 8 章](chapters/02-upstream/08-pests-and-renewal.md)"单因素归因不成立"一致。见[第 13 章 §13.4](chapters/02-upstream/13-green-grading.md) |
+
 ## 七、本页的"不采信"清单
 
 查不到可追溯的一手来源，按纪律**不写进正文**：
@@ -314,7 +403,7 @@
 | 流传的"SCA 水质表"中的 TDS / 硬度 / 碱度数值 | 核对当日官网标准页与研究页**未列出任何水质标准**（§1.1），无法核对其版本与效力；且本书不复制官方表格版式 |
 | ~~"鲜果 : 生豆 = 5~6 : 1"的具体比值~~ → **2026-09 部分补核** | 已找到一手实测：[R4] 对 44 个 *C. canephora* 基因型测得约 **3.5~4.7 : 1**（按 12% 含水率校正的处理后生豆），且该性状**遗传力 48%~59%**；[G5] 也把"出品比"列为**品种字段**而非常数。**结论改为：不存在通用比值**——正文写范围 + 条件（物种、基因型、处理法、含水率基准、是否计入瑕疵与损耗）。**仍不把流传的 5~6:1 判为"错误"**，因为两者的计量基准不同、无法互相否定。见[第 9 章 §9.7](chapters/02-upstream/09-harvest-ripeness.md) |
 | "某种土壤（如火山土）赋予特定风味" | 未读到"某类土壤 → 某类风味"的对照研究；[E1] 的建模反而显示**气候因子比土壤因子更能限制咖啡适宜区**。土壤当然通过养分供给影响植株，但"土壤 = 风味签名"这一步缺乏依据 |
-| "浮豆（floaters）都是坏豆" | 密度分选在产地普遍使用，但本轮**未找到**支持"浮起 ⇒ 品质差"的可交叉验证一手研究。留到第 12、13 章去查 |
+| ~~"浮豆（floaters）都是坏豆"~~ → **2026-09 部分补核** | 查到两条**部分相关**的证据：[GR3] 中**浮豆**与全黑、部分黑、虫蛀、萎缩一样，酰基奎宁酸含量显著**高于**正常豆（即化学上可区分）；[GR9] 指出马铃薯气味主要出现在**受损的浮豆**与人工挑出的受损豆上。**但"浮起 ⇒ 一定难喝"仍缺乏直接证据**——本书未读到"浮豆 vs 正常豆"的盲测对照。另外注意一个混杂：浮豆是按**密度**定义的集合，成因包括未熟、虫蛀、干燥过度、内部空腔等**完全不同**的来源。见[第 13 章 §13.8](chapters/02-upstream/13-green-grading.md) |
 | "咖啡将在 2050 年消失" | 曲解了原文：[E7] 说的是**适宜面积**减少 73~88%（拉美），不是物种存续；且 [E6] 给出方向相反的生理学证据。本书**不复述任何"某年消失"的时间点断言** |
 | "高海拔病虫害少"（作为一般规律） | **必须分病害与虫害**：咖啡果小蠹侵染率与海拔负相关 [P10]（与其 23–27 ℃ 最适温区一致 [P5][P6]），但叶锈病在 400–951 m 范围内反而**随海拔升高** [P3]。本书**不写一句话概括** |
 | "抗病品种一定不好喝" | [G5] 的原话是渗入品种"**传统上被认为**杯品较低"（行业印象，非实验结论）；反向还有 [G11] 的农场使用频率调查。缺**同一农场、同年、同处理、同烘焙**条件下的盲测对照，因此只能判 ⚠️ |
@@ -322,7 +411,16 @@
 | 未熟果比例与杯测分的**剂量—反应关系** | [R8] 只有 0.3% 与 11% 两档，无法画出曲线。正文**不写"超过百分之几就不行"** |
 | 咖啡霉菌毒素的任何安全性判断或限量解读 | [R5] 只被用来说明"成熟度阶段之间未检出显著差异"与作者关于分选与连续干燥的表述；**本书不做任何安全性推断**，与第 5 章的红线一致 |
 | "圆豆更好喝""银皮残留导致苦""带壳储存更保鲜" | 三条都**缺对照实验**：只找到圆豆的光谱分类研究、银皮的成分测定、羊皮层的结构数据，没有任何一条做过感官或保鲜对照 |
-| "日晒豆的甜来自果肉糖分渗入豆体" | 糖分子穿过木质化羊皮层进入胚乳这一步**无直接证据**；且第 1 章已证明烘焙后蔗糖只剩痕量 |
+| "日晒豆的甜来自果肉糖分渗入豆体" | 糖分子穿过木质化羊皮层进入胚乳这一步**无直接证据**；且第 1 章已证明烘焙后蔗糖只剩痕量。**2026-09 补充**：综述[C2]中"微生物代谢物扩散进入种子"是**另一件事**（分子小得多），本书按 ⚠️ 处理、不作为本条的支持证据，见 §六 #16 |
+| "某处理法的生豆蔗糖是 X%"这类单点值 | [C2] 汇总的各研究区间**大幅重叠**（水洗约 4.4%~9.3%、日晒约 3.2%~9.0%、蜜处理约 8.1%~12.3%），且物种与产地效应大于处理法效应。正文**只写方向与重叠**，见[第 10 章 §10.4](chapters/02-upstream/10-processing-basics.md) |
+| "红蜜 / 黄蜜 / 黑蜜"对应的胶质保留百分比 | 无可核对的统一定义，见 §六 #17。只写综述给的 20%~80% 整体范围，并标明颜色分档是行业惯例 |
+| "厌氧发酵应该做 N 小时 / N 度" | 本书读到的对照研究都是**单产地单季**、且各自只有少数几档条件（如 24/48/60/192 h、4 ℃ vs 37 ℃），不足以给出可外推的参数。正文只写**方向与交互作用**（氧气 × 时间、温度 × 菌群） |
+| "接种发酵能提高 N 分" | [FM2][FM4][FM5] 分别报告"仅接种组达 85.00""84.0 → 86.25""最多 +2.7 分"，但基线与条件各不相同，且存在发表偏倚的可能。正文只写"**四项独立研究方向一致**"，**不外推增益数值** |
+| "超过 N 个月就是过季豆" | 未找到可核对的通用时间阈值。可核实的是：同样天数在恒温恒湿处 365 天总分未受显著影响、在高温高湿处 60 天即受影响[D3]。正文改问"**怎么存的**"，见[第 12 章 §12.7](chapters/02-upstream/12-drying-storage.md) |
+| 由加速储存实验换算出的常温保质期 | [D5] 的货架期估计值是 30/40/50 ℃ 加速条件下的模型输出；外推到常温需要额外的动力学假设，本书不做 |
+| "精品级生豆"的瑕疵上限、含水率上限等具体阈值 | 核对当日该协会的**已发布**标准清单中没有生豆分级标准，相应标准（SCA-110）仍在**制定中**[SCA2]；国际标准机构网站三次核对均被拦截（§二）。流传版本无法核到效力与版本号，**本书一律不复述** |
+| 各产国分级名（G1、AA、SHB、Supremo 等）的具体规则 | 各国规则不同且会修订，本轮未逐一核到当年原文。正文只教"**去查当年有效的规则**"这个方法，留到第 14 章给查证入口 |
+| "家用冷冻能长期保鲜生豆" | 只读到**冷库（低温仓储）**条件下的数据（240 天后才受显著影响[D3]），未读到家庭冷冻生豆的对照研究。熟豆冷冻另有争议，留到第 41 章 |
 | "人类有 400 个嗅觉受体""人能分辨一万亿种气味"这类总数 | 计数口径与方法学均有争议。本书只写"**数百个**量级"（[N1][N2]），气味总数一律不写 |
 | 温度与苦度的定量关系（"每降 x ℃ 苦增 y"） | [N9] 只给出 TRPM4/TRPM5 活性随温度增强的**通道层面机理**，本书未读到咖啡上的定量研究 |
 | 把"气味诱导甜感 +14.7%"套到咖啡上 | [N7] 是在**蔗糖溶液**上做的（n = 16），咖啡上无同类研究。正文只写方向与"倒 U 形"这一**待验证预测** |
