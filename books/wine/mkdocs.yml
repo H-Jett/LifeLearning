@@ -85,6 +85,10 @@ nav:
       - chapters/03-winemaking/00-intro.md
       - 第 12 章 · 红葡萄酒：破碎、浸皮与萃取曲线: chapters/03-winemaking/12-red-winemaking-extraction.md
       - 第 13 章 · 白葡萄酒与桃红: chapters/03-winemaking/13-white-and-rose.md
+      - 第 14 章 · 苹果酸乳酸发酵与酒泥接触: chapters/03-winemaking/14-mlf-and-lees.md
+      - 第 15 章 · 橡木：桶的化学与替代品: chapters/03-winemaking/15-oak.md
+      - 第 16 章 · 起泡酒：传统法、罐式法与气压: chapters/03-winemaking/16-sparkling.md
+      - 第 17 章 · 加强酒与甜酒: chapters/03-winemaking/17-fortified-and-sweet.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -105,6 +109,10 @@ nav:
       - 第 11 章: qa/11-vineyard-management-qa.md
       - 第 12 章: qa/12-red-winemaking-extraction-qa.md
       - 第 13 章: qa/13-white-and-rose-qa.md
+      - 第 14 章: qa/14-mlf-and-lees-qa.md
+      - 第 15 章: qa/15-oak-qa.md
+      - 第 16 章: qa/16-sparkling-qa.md
+      - 第 17 章: qa/17-fortified-and-sweet-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

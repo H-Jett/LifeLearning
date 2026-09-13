@@ -110,9 +110,11 @@
 - ✅ [第三部分导读](chapters/03-winemaking/00-intro.md)
 - ✅ 第 12 章 [红葡萄酒：破碎、浸皮与萃取曲线](chapters/03-winemaking/12-red-winemaking-extraction.md)
 - ✅ 第 13 章 [白葡萄酒与桃红：压榨、澄清与低温发酵](chapters/03-winemaking/13-white-and-rose.md)
-- ⬜ 第 14 章 苹果酸乳酸发酵与酒泥接触
-- ⬜ 第 15 章 橡木：桶的化学、新桶比例与替代品
-- ⬜ 第 16 章 起泡酒 ｜ ⬜ 第 17 章 加强酒与甜酒 ｜ ⬜ 第 18 章 装瓶与陈年化学
+- ✅ 第 14 章 [苹果酸乳酸发酵与酒泥接触](chapters/03-winemaking/14-mlf-and-lees.md)
+- ✅ 第 15 章 [橡木：桶的化学、新桶比例与替代品](chapters/03-winemaking/15-oak.md)
+- ✅ 第 16 章 [起泡酒：传统法、罐式法与气压](chapters/03-winemaking/16-sparkling.md)
+- ✅ 第 17 章 [加强酒与甜酒：波特、雪莉、贵腐、冰酒](chapters/03-winemaking/17-fortified-and-sweet.md)
+- ⬜ 第 18 章 装瓶、封瓶与陈年化学
 - ⬜ 🛠 项目 P2：从一支酒反推它的酿造决策
 
 **下一站**：第 14 章——把"黄油、奶油、面包"这一组香气词归到具体分子与具体工序上，
