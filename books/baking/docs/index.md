@@ -80,7 +80,7 @@
 
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
-| 一 | [原料各自在做什么](chapters/01-ingredients/00-intro.md) | 七个角色 + 烘焙百分比这套通用语言（🔜 进行中） |
+| 一 | [原料各自在做什么](chapters/01-ingredients/00-intro.md) | 七个角色 + 烘焙百分比这套通用语言（✅ 已完成） |
 | 二 | 膨发的三条路线 ★ | 生物 / 化学 / 物理：气从哪来、被什么关住 |
 | 三 | 结构是怎么立住的 ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力 |
 | 四 | 操作即控制变量 | 搅拌、温度、发酵、整形——配方之外你还能动的旋钮 |
@@ -98,9 +98,14 @@
 - ✅ 第 3 章 [水：水合、含水量与水粉比](chapters/01-ingredients/03-water.md)
 - ✅ 第 4 章 [糖：甜以外的四件事](chapters/01-ingredients/04-sugar.md)
 - ✅ 第 5 章 [油脂：阻断面筋、充气与口感](chapters/01-ingredients/05-fat.md)
-- ⬜ 第 6 章 蛋 ｜ ⬜ 第 7 章 盐 ｜ ⬜ 第 8 章 膨松剂 ｜ ⬜ 第 9 章 烘焙百分比 ｜ ⬜ 项目 P1
+- ✅ 第 6 章 [蛋：水分、乳化剂、结构和气泡](chapters/01-ingredients/06-egg.md)
+- ✅ 第 7 章 [盐：风味、控速与对面筋的作用](chapters/01-ingredients/07-salt.md)
+- ✅ 第 8 章 [膨松剂总览：酵母、小苏打、泡打粉](chapters/01-ingredients/08-leavening-agents.md)
+- ✅ 第 9 章 [烘焙百分比：换算、缩放与配方之间的比较](chapters/01-ingredients/09-bakers-percentage.md)
+- ✅ 🛠 [项目 P1：把一份配方解码成烘焙百分比与角色表](chapters/01-ingredients/project-P1-decode-a-recipe.md)
 
-**下一站**：第 6 章 · 蛋：一样东西同时是水分、乳化剂、结构和气泡。
+**第一部分已完成。下一站**：第二部分 · 膨发的三条路线——
+第 10 章把"发起来"拆成**产气**与**保气**两半。
 
 ## 常用工具页
 
