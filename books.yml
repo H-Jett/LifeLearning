@@ -99,3 +99,16 @@ books:
       accent: "#1F8C9B"
     checks:
       - python scripts/check_book.py
+
+  - slug: baking
+    dir: books/baking
+    title: 烘焙的原理
+    subtitle: 从看懂配方到自己改配方
+    description: 面粉、水、糖、油、蛋、盐与膨发剂各自在做什么——讲清每一步操作和每个比例的道理，学会举一反三地改配方。
+    status: 进行中
+    progress: 骨架与路线图就绪 · 第 1 章已完成
+    palette:
+      primary: "#A63A82"           # 莓果紫红。棕/焦糖色系已被 coffee 占满（距离不足），刻意换色域
+      accent: "#C4629E"
+    checks:
+      - python scripts/check_book.py
