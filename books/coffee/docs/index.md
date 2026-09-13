@@ -52,8 +52,8 @@
 |------|------|----------|
 | 一 | [咖啡的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成） |
 | 二 | [上游：从一棵树到一袋生豆](chapters/02-upstream/00-intro.md) ★ | 读懂豆袋每个字段，判断"这支豆贵在哪"（✅ 已完成） |
-| 三 | [烘焙：把前体变成风味](chapters/03-roasting/00-intro.md) ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题（🔜 进行中） |
-| 四 | 萃取原理 ★ | 所有器具的共同底层：溶解 + 扩散 + 传质 |
+| 三 | [烘焙：把前体变成风味](chapters/03-roasting/00-intro.md) ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题（✅ 已完成） |
+| 四 | [萃取原理](chapters/04-extraction/00-intro.md) ★ | 所有器具的共同底层：溶解 + 扩散 + 传质（🔜 进行中） |
 | 五 | 冲煮与意式实操 | 拿到陌生豆，三次以内找到可接受的参数 |
 | 六 | 杯测与感官（对标 Q-Grader）★ | 规范描述一杯咖啡，并知道自己有多可信 |
 | 七 | 选豆、储存与拓展 | 花的钱买到多少确定性 |
@@ -72,7 +72,7 @@
 - ✅ 第 5 章 [咖啡与健康：只讲证据等级](chapters/01-foundation/05-health-evidence.md)
 - ✅ 🛠 [项目 P1 给三包豆做一份"成分翻译"](chapters/01-foundation/project-P1-composition-translation.md)
 
-**第二部分 · 上游：从一棵树到一袋生豆（🔜 进行中）**
+**第二部分 · 上游：从一棵树到一袋生豆（✅ 已完成）**
 
 - ✅ [第二部分导读](chapters/02-upstream/00-intro.md)
 - ✅ 第 6 章 [物种与品种：阿拉比卡、卡内弗拉与利比里卡](chapters/02-upstream/06-species-varieties.md)
@@ -92,9 +92,17 @@
 - ✅ 第 15 章 [烘焙的物理：传热、豆内温度场与"豆温不是一个数"](chapters/03-roasting/15-roasting-physics.md)
 - ✅ 第 16 章 [烘焙的化学 ①：脱水、焦糖化与美拉德反应](chapters/03-roasting/16-roasting-chemistry-1.md)
 - ✅ 第 17 章 [烘焙的化学 ②：绿原酸的去路与苦味的真正来源](chapters/03-roasting/17-cga-and-bitterness.md)
-- ⬜ 第 18~20 章（结构变化 / 烘焙度的测量 / 烘焙缺陷与曲线之争）
+- ✅ 第 18 章 [结构变化：一爆、二爆、豆内压力与孔隙](chapters/03-roasting/18-structure-cracks-porosity.md)
+- ✅ 第 19 章 [烘焙度的测量：色度、失重率、密度](chapters/03-roasting/19-roast-degree-measurement.md)
+- ✅ 第 20 章 [烘焙缺陷与曲线之争](chapters/03-roasting/20-roast-defects.md)
 
-**下一站**：第 18 章「结构变化：一爆、二爆、豆内压力与孔隙」。
+**第四部分 · 萃取原理：一切冲煮方法的共同底层（🔜 进行中）**
+
+- ✅ [第四部分导读](chapters/04-extraction/00-intro.md)
+- ✅ 第 21 章 [萃取是什么：溶解、扩散与浓度梯度](chapters/04-extraction/21-what-is-extraction.md)
+- ⬜ 第 22~25 章（浓度与萃取率 / 研磨 / 水温·时间·搅拌 / 床层力学与通道效应）+ 项目 P3
+
+**下一站**：第 22 章「浓度与萃取率：TDS、PE 与'金杯'坐标系」。
 
 ## 常用工具页
 

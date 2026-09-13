@@ -404,6 +404,67 @@
 > 类黑精削弱咖啡因苦味约一半、TAS2R43）、§4.3 的 **[A1][A3][A6]**（奎宁酸、类黑精致涩、
 > 烘焙度加深时苦/涩/body/余韵同向上升），以及 §4.19 的 **[RC1][RC2]**。
 
+### 4.21 烘焙的结构变化：一爆、孔隙与膨胀（第 18 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[ST1]** | Li, J., Wang, W., Xu, W., Deng, Y., Lv, R., Zhou, J., & Liu, D. (2024). Evaluation of multiscale mechanisms of ultrasound-assisted extraction from porous plant materials. *Food Research International*, 182, 114034 | **"生豆的连通孔隙为零"这条关键观察**：总孔隙 4.47%（生豆）/ 9.17%（120 ℃）/ 13.52%（180 ℃），**连通孔隙 0% / 3.79% / 5.98%**，传质系数 0.16 / 0.38 / 0.46 min⁻¹。⚠️ **定温热处理而非常规烘焙**，且以超声辅助萃取为背景 | ✅ 已读摘要 |
+| **[ST2]** | Oliveros, N. O., Hernández, J. A., Sierra-Espinosa, F. Z., Guardián-Tapia, R., & Pliego-Solórzano, R. (2017). Experimental study of dynamic porosity and its effects on simulation of the coffee beans roasting. *Journal of Food Engineering*, 199, 100–112 | 由电镜孔径与分布计算的孔隙率：生豆 **9.8%**、熟豆 **34.2%**，并作为动态孔隙模型的上下限 | ✅ 已读摘要 |
+| **[ST3]** | Al-Shemmeri, M., Fryer, P., Farr, R., & Lopez-Quiroga, E. (2024). Development of coffee bean porosity and thermophysical properties during roasting. *Journal of Food Engineering*, 378, 112096 | X 射线显微 CT（试点规模喷动床、肯尼亚阿拉比卡）：烘焙中孔隙率**增加最多约 60%**；并把孔隙率与密度、热导率、比热及常用过程指标（颜色、质量、含水率、体积）关联；提出用可获得的快速测试代理昂贵分析 | ✅ 已读摘要 |
+| **[ST4]** | Geiger, R., Perren, R., Kuenzli, R., & Escher, F. (2005). Carbon Dioxide Evolution and Moisture Evaporation During Roasting of Coffee Beans. *Journal of Food Science*, 70(2) | **失重构成的直接证据**：以非分散红外分析排气中的 CO₂ 与水蒸气；**质量平衡能相当好地解释称重法测得的失重**；HTST 与 LTLT 两种工艺的 CO₂ 释放速率不同，但**储存 63 天后释放总量相同**。⚠️ **本书只取定性层面，不复述任何排气定量数值**（见 §七） | ✅ 已读摘要 |
+| **[ST5]** | Siebald, H., Möller, M., Lenz, F., Kirchner, S., & Hensel, O. (2024). Acoustic condition monitoring of coffee beans, during the roasting process. *LWT*, 199, 116119 | 样品滚筒机、五种下豆温度（75/100/150/175/200 ℃）、两支麦克风、每种重复五次；**比较一爆与二爆的频谱组成差异**；多数过程的声压级可按豆温分离 | ✅ 已读摘要 |
+| **[ST6]** | Herawati, D., Giriwono, P. E., Dewi, F. N. A., Kashiwagi, T., & Andarwulan, N. (2019). Critical roasting level determines bioactive content and antioxidant activity of Robusta coffee beans. *Food Science and Biotechnology*, 28(1), 7–14. PMCID PMC6365344（开放获取） | 八个烘焙水平；**主要理化性质改变发生在"一爆"之后**，彼时水分活度自 **0.22 降到 0.15**；一爆"被定义为烘焙中豆子发出的爆裂声"；低 a_w 下类黑精持续生成、5-CQA 与总酚缓慢降解；咖啡因稳定。⚠️ 单一罗布斯塔样品；**其抗氧化相关结论本书不复述** | ✅ 已读摘要 |
+| **[ST7]** | Ganju, E., Chawla, K., Yang, S., & Chawla, N. (2024). Time-resolved roasting-induced microstructural evolution of Arabica coffee beans from Brazil, Colombia, and Ethiopia captured using x-ray computed micro-tomography. *Journal of Food Engineering*. doi:10.1016/j.jfoodeng.2023.111733 | 逐颗追踪三个产地的豆：孔隙率与孔径自生豆到深烘显著增加，但**增速不随烘焙时间线性变化**；**不同来源豆在孔隙与开裂上的空间异质性不同** | ✅ 已读摘要 |
+| **[ST8]** | Frisullo, P., Barnabà, M., Navarini, L., & Del Nobile, M. A. (2012). *Coffea arabica* beans microstructural changes induced by roasting: An X-ray microtomographic investigation. *Journal of Food Engineering*, 108, 232–237 | μCT 在 2、3、4、5 分钟取样：总孔体积与孔隙率随烘焙进行上升 | ✅ 已读摘要 |
+
+> 第 18 章同时复用 §4.18 的 **[RP3][RP4][RP5][RP9]**、§4.22 的 **[RD1][RD2]**、
+> §4.23 的 **[NM1]** 与 §4.24 的 **[EX3][EX8]**。
+
+### 4.22 烘焙度的测量（第 19 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[RD1]** | Lindsey, Z. R., Williams, J. R., Burgess, J. S., Moore, N. T., & Splichal, P. M. (2024). Caffeine content in filter coffee brews as a function of degree of roast and extraction yield. *Scientific Reports*, 14, 29126. PMCID PMC11586412（开放获取） | **第 19 章的锚**：作者明言"**目前没有标准方法能够普遍而精确地量化烘焙度**"，并列出颜色、密度、失重、总时长、一爆后时长、入豆温、下豆温七个可**部分描述**烘焙度的量，且全部测量；色度用 Agtron gourmet 量表、**粉与整豆各测**、每样旋转约 90° 测四次；自由沉降密度对磨碎过筛样品测；30 组组合（2 支生豆 × 5 个烘焙度 × 3 个冲煮时间，AeroPress、1:15）；**SEM 显示孔隙率随烘焙度上升**；**失重超过约 12%~14% 后萃取率普遍下降**；20 余项关于烘焙度与咖啡因的研究给出四类互相矛盾的结论 | ✅ 已读全文相关章节 |
+| **[RD2]** | Anokye-Bempah, L., Styczynski, T., Ristenpart, W. D., & Donis-González, I. R. (2025). A universal color curve for roasted arabica coffee. *Scientific Reports*, 15, 24192. PMCID PMC12234775（开放获取） | **第 19 章主干**：与 [RP9] 同一实验体系（5 kg 商用滚筒机、七条同总时长 16 分钟但动态不同的曲线、三个产地）；**L\*a\*b\* 始终落在同一条"普适熟咖啡色曲线"上**；**转色、一爆、二爆三个里程碑处颜色近似相同**；L\*、a\*、b\* 在转色阶段**先升后降**；生豆初始 L\*a\*b\* = 59.33 ± 2.3 / 2.43 ± 0.7 / 21.33 ± 0.4；里程碑由**有经验的烘焙师依视觉与听觉线索**标定；系统综述（PRISMA）**排除只报整豆颜色的研究**，理由是整豆色与粉色差异显著，且元分析显示罗布斯塔亦落在该曲线上；视觉比色受照明、样品量、周围颜色与观察角度影响；**EM 曲线是刻意复制"烤（baked）"的**；粒度分析：**一爆样 D50 = 393 μm、二爆样 D50 = 96 μm**（同一台实验室磨） | ✅ 已读全文相关章节 |
+| **[RD2c]** | 同上文的更正：*Correction: A universal color curve for roasted arabica coffee*. *Scientific Reports*, 15, 35559. doi:10.1038/s41598-025-23127-3. PMCID PMC12514254 | **登记以示完整**：引用该文时应同时知道存在更正 | ✅ 条目已核对 |
+| **[RD3]** | Nunes, F. M., & Coimbra, M. A. (2002). Chemical Characterization of Galactomannans and Arabinogalactans from Two Arabica Coffee Infusions As Affected by the Degree of Roast. *JAFC*, 50(6), 1429–1434 | 文献中把"烘焙度"直接**定义为干基失重百分比**（4.7%~5.0% / 8.7% / 10%）这一做法的实例 | ✅ 已读摘要 |
+| **[RD4]** | Heide, J., Czech, H., Ehlert, S., Koziorowski, T., & Zimmermann, R. (2020). Toward Smart Online Coffee Roasting Process Control. *JAFC*, 68(17), 4752–4759 | 单光子电离飞行时间质谱以 **5 秒**分辨率在线分析排气；与色度值（**Colorette**）回归，交叉验证解释协方差 **>89%**。⚠️ **其抗氧化能力相关结论本书不复述、不评价** | ✅ 已读摘要 |
+| **[RD5]** | García Rivas, R. E., Bertarini, P. L. L., & Fernandes, H. (2025). Automated Coffee Roast Level Classification Using Machine Learning and Deep Learning Models. *Journal of Food Science*, 90(9) | 1600 张图像、四个平衡类别（生豆/浅/中/深），多模型（含以 Xception 为特征提取器的 CNN、AdaBoost、随机森林、SVM）均达 **100%** 准确率与 F1。本书用作"**粗分类容易 ≠ 能精确测量**"的例证 | ✅ 已读摘要 |
+
+### 4.23 烘焙缺陷与曲线之争（第 20 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[DF1]** | Yang, N., Liu, C., Liu, X., Degn, T. K., Munchow, M., & Fisk, I. (2016). Determination of volatile marker compounds of common coffee roast defects. *Food Chemistry*, 211, 206–214. PMCID PMC4914823（开放获取） | 同一支豆、**六条时间—温度曲线**（正常 + light / scorched / dark / baked / underdeveloped）；从 37 种已知关键气味物中为每类缺陷各选一个标记物：**吲哚（light）、4-乙基-2-甲氧基苯酚（scorched）、苯酚（dark）、麦芽酚（baked）、2,5-二甲基呋喃（underdeveloped）**；作者称此前无人做过这种关联，并提出可用作快速筛查 | ✅ 已读摘要 |
+| **[DF2]** | Giacalone, D., Degn, T. K., Yang, N., Liu, C., Fisk, I., & Münchow, M. (2019). Common roasting defects in coffee: Aroma composition, sensory characterization and consumer perception. *Food Quality and Preference*, 71, 463–474 | **与 [DF1] 共用样品体系与部分作者——不构成独立重复**。GC-MS + 训练评审描述性分析 + **N = 83** 消费者喜好度与 CATA；三套数据给出相似样品空间；**过浅与过深/焦斑明显对立、正常居中**；**正常烘焙被消费者显著偏好**并显著关联"Harmonic / Pleasant / Balanced" | ✅ 已读摘要 |
+| **[DF3]** | Rusinek, R., Dobrzański, B., Oniszczuk, A., Gawrysiak-Witulska, M., Siger, A., Karami, H., Ptaszyńska, A. A., Żytek, A., & Kapela, K. (2022). How to Identify Roast Defects in Coffee Beans Based on the Volatile Compound Profile. *Molecules*, 27(23), 8530. PMCID PMC9737409（开放获取） | **独立课题组的旁证**：危地马拉 Typica；刻意做出**欠发展**与**过发展**缺陷与无缺陷对照；GC-MS + 电子鼻；挥发物族群与**到一爆的时间、干燥时间、豆温与热风平均温度**相关；电子鼻有助于识别缺陷 | ✅ 已读摘要 |
+| **[DF4]** | Rabelo, M. H. S., Borém, F. M., Lima, R. R. de, Alves, A. P. de C., Pinheiro, A. C. M., Ribeiro, D. E., Santos, C. M. dos, & Pereira, R. G. F. A. (2021). Impacts of quaker beans over sensory characteristics and volatile composition of specialty natural coffees. *Food Chemistry*, 342, 128304 | **未熟豆的剂量—效应**：三种颜色的 quaker × **七个添加比例**；颜色**等于或高于 Agtron 82.8** 者需**一杯（65 颗豆）中有 7 颗**才显著损害感官；未熟豆的挥发物由**未熟生豆中的前体**生成，**颜色与感官都是未熟这一化学组成的后果**；作者与"精品级日晒批次要求完全不含 quaker"的规定并置讨论。本书亦据其表述判定 Agtron 量表的方向（数值越高颜色越浅） | ✅ 已读摘要 |
+| **[NM1]** | Febvay, L., Hamon, E., Recht, R., Andres, N., Vincent, M., Aoudé-Werner, D., & This, H. (2019). Identification of markers of thermal processing ("roasting") in aqueous extracts of *Coffea arabica* L. seeds through NMR fingerprinting and chemometrics. *Magnetic Resonance in Chemistry*, 57(9), 589–602 | 把"**发展时间**"（一爆之后的时长）与终温作为两个关键工艺参数；**13 条工业烘焙曲线**；¹H NMR + 化学计量学；**终温差约 1 ℃ 或总时长差约 25 秒即可检出组成差异**；并把一爆定义为"因种子破裂产生的特征噪声"。⚠️ **该研究未做感官评价** | ✅ 已读摘要 |
+
+> **本书自己的检索记录（2026-09-14）**：在 Europe PMC 以 **"development time ratio"**
+> 与 coffee 组合检索（题名/摘要字段），**命中 0 条**。
+> 这是**本书的检索观察**，不是任何文献的结论；读者可自行重复。
+> 据此，第 20 章把"发展时间比（DTR）"判为**行业惯例参数**，不给推荐区间，也不判其错。
+
+### 4.24 萃取的物理（第 21 章，第 22~25 章续用）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[EX1]** | Spiro, M., & Selwood, R. M. (1984). The kinetics and mechanism of caffeine infusion from coffee: The effect of particle size. *Journal of the Science of Food and Agriculture*, 35(8), 915–924 | **第 21 章主干之一**：中烘肯尼亚阿拉比卡、八个筛分级分、25.8 ℃；**粒径越小一级速率常数急剧增大**；某级分自 **25.8 → 84.1 ℃ 速率常数上升约 8 倍**；测定了**分配系数**；结论为**限速步是咖啡因在溶胀颗粒内部的扩散**，扩散系数低、活化能高（**受阻扩散**） | ✅ 已读摘要 |
+| **[EX2]** | Spiro, M., & Page, C. M. (1984). The kinetics and mechanism of caffeine infusion from coffee: Hydrodynamic aspects. *JSFA*, 35(8), 925–930 | **"搅拌不能替代研磨"的直接证据**：旋转圆盘法控制流体力学条件；速率常数**与颗粒半径平方成反比**、**与转速无关**；据此判定限速步**不在 Nernst 扩散层**而在颗粒内部，并指出可推广到搅拌的咖啡悬浮液 | ✅ 已读摘要 |
+| **[EX3]** | Spiro, M., & Hunter, J. E. (1985). The kinetics and mechanism of caffeine infusion from coffee: The effect of roasting. *JSFA*, 36(9), 871–876 | 烘到不同程度后磨到**同一粒径区间 0.85~1.18 mm**、80 ℃ 浸出：半衰期在轻烘时无显著变化、重烘**降约 40%**、烘至焦化再**降约 30%**；动力学参数与失重、颜色、豆体积等物理性质关联 | ✅ 已读摘要 |
+| **[EX4]** | Moroney, K. M., Lee, W. T., O'Brien, S. B. G., Suijver, F., & Marra, J. (2015). Modelling of coffee extraction during brewing using multiscale methods: An experimentally validated model. *Chemical Engineering Science*, 137, 216–234 | 经实验验证的**双孔隙**萃取模型的原始出处。**仅登记坐标** | ⚠️ **正文与摘要均未读到**，正文不引用其数值 |
+| **[EX5]** | Moroney, K. M., Lee, W. T., O'Brien, S. B. G., Suijver, F., & Marra, J. (2016). Coffee extraction kinetics in a well mixed system. *Journal of Mathematics in Industry*, 7, 3. PMCID PMC4986356（开放获取） | 该模型**同时包含溶解与输运**、用**双孔隙**描述咖啡床，并已被证明能描述**稀悬浮液**与**填充床**两种情形；本文给出稀悬浮情形的渐近解 | ✅ 已读摘要 |
+| **[EX6]** | Moroney, K. M., O'Connell, K., Meikle-Janney, P., O'Brien, S. B. G., Walker, G. M., & Lee, W. T. (2019). Analysing extraction uniformity from porous coffee beds using mathematical modelling and computational fluid dynamics approaches. *PLOS ONE*, 14(7), e0219906（开放获取） | **"均匀性"的第一条硬证据**：一维流动模型与 CFD 对比；**截头圆锥几何中的非均匀流动造成局部萃取水平显著变化**；用"萃取图"表示并映射到行业冲煮控制图；作者指出萃取率高度不均**可预期给杯中带来苦味** | ✅ 已读摘要 |
+| **[EX7]** | Ellero, M., & Navarini, L. (2019). Mesoscopic modelling and simulation of espresso coffee extraction. *Journal of Food Engineering*, 263, 181–194 | 介观（SPH）模型：**双峰粒度（粗—细）**、**液相与粒内两套扩散**、细粉随流迁移并在滤网处造成瞬态流阻；与咖啡因、葫芦巴碱、绿原酸的实验动力学吻合 | ✅ 已读摘要 |
+| **[EX8]** | Hargarten, V. B., Kuhn, M., & Briesen, H. (2020). Swelling properties of roasted coffee particles. *JSFA*, 100(10), 3960–3970（开放获取） | 激光衍射 + 显微镜：颗粒直径**约 +15%**；**30 秒达最终值的 60%~80%、4 分钟完成**（在常规冲煮时间尺度内）；**与初始粒径、烘焙度均无关**；颗粒形状不变；伴随**颗粒侵蚀**（细粉增加），温度越高越明显；作者指出先前结果分歧源于未分离颗粒侵蚀与排气 | ✅ 已读摘要 |
+| **[EX9]** | Foster, J., Lee, W., Moroney, K., Prjamkov, D., Salamon, M., Smith, A., Petrassem-de-Sousa, J., & Vynnycky, M. (2025). Dynamics of liquid infiltration into an espresso bed using time-resolved micro-computed tomography. *Physics of Fluids*, 37(1) | 用 X 射线断层成像借密度差追踪**渗润锋面**，把粉床分为湿区与干区，并与一维非饱和多孔介质流模型（含泵动态）比较，吻合良好 | ✅ 已读摘要 |
+| **[EX10]** | Schmieder, B. K. L., Pannusch, V. B., Vannieuwenhuyse, L., Briesen, H., & Minceva, M. (2023). Influence of Flow Rate, Particle Size, and Temperature on Espresso Extraction Kinetics. *Foods*, 12(15), 2871（开放获取） | 中心复合实验设计；分十段收集测葫芦巴碱、咖啡因、5-CQA 与 TDS；**流速影响最强**，且在更细研磨与更高水温下更明显；但整体影响**小于**总萃取液质量差异带来的影响 | ✅ 已读摘要 |
+| **[EX11]** | Smrke, S., Eiermann, A., & Yeretzian, C. (2024). The role of fines in espresso extraction dynamics. *Scientific Reports*, 14, 5612. PMCID PMC10920694（开放获取） | 系统改变细粉（**<100 μm**）比例：细粉比例上升**降低粉床渗透率** → 流速下降、萃取时间延长；偏最小二乘回归确认"<100 μm"这一惯用界线是合适的表征；PTR-MS 显示**香气物随萃取率非线性上升** | ✅ 已读摘要 |
+
+> 第 21 章同时复用 §4.2 的 **[B3]**（不同类别化合物萃取行为不同）与
+> §4.3 的 **[A2]**（统一到 2% TDS 后热冲与冷冲仍显著不同）。
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -441,6 +502,10 @@
 | 21 | **焦糖化 / 美拉德"从多少度开始"** | 流传的各种温度阈值；[C1] 亦有"170~200 ℃ 糖开始焦糖化"这类**叙述性**表述 | 按 [RP3][RP4] 的图景，**豆内温度是一个分布**且存在干燥锋面；连建模论文也要**假定**某测点代表豆温 [C1] | **本书不写任何反应的启动温度**，改用**含水率与褐变程度**作为坐标（[RP7] 的 7%→2% 即是此类坐标）。见[第 15 章 §15.4](chapters/03-roasting/15-roasting-physics.md)、[第 16 章 §16.3](chapters/03-roasting/16-roasting-chemistry-1.md) |
 | 22 | **产地效应与处理法效应谁更大** | [M6]（印尼利比里卡）：多元分析的**主聚类按产地**，处理法为次级因素 | [C2] 等（第 10 章）：处理法可把某些指标（如 GABA）改变**一个数量级** | **不比较大小，改问"哪个指标"**：不同指标上的排序不同，且 [M6] 是单物种单国单季。正文只写"**至少在这组样品上，地点的效应大于处理法**"。见[第 14 章 §14.6](chapters/02-upstream/14-origin-map.md) |
 | 23 | **"缺陷曲线"（掉火 / 夸张 flick）有多糟** | 行业普遍认为二者严重损害品质 | [RP9]：EF 与 NRoR 两条曲线的**可滴定酸度动态与中庸曲线几乎无法区分**；作者并指出"据我们所知没有已发表数据支持 NRoR 会严重降质"这一行业观点 | **写成"某指标上未被支持"而非"无害"**：该研究只测 TA、**未做感官评价**。见[第 15 章 §15.7](chapters/03-roasting/15-roasting-physics.md) |
+
+| 24 | **熟豆的孔隙率是多少** | [ST2]：生豆 9.8% → 熟豆 **34.2%**（电镜孔径分布计算） | [ST1]：生豆总孔隙 **4.47%**、连通孔隙 **0%**，热处理后 9.17%~13.52%；[ST3]：显微 CT 观察到孔隙率**增加最多约 60%**（只给增量） | **不是矛盾，是方法定义了量**：不同方法"看得见"的孔尺寸范围不同，且样品处理方式不同（常规烘焙 vs 定温热处理）。正文**只写方向**（从接近实心变为高度多孔且连通），**不给绝对值**。见[第 18 章 §18.1](chapters/03-roasting/18-structure-cracks-porosity.md) |
+| 25 | **"烘得越深越好萃"** | 动力学侧：同粒径下咖啡因浸出半衰期随烘焙加深**下降 40% 再 30%**[EX3]；结构侧孔隙与连通性上升[ST1][ST3][RD1] | 总量侧：**失重超过约 12%~14% 后萃取率反而下降**[RD1] | **拆成"更快"与"更多"两件事**：结构让水更容易进去，但可溶物本身在深烘时被分解或挥发。两者不矛盾。正文不写"最佳失重率"。见[第 18 章 §18.6](chapters/03-roasting/18-structure-cracks-porosity.md) |
+| 26 | **"RoR 掉头 / 夸张 flick 会严重降质"** | 行业普遍共识（烘焙师的批次经验） | [RP9]：EF 与 NR 两条曲线的 TA 动态与中庸曲线几乎无法区分，且作者称"据我们所知没有已发表数据支持"；[RD2]：两条曲线的**颜色**同样落在普适色曲线上 | **写成"在 TA 与颜色两个指标上不可区分"，而非"无害"**——两项研究**都未做感官评价**。本书把它定位为"**尚未被感官实验检验的行业判据**"。见[第 20 章 §20.4](chapters/03-roasting/20-roast-defects.md) |
 
 ## 七、本页的"不采信"清单
 
@@ -490,3 +555,11 @@
 | **"某个香气描述词对应某个分子"的对照表** | 流传版本多无法核到一手来源。本书只写有文献支持的**单条对应**（如生豆的豌豆味 ↔ IBMP[RC4]、PTD ↔ IPMP[GR6]），不给整表 |
 | **丙烯酰胺的任何安全性解读** | [C2] 转引的化学动态（早期生成、烘焙中 >95% 被破坏、浅烘高于极深烘）**本书只作为化学事实复述并标注"仅见于该综述转引"**；任何风险、摄入量或"哪种更健康"的结论都不做（第 5 章红线） |
 | **抗氧化能力与健康之间的推论** | [CGA3] 报告了烘焙前后抗氧化能力的化学测定，本书**不复述、不评价**——化学指标与健康结局之间隔着整条证据链（第 5 章） |
+| **豆内压力的数值** | 只有多孔黏弹性模型预测的**应力堆积**[RP4]，本书未读到在真实烘焙过程中**直接测定豆内压力**的实验。见[第 18 章 §18.2](chapters/03-roasting/18-structure-cracks-porosity.md) |
+| **"一爆是水蒸气、二爆是油脂/纤维素"这类机制归属** | 未读到直接验证该归属的实验。可核到的只有两者**声学频谱不同**[ST5]、在颜色轨迹上位置不同[RD2]。见[第 18 章 §18.3](chapters/03-roasting/18-structure-cracks-porosity.md) |
+| **"最佳失重率""最佳膨胀率"** | 文献给出的是特定样品与设备下的观测（如 [RD1] 的 12%~14% 转折、[CGA2] 的 14% 失重坐标），不能当查表使用；也未读到把密度或膨胀率与感官评价对照的研究 |
+| **色度值与失重率之间的换算** | 两者分别是**状态量**与**合计量**；未读到可跨机型使用的换算关系。见[第 19 章 §19.7](chapters/03-roasting/19-roast-degree-measurement.md) |
+| **"标准烘焙度分级表"与官方色度分档** | [RD1] 明言"目前没有标准方法能普遍而精确地量化烘焙度"；SCA-131 核对当日仍在制定中[SCA2]；且本书不复制官方表格版式 |
+| **"发展时间比（DTR）"的推荐区间** | 以该词为题名/摘要关键词在 Europe PMC 检索，**核对当日 0 命中**（§4.23 的检索记录）。可查到的近亲研究[NM1]只证明"差异可检出"且**未做感官评价**。正文判其为**行业惯例**，不给区间、也不判其错。见[第 20 章 §20.5](chapters/03-roasting/20-roast-defects.md) |
+| **"咖啡可溶物约占 30%"** | 未核到一手来源。文献里可核到的是**特定条件下测得的萃取率**，不是普适上限。见[第 21 章 §21.5](chapters/04-extraction/21-what-is-extraction.md) |
+| **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |

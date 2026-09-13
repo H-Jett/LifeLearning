@@ -88,6 +88,12 @@ nav:
       - 第 15 章 · 烘焙的物理: chapters/03-roasting/15-roasting-physics.md
       - 第 16 章 · 烘焙的化学 ①：脱水、焦糖化与美拉德: chapters/03-roasting/16-roasting-chemistry-1.md
       - 第 17 章 · 烘焙的化学 ②：绿原酸与苦味: chapters/03-roasting/17-cga-and-bitterness.md
+      - 第 18 章 · 结构变化：一爆、压力与孔隙: chapters/03-roasting/18-structure-cracks-porosity.md
+      - 第 19 章 · 烘焙度的测量: chapters/03-roasting/19-roast-degree-measurement.md
+      - 第 20 章 · 烘焙缺陷与曲线之争: chapters/03-roasting/20-roast-defects.md
+  - 第四部分 · 萃取原理：一切冲煮方法的共同底层:
+      - chapters/04-extraction/00-intro.md
+      - 第 21 章 · 萃取是什么：溶解、扩散与浓度梯度: chapters/04-extraction/21-what-is-extraction.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -113,6 +119,10 @@ nav:
       - 第 15 章: qa/15-roasting-physics-qa.md
       - 第 16 章: qa/16-roasting-chemistry-1-qa.md
       - 第 17 章: qa/17-cga-and-bitterness-qa.md
+      - 第 18 章: qa/18-structure-cracks-porosity-qa.md
+      - 第 19 章: qa/19-roast-degree-measurement-qa.md
+      - 第 20 章: qa/20-roast-defects-qa.md
+      - 第 21 章: qa/21-what-is-extraction-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
