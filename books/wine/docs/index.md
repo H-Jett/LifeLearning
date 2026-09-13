@@ -75,8 +75,8 @@
 
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
-| 一 | [一杯酒的物质基础与感官](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（🔜 进行中） |
-| 二 | 葡萄品种与风土 | 从品种 + 气候预判一瓶酒的结构 |
+| 一 | [一杯酒的物质基础与感官](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成，含项目 P1） |
+| 二 | [葡萄品种与风土](chapters/02-grape-terroir/00-intro.md) | 从品种 + 气候预判一瓶酒的结构（🔜 进行中） |
 | 三 | 酿造与陈年工艺 ★ | 从工艺推出成品特征，反之亦然 |
 | 四 | 世界产区谱系与酒标法规 ★ | 读懂任何一张酒标，判断它的约束与层级 |
 | 五 | 系统品鉴与缺陷识别 ★ | 按可复现的流程品鉴，并区分"不喜欢"与"有缺陷" |
@@ -85,7 +85,7 @@
 
 ★ = 核心目标。
 
-**第一部分当前进度**（🔜 进行中）：
+**第一部分**（✅ 已完成）：
 
 - ✅ [第一部分导读](chapters/01-foundation/00-intro.md)
 - ✅ 第 1 章 [一杯酒里有什么：糖、酸、酒精、单宁与香气分子](chapters/01-foundation/01-what-is-in-the-glass.md)
@@ -93,9 +93,19 @@
 - ✅ 第 3 章 [酒精发酵：从糖到乙醇，以及一堆副产物](chapters/01-foundation/03-alcoholic-fermentation.md)
 - ✅ 第 4 章 [香气的三个来源：品种香、发酵香、陈年香](chapters/01-foundation/04-three-origins-of-aroma.md)
 - ✅ 第 5 章 [配角与麻烦：二氧化硫、二氧化碳、"矿物感"与温度](chapters/01-foundation/05-so2-co2-minerality.md)
-- 🔜 项目 P1：把一杯酒拆成六个结构要素
+- ✅ 🛠 [项目 P1：把一杯酒拆成六个结构要素](chapters/01-foundation/project-P1-six-structural-elements.md)
 
-**下一站**：项目 P1——把第 1~5 章的判据合成一张自己的结构坐标系。
+**第二部分当前进度**（🔜 进行中）：
+
+- ✅ [第二部分导读](chapters/02-grape-terroir/00-intro.md)
+- ✅ 第 6 章 [葡萄这种植物：物种、砧木与根瘤蚜](chapters/02-grape-terroir/06-grapevine-rootstock-phylloxera.md)
+- ✅ 第 7 章 [从萌芽到采收：物候期与糖酸的反向运动](chapters/02-grape-terroir/07-phenology-and-ripening.md)
+- ✅ 第 8 章 [风土：哪些部分可证，哪些部分是叙事](chapters/02-grape-terroir/08-terroir.md)
+- ✅ 第 9 章 [白葡萄品种谱系](chapters/02-grape-terroir/09-white-varieties.md)
+- ⬜ 第 10 章 红葡萄品种谱系
+- ⬜ 第 11 章 葡萄园管理：产量、架式、有机与生物动力
+
+**下一站**：第 10 章——红葡萄品种，组织维度从香气分子换成**酚类（单宁与花青素）**。
 
 ## 常用工具页
 

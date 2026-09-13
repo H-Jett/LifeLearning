@@ -63,6 +63,9 @@ flowchart LR
 - ✅ 第 3 章 [酒精发酵：从糖到乙醇，以及一堆副产物](03-alcoholic-fermentation.md)
 - ✅ 第 4 章 [香气的三个来源：品种香、发酵香、陈年香](04-three-origins-of-aroma.md)
 - ✅ 第 5 章 [配角与麻烦：二氧化硫、二氧化碳、"矿物感"与温度](05-so2-co2-minerality.md)
-- 🔜 项目 P1：把一杯酒拆成六个结构要素
+- ✅ 🛠 [项目 P1：把一杯酒拆成六个结构要素](project-P1-six-structural-elements.md)
+
+**第一部分到此完成。** 下一部分见
+[第二部分 · 葡萄品种与风土](../02-grape-terroir/00-intro.md)。
 
 完整大纲见[学习路线图](../../roadmap.md)。

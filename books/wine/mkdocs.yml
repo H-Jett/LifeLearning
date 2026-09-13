@@ -72,6 +72,13 @@ nav:
       - 第 3 章 · 酒精发酵: chapters/01-foundation/03-alcoholic-fermentation.md
       - 第 4 章 · 香气的三个来源: chapters/01-foundation/04-three-origins-of-aroma.md
       - 第 5 章 · 配角与麻烦：SO₂ · CO₂ · 矿物感: chapters/01-foundation/05-so2-co2-minerality.md
+      - 🛠 项目 P1 · 把一杯酒拆成六个结构要素: chapters/01-foundation/project-P1-six-structural-elements.md
+  - 第二部分 · 葡萄品种与风土:
+      - chapters/02-grape-terroir/00-intro.md
+      - 第 6 章 · 葡萄这种植物：物种、砧木与根瘤蚜: chapters/02-grape-terroir/06-grapevine-rootstock-phylloxera.md
+      - 第 7 章 · 从萌芽到采收：物候期与糖酸: chapters/02-grape-terroir/07-phenology-and-ripening.md
+      - 第 8 章 · 风土：哪些可证，哪些是叙事: chapters/02-grape-terroir/08-terroir.md
+      - 第 9 章 · 白葡萄品种谱系: chapters/02-grape-terroir/09-white-varieties.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -84,6 +91,10 @@ nav:
       - 第 3 章: qa/03-alcoholic-fermentation-qa.md
       - 第 4 章: qa/04-three-origins-of-aroma-qa.md
       - 第 5 章: qa/05-so2-co2-minerality-qa.md
+      - 第 6 章: qa/06-grapevine-rootstock-phylloxera-qa.md
+      - 第 7 章: qa/07-phenology-and-ripening-qa.md
+      - 第 8 章: qa/08-terroir-qa.md
+      - 第 9 章: qa/09-white-varieties-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
