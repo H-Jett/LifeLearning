@@ -82,7 +82,7 @@
 |------|------|----------|
 | 一 | [原料各自在做什么](chapters/01-ingredients/00-intro.md) | 七个角色 + 烘焙百分比这套通用语言（✅ 已完成） |
 | 二 | [膨发的三条路线](chapters/02-leavening/00-intro.md) ★ | 生物 / 化学 / 物理：气从哪来、被什么关住（✅ 已完成） |
-| 三 | [结构是怎么立住的](chapters/03-structure/00-intro.md) ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力（🔜 已写到第 17 章） |
+| 三 | [结构是怎么立住的](chapters/03-structure/00-intro.md) ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力（✅ 已完成） |
 | 四 | 操作即控制变量 | 搅拌、温度、发酵、整形——配方之外你还能动的旋钮 |
 | 五 | 烤箱与热 ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数 |
 | 六 | 从原理到成品 ★ | 逐类拆解 + 变体推演（改糖 / 改油 / 改粉 / 放大份量） |
@@ -115,14 +115,17 @@
 - ✅ 第 15 章 [物理膨发二：蒸汽](chapters/02-leavening/15-steam.md)
 - ✅ 🛠 [项目 P2：三条膨发路线的对照](chapters/02-leavening/project-P2-three-leavening-routes.md)
 
-**第三部分当前进度**：
+**第三部分当前进度**（✅ 已完成）：
 
 - ✅ [第三部分导读](chapters/03-structure/00-intro.md)
 - ✅ 第 16 章 [面筋网络：怎么形成、怎么被破坏](chapters/03-structure/16-gluten-network.md)
 - ✅ 第 17 章 [淀粉糊化：烘焙里的糊化和煮锅里的不一样](chapters/03-structure/17-gelatinization.md)
-- ⬜ 第 18 章 蛋白质凝固与凝胶　·　⬜ 第 19 章 脂肪结晶与"层"　·　⬜ 第 20 章 面团 vs 面糊的谱系　·　⬜ 第 21 章 烤箱里的时间轴
+- ✅ 第 18 章 [蛋白质凝固与凝胶：蛋与奶在烤箱里的相变](chapters/03-structure/18-protein-coagulation.md)
+- ✅ 第 19 章 [脂肪结晶与"层"：为什么起酥必须用固态脂肪](chapters/03-structure/19-fat-crystals-layers.md)
+- ✅ 第 20 章 [面团 vs 面糊的谱系：含水量与搅拌方式决定成品](chapters/03-structure/20-dough-batter-spectrum.md)
+- ✅ 第 21 章 [烤箱里的时间轴：从入炉到出炉都发生了什么](chapters/03-structure/21-oven-timeline.md)
 
-**下一站**：第 18 章 蛋白质凝固与凝胶——"定住"是**不可逆**的，所以过头了没法回头。
+**下一站**：第四部分 · 操作即控制变量——第 22 章 搅拌：六种搅拌法分别在优先照顾哪一件事。
 
 ## 常用工具页
 

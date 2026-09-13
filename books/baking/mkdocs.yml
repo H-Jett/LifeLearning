@@ -88,6 +88,10 @@ nav:
       - chapters/03-structure/00-intro.md
       - 第 16 章 · 面筋网络：怎么形成、怎么被破坏: chapters/03-structure/16-gluten-network.md
       - 第 17 章 · 淀粉糊化：烘焙里的糊化不一样: chapters/03-structure/17-gelatinization.md
+      - 第 18 章 · 蛋白质凝固与凝胶: chapters/03-structure/18-protein-coagulation.md
+      - 第 19 章 · 脂肪结晶与“层”: chapters/03-structure/19-fat-crystals-layers.md
+      - 第 20 章 · 面团 vs 面糊的谱系: chapters/03-structure/20-dough-batter-spectrum.md
+      - 第 21 章 · 烤箱里的时间轴: chapters/03-structure/21-oven-timeline.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -112,6 +116,10 @@ nav:
       - 第 15 章: qa/15-steam-qa.md
       - 第 16 章: qa/16-gluten-network-qa.md
       - 第 17 章: qa/17-gelatinization-qa.md
+      - 第 18 章: qa/18-protein-coagulation-qa.md
+      - 第 19 章: qa/19-fat-crystals-layers-qa.md
+      - 第 20 章: qa/20-dough-batter-spectrum-qa.md
+      - 第 21 章: qa/21-oven-timeline-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
