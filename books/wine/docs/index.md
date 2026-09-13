@@ -89,10 +89,13 @@
 
 - ✅ [第一部分导读](chapters/01-foundation/00-intro.md)
 - ✅ 第 1 章 [一杯酒里有什么：糖、酸、酒精、单宁与香气分子](chapters/01-foundation/01-what-is-in-the-glass.md)
-- ⬜ 第 2 章 感官通道 ｜ ⬜ 第 3 章 酒精发酵 ｜ ⬜ 第 4 章 香气的三个来源
-- ⬜ 第 5 章 配角与麻烦（SO₂ / CO₂ / "矿物感"） ｜ ⬜ 项目 P1
+- ✅ 第 2 章 [感官通道：味觉、嗅觉、三叉神经与"风味"的组装](chapters/01-foundation/02-sensory-channels.md)
+- ✅ 第 3 章 [酒精发酵：从糖到乙醇，以及一堆副产物](chapters/01-foundation/03-alcoholic-fermentation.md)
+- ✅ 第 4 章 [香气的三个来源：品种香、发酵香、陈年香](chapters/01-foundation/04-three-origins-of-aroma.md)
+- ✅ 第 5 章 [配角与麻烦：二氧化硫、二氧化碳、"矿物感"与温度](chapters/01-foundation/05-so2-co2-minerality.md)
+- 🔜 项目 P1：把一杯酒拆成六个结构要素
 
-**下一站**：第 2 章 · 感官通道——为什么"风味"大部分是鼻子的事，以及阈值为什么因人而异。
+**下一站**：项目 P1——把第 1~5 章的判据合成一张自己的结构坐标系。
 
 ## 常用工具页
 
