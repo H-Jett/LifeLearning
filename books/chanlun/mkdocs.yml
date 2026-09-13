@@ -115,6 +115,12 @@ nav:
       - 第 34 章 · 资金管理: chapters/06-practice/34-capital.md
       - 第 35 章 · 常见说法辨析总表: chapters/06-practice/35-claims-index.md
       - 🛠 项目 P5 · 一次诚实的检验: chapters/06-practice/project-P5-honest-test.md
+  - 第七部分 · 落到 A 股现实:
+      - chapters/07-reality/00-intro.md
+      - 第 36 章 · A 股制度约束: chapters/07-reality/36-market-rules.md
+      - 第 37 章 · 交易成本与执行摩擦: chapters/07-reality/37-costs.md
+      - 第 38 章 · 学术界怎么看技术分析: chapters/07-reality/38-academic.md
+      - 第 39 章 · 边界与天花板: chapters/07-reality/39-boundary.md
   - 速查与资料:
       - 记号速查: notation.md
       - 出处与资料登记: sources.md
@@ -161,6 +167,10 @@ nav:
       - 第 33 章: qa/33-small-triggers-large-qa.md
       - 第 34 章: qa/34-capital-qa.md
       - 第 35 章: qa/35-claims-index-qa.md
+      - 第 36 章: qa/36-market-rules-qa.md
+      - 第 37 章: qa/37-costs-qa.md
+      - 第 38 章: qa/38-academic-qa.md
+      - 第 39 章: qa/39-boundary-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
