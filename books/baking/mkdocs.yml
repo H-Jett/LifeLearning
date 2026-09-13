@@ -81,6 +81,13 @@ nav:
       - 第 11 章 · 生物膨发一：酵母怎么工作: chapters/02-leavening/11-yeast.md
       - 第 12 章 · 生物膨发二：天然酵种: chapters/02-leavening/12-sourdough.md
       - 第 13 章 · 化学膨发：小苏打、泡打粉与酸碱配平: chapters/02-leavening/13-chemical-leavening.md
+      - 第 14 章 · 物理膨发一：打发: chapters/02-leavening/14-whipping.md
+      - 第 15 章 · 物理膨发二：蒸汽: chapters/02-leavening/15-steam.md
+      - 🛠 项目 P2 · 三条膨发路线的对照: chapters/02-leavening/project-P2-three-leavening-routes.md
+  - 第三部分 · 结构是怎么立住的:
+      - chapters/03-structure/00-intro.md
+      - 第 16 章 · 面筋网络：怎么形成、怎么被破坏: chapters/03-structure/16-gluten-network.md
+      - 第 17 章 · 淀粉糊化：烘焙里的糊化不一样: chapters/03-structure/17-gelatinization.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -101,6 +108,10 @@ nav:
       - 第 11 章: qa/11-yeast-qa.md
       - 第 12 章: qa/12-sourdough-qa.md
       - 第 13 章: qa/13-chemical-leavening-qa.md
+      - 第 14 章: qa/14-whipping-qa.md
+      - 第 15 章: qa/15-steam-qa.md
+      - 第 16 章: qa/16-gluten-network-qa.md
+      - 第 17 章: qa/17-gelatinization-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
