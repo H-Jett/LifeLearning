@@ -75,6 +75,12 @@ nav:
       - 第 8 章 · 膨松剂总览：酵母、小苏打、泡打粉: chapters/01-ingredients/08-leavening-agents.md
       - 第 9 章 · 烘焙百分比：换算、缩放与比较: chapters/01-ingredients/09-bakers-percentage.md
       - 🛠 项目 P1 · 把一份配方解码: chapters/01-ingredients/project-P1-decode-a-recipe.md
+  - 第二部分 · 膨发的三条路线:
+      - chapters/02-leavening/00-intro.md
+      - 第 10 章 · 气从哪来、被什么关住：膨发的通用模型: chapters/02-leavening/10-leavening-model.md
+      - 第 11 章 · 生物膨发一：酵母怎么工作: chapters/02-leavening/11-yeast.md
+      - 第 12 章 · 生物膨发二：天然酵种: chapters/02-leavening/12-sourdough.md
+      - 第 13 章 · 化学膨发：小苏打、泡打粉与酸碱配平: chapters/02-leavening/13-chemical-leavening.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -91,6 +97,10 @@ nav:
       - 第 7 章: qa/07-salt-qa.md
       - 第 8 章: qa/08-leavening-agents-qa.md
       - 第 9 章: qa/09-bakers-percentage-qa.md
+      - 第 10 章: qa/10-leavening-model-qa.md
+      - 第 11 章: qa/11-yeast-qa.md
+      - 第 12 章: qa/12-sourdough-qa.md
+      - 第 13 章: qa/13-chemical-leavening-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
