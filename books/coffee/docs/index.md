@@ -51,8 +51,8 @@
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
 | 一 | [咖啡的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成） |
-| 二 | [上游：从一棵树到一袋生豆](chapters/02-upstream/00-intro.md) ★ | 读懂豆袋每个字段，判断"这支豆贵在哪"（🔜 进行中） |
-| 三 | 烘焙：把前体变成风味 ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题 |
+| 二 | [上游：从一棵树到一袋生豆](chapters/02-upstream/00-intro.md) ★ | 读懂豆袋每个字段，判断"这支豆贵在哪"（✅ 已完成） |
+| 三 | [烘焙：把前体变成风味](chapters/03-roasting/00-intro.md) ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题（🔜 进行中） |
 | 四 | 萃取原理 ★ | 所有器具的共同底层：溶解 + 扩散 + 传质 |
 | 五 | 冲煮与意式实操 | 拿到陌生豆，三次以内找到可接受的参数 |
 | 六 | 杯测与感官（对标 Q-Grader）★ | 规范描述一杯咖啡，并知道自己有多可信 |
@@ -83,9 +83,18 @@
 - ✅ 第 11 章 [处理法 ②：厌氧、接种发酵与"实验性处理"](chapters/02-upstream/11-fermentation-experimental.md)
 - ✅ 第 12 章 [干燥、含水率与生豆储存](chapters/02-upstream/12-drying-storage.md)
 - ✅ 第 13 章 [生豆分级与瑕疵](chapters/02-upstream/13-green-grading.md)
-- ⬜ 第 14 章（产区地图）+ 项目 P2
+- ✅ 第 14 章 [产区地图：把地名拆回它的自变量](chapters/02-upstream/14-origin-map.md)
+- ✅ 🛠 [项目 P2 同产区、不同处理法的对照](chapters/02-upstream/project-P2-processing-comparison.md)
 
-**下一站**：第 14 章「产区地图：主要产国的风味坐标」，之后是第二部分的项目 P2。
+**第三部分 · 烘焙：把前体变成风味（🔜 进行中）**
+
+- ✅ [第三部分导读](chapters/03-roasting/00-intro.md)
+- ✅ 第 15 章 [烘焙的物理：传热、豆内温度场与"豆温不是一个数"](chapters/03-roasting/15-roasting-physics.md)
+- ✅ 第 16 章 [烘焙的化学 ①：脱水、焦糖化与美拉德反应](chapters/03-roasting/16-roasting-chemistry-1.md)
+- ✅ 第 17 章 [烘焙的化学 ②：绿原酸的去路与苦味的真正来源](chapters/03-roasting/17-cga-and-bitterness.md)
+- ⬜ 第 18~20 章（结构变化 / 烘焙度的测量 / 烘焙缺陷与曲线之争）
+
+**下一站**：第 18 章「结构变化：一爆、二爆、豆内压力与孔隙」。
 
 ## 常用工具页
 

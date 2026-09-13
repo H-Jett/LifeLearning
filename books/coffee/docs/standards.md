@@ -356,6 +356,54 @@
 | **[ICO2]** | International Coffee Organization, Joint Committee 文件 **JC-03/24 Rev. 1**：*ICO composite and group indicator prices: Share of markets and group weightings*（2024-09-07；自 **2024-10-01** 生效；依据 2021—2023 年绿咖啡出口量） | 组权重：Colombian Milds **10.15%**、Other Milds **20.48%**、Brazilian Naturals **31.95%**、Robustas **37.42%**；三年平均出口总量约 **115,646,625 袋**（60 kg/袋）。用于说明"世界贸易的第一层分类是物种 × 处理法 × 产地" | ✅ 已读全文 |
 | **[SCA2]** | Specialty Coffee Association 标准页（本书 **2026-09-13** 复核） | **SCA-110 Green Coffee: Grading, Specifications, and Test Methods (for the Purpose of Trading)** 列在"**Standards in Development**"一栏，**核对当日尚未发布**。见 §1.1 的更新记录 | ✅ 一手网页已核对 |
 
+### 4.17 产区、统计口径与产地溯源（第 14 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[M1]** | International Coffee Organization, *Coffee Market Report – August 2026*（ico.org 公开 PDF，本书 2026-09 取得）。该组织在文末注明：材料可在**明确标注 ICO 为来源**的前提下使用 | **第 14 章主干**：世界产量 2024/25 **175.9** 百万袋（+2.5%）、2025/26 估计 **183.6**（+4.4%）；阿拉比卡 **104.4** / 罗布斯塔 **79.2**；区域份额 南美 **45.8%**、亚洲与大洋洲 **29.7%**、非洲 **13.6%**、加勒比中美与墨西哥 **10.8%**；消费 2024/25 **182.2** 百万袋、欧洲占 30.1%；2021/22—2024/25 连续四年赤字、2025/26 预计盈余 **300 万袋**；**咖啡年自 10 月 1 日起**，作物年起点有 **4/1、7/1、10/1** 三种，并明确写出按咖啡年做的**国别估计"不代表各国境内实际产量"**；**哥伦比亚双收获季**（主季 10 月—次年 3 月；Mitaca 自 4 月低海拔推进到 7 月中高海拔）；哥伦比亚出口与产量相关 **98%**（2010/11—2024/25）；乌干达 2024/25 出口 **826 万袋**、前四年均值 **622 万袋**；2026 年 8 月四组均价 **387.46 / 361.31 / 322.24 / 180.63** 美分/磅、I-CIP **287.29**、Colombian Milds–Other Milds 差 **26.15**；ICE 认证阿拉比卡库存 **223,976 袋**（8 月 31 日，1999 年以来最低） | ✅ 已读全文 |
+| **[M2]** | Rusinek, R., 等 (2025). Effect of climate, growing region, country of origin, and post-harvest processing on the content of chlorogenic acids (CGAs) and aromatic compounds in roasted coffee beans. *Scientific Reports*, 15, 478255. PMCID PMC12358513（开放获取） | **同一品种（Typica）四国对照**（秘鲁、哥斯达黎加、危地马拉、埃塞俄比亚）的设计与其记录的字段（海拔、产区、土壤、遮荫、采收方式、处理法、干燥方式）；总酚以埃塞俄比亚样品最高。⚠️ **各国仅一个样品，且处理法不同（秘鲁为厌氧发酵 48~60 h）**——本书用作"混杂未控制"的教学案例，**不据此归因给国家** | ✅ 已读全文相关章节 |
+| **[M3]** | Proteomics coupled machine learning—innovative approach in geographical origin authentication of green *Coffea arabica* (2025). *Food Chemistry*, 145784 | 1596 种蛋白中取 ANOVA 前 30 个标志物；留一交叉验证 **85.3%**、5 折 20 次后 **84.0%**；**亚洲样品预测最差** | ✅ 已读摘要 |
+| **[M4]** | Pyrazine-based fingerprinting for geographical origin discrimination of coffee (2026). *Food Chemistry: X*, 103706. PMCID PMC13148071（开放获取） | **180 个批次**、9 个共有吡嗪峰；DNN 内部留出 **91.7%**、5 折 **88.33%**、**外部（不同收获批次）85.0%** | ✅ 已读摘要 |
+| **[M5]** | Coffee geographical origin rapid on-site discrimination strategy using an electrochemical fingerprinting platform (2026). *Food Chemistry*, 150623 | **13 个**阿拉比卡产地、每产地 8 份独立提取物；SVM 总体 **92.31%** | ✅ 已读摘要 |
+| **[M6]** | Unlocking the physicochemical, bioactive, and antioxidant potential of Indonesian Liberica coffee: roles of geographical origin and processing (2026). *Food Chemistry: X*, 104257. PMCID PMC13452413（开放获取） | 产地对多数参数显著；处理法主要影响含水率、脂质组分与抗氧化能力；**多元分析的主聚类按产地、处理法为次级因素**。⚠️ 单物种、单国、单季，**不可外推为"产地效应一般大于处理法效应"** | ✅ 已读摘要 |
+
+### 4.18 烘焙的物理（第 15 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[RP1]** | Schenker, S., & Rothgeb, T. (2017). The Roast—Creating the Beans' Signature. In *The Craft and Science of Coffee* (pp. 245–271). Academic Press. doi:10.1016/B978-0-12-803520-7.00011-6 | 烘焙的权威综述章。**仅登记坐标** | ⚠️ 书目与页码已核对、**正文未读**，正文不引用其数值 |
+| **[RP2]** | Fabbri, A., Cevoli, C., Alessandrini, L., & Romani, S. (2011). Numerical modeling of heat and mass transfer during coffee roasting process. *Journal of Food Engineering*, 105(2), 264–269 | 本书只通过 [RP3] 的复述知道它提出了热—湿传输模型并有含水率实测数据。**仅登记坐标** | ⚠️ **原文与摘要均未读到**，不引用其数值 |
+| **[RP3]** | Fadai, N. T., Melrose, J., Please, C. P., Schulman, A., & Van Gorder, R. A. (2017). A heat and mass transfer study of coffee bean roasting. *International Journal of Heat and Mass Transfer*, 104, 787–799 | **第 15 章 §15.3 主干**：对 [RP2] 模型的拟合与批评（数值稳定性、缺少机制）；从守恒方程重推的新模型；**因实验数据不足而略去 CO₂ 生成**；预测存在**锐利干燥锋面**，把豆分成外干区与内湿区；追踪**局部量**而非整体平均量 | ✅ 已读摘要 |
+| **[RP4]** | Fadai, N. T., Please, C. P., & Van Gorder, R. A. (2019). Modelling structural deformations in a roasting coffee bean. *International Journal of Non-Linear Mechanics*, 110, 123–130 | 温度相关的**多孔黏弹性**方程；**内部出现大幅应力堆积**，原因是**黏弹性内部被刚性弹性外壳束缚而无法膨胀**；作者把结论定位为对工业烘焙的可能改进方向 | ✅ 已读摘要 |
+| **[RP5]** | Schenker, S., Handschin, S., Frey, B., Perren, R., & Escher, F. (2000). Pore structure of coffee beans affected by roasting conditions. *Journal of Food Science*, 65(3), 452–457 | 两种定义清晰的工艺**烘到相同烘焙度**后，**高温组豆体积更大、孔体积更大、细胞壁微孔更大**；孔结构控制烘焙与储存中的传质 | ✅ 已读摘要 |
+| **[RP6]** | Baggenstoss, J., Poisson, L., Kaegi, R., Perren, R., & Escher, F. (2008). Coffee roasting and aroma formation: application of different time–temperature conditions. *Journal of Agricultural and Food Chemistry*, 56(14), 5836–5846. PMID 18572953 | 商用卧式滚筒 + 实验室流化床；HTST 与 LTLT；**以豆色亮度定义同一终点**；过度烘焙时多数挥发物减少或持平，但**己醛、吡啶、二甲基三硫继续上升**；**当两机沿相同豆温发展运行时，香气生成动力学相似** | ✅ 已读摘要 |
+| **[RP7]** | Schenker, S., Heinemann, C., Huber, M., Pompizzi, R., Perren, R., & Escher, F. (2002). Impact of roasting conditions on the formation of aroma compounds in coffee beans. *Journal of Food Science*, 67(1), 60–66 | **多数香气化合物的增幅峰出现在含水率 7%→2%（湿基）**的脱水中段；不同时间—温度历程给出不同香气谱 | ✅ 已读摘要 |
+| **[RP8]** | Raemy, A., & Lambelet, P. (1982). A calorimetric study of self-heating in coffee and chicory. *International Journal of Food Science and Technology*, 17(4), 451–460 | 热流量热法测定比热；**密闭池中出现强烈放热反应**；该研究关注自热与着火温度。**本书只取"高温下会放热"这一层**，不外推到烘焙机内的 RoR 行为 | ✅ 已读摘要 |
+| **[RP9]** | Anokye-Bempah, L., Styczynski, T., de Andrade Teixeira Fernandes, N., Gervay-Hague, J., Ristenpart, W. D., & Donis-González, I. R. (2024). The effect of roast profiles on the dynamics of titratable acidity during coffee roasting. *Scientific Reports*, 14, 8237. PMCID PMC11002029（开放获取） | **第 15、16 章共用的主干**：商用 **5 kg** 滚筒机（预热 **210 ± 5 ℃ / ≥30 min**、只装 **4 kg（80%）**以保证气流、每 **30 秒**记录 RoR）；七条曲线均 16 分钟、起止 **215 ± 8 / 237 ± 2 ℃**；四个阶段的命名与"**美拉德反应在一爆后仍在继续**"的提醒；TA 初始 **2.2 ± 0.3**、峰值 **4.9 ± 0.2 mL NaOH/40 mL**、**峰总是出现在一爆**、**二爆时回到接近初始值**；**峰值几乎不随曲线与产地改变**，而到达时间差 5 分钟；**EF 与 NRoR 两条"缺陷曲线"的 TA 动态与 MD 几乎无法区分**；作者自述**未做感官评价** | ✅ 已读全文 |
+
+### 4.19 烘焙化学 ①：脱水、焦糖化与美拉德（第 16 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[RC1]** | Oestreich-Janzen, S. (2010). Chemistry of Coffee. In *Comprehensive Natural Products II*, 3.25, pp. 1085–1113. Elsevier | 其 Table 2「不同来源的咖啡成分（干基质量百分比）」：阿拉比卡生豆 → 熟豆 的碳水 **53.7 → 38**、绿原酸 **8.1 → 2.5**、氨基酸 **11.1 → 7.5**、葫芦巴碱 **0.8 → 0.3**、咖啡因 **1.3 → 1.2**、脂质 **15.2 → 17.0**、类黑精 **— → 25.4**、灰分 **3.9 → 4.5**；**该表自己注明各列来自不同原始来源**（生豆列与熟豆列不同作者）。另用于 §16.9 的关键解释：**咖啡因按干物质计不受处理与烘焙影响**，少量散失**被有机物重量损失所抵消** | ✅ **已读该章节前半部分**（含上述表与咖啡因一节），其余未读 |
+| **[RC2]** | Wei, F., Furihata, K., Koda, M., Hu, F., Miyakawa, T., & Tanokura, M. (2012). Roasting process of coffee beans as studied by nuclear magnetic resonance: time course of changes in composition. *Journal of Agricultural and Food Chemistry*, 60(4), 1005–1012. PMID 22224944 | 同时监测 **30 种** NMR 可见组分：**蔗糖与绿原酸降解；奎宁酸、N-甲基吡啶鎓与水溶性多糖生成；咖啡因与肌醇相对热稳定**；作者提出以这些组分作为烘焙进程的化学标志物 | ✅ 已读摘要 |
+| **[RC3]** | Lu, W., Chen, Y., Niu, Y., & Yu, L. (2026). Roast-Driven Coffee Proteome Changes Characterized by Bradford Assay, SDS-PAGE, and LC-MS. *Foods*, 15(3), 538. PMCID PMC12896866（开放获取） | 可提取蛋白由 **14~23** 降到 **3~10 g/100 g 干重**；17~26 / 34~43 / 55~72 kDa 条带减弱；**>180 kDa 峰只在熟豆中出现**；结构蛋白显著下调 | ✅ 已读摘要 |
+| **[RC4]** | Czerny, M., & Grosch, W. (2000). Potent odorants of raw Arabica coffee. Their changes during roasting. *Journal of Agricultural and Food Chemistry*, 48(3), 868–872. PMID 10725165 | **本书关于"烘焙救不回上游缺陷"最关键的一篇**：生豆中气味活性值最高者为 **3-异丁基-2-甲氧基吡嗪（IBMP）**，被认为造成生豆特征"豌豆味"；**烘焙后其浓度不变**；而甲硫基丙醛、3-羟基-4,5-二甲基-2(5H)-呋喃酮、香兰素、(E)-β-突厥酮、4-乙烯基与 4-乙基愈创木酚**大幅上升** | ✅ 已读摘要 |
+| **[RC5]** | Hofmann, T., Czerny, M., Calligaris, S., & Schieberle, P. (2001). Model studies on the influence of coffee melanoidins on flavor volatiles of coffee beverages. *Journal of Agricultural and Food Chemistry*, 49(5), 2382–2386. PMID 11368608 | 加入类黑精级分后**烘烤—硫味**强度下降；静态顶空中 **2-糠硫醇（FFT）、3-甲基-2-丁烯-1-硫醇、3-巯基-3-甲基丁基甲酸酯**显著减少；**低分子量类黑精（1500~3000 Da）**对 FFT 削弱最明显；**醛类不受影响**。⚠️ **模型溶液实验** | ✅ 已读摘要 |
+
+### 4.20 烘焙化学 ②：绿原酸的去路与苦味（第 17 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[CGA1]** | Farah, A., & Donangelo, C. M. (2006). Phenolic compounds in coffee. *Brazilian Journal of Plant Physiology*, 18(1), 23–36. doi:10.1590/S1677-04202006000100003 | 绿原酸是生豆酚类的主要成分、**干基可达 14%**；主要类别（CQA、二咖啡酰奎宁酸、FQA、对香豆酰奎宁酸与混合二酯，每组至少三个异构体）；加工中可被**异构化、水解或降解**；高温烘焙把部分绿原酸转化为**醌内酯**并与其他化合物形成**类黑精** | ✅ 已读摘要 |
+| **[CGA2]** | Farah, A., de Paulis, T., Trugo, L. C., & Martin, P. R. (2005). Effect of roasting on the formation of chlorogenic acid lactones in coffee. *Journal of Agricultural and Food Chemistry*, 53(5), 1505–1513. PMID 15740032 | **第 17 章 §17.3 主干**：鉴定 **7 种**内酯；**3-CQL** 峰值 **230 ± 9**（阿拉比卡）与 **254 ± 4**（罗布斯塔）mg/100 g 干重，出现在**浅中烘（约 14% 失重）**；4-CQL **116 ± 3 / 139 ± 2**；内酯最大量约为**可用前体的 30%**；**熟豆中 3-CQL 与 4-CQL 的相对水平与生豆前体相反**，提示先异构化后内酯化，**熟豆内酯水平不反映生豆前体水平** | ✅ 已读摘要 |
+| **[CGA3]** | Stalmach, A., Mullen, W., Nagai, C., & Crozier, A. (2006). On-line HPLC analysis of the antioxidant activity of phenolic compounds in brewed, paper-filtered coffee. *Brazilian Journal of Plant Physiology*, 18(1), 253–262 | **本书只用其中一条化学观察**：烘焙引起**异构化**——5-*O*-咖啡酰奎宁酸下降、3-*O*- 与 4-*O*- 衍生物上升。其抗氧化能力相关结果**本书不复述、不评价** | ✅ 已读摘要 |
+| **[CGA4]** | Moon, J.-K., & Shibamoto, T. (2010). Formation of volatile chemicals from thermal degradation of less volatile coffee components: quinic acid, caffeic acid, and chlorogenic acid. *Journal of Agricultural and Food Chemistry*, 58(9), 5465–5470. PMID 20405916 | **咖啡酸产生的挥发物总量最多**；奎宁酸与绿原酸在**氮气**下产物种类多于空气下 → 作者认为**氧气不起重要作用**；总酚 60.6~**89,893.7 μg/g**；**酚主要来自奎宁酸、儿茶酚来自咖啡酸**；三种不含氮的酸却回收到吡啶、吡咯与吡嗪。⚠️ **模型体系** | ✅ 已读摘要 |
+
+> 第 17 章同时复用 §4.2 的 **[B1]~[B8]**（苦味物的鉴定与阈值、醌内酯 → 4-乙烯基邻苯二酚寡聚物的转化、
+> 类黑精削弱咖啡因苦味约一半、TAS2R43）、§4.3 的 **[A1][A3][A6]**（奎宁酸、类黑精致涩、
+> 烘焙度加深时苦/涩/body/余韵同向上升），以及 §4.19 的 **[RC1][RC2]**。
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -368,12 +416,12 @@
 
 | # | 分歧点 | 来源 A | 来源 B | 本书的处理 |
 |---|-------|--------|--------|-----------|
-| 1 | **烘焙会不会大量损失咖啡因** | [C1] 明确写咖啡因"relatively thermostable. This means that it is not significantly degraded during roasting"，只在一爆与升华时有少量损失 | [C2] 转引的研究报告烘焙全程咖啡因下降 **40%~60%**（按产地：约 40%~60% 不等） | 正文**不写死损失比例**，只写"文献对此有分歧"，并指出争论多半与**计量基准**（按重量还是按体积）和取样点有关。见第 1 章「常见说法辨析」 |
+| 1 | **烘焙会不会大量损失咖啡因** | [C1] 明确写咖啡因"relatively thermostable. This means that it is not significantly degraded during roasting"，只在一爆与升华时有少量损失；[RC2] 的 NMR 追踪把咖啡因与肌醇列为"相对热稳定" | [C2] 转引的研究报告烘焙全程咖啡因下降 **40%~60%**（按产地：约 40%~60% 不等） | 正文**仍不写死损失比例**。**2026-09 部分解决**：[RC1] 给出了一个能同时容纳两侧的解释——咖啡因**按干物质计**不受烘焙影响，因为**少量散失被有机物的重量损失所抵消**。于是"百分比几乎不变"（三个来源方向一致 [C1][RC1][RC2]）与"绝对量有损失"可以并存。**本书未读到把两种口径直接对齐的实验**，故维持不写比例，并在[第 16 章 §16.9](chapters/03-roasting/16-roasting-chemistry-1.md) 把"分母问题"写成正文 |
 | 2 | **阿拉比卡生豆咖啡因含量区间** | [C1] 给 0.8%~1.4%；[C2] 实测多在 1.05%~1.53% | [C3] 乌干达阿拉比卡的参考值为 **1.94~3.0 g/100 g**，明显偏高 | 正文只写"阿拉比卡约 1% 上下、罗布斯塔大致是它的两倍量级"，并注明存在明显偏高的报告；**不给单点数字** |
 | 3 | **咖啡因占咖啡苦味的比例** | 圈内广泛流传"只占 10%~30%" | 本书**未找到任何给出该百分比的一手文献**；[B7] 反而直言咖啡因的感官角色"remains unclear" | **不引用任何百分比**。改为写：感官导向分离显示主要苦味驱动者是绿原酸的烘焙产物 [B1][B3]，而咖啡因的贡献还会被类黑精削弱约一半 [B7] |
 | 4 | **感知酸度由哪种酸主导** | 圈内常说"柠檬酸→明亮、苹果酸→柔和""肯尼亚豆的酸来自磷酸" | [A1] 只说感知酸度"is believed to be caused by"一组酸（绿原酸、柠檬、苹果、乳、奎宁酸），并说与可滴定酸度的相关性"conflicting results"；**未指认主导者，也未提磷酸** | 正文只写"酸的**种类构成**和**总量**都影响感受，但文献没有给出单一主导者"；**"磷酸说"暂不写入正文**，留到第 3、14 章去查 |
 | 5 | **熟豆里已鉴定挥发物的总数** | 圈内常引"800~1000 种以上" | 本书读到的研究检出数为 85 [V1]、111 [V2] 等，**随方法而变**；未找到可核对的总数权威出处 | **不写总数**。改为写 [V2] 的 111 种中仅 32 种 OAV > 1——这个对比比总数更有用 |
-| 6 | **类黑精占熟豆干重的比例** | 圈内常引一个具体百分比 | 本书未找到可交叉验证的咖啡数据（[A4] 给定义与质地作用，未给占比） | **不写占比**，只写它的组成与作用 |
+| 6 | **类黑精占熟豆干重的比例** | 圈内常引一个具体百分比 | ~~本书未找到可交叉验证的咖啡数据~~ → **2026-09 部分补核**：[RC1] 的成分汇编表给出阿拉比卡熟豆 **25.4%**、罗布斯塔 **25.9%**（干基） | **改为写出该数值并标明来源与局限**：类黑精是**按分离方法定义**的操作性类别，不同定义会给出不同占比；且该表各列来自不同原始来源。见[第 16 章 §16.8](chapters/03-roasting/16-roasting-chemistry-1.md) |
 | 7 | **咖啡果各层占果实的比例** | [F1]：果肉 29%、胶质层 4%、羊皮层 12%、种子 55%（**合计 100%**） | [F2]：果肉约 39%、羊皮层约 39%、胶质层约 14%（**合计 92%，种子无处安放**）；但同篇又写"果壳（果皮+羊皮层）约占果实干重 45%"，与 [F1] 自洽 | **采用 [F1] 的自洽一套**，并在[第 2 章 §2.1](chapters/01-foundation/02-cherry-anatomy.md) 把这条分歧写成"守恒检查"的教学实例。推测 39/22/39 原为"占**副产物**"的比例，被转引成"占果实" |
 | 8 | **水的组成会不会改变萃取** | [W1] 用 DFT 计算给出阳离子与咖啡分子的结合能差异，并讨论"理想矿物组成"——被广泛转述成"镁水萃取更好" | [A1] 的实验：常见浓度下加钙镁盐对四种有机酸影响有限；**冲煮前加与冲煮后加结果相近**，作者据此认为"酸的萃取与水组成无关" | 正文**两边都写**，并标明 [W1] 是**计算研究**、[A1] 是**实验研究**；**不写任何"最优水配方"**。见[第 3 章 §3.4](chapters/01-foundation/03-water.md) |
 | 9 | **人类有多少个苦味受体** | [N5]（2024 综述）写"**约 25 个**" | [B8]（2026 结构研究）写"在 **26 个**苦味受体中" | 正文写"**约 25~26 个（不同文献计数口径不同）**"，并说明差异可能来自是否计入某些序列与拷贝数缺失多态。见[第 4 章 §4.4](chapters/01-foundation/04-perception.md) |
@@ -388,6 +436,11 @@
 | 17 | **蜜处理的"胶质保留率"有没有统一定义** | 行业普遍使用黄蜜 / 红蜜 / 黑蜜的分档 | [C2] 只给出蜜处理整体保留 **20%~80%** 的范围；[PR4] 用的是自设的 0/33/66/100% 梯度 | **不给颜色对应任何数字**。正文只写范围，并标明颜色分档是**行业惯例**、各产地界定不一。见[第 10 章 §10.3](chapters/02-upstream/10-processing-basics.md) |
 | 18 | **"生豆蓝绿色"是好还是老** | [GR1]：ECX 颜色量表中 **bluish 是最高档**（15 分） | [D2]：长期储存会出现**特征性蓝绿色**，作者提出可作为"存放过久"的标记 | **不把两者等同**：两份资料的描述精度都不足（无色度学坐标），且颜色同时受品种、处理、含水率影响。正文只写"用颜色判断新鲜度需要更精确的定义"，并给出一个可厘清的观察方案。见[第 12 章 §12.5](chapters/02-upstream/12-drying-storage.md) |
 | 19 | **虫害与马铃薯味缺陷的关系** | 常见表述："盾蝽叮咬导致马铃薯味" | [GR6]：虫蛀样品的 IPMP 浓度**变异很大**，作者明确写出**虫害损伤不是引发该异味的充分条件**；另有微生物侧[GR9][GR8]与植物自身酶[GR10]两条候选来源 | 正文把它写成**必要但不充分**，并给出完整证据链。与[第 8 章](chapters/02-upstream/08-pests-and-renewal.md)"单因素归因不成立"一致。见[第 13 章 §13.4](chapters/02-upstream/13-green-grading.md) |
+
+| 20 | **烘焙曲线对酸度的影响有多大** | 行业共识与若干实验室研究：不同曲线（HTST/LTLT）给出不同的可滴定酸度 | [RP9] 在商用 5 kg 机上用**七条差异极大、总时长相同**的曲线测出：**TA 峰值几乎不随曲线与产地改变**（4.9 ± 0.2），变的是**到达时间**；且**到二爆时回到接近初始值** | **两边都写，并分清层次**：曲线显著影响 TA 的**动态**（何时达到某个值），但在该实验条件下**不改变峰值**。因此本书写"**就 TA 而言，停在哪里比怎么走更重要**"，并强调该研究**未做感官评价**。见[第 16 章 §16.6](chapters/03-roasting/16-roasting-chemistry-1.md) |
+| 21 | **焦糖化 / 美拉德"从多少度开始"** | 流传的各种温度阈值；[C1] 亦有"170~200 ℃ 糖开始焦糖化"这类**叙述性**表述 | 按 [RP3][RP4] 的图景，**豆内温度是一个分布**且存在干燥锋面；连建模论文也要**假定**某测点代表豆温 [C1] | **本书不写任何反应的启动温度**，改用**含水率与褐变程度**作为坐标（[RP7] 的 7%→2% 即是此类坐标）。见[第 15 章 §15.4](chapters/03-roasting/15-roasting-physics.md)、[第 16 章 §16.3](chapters/03-roasting/16-roasting-chemistry-1.md) |
+| 22 | **产地效应与处理法效应谁更大** | [M6]（印尼利比里卡）：多元分析的**主聚类按产地**，处理法为次级因素 | [C2] 等（第 10 章）：处理法可把某些指标（如 GABA）改变**一个数量级** | **不比较大小，改问"哪个指标"**：不同指标上的排序不同，且 [M6] 是单物种单国单季。正文只写"**至少在这组样品上，地点的效应大于处理法**"。见[第 14 章 §14.6](chapters/02-upstream/14-origin-map.md) |
+| 23 | **"缺陷曲线"（掉火 / 夸张 flick）有多糟** | 行业普遍认为二者严重损害品质 | [RP9]：EF 与 NRoR 两条曲线的**可滴定酸度动态与中庸曲线几乎无法区分**；作者并指出"据我们所知没有已发表数据支持 NRoR 会严重降质"这一行业观点 | **写成"某指标上未被支持"而非"无害"**：该研究只测 TA、**未做感官评价**。见[第 15 章 §15.7](chapters/03-roasting/15-roasting-physics.md) |
 
 ## 七、本页的"不采信"清单
 
@@ -427,3 +480,13 @@
 | 烘焙度与丙烯酰胺含量的关系 | 相关机构评估文件存在（[H5]），但本书**未核对**该定量关系，按纪律不写。"本书没写"不等于任何方向的结论 |
 | 任何摄入量建议、疗效或风险承诺 | 本书的红线（见 CLAUDE.md §1 第 4 条）。第 5 章连 [H4][H5] 的数值都不复述，只给文献坐标 |
 | "专业人士能盲测尝出产地/海拔" | 未读到任何盲测条件下的验证研究。可验证的是"能否稳定分辨两个样品"（第 38、39 章） |
+| **"某产区 = 某组风味词"的对照表** | 未读到"**控制品种、处理法与烘焙后**，产地仍稳定对应某组风味描述词"的盲测研究。可核实的只是**产地在化学上可判别**（85%~92%，且换收获批次会下降）[M3][M4][M5]——那是**分类**不是**预测**。见[第 14 章](chapters/02-upstream/14-origin-map.md) |
+| **"一爆在 X ℃""下锅 X ℃"等温度判据** | 读数是**探针周围温度**，依赖机型、装载率、探针位置与采样间隔[RP9]；豆内温度是分布[RP3]。本书只把**声音与结构**当一爆判据，不写温度数字 |
+| **豆心与豆表的温差数值** | 只有模型预测（干燥锋面[RP3]、内部应力[RP4]），**本书未读到真实烘焙过程中直接测定内外温差的实验** |
+| **"放热阶段导致 RoR 抬头"这条因果链** | 可核实的只有"咖啡物料在高温下会放热"（量热仪，非烘焙机）[RP8]。从**放热功率**到**净升温速率变化**这一步缺量级比较与直接实验 |
+| **烘焙中 CO₂ 生成与排气的定量** | 连专门的传热传质建模研究也因"**实验数据不足以拟合参数**"而略去 CO₂ 生成[RP3]。排气与新鲜度留到第 41 章，届时须另找一手实验 |
+| **蔗糖在各烘焙度下的残留百分比** | 可核实的是**方向**（蔗糖被降解，是 NMR 追踪的烘焙标志物之一[RC2]）与**碳水总量的变化**（53.7% → 38%，且两列不同来源[RC1]）。**未读到可交叉验证的定量系列**，正文不写残留值 |
+| **绿原酸损失率的通用系数** | 可核到的量级为"中浅烘约掉 30%~55%、深烘约掉 90%"，但**仅见于 [C2] 的综述转引**（单一研究、单一产地组）。正文写量级并标注来源，**不当作系数使用** |
+| **"某个香气描述词对应某个分子"的对照表** | 流传版本多无法核到一手来源。本书只写有文献支持的**单条对应**（如生豆的豌豆味 ↔ IBMP[RC4]、PTD ↔ IPMP[GR6]），不给整表 |
+| **丙烯酰胺的任何安全性解读** | [C2] 转引的化学动态（早期生成、烘焙中 >95% 被破坏、浅烘高于极深烘）**本书只作为化学事实复述并标注"仅见于该综述转引"**；任何风险、摄入量或"哪种更健康"的结论都不做（第 5 章红线） |
+| **抗氧化能力与健康之间的推论** | [CGA3] 报告了烘焙前后抗氧化能力的化学测定，本书**不复述、不评价**——化学指标与健康结局之间隔着整条证据链（第 5 章） |

@@ -50,8 +50,8 @@ flowchart TD
 | [10](10-processing-basics.md)、[11](11-fermentation-experimental.md) · 处理法 | 日晒 / 水洗 / 蜜处理 / 厌氧，各自在改变什么 | ✅ |
 | [12](12-drying-storage.md) · 干燥与储存 | 含水率、水分活度、陈化与"过季豆" | ✅ |
 | [13](13-green-grading.md) · 分级与瑕疵 | 目数 / 瑕疵计数 / 杯测分：三套体系 | ✅ |
-| 14 · 产区地图 | 把地名拆回品种 + 处理法 + 海拔 | ⬜ 待写 |
-| P2 · 项目 | 同产区、不同处理法的对照记录 | ⬜ 待写 |
+| [14](14-origin-map.md) · 产区地图 | 把地名拆回品种 + 处理法 + 海拔 | ✅ |
+| [P2](project-P2-processing-comparison.md) · 项目 | 同产区、不同处理法的对照记录 | ✅ |
 
 ## 读这一部分时的三个提示
 

@@ -81,6 +81,13 @@ nav:
       - 第 11 章 · 处理法 ②：厌氧与接种发酵: chapters/02-upstream/11-fermentation-experimental.md
       - 第 12 章 · 干燥、含水率与生豆储存: chapters/02-upstream/12-drying-storage.md
       - 第 13 章 · 生豆分级与瑕疵: chapters/02-upstream/13-green-grading.md
+      - 第 14 章 · 产区地图：把地名拆回自变量: chapters/02-upstream/14-origin-map.md
+      - 🛠 项目 P2 · 同产区、不同处理法的对照: chapters/02-upstream/project-P2-processing-comparison.md
+  - 第三部分 · 烘焙：把前体变成风味:
+      - chapters/03-roasting/00-intro.md
+      - 第 15 章 · 烘焙的物理: chapters/03-roasting/15-roasting-physics.md
+      - 第 16 章 · 烘焙的化学 ①：脱水、焦糖化与美拉德: chapters/03-roasting/16-roasting-chemistry-1.md
+      - 第 17 章 · 烘焙的化学 ②：绿原酸与苦味: chapters/03-roasting/17-cga-and-bitterness.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -102,6 +109,10 @@ nav:
       - 第 11 章: qa/11-fermentation-experimental-qa.md
       - 第 12 章: qa/12-drying-storage-qa.md
       - 第 13 章: qa/13-green-grading-qa.md
+      - 第 14 章: qa/14-origin-map-qa.md
+      - 第 15 章: qa/15-roasting-physics-qa.md
+      - 第 16 章: qa/16-roasting-chemistry-1-qa.md
+      - 第 17 章: qa/17-cga-and-bitterness-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
