@@ -88,6 +88,9 @@ nav:
       - chapters/03-ingredients/00-intro.md
       - 第 16 章 · 肉的结构: chapters/03-ingredients/16-meat-structure.md
       - 第 17 章 · 嫩化：腌制、上浆挂糊、静置: chapters/03-ingredients/17-tenderizing.md
+      - 第 18 章 · 焯水、汆烫、过油：预处理到底解决什么问题: chapters/03-ingredients/18-blanching.md
+      - 第 19 章 · 去腥增香的机理: chapters/03-ingredients/19-off-odor.md
+      - 第 20 章 · 蔬菜：细胞、水、叶绿素与"脆和烂"的临界点: chapters/03-ingredients/20-vegetables.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -112,6 +115,9 @@ nav:
       - 第 15 章: qa/15-tasting-loop-qa.md
       - 第 16 章: qa/16-meat-structure-qa.md
       - 第 17 章: qa/17-tenderizing-qa.md
+      - 第 18 章: qa/18-blanching-qa.md
+      - 第 19 章: qa/19-off-odor-qa.md
+      - 第 20 章: qa/20-vegetables-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
