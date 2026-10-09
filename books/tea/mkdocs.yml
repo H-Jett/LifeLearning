@@ -76,6 +76,7 @@ nav:
       - chapters/02-processing/00-intro.md
       - 第 5 章 · 分类的逻辑: chapters/02-processing/05-classification.md
       - 第 6 章 · 绿茶：杀青: chapters/02-processing/06-green-tea.md
+      - 第 7 章 · 白茶：萎凋: chapters/02-processing/07-white-tea.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -85,6 +86,7 @@ nav:
       - 第 4 章 · 酶与氧化: qa/04-enzymes-oxidation-qa.md
       - 第 5 章 · 分类的逻辑: qa/05-classification-qa.md
       - 第 6 章 · 绿茶：杀青: qa/06-green-tea-qa.md
+      - 第 7 章 · 白茶：萎凋: qa/07-white-tea-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

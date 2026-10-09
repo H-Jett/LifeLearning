@@ -105,6 +105,7 @@
 | 第 2 章 品种与产地 | [2.11 本章主要参考](chapters/01-foundation/02-cultivar-terroir.md) |
 | 第 3 章 鲜叶与采摘 | [3.11 本章主要参考](chapters/01-foundation/03-plucking.md) |
 | 第 4 章 酶与氧化 | [4.14 本章主要参考](chapters/01-foundation/04-enzymes-oxidation.md) |
+| 第 7 章 白茶：萎凋 | [7.10 本章主要参考](chapters/02-processing/07-white-tea.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 
