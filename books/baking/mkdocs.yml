@@ -92,6 +92,12 @@ nav:
       - 第 19 章 · 脂肪结晶与“层”: chapters/03-structure/19-fat-crystals-layers.md
       - 第 20 章 · 面团 vs 面糊的谱系: chapters/03-structure/20-dough-batter-spectrum.md
       - 第 21 章 · 烤箱里的时间轴: chapters/03-structure/21-oven-timeline.md
+  - 第四部分 · 操作即控制变量:
+      - chapters/04-process/00-intro.md
+      - 第 22 章 · 搅拌：直接法、中种、汤种、乳化法、打发法、折叠法: chapters/04-process/22-mixing-methods.md
+      - 第 23 章 · 温度控制：面团终温、黄油温度与水温: chapters/04-process/23-temperature-control.md
+      - 第 24 章 · 发酵与冷藏：时间、温度与风味的三角: chapters/04-process/24-fermentation-time-temperature.md
+      - 第 25 章 · 整形、醒发与割口: chapters/04-process/25-shaping-proofing-scoring.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -120,6 +126,10 @@ nav:
       - 第 19 章: qa/19-fat-crystals-layers-qa.md
       - 第 20 章: qa/20-dough-batter-spectrum-qa.md
       - 第 21 章: qa/21-oven-timeline-qa.md
+      - 第 22 章: qa/22-mixing-methods-qa.md
+      - 第 23 章: qa/23-temperature-control-qa.md
+      - 第 24 章: qa/24-fermentation-time-temperature-qa.md
+      - 第 25 章: qa/25-shaping-proofing-scoring-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

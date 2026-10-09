@@ -83,7 +83,7 @@
 | 一 | [原料各自在做什么](chapters/01-ingredients/00-intro.md) | 七个角色 + 烘焙百分比这套通用语言（✅ 已完成） |
 | 二 | [膨发的三条路线](chapters/02-leavening/00-intro.md) ★ | 生物 / 化学 / 物理：气从哪来、被什么关住（✅ 已完成） |
 | 三 | [结构是怎么立住的](chapters/03-structure/00-intro.md) ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力（✅ 已完成） |
-| 四 | 操作即控制变量 | 搅拌、温度、发酵、整形——配方之外你还能动的旋钮 |
+| 四 | [操作即控制变量](chapters/04-process/00-intro.md) | 搅拌、温度、发酵、整形——配方之外你还能动的旋钮（✅ 已完成） |
 | 五 | 烤箱与热 ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数 |
 | 六 | 从原理到成品 ★ | 逐类拆解 + 变体推演（改糖 / 改油 / 改粉 / 放大份量） |
 | 七 | 改配方与诊断 ★ | 替换规则与代价 + 一张能查的失败诊断表 |
@@ -125,7 +125,15 @@
 - ✅ 第 20 章 [面团 vs 面糊的谱系：含水量与搅拌方式决定成品](chapters/03-structure/20-dough-batter-spectrum.md)
 - ✅ 第 21 章 [烤箱里的时间轴：从入炉到出炉都发生了什么](chapters/03-structure/21-oven-timeline.md)
 
-**下一站**：第四部分 · 操作即控制变量——第 22 章 搅拌：六种搅拌法分别在优先照顾哪一件事。
+**第四部分当前进度**（✅ 已完成）：
+
+- ✅ [第四部分导读](chapters/04-process/00-intro.md)
+- ✅ 第 22 章 [搅拌：直接法、中种、汤种、乳化法、打发法、折叠法](chapters/04-process/22-mixing-methods.md)
+- ✅ 第 23 章 [温度控制：面团终温、黄油温度与水温](chapters/04-process/23-temperature-control.md)
+- ✅ 第 24 章 [发酵与冷藏：时间、温度与风味的三角](chapters/04-process/24-fermentation-time-temperature.md)
+- ✅ 第 25 章 [整形、醒发与割口](chapters/04-process/25-shaping-proofing-scoring.md)
+
+**下一站**：第五部分 · 烤箱与热——第 26 章 称量与精度。
 
 ## 常用工具页
 
