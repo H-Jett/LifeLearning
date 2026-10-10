@@ -149,6 +149,7 @@
 **下一站**：第六部分 · 从原理到成品。
 
 - ✅ 第 34 章 [快速面包与马芬：化学膨发 + 最少搅拌](chapters/06-products/34-quick-breads-muffins.md)
+- ✅ 第 35 章 [饼干：一份配方的六种改法](chapters/06-products/35-cookies.md)
 
 ## 常用工具页
 
