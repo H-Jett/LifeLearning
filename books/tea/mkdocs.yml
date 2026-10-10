@@ -95,6 +95,9 @@ nav:
       - 第 19 章 · 缺陷与劣变: chapters/03-sensory/19-defects.md
       - 第 20 章 · 评分与对样: chapters/03-sensory/20-scoring-reference.md
       - 🛠 项目 P2 · 自建审评表 + 30 天盲品训练: chapters/03-sensory/project-P2-blind-training.md
+  - 第四部分 · 冲泡:
+      - chapters/04-brewing/00-intro.md
+      - 第 21 章 · 四个旋钮: chapters/04-brewing/21-four-knobs.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -120,6 +123,7 @@ nav:
       - 第 19 章 · 缺陷与劣变: qa/19-defects-qa.md
       - 第 20 章 · 评分与对样: qa/20-scoring-reference-qa.md
       - 项目 P2 · 参考答案: qa/project-P2-blind-training-qa.md
+      - 第 21 章 · 四个旋钮: qa/21-four-knobs-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

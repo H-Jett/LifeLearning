@@ -79,7 +79,12 @@
 - ✅ 第 20 章 [评分与对样：分数是比较工具，不是茶的永久身份证](chapters/03-sensory/20-scoring-reference.md)
 - ✅ [项目 P2：自建审评表 + 30 天盲品训练](chapters/03-sensory/project-P2-blind-training.md)
 
-**下一站**：第四部分 · 冲泡。
+**第四部分当前进度**（🔜 进行中）：
+
+- ✅ [第四部分导读](chapters/04-brewing/00-intro.md)
+- ✅ 第 21 章 [四个旋钮：水温、茶水比、时间、器型各在改变什么](chapters/04-brewing/21-four-knobs.md)
+
+**下一站**：第 22 章 · 水。
 
 ## 常用工具页
 
