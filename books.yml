@@ -40,8 +40,8 @@ books:
     title: 珠宝入门
     subtitle: 从宝石学原理到选购决策
     description: 选购避坑 + 系统宝石学，对标准 GIA / FGA 的知识框架。
-    status: 进行中
-    progress: 七部分 46 章 · 已完成 15 章，进行到第二部分（钻石）
+    status: 完成
+    progress: ✅ 七部分 46 章 + 5 个实战项目 · 全书完成
     palette:
       primary: "#4F4287"
       accent: "#7A6BB5"

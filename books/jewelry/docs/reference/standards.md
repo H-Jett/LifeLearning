@@ -164,6 +164,7 @@
 | 市场监管总局价格欺诈规定、珠宝消费提示及直播消费提示 | 价格比较基准、营销话术、报告与凭证的可核验边界（第 42 章） | <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_9a1f82a007964950a1a0f6c056f2fedf.html> |
 | GIA 珠宝估价与保养资料 | 替换估价/回收用途边界、处理材料及超声/蒸汽清洁风险（第 43 章） | <https://www.gia.edu/gia-news-research-tips-caring-jewelry> |
 | GIA GG 与 Gem-A 官方课程资料 | 课程、实操、文凭与会员资格的边界（第 45 章） | <https://www.gia.edu/graduate-gemologist> |
+| GIA 名钻资料、Sotheby's CTF Pink Star 记录 | Hope 的技术/历史卡与 2017 年 CTF Pink Star 拍卖个案（第 46 章） | <https://www.sothebys.com/en/videos/ctf-pink-star-a-true-masterpiece-of-nature> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
