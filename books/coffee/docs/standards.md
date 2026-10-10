@@ -662,4 +662,5 @@
 | **浸泡式与冷萃** | [GC2] Liang et al. (2021, *Scientific Reports*，全文核对)：全浸泡平衡模型；[WT2] Fuller & Rao (2017, *Scientific Reports*，全文核对)：室温冷萃的 3-CGA/咖啡因约 6–7 小时达到平衡；过滤组成复用 [A5]。家庭制备的冷藏边界仅引用 FDA 通用消费者指引，非商业工艺验证。见[第 28 章](chapters/05-brewing-espresso/28-immersion-cold-brew.md)。 |
 | **摩卡壶与虹吸壶** | [MS1] Navarini et al. (2009, *Applied Thermal Engineering*, DOI: 10.1016/j.applthermaleng.2008.05.014，摘要核对)：摩卡壶的压差、初始空气、温度与粉床渗透率；[MS2] Boatwright et al. (2011, *Journal of Chemical Education*, DOI: 10.1021/ed2001818，摘要核对)：一般虹吸在高真空下仍可工作，故不能把虹吸简单归为“只靠大气压”。见[第 29 章](chapters/05-brewing-espresso/29-moka-siphon.md)。 |
 | **意式机器结构** | [EM1] ASME 工程说明（页面核对）：泵、锅炉、冲煮头与手柄的水路功能概览；不用于性能排名。粉饼均匀性边界复用 [BM1]–[BM3]。见[第 30 章](chapters/05-brewing-espresso/30-espresso-machine.md)。 |
+| **意式粉饼制备** | 初始压实、粒径分布、孔隙率与渗透率的证据复用 [BM1] Vaca Guerra et al. (2023)；本书未读到能支持通用压粉力、布粉工具或针数排名的一手对照研究，正文只要求水平、可重复并做多杯对照。见[第 31 章](chapters/05-brewing-espresso/31-puck-preparation.md)。 |
 | **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |

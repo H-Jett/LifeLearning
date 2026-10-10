@@ -10,5 +10,6 @@
 | 28 | [浸泡式与冷萃](28-immersion-cold-brew.md) | ✅ |
 | 29 | [摩卡壶与虹吸壶](29-moka-siphon.md) | ✅ |
 | 30 | [意式机器结构](30-espresso-machine.md) | ✅ |
-| 31~33 | 粉饼、配方与奶泡 | ⬜ |
+| 31 | [粉饼制备](31-puck-preparation.md) | ✅ |
+| 32~33 | 配方与奶泡 | ⬜ |
 | P4 | 配方手册 | ⬜ |
