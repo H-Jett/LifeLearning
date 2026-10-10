@@ -126,6 +126,9 @@
 | GIA *Gems & Gemology*「A Foundation for Grading the Overall Cut Quality of Round Brilliant Cut Diamonds」 | GIA 切工体系的研究基础；比例组合、光学表现、耐久性、抛光与对称共同决定总评（第 16 章） | <https://www.gia.edu/gems-gemology/fall-2004-grading-cut-quality-brilliant-diamond-moses> |
 | GIA 4Cs「Buying a Quality Diamond」与花式切工 FAQ | 花式切工报告的抛光/对称字段、轮廓与线对称观察；GIA 总切工评级的适用边界（第 17 章） | <https://4cs.gia.edu/en-us/blog/how-to-buy-a-quality-diamond/> |
 | GIA *Gems & Gemology*「Observations of Oval-, Pear-, and Marquise-Shaped Diamonds」(2024) | 花式切工不能直接套圆钻体系；明显窗感、蝴蝶结和碎冰图案的观察与偏好边界（第 17 章） | <https://www.gia.edu/gems-gemology/fall-2024-fancy-shaped-diamonds> |
+| GIA「HPHT and CVD Diamond Growth Processes」及 LGDR by GIA | HPHT/CVD 生长路线、鉴定特征的局限；培育钻报告的生长方式、后处理和腰围刻字披露（第 18 章） | <https://www.gia.edu/hpht-and-cvd-diamond-growth-processes> |
+| GIA *Gems & Gemology*「Laboratory-Grown Diamonds: An Update」（2024） | 普通筛查器仅能筛查、来源结论需要综合实验室证据（第 18 章） | <https://www.gia.edu/gems-gemology/summer-2024-gia-update-on-laboratory-grown-diamonds> |
+| FTC「Jewelry Guides」 | 培育钻、仿制品的清楚醒目披露原则（第 18 章） | <https://www.ftc.gov/business-guidance/resources/loupe-advertising-diamond-gemstones-pearls> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
