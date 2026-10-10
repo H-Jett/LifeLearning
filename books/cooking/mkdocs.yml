@@ -102,6 +102,7 @@ nav:
       - 第 27 章 · 煮与汆：水里的对流与溶出: chapters/04-techniques/27-boiling-poaching.md
       - 第 28 章 · 炖、焖、卤：结缔组织的时间: chapters/04-techniques/28-braise-stew.md
       - 第 29 章 · 烤：辐射、热空气与干燥: chapters/04-techniques/29-roasting-baking.md
+      - 第 30 章 · 凉拌与生食: chapters/04-techniques/30-cold-raw.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -138,6 +139,7 @@ nav:
       - 第 27 章: qa/27-boiling-poaching-qa.md
       - 第 28 章: qa/28-braise-stew-qa.md
       - 第 29 章: qa/29-roasting-baking-qa.md
+      - 第 30 章: qa/30-cold-raw-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
