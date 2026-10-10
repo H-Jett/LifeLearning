@@ -9,5 +9,6 @@
 | 27 | [注水法与配方设计](27-pouring-recipes.md) | ✅ |
 | 28 | [浸泡式与冷萃](28-immersion-cold-brew.md) | ✅ |
 | 29 | [摩卡壶与虹吸壶](29-moka-siphon.md) | ✅ |
-| 30~33 | 意式与奶泡 | ⬜ |
+| 30 | [意式机器结构](30-espresso-machine.md) | ✅ |
+| 31~33 | 粉饼、配方与奶泡 | ⬜ |
 | P4 | 配方手册 | ⬜ |
