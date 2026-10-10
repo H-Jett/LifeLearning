@@ -66,8 +66,8 @@ books:
     title: 系统品酒
     subtitle: 从葡萄酒到烈酒
     description: 品种与产区 + 酿造与陈年 + 系统品鉴，对标 WSET 的品酒与产区框架。
-    status: 进行中
-    progress: 七部分 44 章 · 已完成 20 章 + 项目 P1，进行到第四部分（世界产区谱系与酒标法规）
+    status: 完成
+    progress: ✅ 七部分 44 章 + 5 个实战项目 · 全书完成
     palette:
       primary: "#8E1B36"           # 勃艮第红
       accent: "#B8455F"

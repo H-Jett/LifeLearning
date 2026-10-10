@@ -90,6 +90,7 @@ nav:
       - 第 16 章 · 起泡酒：传统法、罐式法与气压: chapters/03-winemaking/16-sparkling.md
       - 第 17 章 · 加强酒与甜酒: chapters/03-winemaking/17-fortified-and-sweet.md
       - 第 18 章 · 装瓶、封瓶与陈年化学: chapters/03-winemaking/18-bottling-closures-aging.md
+      - 🛠 项目 P2 · 反推酿造决策: chapters/03-winemaking/project-P2-winemaking-inference.md
   - 第四部分 · 世界产区谱系与酒标法规:
       - chapters/04-regions/00-intro.md
       - 第 19 章 · 原产地制度的逻辑: chapters/04-regions/19-origin-system-logic.md
@@ -124,6 +125,8 @@ nav:
       - 第 41 章 · 储存与陈年潜力: chapters/07-practice/41-storage-aging.md
       - 第 42 章 · 侍酒: chapters/07-practice/42-service.md
       - 第 43 章 · 餐酒搭配: chapters/07-practice/43-food-pairing.md
+      - 第 44 章 · 酒与健康及专业学习: chapters/07-practice/44-health-learning.md
+      - 🛠 项目 P5 · 酒柜与配酒方案: chapters/07-practice/project-P5-cellar-dinner.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -174,6 +177,7 @@ nav:
       - 第 41 章: qa/41-storage-aging-qa.md
       - 第 42 章: qa/42-service-qa.md
       - 第 43 章: qa/43-food-pairing-qa.md
+      - 第 44 章: qa/44-health-learning-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
