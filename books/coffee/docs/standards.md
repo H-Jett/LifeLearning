@@ -465,6 +465,84 @@
 > 第 21 章同时复用 §4.2 的 **[B3]**（不同类别化合物萃取行为不同）与
 > §4.3 的 **[A2]**（统一到 2% TDS 后热冲与冷冲仍显著不同）。
 
+### 4.25 浓度、萃取率与"金杯"冲煮控制图（第 22 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[GC1]** | Lockhart, E. E., Pan American Coffee Bureau, & National Coffee Association of U.S.A. (1957). *The Soluble Solids in Beverage Coffee As An Index to Cup Quality*. Coffee Brewing Institute, Publication No. 27 | **"金杯"概念的原始出处**，由咖啡冲煮研究所（Coffee Brewing Institute，1952 年由美国国家咖啡协会与泛美咖啡局发起）发表。⚠️ **本书未能获取原文**（多方检索无公开全文/扫描件）；仅能通过 [GC2] 的引言转引确认其存在与大致结论（TDS 约 1.25%、萃取率约 20% 被认定为"理想"）。原始实验的评委人数、统计方法、水质与豆种等细节**本书一律不复述** | ⚠️ **仅见于后人转引，原文未核** |
+| **[GC2]** | Liang, J., Chan, K. C., & Ristenpart, W. D. (2021). An equilibrium desorption model for the strength and extraction yield of full immersion brewed coffee. *Scientific Reports*, 11, 6904. doi:10.1038/s41598-021-85787-1（开放获取，UC Davis eScholarship） | **第 22 章主干**：推导全浸泡式冲煮的平衡脱附模型；给出 **TDS = KE_max/(R_brew + KE_max)** 与**萃取率 E = TDS/(1−TDS) × R_brew**（质量守恒精确式）；证明**全浸泡式在平衡时萃取率与冲煮比几乎无关**（1 L 实验：E = 20.70 ± 1.08% 实测 vs 21.5 ± 0.2% 模型预测，R_brew = 3~25；传统杯测协议：E = 23.9 ± 0.6%（含咖啡因）/22.2 ± 0.4%（低咖啡因），R_brew = 12~21）；证明**烘箱干燥法系统性低估真实萃取率**（因湿粉中滞留的冲煮液未被计入），并给出修正式；K（平衡常数）在 80~99 ℃ 范围内**对温度不敏感**；E_max（理论最大可萃取比例）约取 **0.3**，引自 Moroney 等 2015（本书对该数字的态度见下方说明）；折光仪（VST）经**烘箱法**校准后"给出极好的 TDS 测量"（原文用溶解已知质量速溶咖啡的方法验证） | ✅ **已读全文**（含方法学、数据与讨论） |
+| **[GC3]** | Batali, M. E., Ristenpart, W. D., & Guinard, J.-X. (2020). Brew temperature, at fixed brew strength and extraction, has little impact on the sensory profile of drip brew coffee. *Scientific Reports*, 10, 16450（勘误 *Sci Rep* 2021, 11, 2676）。PMCID PMC7536440（开放获取） | **"金杯标准"数字的直接确认 + 对其"理想"措辞的学术批评**：原文明确写出经典图表"spans TDS values of 1.15–1.35% and PE values of 18–22%"并称之为行业的"Golden Cup Standard"；同时批评该图表"conflates hedonic or quality descriptors ('ideal')"、"unclear what consumer populations find coffees in the centre of the chart to be 'ideal'"；**感官数据显示苦、涩、稠厚感主要只随 TDS 变化**（"had significant differences based on TDS alone"），与经典图表"萃取率越高越苦"的隐含假设不完全一致；并证明**固定 TDS 与萃取率时，87~93 ℃ 范围内冲煮水温对受训评委可分辨的感官轮廓无显著影响** | ✅ **已读全文相关段落**（经 PMC 核对原文措辞） |
+| **[GC4]** | Frost, S. C., Ristenpart, W. D., & Guinard, J.-X. (2020). Effects of brew strength, brew yield, and roast on the sensory quality of drip brewed coffee. *Journal of Food Science*, 85(8), 2530–2543. doi:10.1111/1750-3841.15326 | 响应面法系统测定 TDS × 萃取率对多项感官属性的影响：**高 TDS 强烈关联更强的苦味、烟熏与烘烤香；高 TDS + 低萃取率关联更高的酸味与柑橘感；低 TDS 则在低或高萃取率两端分别关联甜感增强与茶感/花香增强**；指出经典九宫格"虽仍被广泛使用，但忽略了丰富的感官属性多样性" | ⚠️ **仅通过 [GC2] 引言的转述与可信二手摘要确认**，本书未直接读到全文 |
+| **[GC5]** | Guinard, J.-X., Frost, S., Batali, M., Cotter, A., Lim, L. X., & Ristenpart, W. D. (2023). A new Coffee Brewing Control Chart relating sensory properties and consumer liking to brew strength, extraction yield, and brew ratio. *Journal of Food Science*, 88, 2168–2177 | **UC Davis 团队对经典金杯图的系统性修订**：基于逾 58000 个感官数据点、响应面法为**每个感官属性**单独画等高线图（而非一张通用图）；发现不同风味属性的峰值落在 TDS–萃取率平面的**不同区域**（如甜感在低 TDS 低萃取率，黑巧克力在高萃取率低 TDS，酸味随 TDS 升高、随萃取率下降）；提出"强/弱"这类单一纵轴标签对某些属性**可能产生误导**。本书据此判断：**SCA 资助的学术界已系统性质疑固定金杯区间的普适性，但该研究定位为"补充/演化"，并非官方废除** | ⚠️ **仅通过 [SCA5] 官方新闻稿的详细转述确认内容**，本书未直接读到期刊全文 |
+| **[SCA3]** | Specialty Coffee Association (2018, Revised). *SCA Coffee Standards*, §5.1 Golden Cup Standard | 官方文本（经多个独立二手页面一致转引确认）：**"brew strength ... of 1.15 to 1.35 percent on the SCA Brewing Control Chart, resulting from a solubles extraction yield of 18 to 22 percent"** | ⚠️ **官网原文件 2026-10 核对当日返回 404，未能直接抓取**；内容经 [GC3] 的同行评议论文全文直接引述（措辞一致）与多个独立检索结果交叉确认，但**本书未亲自读到 SCA 官方 PDF 原文**，故标注待核 |
+| **[SCA4]** | Specialty Coffee Association (2021). *SCA Standard 310-2021: Home Coffee Brewers — Specifications and Test Methods* | 设备认证标准：**标准冲煮比为 55 g 咖啡 / 1.000 kg 水**；**目标萃取参数为该冲煮比下冲煮浓度 1.15%~1.55%**（注意：相比 [SCA3] 的 1.15%~1.35%，**上限被放宽到 1.55%**，说明 SCA 内部认证标准本身已不是铁板一块的单一数字）；冲煮温度区间 90~96 ℃ | ⚠️ **官网 PDF 2026-10 核对当日同样返回 404**，内容经检索引擎对该标准条文的一致转引确认，**本书未能亲自读到完整原文**，标注待核 |
+| **[SCA5]** | Specialty Coffee Association. *Towards a New Brewing Chart*. SCA News, Issue 25-13 | SCA 官方媒体对 [GC5] 研究的介绍：历史脉络（Lockhart 1950 年代 → 经典冲煮控制图）；明确列出经典图表三项缺陷——**混淆描述性数据与喜好性数据**、**九宫格边界暗示了实际感知不到的精细差异**（"17.9% 与 18.1% 萃取率"）、**只用苦/欠发展两极简化风味**；文中把新图表的中心区标注为"classic standard"而非"ideal" | ✅ **已直接读取原文**（sca.coffee 官网页面可正常访问） |
+
+> **关于"咖啡可溶物约 30%"（E_max）的立场更新**：第 21 章因未核到一手来源而拒绝写出这个数字。
+> 本章读到 [GC2] 把 E_max ≈ 0.3 作为模型的**输入假设**使用，但该数字本身**仍然只追溯到 Moroney 等 2015**
+> （即第 21 章的 [EX4]，本书同样未读到其正文）。**这不构成第二个独立来源**，只是同一来源被不同论文复用。
+> 因此本章延续第 21 章的立场：**不把 30% 当作可验证的物理上限来写**，只在"模型假设"这个限定语境下提一句。
+
+> **关于 Jonathan Gagné（《The Physics of Filter Coffee》作者，咖啡发烧友技术写作）**：
+> 检索未发现其发表过任何同行评议期刊论文。他关于"用折光仪精确到 0.01%"等方法是**博客与自费书籍**，
+> 本书**不作为一手依据**，只在「常见说法辨析」里作为"民间技术写作"提一句其存在。
+
+### 4.26 研磨：粒径分布、细粉与表面积（第 23 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[GR-U1]** | Uman, E., Colonna-Dashwood, M., Colonna-Dashwood, L., Perger, M., Klatt, C., Leighton, S., Miller, B., Butler, K. T., Melot, B. C., Speirs, R. W., & Hendon, C. H. (2016). The effect of bean origin and temperature on grinding roasted coffee. *Scientific Reports*, 6, 24483. PMCID PMC4834475（开放获取） | **"刻度不是粒径"的核心证据**：Mahlkönig EK43、刻度固定在 2.7；激光衍射（Beckman Coulter LS13 320 MW）测得按**数量**计的粒径分布近似偏态高斯，但按**表面积**加权后"因细粉贡献了大部分可及表面积而呈明显双峰"（原文直引）；粒径分布**与豆产地、处理法基本无关**（原文直引）；**豆温**才是关键变量——冷冻到 −200 ℃ 时众数粒径**下降约 31%**（原文直引具体数字）；并直接警告**磨头用热后，同样刻度需要调细才能获得同样的有效表面积**（原文直引）。磨豆机：Mahlkönig EK43（1480 rpm，土耳其刀盘） | ✅ **已读全文并逐句核对引文**（PMC） |
+| **[GR-C1]** | Cameron, M. I., Morisco, D., Hofstetter, D., Uman, E., Wilkinson, J., Kennedy, Z. C., Fontenot, S. A., Lee, W. T., Hendon, C. H., & Foster, J. M. (2020). Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment. *Matter*, 2(3), 631–648. doi:10.1016/j.matt.2019.12.019 | **第 23 章主干**：激光衍射（同款 Beckman Coulter LS13 320 MW）测得粒径呈**双峰分布**——"boulders"（>100 μm）与"fines"（<100 μm），类比**火山碎屑的双峰粒径成因**；"boulders"尺寸由刀盘间隙决定，"fines"产生于破碎界面；**磨得更细时细粉占比上升，但细粉自身尺寸基本不变**；**定量数据**（已逐句核对）：在刻度 GS=2.5 时，**99% 的颗粒数 <100 μm，这部分颗粒占了 80% 的表面积**；用 BET 表面积把双峰颗粒代入萃取模型；**实验发现萃取率—刻度关系是非单调的**（先升后降），作者将其归因于**两种竞争机制**：（1）预期的"磨细→表面积增大→萃取率上升"流动机制，（2）**细粉过多导致聚集/床层密度不均、造成局部堵塞、反而降低平均萃取率**；并指出**该非单调关系与具体豆种无关**（"the variation in how different coffees grind are negligible"，引用 [GR-U1]）；磨豆机：Mahlkönig EK43、咖啡专用刀盘；意式机：San Remo Opera，P=6 bar | ✅ **已下载 PDF 并逐句核对全文引文**（作者 Hendon 本人学术主页公开版） |
+| **[GR-S1]** | Smrke, S., Eiermann, A., & Yeretzian, C. (2024). The role of fines in espresso extraction dynamics. *Scientific Reports*, 14, 5612. doi:10.1038/s41598-024-55831-x. PMCID PMC10920694（开放获取） | **第 21 章 [EX11] 同一篇，第 23 章深挖细节**：Bentwood Vertical 63 磨豆机；用 120 μm 筛网筛出细粉后按 1 g / 2 g / 4 g 精确称量加回主体粉（19 g / 18 g / 16 g），用 Blind Shaker 混匀后冲煮；细粉比例上升**降低粉床渗透率**，导致流速下降、萃取时间延长；**关键澄清（与 [GR-C1] 的表面积叙事形成对照）**：作者明确写"细粉增大表面积对萃取效率的影响看起来是边际的"（原文直引"marginal"），认为**从实用角度看细粉主要只是在改变粉床渗透率**（原文直引"only modifying coffee bed permeability"）；**感官结果**：未观察到细粉比例上升带来的感官扣分（原文直引"did not observe any penalty in the sensory scores"），且两份加了 1 g、2 g 细粉的样品是评分最高的几杯之一；PTR-MS 显示香气物随萃取率**非线性上升** | ✅ **已读全文并逐句核对关键引文**（PMC） |
+| **[GR-B1]** | Bora, M., & Briesen, H. (2026). Characterization of Bimodal Particle Size Distribution of Ground Coffee Powder. *Journal of Food Process Engineering*, 49(6), e70645. doi:10.1111/jfpe.70645（慕尼黑工业大学） | **跨磨豆机对比的最佳同行评议证据**：用十种五参数组合分布模型拟合不同磨豆机、不同磨细程度、不同豆种产出的粒径分布；确认粗/细粉比例"主要是磨豆机类型（与其破碎机制相关）与磨细程度的特征"，**烘焙度影响很小**；最佳拟合模型为对数正态/Weibull、Weibull/Betaprime、Gamma/Weibull 三类，**确认咖啡粉粒径分布本质是双峰/组合分布，不是简单单峰高斯** | ⚠️ **仅通过摘要与机构页面确认**，付费墙导致全文未能亲自逐句核对，书中只引用方向性结论 |
+| **[GR-M1]** | Méndez Harper, J., & Hendon, C. H. (2023). Chemical strategies to mitigate electrostatic charging during coffee grinding. arXiv:2312.03103（预印本；正式发表版见 *Matter*, 2023, doi:10.1016/j.matt.2023.11.005） | **静电与 RDT（Ross droplet technique）的定量验证**：研磨时颗粒通过摩擦起电（tribocharging）与断裂起电（fractocharging）两种机制带电，电荷密度与火山灰、雷暴云冰晶相当（原文直引类比）；**深烘负电、浅烘正电**，残余水分是极性的主要决定因素，转变阈值约在含水率 <2%；**水处理的定量效果**（已逐句核对）：加水 20–30 μL/g 全豆可使电荷至少**降低 50%~60%**；加水 10 μL/g 可将磨豆机内滞留率从约 **12% 降到约 2.5%**；深烘咖啡加水处理后 TDS **提高至少 15%**（原文摘要用词"at least 15%"）、正文另一处写"remarkable 16% increase"；**明确承认这是在验证业界已有的 RDT 做法**，并与离子风/电离法做了横向对比（电离法只在出粉口起作用，不解决磨膛内滞留，TDS 提升幅度小得多，约 7.76%→8.02%） | ✅ **已下载 PDF 并逐句核对全文引文** |
+| **[GR-A1]** | Akiyama, M., Murakami, K., Ohtani, N., Iwatsuki, K., Sotoyama, K., Wada, A., Tokuno, K., Iwabuchi, H., & Tanaka, K. (2003). Analysis of volatile compounds released during the grinding of roasted coffee beans using solid-phase microextraction. *Journal of Agricultural and Food Chemistry*, 51(7), 1961–1969. doi:10.1021/jf020724p | 用固相微萃取 + GC/MS/O 定量证实**研磨动作本身会释放大量香气挥发物**，且释放物"富含坚果与烟熏烘烤香气" | ⚠️ **仅通过检索摘要确认**，未逐句核对全文；本书只用其证明"研磨会放香"这一方向，**不**用它支持"磨削生热导致额外香气损失"这条未经证实的流传说法 |
+| **[GR-G1]** | Griffiths, C. A., Adams, G. C., & Rees, A. (2018). Wear Monitoring of Coffee Grind-On-Demand Burrs Using Precision Sieving and Laser Diffraction. *International Journal of Food and Bioscience*, 1(1), 34–41 | 刀盘磨损的工程测量：新旧刀盘对比，磨损后粗颗粒（>300 μm）占比增加约 30%、细颗粒（90–45 μm）占比减少约 20%；精密筛分与激光衍射两种方法结果一致，均测出双峰分布（约 300 μm 与约 50 μm 两个峰）；刀盘转速越低、磨削温升越小；刀盘磨损后"会捶打并过度加热咖啡"（原文大意）；建议刀盘每处理 500–600 kg 咖啡更换一次 | ⚠️ **非顶级期刊，已读全文但本书只引用其测量数据，不引用其期刊声誉作为权威背书** |
+
+> **本章对"锥刀 vs 平刀产生双峰/单峰分布"这一流传说法的处理**：
+> 查无专门对比两种刀盘几何的严谨力学论文；[GR-B1] 确认磨豆机类型确实系统性影响粒径分布形态，
+> 但**未深入到具体几何参数层面**。本书只写"磨豆机类型会系统性影响粒径分布"这一方向性结论，
+> **不**对"锥刀必然双峰、平刀必然单峰"这类具体几何归因背书。
+>
+> **本章对"磨削生热导致额外香气损失"这一流传说法的处理**：
+> [GR-A1] 只证明了研磨动作本身（而非摩擦热）会释放挥发物；**本书未找到任何直接测量磨削瞬时温升
+> 并与香气损失建立相关性的同行评议研究**。业余热电偶实验（如 Home-Barista 论坛的"Titan Grinder
+> Project"）甚至提示实际温升可能很有限，但这**不是可引用的科学依据，只能作为"该说法缺乏支持"的旁证**。
+> 正文判定为**未经证实的行业经验（folklore）**，不给任何具体转速阈值或温度数字。
+>
+> **本章对 Jonathan Gagné 24 台磨豆机粒径分布分析（博客/Patreon）的处理**：
+> 数据据称来自 ZHAW 咖啡卓越中心的 Camsizer X2 实测，方法看似严谨，但**该分析本身未经同行评审**，
+> 本书**不引用其具体结论**（如"三对数正态分布模型""刻度主要在调细粉比例"），
+> 只在"常见说法辨析"提及其作为民间技术分析存在。
+
+### 4.27 水温、时间与搅拌：传质速率的三个旋钮（第 24 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[GC2]**（复用第 22 章） | Liang, Chan & Ristenpart (2021), *Scientific Reports* 11:6904 | **第 24 章主干之一**：在 80~99 ℃ 范围内，全浸泡式冲煮的**平衡常数 K 对水温不敏感**，平衡 TDS 与萃取率基本不随水温变化；**但水温显著改变"到达平衡的速度"**——冲煮比 5（浓缩）时，99 ℃ 冲煮 20 分钟内超过 4% TDS，94 ℃ 与 80 ℃ 需要超过 30 分钟才达到可比数值；冲煮比 25（稀释）时各温度都在约 20 分钟内到达约 0.7% TDS 的平台；实验中**全程不搅拌**（除短暂取样），只在加水时"circular motion"确保完全湿润一次。已读全文（第 22 章核对）。 | ✅ **已读全文并逐句核对引文**（第 22 章已核对，本章复用） |
+| **[WT1]** | Batali, Ristenpart & Guinard (2020), *Scientific Reports* 10:16450 | **复用第 22 章 [GC3]**：在固定 TDS 与萃取率（通过补偿流速/研磨/时间）的条件下，直接对比 87 ℃、90 ℃、93 ℃ 冲煮的滴滤咖啡，受训评审**分辨不出感官差异**；作者据此建议认证标准或许应该**更关注流速的精确控制，而不是收窄水温区间**。 | ✅ **已读全文**（第 22 章已核对，本章复用） |
+| **[WT2]** | Fuller, M., & Rao, N. Z. (2017). The Effect of Time, Roasting Temperature, and Grind Size on Caffeine and Chlorogenic Acid Concentrations in Cold Brew Coffee. *Scientific Reports*, 7, 17979. doi:10.1038/s41598-017-18247-4. PMCID PMC5740146（开放获取） | **冷萃动力学的核心数据**：室温（21~25 ℃）冷萃中，3-CGA 与咖啡因按一级动力学在**6~7 小时**内达到平衡（原文直引"between 6 and 7 hours"），**明显快于常见"浸泡过夜（10~24 小时）"的行业建议**；对照组热萃为 98 ℃ 水冲泡 **6 分钟**；**研磨粗细对冷萃中这两种成分的平衡浓度没有显著影响**（原文直引"did not have significant impact"），与热萃文献中研磨强烈影响萃取形成对比。 | ✅ **已读全文并逐句核对引文**（PMC） |
+| **[WT3]** | Wang, X., & Lim, L.-T. (2021). Modeling study of coffee extraction at different temperature and grind size conditions to better understand the cold and hot brewing process. *Journal of Food Process Engineering*, 44(8), e13748. doi:10.1111/jfpe.13748 | 系统测定 **4 ℃、23 ℃、50 ℃、93 ℃** 四个温度下的 TDS 萃取动力学；摘要明确写"**最终萃取率随冲煮温度升高、随粒径减小而增加**"（"The ultimate extraction yield increased with increasing brewing temperature and decreasing of particle size"）；萃取分两阶段——快速的表面/破碎细胞萃取，随后是慢得多的完整细胞内扩散萃取；用 Weibull 分布 + 一级/二级动力学模型拟合（R² = 0.687~0.998）。**本书未能获取全文**（付费墙），仅通过官方摘要确认上述方向性结论；**网络上流传的"活化能约 16 kJ/mol"等具体数值是第三方技术博客对该文数据的二次拟合，并非论文原文直接给出的数字，本书不采信该具体数值**。 | ⚠️ **仅通过官方摘要确认**，全文未能亲自核对，具体速率常数/活化能数字不采信 |
+| **[WT4]** | Park, E., Young, M., & Mathijssen, A. J. T. M. (2025). Pour-over coffee: Mixing by a water jet impinging on a granular bed with avalanche dynamics. *Physics of Fluids*, 37(4), 043332. doi:10.1063/5.0257924 | **滤过式"搅拌"的新机制**：手冲注水形成的水柱冲击粉床会引发**"雪崩"式混合**——被冲开的粉层随水流下探而循环翻动，从而让水与粉实现比被动渗流更充分的混合；**粗而高、保持层流不破碎的水柱**（常见鹅颈壶出水即属此类）最有效；**水柱一旦破碎成水滴，就无法再有效搅动粉床**，混合效果显著下降。作者据此建议：**注水尽量拉高、同时保持水柱不破碎**，可用更少咖啡粉冲出同样浓度的一杯。 | ⚠️ **论文全文付费墙未能获取**，已通过作者机构发布的官方新闻稿（phys.org，含两位作者的直接引述原话）逐句核对 |
+| **[WT5]** | Lee, W. T., Smith, A., & Arshad, A. (2022). Uneven Extraction in Coffee Brewing. arXiv:2206.12373 | **"磨太细反而萃得更少"的机理模型**：把粉床建模为两条平行流动路径，路径间渗透率的微小初始差异会被"流动→萃取→渗透率上升→流动更快"这一**正反馈循环**放大，极端情形下一条路径的可溶物**被完全耗尽**，另一条路径则萃取不足；模型预言并与实验观察一致：**低于某个临界粒径后，继续磨细反而导致萃取率下降**。 | ⚠️ **预印本（arXiv），未确认是否已在期刊正式发表**；仅通过摘要确认，未能获取全文核对细节 |
+| **[WT6]** | Spiro, M., & Chong, Y. Y. (1997). The kinetics and mechanism of caffeine infusion from coffee: the temperature variation of the hindrance factor. *Journal of the Science of Food and Agriculture*, 74(3), 416–420 | 把 25.5 ℃ 下测得的"受阻因子"与 Spiro 等人 1989 年在 80 ℃ 测得的受阻因子对比，发现**低温下受阻因子远大于高温**，作者将额外的受阻归因于咖啡因在豆内的**有限溶解速率、与绿原酸等其他可溶物的络合、豆基质内的吸附**等——即低温下，简单扩散模型之外还有其他机制在限制萃取速率。 | ⚠️ **付费墙，仅通过检索摘要确认**，未能获取全文逐句核对；本书只引用"受阻因子随温度变化"这一方向性结论，不引用具体数值 |
+
+> **关于"活化能"的立场**：本书查证过程中看到多个二手来源给出咖啡因/可溶物萃取的
+> Arrhenius 活化能具体数值（如"约 57~60 kJ/mol"用于豆内咖啡因扩散、"约 16 kJ/mol"用于
+> 整体 TDS 萃取），但这些数字均来自**本书未能亲自获取全文核对**的论文，
+> 且后一个数字本身是技术博客对原始论文数据的**二次拟合**而非论文原文直接陈述。
+> 按查证纪律，**本书不把具体的活化能数值写进正文**，只写方向性结论："水温升高会显著加快萃取速率，
+> 这背后有一个随温度变化的活化能，但本书未核到可靠的具体数值"（见[第 24 章 §24.1](chapters/04-extraction/24-temperature-time-agitation.md)）。
+
+> **关于 SCA "195~205 ℉（90.6~96.1 ℃）"冲煮水温标准的立场**：
+> 该区间同样来自 Lockhart 1950 年代咖啡冲煮研究所的历史工作（与第 22 章"金杯坐标系"同源），
+> 并被 Ted Lingle 的《The Coffee Brewing Handbook》与 SCA 官方文件沿用，但**本书同样未能
+> 亲自获取 SCA 官方 PDF 原文核对这组数字的完整表述**（与第 22 章核对 SCA PDF 时遇到的 404
+> 问题相同）。同时，[GC2] 与 [WT1] 两项同行评议研究都指向"这个区间比字面上看起来更宽容"——
+> [GC2] 显示 80~99 ℃ 范围内平衡化学基本不受影响，[WT1] 显示 87~93 ℃ 范围内感官无法分辨差异。
+> 本书的处理与第 22 章一致：**如实写出这组数字的历史来源与版本待核状态，不把它包装成一条
+> 经过独立验证的物理最优解**。
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -506,6 +584,11 @@
 | 24 | **熟豆的孔隙率是多少** | [ST2]：生豆 9.8% → 熟豆 **34.2%**（电镜孔径分布计算） | [ST1]：生豆总孔隙 **4.47%**、连通孔隙 **0%**，热处理后 9.17%~13.52%；[ST3]：显微 CT 观察到孔隙率**增加最多约 60%**（只给增量） | **不是矛盾，是方法定义了量**：不同方法"看得见"的孔尺寸范围不同，且样品处理方式不同（常规烘焙 vs 定温热处理）。正文**只写方向**（从接近实心变为高度多孔且连通），**不给绝对值**。见[第 18 章 §18.1](chapters/03-roasting/18-structure-cracks-porosity.md) |
 | 25 | **"烘得越深越好萃"** | 动力学侧：同粒径下咖啡因浸出半衰期随烘焙加深**下降 40% 再 30%**[EX3]；结构侧孔隙与连通性上升[ST1][ST3][RD1] | 总量侧：**失重超过约 12%~14% 后萃取率反而下降**[RD1] | **拆成"更快"与"更多"两件事**：结构让水更容易进去，但可溶物本身在深烘时被分解或挥发。两者不矛盾。正文不写"最佳失重率"。见[第 18 章 §18.6](chapters/03-roasting/18-structure-cracks-porosity.md) |
 | 26 | **"RoR 掉头 / 夸张 flick 会严重降质"** | 行业普遍共识（烘焙师的批次经验） | [RP9]：EF 与 NR 两条曲线的 TA 动态与中庸曲线几乎无法区分，且作者称"据我们所知没有已发表数据支持"；[RD2]：两条曲线的**颜色**同样落在普适色曲线上 | **写成"在 TA 与颜色两个指标上不可区分"，而非"无害"**——两项研究**都未做感官评价**。本书把它定位为"**尚未被感官实验检验的行业判据**"。见[第 20 章 §20.4](chapters/03-roasting/20-roast-defects.md) |
+
+| 27 | **"金杯标准"的 TDS 上限到底是 1.35% 还是更高** | [SCA3]（2018 版 Coffee Standards §5.1，经 [GC3] 全文引述确认）：**1.15%~1.35%**、萃取率 **18%~22%** | [SCA4]（2021 版设备认证标准 SCA-310）：目标浓度区间放宽为 **1.15%~1.55%** | **不判定哪个"对"，而是如实写出 SCA 自己的标准之间存在版本差异**：教学语境下的经典"金杯"数字（1.15%~1.35%）与最新设备认证标准的目标区间（1.15%~1.55%）并不是同一份文件、同一个时间点的产物。正文引用"金杯"时明确标注这是**哪一份文件的数字**，并提示读者**以查询当时的 SCA 官网为准**。见[第 22 章 §22.3](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| 28 | **"金杯标准"的萃取率区间：18%~22% 还是 17%~23%** | [SCA3]（经 [GC3] 引述）：**18%~22%** | [GR-C1]（Cameron 等 2020, *Matter*）正文写"the Specialty Coffee Association advises that coffee most frequently tastes best when the proportion of extracted dry mass is in the range **17%–23%**" | **又一处版本/转述差异**：同一机构的区间被不同论文引用成相差 1 个百分点的两个版本。本书**不判定哪个"官方正确"**，只写"**萃取率区间在 17%~23% 这个量级附近，不同文件/转述版本略有出入**"，并提示这恰好印证第 22 章的结论——"金杯"从来不是单一永恒数字。见[第 23 章](chapters/04-extraction/23-grinding-particle-size.md) |
+| 29 | **细粉的表面积增益对萃取效率的贡献有多大** | [GR-C1]（Cameron 等 2020, *Matter*）：细粉虽只占颗粒数的 99%，却占**表面积的 80%**，并把这一点直接代入 BET 表面积建模，隐含"表面积是驱动萃取的关键变量"之意 | [GR-S1]（Smrke 等 2024, *Sci Rep*）：系统改变细粉比例后明确写道，表面积增大对萃取效率的影响"看起来是边际的（marginal）"，细粉从实用角度**只是在改变粉床渗透率** | **两边都写，并标明这是晚近研究对早期叙事的校正**：[GR-C1] 的"99%/80%"是一个**结构性事实**（细粉确实占大部分表面积），但这**不等于**"表面积增益=萃取效率的主要驱动力"——这是 [GR-S1] 用控制实验直接检验后给出的校正。本书**不写"细粉因表面积大而不成比例地贡献萃取"**这一常见推论，改写成"细粉的主要已证实作用是降低渗透率，表面积效应的证据更弱"。见[第 23 章](chapters/04-extraction/23-grinding-particle-size.md) |
+| 30 | **水温对萃取率（萃取上限）到底有没有独立影响** | [GC2]（Liang 等 2021, *Sci Rep*）：全浸泡式在 **80~99 ℃** 范围内，平衡常数 K **对水温不敏感**，平衡萃取率基本不随温度变化——温度只改变"到达平衡的速度" | [WT3]（Wang & Lim 2021, *J Food Process Eng*，仅通过摘要确认）：测试范围扩大到 **4~93 ℃** 后，摘要明确写"最终萃取率随冲煮温度升高而增加" | **不是矛盾，是测试区间不同**：[GC2] 只测了"热萃常用区间"（80~99 ℃），在这个窄区间内看不出萃取上限随温度变化；[WT3] 把区间下沿拉到冷萃温度（4 ℃），在这个更宽的跨度上才显现出萃取上限本身也随温度小幅上升。本书的调和写法是：**"在常规热萃的温度区间内，水温主要影响速度，不太影响上限；但把冷萃也算进来比较，水温对萃取上限也有真实但较小的影响"**，并注明 [WT3] 全文本书未能亲自核对，具体增幅数字不采信。见[第 24 章 §24.1](chapters/04-extraction/24-temperature-time-agitation.md) |
 
 ## 七、本页的"不采信"清单
 
@@ -562,4 +645,16 @@
 | **"标准烘焙度分级表"与官方色度分档** | [RD1] 明言"目前没有标准方法能普遍而精确地量化烘焙度"；SCA-131 核对当日仍在制定中[SCA2]；且本书不复制官方表格版式 |
 | **"发展时间比（DTR）"的推荐区间** | 以该词为题名/摘要关键词在 Europe PMC 检索，**核对当日 0 命中**（§4.23 的检索记录）。可查到的近亲研究[NM1]只证明"差异可检出"且**未做感官评价**。正文判其为**行业惯例**，不给区间、也不判其错。见[第 20 章 §20.5](chapters/03-roasting/20-roast-defects.md) |
 | **"咖啡可溶物约占 30%"** | 未核到一手来源。文献里可核到的是**特定条件下测得的萃取率**，不是普适上限。见[第 21 章 §21.5](chapters/04-extraction/21-what-is-extraction.md) |
+| **Lockhart (1957) 原始报告的实验方法细节**（评委人数、统计方法、水质、豆种） | 多方检索未找到可公开获取的原文全文或扫描件；现代引用全部基于**对其结论性文字的转引**（见 [GC1]）。本书只写"该研究建立了金杯坐标系的雏形"，不复述任何方法学细节。见[第 22 章 §22.2](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **"17.5%~21.2% 后来被改成 18%~22%"这一具体修订史** | 仅见于咖啡行业资深从业者的口述考证（会议演讲 + 行业媒体转载），未见任何一手档案或同行评议论文核实这次修订的方法与理由。正文不写这条具体数字变化，只提示"现行区间并非一次性确定、细节已难以追溯"。见[第 22 章 §22.2](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **折光仪 Brix→咖啡 TDS 换算的具体回归系数**（如 0.85 这类数字） | 仅见于非同行评议的行业技术笔记（ResearchGate 自存稿），不是独立同行评议来源。正文只写"咖啡专用标度经烘箱法校准、不同于通用蔗糖 Brix 标度"这一方向性结论（有同行评议论文佐证），不写具体系数。见[第 22 章 §22.4](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **Jonathan Gagné 关于折光仪精度的具体技术主张**（如"0.01% 精度"） | 检索未发现其发表过任何同行评议期刊论文；相关内容只见于个人博客与自费出版书籍。本书不把这类主张当作一手科学依据，只在「常见说法辨析」里提及其作为民间技术写作的存在。见[第 22 章 §22.6](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **"磨削摩擦热会额外加速风味劣化/氧化"**（常配"1400~1800 RPM"这类具体转速阈值） | 未找到任何同行评议研究直接测量磨削瞬时温升并与香气损失建立相关性；可核实的只是"研磨动作本身会释放大量挥发物"[GR-A1]，这与"磨削生热导致额外损失"是两件事。具体转速数字查无可追溯的同行评议出处，判为行业营销话术。见[第 23 章 §23.5](chapters/04-extraction/23-grinding-particle-size.md) |
+| **"锥刀磨出双峰分布、平刀磨出单峰分布"的具体几何归因** | 未找到专门对比两种刀盘几何参数的严谨力学论文；[GR-B1] 只证实磨豆机类型整体上系统性影响粒径分布，未深入到刀盘几何层面。本书只写方向性结论，不对具体刀盘类型的分布形态下定论。见[第 23 章 §23.3](chapters/04-extraction/23-grinding-particle-size.md) |
+| **折光仪 Brix→咖啡 TDS 换算系数之外的其它"磨豆机刻度↔粒径(μm)对照表"** | 不同磨豆机、不同刀盘状态、不同豆温下同一刻度对应的粒径都不同（[GR-U1][GR-B1]），任何通用对照表都会失效。本书不提供这类对照表，只给出"刻度不可跨机型/跨状态比较"的原则。见[第 23 章 §23.1](chapters/04-extraction/23-grinding-particle-size.md) |
+| **Jonathan Gagné 的 24 台磨豆机粒径分布分析（"三对数正态分布模型"等具体结论）** | 数据据称来自第三方实测（ZHAW 咖啡卓越中心），但该分析本身未经同行评审，发表于个人 Patreon/博客。本书不引用其具体模型或数值结论，只提及其作为民间技术分析存在。见[第 23 章 §23.1](chapters/04-extraction/23-grinding-particle-size.md) |
+| **咖啡因/可溶物萃取的具体 Arrhenius 活化能数值**（如"约 57~60 kJ/mol""约 16 kJ/mol"） | 查到的数值均来自本书未能亲自获取全文核对的论文（[WT3] 付费墙、Chiang 等 2018 与 Huamaní-Meléndez & Darros-Barbosa 2018 均未读到全文），其中一个数字还是第三方技术博客对原始数据的二次拟合而非论文原文陈述。本书只写方向性结论"水温升高显著加快萃取速率"，不写具体活化能数字。见[第 24 章 §24.1](chapters/04-extraction/24-temperature-time-agitation.md) |
+| **搅拌转速与萃取速率的定量关系**（如"转速翻倍、萃取速率提高 1.4 倍"这类具体系数） | 该系数仅见于一篇技术博客作者本人基于化学工程通用理论的类比估算，**作者本人明确说明这不是咖啡专用实验数据**，只是借用一般传质理论做的示意性假设。本书不采信此类具体系数。见[第 24 章 §24.4](chapters/04-extraction/24-temperature-time-agitation.md) |
+| **杯测"破渣时间早晚"对萃取/风味的具体影响**（如"破渣延迟 2 分钟会提高萃取率"） | 查到的相关实验来自行业研发博客（非同行评议），且该实验本身的结果与假设相反、作者也只能给出数学层面而非机理层面的解释。本书不引用其具体数字，只在辨析里提及存在这类非正式实验。见[第 24 章 §24.4](chapters/04-extraction/24-temperature-time-agitation.md) |
+| **滤过式（手冲/意式）"时间单独改变萃取率"的量化曲线** | 本书检索未找到专门**只改变接触时间、固定其余所有变量**的滤过式冲煮同行评议研究；现有滴滤文献中，冲煮时间通常是被调整来**补偿**研磨/流速变化以达到目标 TDS/萃取率的**从属变量**，而不是被单独测量效应的自变量。本书不提供这样一条曲线，只写"时间在滤过式里和水温一样是个速率变量，但本书未核到专门的单变量曲线"。见[第 24 章 §24.3](chapters/04-extraction/24-temperature-time-agitation.md) |
 | **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |
