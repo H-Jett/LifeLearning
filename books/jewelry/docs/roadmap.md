@@ -92,7 +92,7 @@
 | 31 | [翡翠 ②：A/B/C 货原理与估价 ★](chapters/04-jade-organic/31-jadeite-treatment.md) | 处理披露、耐久性与比较边界 | ✅ |
 | 32 | [和田玉](chapters/04-jade-organic/32-hetian-nephrite.md) | 名称、皮色、形态与产地证据分别核验 | ✅ |
 | 33 | [其他玉石](chapters/04-jade-organic/33-other-jades.md) | 材料、处理与保养分别核验 | ✅ |
-| 34 | 珍珠 | 养殖原理、五大类、评价七要素、珠层厚度为什么最关键 | ⬜ |
+| 34 | [珍珠](chapters/04-jade-organic/34-pearls.md) | 养殖、七项品质、处理与珠层边界 | ✅ |
 | 35 | 有机宝石与法律红线 | 琥珀（压制/柯巴脂/塑料）、珊瑚、砗磲、象牙与 CITES | ⬜ |
 | P4 | 🛠 项目：玉石市场实地考察 | 带着清单去逛市场，回来能写出一份靠谱的观察记录 | ⬜ |
 
