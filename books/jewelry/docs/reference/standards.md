@@ -158,6 +158,7 @@
 | FTC「Jewelry Guides」 | K 金与金属名称的消费者教育交叉参照；不替代中国标准（第 36 章） | <https://www.ftc.gov/business-guidance/resources/loupe-advertising-diamond-gemstones-pearls> |
 | GIA「White Gold vs. Silver」及 FTC「Buying Platinum, Gold, and Silver Jewelry」 | 白 K 金/银的镀铑、覆盖层术语、空心/实心的消费者教育与披露框架（第 37 章）；海外术语不替代中国标准 | <https://consumer.ftc.gov/articles/buying-platinum-gold-and-silver-jewelry> |
 | GIA 珠宝制造业报道及 Ganoksin 铸造/电镀工艺资料 | CAD/原型、失蜡铸造、镶嵌、抛光、电镀与常见表面/铸造问题的工艺链（第 38 章） | <https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry> |
+| GIA 镶嵌、宝石耐久性与质控资料 | 爪镶、包镶、槽镶、密钉镶的保护/维护边界，尖角保护与石座贴合（第 39 章） | <https://www.gia.edu/gia-news-research/how-protect-diamond-chipping> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
