@@ -9,5 +9,6 @@
 | 35 | [评分体系与 CVA](35-scoring-cva.md) | ✅ |
 | 36 | [风味描述语言](36-flavor-language.md) | ✅ |
 | 37 | [瑕疵风味](37-defect-flavors.md) | ✅ |
-| 38–39 | 训练与实验 | ⬜ |
+| 38 | [感官训练](38-sensory-training.md) | ✅ |
+| 39 | 家庭对比实验 | ⬜ |
 | P5 | 三角测试 + 杯测 | ⬜ |

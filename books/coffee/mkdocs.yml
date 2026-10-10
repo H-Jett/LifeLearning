@@ -116,6 +116,7 @@ nav:
       - 第 35 章 · 评分体系：百分制与 Coffee Value Assessment: chapters/06-sensory/35-scoring-cva.md
       - 第 36 章 · 风味描述语言：风味轮与感官词典: chapters/06-sensory/36-flavor-language.md
       - 第 37 章 · 瑕疵风味：从"不好喝"到"是哪一种不好喝": chapters/06-sensory/37-defect-flavors.md
+      - 第 38 章 · 感官训练：阈值、三角测试与自我校准: chapters/06-sensory/38-sensory-training.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -161,6 +162,7 @@ nav:
       - 第 35 章: qa/35-scoring-cva-qa.md
       - 第 36 章: qa/36-flavor-language-qa.md
       - 第 37 章: qa/37-defect-flavors-qa.md
+      - 第 38 章: qa/38-sensory-training-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
