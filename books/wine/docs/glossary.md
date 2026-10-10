@@ -876,3 +876,73 @@ TPO 管的是**装瓶那一刻**已经封进瓶子里的氧。不同研究的测
 也是把花色苷与单宁**架桥**连接成更稳定的聚合色素的关键中介（第 18 章）；
 在加强酒里还是雪莉等生物陈年酒的关键风味组分（第 17 章）。
 **同一个分子，在不同酒里被当成缺陷或特征**，取决于浓度与该酒的设计。
+
+## 原产地制度的逻辑（第 19 章）
+
+<a id="geographical-indication"></a>
+**地理标志 · GI**（英：geographical indication）——
+WTO TRIPS 第 22.1 条定义：标示某商品产自某成员方境内（或该境内某地区/地方）的标志，
+且该商品**某种品质、声誉或其他特征本质上可归因于其地理来源**。
+**这是覆盖所有商品的基础定义**，葡萄酒与烈酒在 TRIPS 第 23 条另有更高保护
+（不要求证明消费者被误导）。OIV 2021 年的更新定义额外写明：
+就葡萄酒而言，GI 保护以**至少 85% 的葡萄采收自该地理区域**为前提。
+
+<a id="appellation-of-origin"></a>
+**原产地名称 · AO**（英：appellation of origin）——
+比 GI**门槛更高**的概念：名称本身须由或包含该地理区域名称，
+且其品质或特征须**完全或主要由该地理环境（含自然与人文因素）所致**。
+法国 AOC、意大利 DOC/DOCG 这类体系在概念上更接近 AO 而非普通 GI。
+
+<a id="pdo-pgi-legal-basis"></a>
+**欧盟 PDO / PGI 的法律要求**（第 19 章深入版，概念见[方法与法规基础词](#pdo-pgi)）——
+(EU) No 1308/2013 **Article 93**（第 6、9 章已核）：**PDO** 要求葡萄**完全来自**
+划定区域、**生产在该区域内完成**、只能用 *Vitis vinifera* 品种，
+品质"本质上或完全归因于"特定地理环境；**PGI** 只要求**至少 85%** 的葡萄来自该区域，
+允许 *Vitis vinifera* 与其他种的杂交种，标准放宽为"可归因于该地理来源"。
+**Article 94** 要求产品规范至少含九项内容，其中 **(e) 每公顷最高产量**与
+**(f) 品种**是**强制项**——这是欧盟体系与美国 AVA 体系最根本的区别。
+
+<a id="aoc-cahier-des-charges"></a>
+**AOC 与 cahier des charges**（法：appellation d'origine contrôlée；
+产品规范 cahier des charges）——
+法国的国家级产地认定，是产品在欧盟注册为 PDO 前的**强制性国家认定阶段**。
+每个产区的 *cahier des charges* 由行业拟定（通过 **ODG**）、经欧盟批准，
+由独立的 **OI**（检查机构）核查执行；INAO 官网明确写明规范内容**含品种、
+最高产量、最低自然酒精度等**。⚠️ 各产区的具体数字本书未核对原文，不写死。
+
+<a id="docg-doc-igt"></a>
+**DOCG / DOC / IGT**（意：denominazione di origine controllata e garantita /
+denominazione di origine controllata / indicazione geografica tipica）——
+意大利对 PDO（DOCG、DOC）与 PGI（IGT）使用的传统专用名称，
+由 **Legge 238/2016**（"Testo Unico del Vino"）规定。**晋级门槛是时间+比例**：
+IGT 认定需至少 20% 种植者/面积支持；**DOC 须已是 IGT 满 5 年**，
+需至少 35% 种植者/产量支持；**DOCG 须已是 DOC 满 7 年**，
+需至少 51% 种植者/面积支持，且**法律明文要求 DOCG 的规范必须比来源 DOC 更严格**。
+**DOCG 还有两项 DOC 没有的强制要求**：①装瓶容量不超过 6 升（另有规定的除外）
+且须加贴国家印制的**防伪标识**；②理化与感官**双重检验**，
+合格证明有效期仅 **180 天**（DOC 为 2 年）。
+
+<a id="do-doca"></a>
+**DO / DOCa**（西：denominación de origen / denominación de origen calificada）——
+西班牙体系，依据 **Ley 24/2003**。**DO 认定需已是"带地理标志的优质酒"满 5 年**；
+**DOCa 认定需已持有 DO 身份满 10 年**，并须满足更严格的瓶装地点与
+理化感官检验要求。两级均由 **Consejo Regulador**（管理委员会）管理。
+⚠️ **Crianza / Reserva / Gran Reserva 等陈年分级的具体年限，
+由各产区自己的 Consejo Regulador 规定**，不是全国性法律统一规定的数字，
+不同产区可能不同，本书不写单一数字。
+
+<a id="ava"></a>
+**美国葡萄种植区 · AVA**（英：American Viticultural Area）——
+TTB 依 **27 CFR § 9.12** 设立的纯地理标签。申请新设 AVA 时须证明的
+"与众不同特征"**被规则明确限定为气候、地质、土壤、物理特征、海拔五类**，
+**不含品种、产量上限或酿造工艺**。标签使用 AVA 名称要求**不低于 85%**
+的酒液来自该 AVA 边界内种植的葡萄（27 CFR § 4.25(e)(3)）——
+**这是 AVA 与欧盟/法国/意大利/西班牙体系最核心的区别**：
+后者普遍把品种、产量、工艺写进强制条款，AVA 不这样做。
+
+<a id="semi-generic-names"></a>
+**半通用名称**（英：semi-generic names）——
+美国法律概念，指像 "Burgundy" "Chablis" "Champagne" 这类**原本是欧洲地名、
+但已在美国被当作酒的类型/风格名称使用**的词。2006 年美欧葡萄酒贸易协定
+用**祖父条款**处理：协定签署前已使用这些名称的美国标签可继续使用
+（须同时标注真实产地，如"California Champagne"），**此后不再批准新标签**。

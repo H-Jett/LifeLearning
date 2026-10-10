@@ -90,6 +90,9 @@ nav:
       - 第 16 章 · 起泡酒：传统法、罐式法与气压: chapters/03-winemaking/16-sparkling.md
       - 第 17 章 · 加强酒与甜酒: chapters/03-winemaking/17-fortified-and-sweet.md
       - 第 18 章 · 装瓶、封瓶与陈年化学: chapters/03-winemaking/18-bottling-closures-aging.md
+  - 第四部分 · 世界产区谱系与酒标法规:
+      - chapters/04-regions/00-intro.md
+      - 第 19 章 · 原产地制度的逻辑: chapters/04-regions/19-origin-system-logic.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -115,6 +118,7 @@ nav:
       - 第 16 章: qa/16-sparkling-qa.md
       - 第 17 章: qa/17-fortified-and-sweet-qa.md
       - 第 18 章: qa/18-bottling-closures-aging-qa.md
+      - 第 19 章: qa/19-origin-system-logic-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
