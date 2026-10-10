@@ -111,6 +111,8 @@ nav:
       - 第 29 章 · 红茶谱系: chapters/05-origins/29-black-tea-lineages.md
       - 第 30 章 · 白茶与黄茶谱系: chapters/05-origins/30-white-yellow-lineages.md
       - 第 31 章 · 黑茶与普洱: chapters/05-origins/31-dark-tea-puer-lineages.md
+      - 第 32 章 · 世界茶: chapters/05-origins/32-world-tea.md
+      - 🛠 项目 P4 · 谱系盲品地图: chapters/05-origins/project-P4-origin-map.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -148,6 +150,8 @@ nav:
       - 第 29 章 · 红茶谱系: qa/29-black-tea-lineages-qa.md
       - 第 30 章 · 白茶与黄茶谱系: qa/30-white-yellow-lineages-qa.md
       - 第 31 章 · 黑茶与普洱: qa/31-dark-tea-puer-lineages-qa.md
+      - 第 32 章 · 世界茶: qa/32-world-tea-qa.md
+      - 项目 P4 · 参考答案: qa/project-P4-origin-map-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

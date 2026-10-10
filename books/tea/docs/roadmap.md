@@ -113,8 +113,8 @@ flowchart TD
 | 29 | [红茶谱系](chapters/05-origins/29-black-tea-lineages.md) | 正山小种/祁门/滇红 + 阿萨姆/大吉岭/锡兰/肯尼亚 | ✅ |
 | 30 | [白茶与黄茶谱系](chapters/05-origins/30-white-yellow-lineages.md) | 品种、等级（银针/牡丹/寿眉）与产区 | ✅ |
 | 31 | [黑茶与普洱](chapters/05-origins/31-dark-tea-puer-lineages.md) | 产区、山头、年份与"越陈越香"的边界 | ✅ |
-| 32 | 世界茶 | 日本蒸青体系、印度、斯里兰卡、非洲 | ⬜ |
-| 🛠 | **项目 P4：产区盲品地图** | 从风味特征反推产区与品种 | ⬜ |
+| 32 | [世界茶](chapters/05-origins/32-world-tea.md) | 用产品路线读国别名，避免把产地当评分 | ✅ |
+| 🛠 | [**项目 P4：谱系盲品地图**](chapters/05-origins/project-P4-origin-map.md) | 从观察提出候选路线，再核对标签 | ✅ |
 
 ---
 
