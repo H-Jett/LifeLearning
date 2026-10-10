@@ -38,7 +38,7 @@ flowchart TD
 - ✅ 第 24 章 [西班牙与葡萄牙](24-spain-portugal.md)
 - ✅ 第 25 章 [德国、奥地利与中东欧](25-germany-austria.md)
 - ✅ 第 26 章 [新世界 ①：美国、智利、阿根廷](26-americas.md)
-- ⬜ 第 27 章 新世界 ②：澳洲、新西兰、南非与中国
+- ✅ 第 27 章 [新世界 ②：澳洲、新西兰、南非与中国](27-oceania-southafrica-china.md)
 - ⬜ 🛠 项目 P3：做一个产区的深度档案
 
 完整大纲见[学习路线图](../../roadmap.md)。
