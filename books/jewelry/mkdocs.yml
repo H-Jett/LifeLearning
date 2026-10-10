@@ -103,6 +103,9 @@ nav:
       - 第 28 章 · 其他常见彩宝: chapters/03-colored/28-other-colored-gems.md
       - 第 29 章 · 彩宝处理与合成识别路径: chapters/03-colored/29-treatment-synthetic-path.md
       - 🛠 项目 P3 · 三颗候选彩宝排序: chapters/03-colored/project-P3-colored-ranking.md
+      - 第三部分小结（速查）: chapters/03-colored/summary.md
+  - 第四部分 · 玉石与有机宝石:
+      - chapters/04-jade-organic/00-intro.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
