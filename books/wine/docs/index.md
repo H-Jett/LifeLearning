@@ -121,8 +121,9 @@
 
 - ✅ [第四部分导读](chapters/04-regions/00-intro.md)
 - ✅ 第 19 章 [原产地制度的逻辑：PDO/PGI、AOC、DOCG、DO、AVA](chapters/04-regions/19-origin-system-logic.md)
+- ✅ 第 20 章 [怎么读一张酒标：哪些字受法律约束，哪些是营销](chapters/04-regions/20-reading-a-wine-label.md)
 
-**下一站**：第 20 章——怎么读一张酒标，把第 19 章的框架落到一张具体的酒标上。
+**下一站**：第 21 章——法国①：波尔多与勃艮第，两套截然不同的分级哲学。
 
 ## 常用工具页
 

@@ -93,6 +93,7 @@ nav:
   - 第四部分 · 世界产区谱系与酒标法规:
       - chapters/04-regions/00-intro.md
       - 第 19 章 · 原产地制度的逻辑: chapters/04-regions/19-origin-system-logic.md
+      - 第 20 章 · 怎么读一张酒标: chapters/04-regions/20-reading-a-wine-label.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -119,6 +120,7 @@ nav:
       - 第 17 章: qa/17-fortified-and-sweet-qa.md
       - 第 18 章: qa/18-bottling-closures-aging-qa.md
       - 第 19 章: qa/19-origin-system-logic-qa.md
+      - 第 20 章: qa/20-reading-a-wine-label-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
