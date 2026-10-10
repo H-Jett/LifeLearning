@@ -121,6 +121,9 @@ nav:
       - 第 39 章 · 中国白酒: chapters/06-spirits/39-chinese-baijiu.md
   - 第七部分 · 选购、储存、侍酒与拓展:
       - 第 40 章 · 选购与性价比: chapters/07-practice/40-buying-value.md
+      - 第 41 章 · 储存与陈年潜力: chapters/07-practice/41-storage-aging.md
+      - 第 42 章 · 侍酒: chapters/07-practice/42-service.md
+      - 第 43 章 · 餐酒搭配: chapters/07-practice/43-food-pairing.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -168,6 +171,9 @@ nav:
       - 第 38 章: qa/38-gin-vodka-compound-qa.md
       - 第 39 章: qa/39-chinese-baijiu-qa.md
       - 第 40 章: qa/40-buying-value-qa.md
+      - 第 41 章: qa/41-storage-aging-qa.md
+      - 第 42 章: qa/42-service-qa.md
+      - 第 43 章: qa/43-food-pairing-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
