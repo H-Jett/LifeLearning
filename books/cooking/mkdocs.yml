@@ -116,6 +116,7 @@ nav:
       - 第 38 章 · 清蒸鱼: chapters/06-dishes/38-steamed-fish.md
       - 第 39 章 · 水煮肉片与滑肉: chapters/06-dishes/39-poached-sliced-meat.md
       - 第 40 章 · 一锅炖: chapters/06-dishes/40-one-pot-stew.md
+      - 第 41 章 · 蛋炒饭: chapters/06-dishes/41-fried-rice.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -163,6 +164,7 @@ nav:
       - 第 38 章: qa/38-steamed-fish-qa.md
       - 第 39 章: qa/39-poached-sliced-meat-qa.md
       - 第 40 章: qa/40-one-pot-stew-qa.md
+      - 第 41 章: qa/41-fried-rice-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
