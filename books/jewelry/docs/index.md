@@ -68,7 +68,8 @@
 
 - ✅ 第 12 章 [钻石是什么：成因、性质与"钻石神话"](chapters/02-diamond/12-what-is-diamond.md)
 - ✅ 第 13 章 [4C ①克拉：重量、直径与"魔法尺寸"](chapters/02-diamond/13-carat.md)
-- 🔜 第 14 章起（颜色/净度/切工分级）进行中
+- ✅ 第 14 章 [4C ②颜色：D~Z 分级与荧光](chapters/02-diamond/14-color.md)
+- 🔜 第 15 章起（净度/切工分级）进行中
 
 ## 从哪开始
 

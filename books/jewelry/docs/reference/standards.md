@@ -109,6 +109,12 @@
 | RapTech 文档「Rapaport Price Lists」 | Rapaport 价格表的克拉分级结构（按克拉区间×颜色×净度建立价格矩阵）、每周发布机制、不含切工信息等局限（第 13 章） | <https://raptech.rapaport.com/rapaport-price-lists/> |
 | Wikipedia「Carat (mass)」（交叉验证用） | 克拉单位的历史：源自角豆种子、1907 年国际计量大会确立 200 毫克标准、此前各国标准在 187~216 毫克间不一（第 13 章） | <https://en.wikipedia.org/wiki/Carat_(mass)> |
 | 多来源交叉确认（diamonds.pro、beyond4cs 等消费者教育站，仅作方向性交叉验证非唯一依据） | 圆钻克拉重量与近似直径的对照区间（如约 1.00 ct 约 6.4~6.5 mm、约 2.00 ct 约 8.1~8.2 mm）；具体数值因切工比例浮动，仅供理解"克拉≠直径"这一结构，不作为鉴定或估价依据（第 13 章） | <https://www.diamonds.pro/education/carat-weight/> |
+| GIA *Gems & Gemology*「A Contribution to Understanding the Effect of Blue Fluorescence on the Appearance of Diamonds」（Moses et al., Winter 1997） | 经典的荧光视觉影响研究：普通观察者未检测到系统性影响；强蓝色荧光在台面朝上观察时反而让颜色显得更好；荧光与透明度无明显关系（第 14 章） | <https://www.gia.edu/gems-gemology/winter-1997-fluorescence-diamonds-moses> |
+| GIA *Gems & Gemology*「Measurement and Characterization of the Effects of Blue Fluorescence on Diamond Appearance」（Luo et al., Summer 2021） | 用成像系统量化荧光对颜色与透明度的影响，证实 1997 年研究的视觉趋势；朦胧感主因是结构缺陷散射而非荧光本身；极强荧光在高 UV 环境下色调角可移动达两个色级（第 14 章） | <https://www.gia.edu/gems-gemology/summer-2021-measurement-and-characterization-of-the-effects-of-blue-fluorescence-on-diamond-appearance> |
+| GIA *Gems & Gemology*「Diamond Spectroscopy, Defect Centers, Color, and Treatments」及相关 G&G 荧光综述文章 | N3 色心结构（三氮原子围绕一个空位）、415 nm 零声子线、Cape 系列吸收谱、N3 荧光机制与蓝色发光波段（第 14 章） | <https://pubs.geoscienceworld.org/msa/rimg/article/88/1/637/614938/Diamond-Spectroscopy-Defect-Centers-Color-and> |
+| GIA 4Cs「GIA Color D-to-Z」官方页与「A Guide to Diamond Color D to Z」 | D-Z 色级体系 1953 年由 Liddicoat 建立；比色石比对法（台面朝下、亭部朝上观察）；选用字母"D"是为了与此前混乱的 A/B/C 市场叫法彻底切割，而非"留出更高等级空间"（第 14 章） | <https://www.gia.edu/gia-about/4cs-color> |
+| 美国联邦贸易委员会（FTC）《珠宝业贸易规范》第 6 条（1938 年颁布）及现行 Jewelry Guides（16 C.F.R. Part 23 §23.14） | "蓝白钻"（blue white）术语 1938 年被列为禁止使用的误导性描述，是美国最早的珠宝广告措辞禁令之一（第 14 章） | <https://www.ftc.gov/system/files/documents/foia_requests/letters_to_diamond_companies.pdf> |
+| Rapaport Magazine「Dismantling the Stigma Surrounding Fluorescent Diamonds」及多篇行业价格分析（交叉验证用，具体折扣幅度会随行情变化） | 荧光在批发市场的折价现象与历史变化趋势；GIA 统计约 25%~35% 送检钻石带荧光、其中九成以上为蓝色、仅约 0.2% 呈现朦胧感；折价幅度按荧光强度与颜色级别不同而不同，属于市场惯例、随行情变化，本书不引用固定折价百分比作为结论（第 14 章） | <https://rapaport.com/magazine-article/dismantling-the-stigma-surrounding-fluorescent-diamonds/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
