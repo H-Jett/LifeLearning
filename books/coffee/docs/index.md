@@ -101,9 +101,10 @@
 - ✅ [第四部分导读](chapters/04-extraction/00-intro.md)
 - ✅ 第 21 章 [萃取是什么：溶解、扩散与浓度梯度](chapters/04-extraction/21-what-is-extraction.md)
 - ✅ 第 22 章 [浓度与萃取率：TDS、PE 与"金杯"坐标系](chapters/04-extraction/22-tds-pe-golden-cup.md)
-- ⬜ 第 23~25 章（研磨 / 水温·时间·搅拌 / 床层力学与通道效应）+ 项目 P3
+- ✅ 第 23 章 [研磨：粒径分布、细粉与表面积](chapters/04-extraction/23-grinding-particle-size.md)
+- ⬜ 第 24~25 章（水温·时间·搅拌 / 床层力学与通道效应）+ 项目 P3
 
-**下一站**：第 23 章「研磨：粒径分布、细粉与表面积」。
+**下一站**：第 24 章「水温、时间与搅拌：传质速率的三个旋钮」。
 
 ## 常用工具页
 
