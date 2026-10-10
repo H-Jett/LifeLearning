@@ -131,6 +131,7 @@
 | FTC「Jewelry Guides」 | 培育钻、仿制品的清楚醒目披露原则（第 18 章） | <https://www.ftc.gov/business-guidance/resources/loupe-advertising-diamond-gemstones-pearls> |
 | GIA「How to Tell if a Diamond Is Real」与「Imitation Diamonds」 | 培育钻与仿钻的边界；网络测试、莫桑石/CZ 的材料定位（第 19 章） | <https://4cs.gia.edu/en-us/blog/how-to-tell-if-diamond-is-real/> |
 | GIA *Gems & Gemology*「Synthetic Moissanite: A New Diamond Substitute」 | 莫桑石双折射、热导探针的局限与综合检测原则（第 19 章） | <https://www.gia.edu/gems-gemology/winter-1997-synthetic-moissanite-nassau> |
+| Rapaport「Price List Guide」 | Rapaport Price List 是特定条件的参考/要价基准、非实际成交记录，需按实时交易条件调整（第 20 章） | <https://help.rapaport.com/en/articles/2982406-rapaport-price-lists-your-guide-to-diamond-pricing-tools> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
