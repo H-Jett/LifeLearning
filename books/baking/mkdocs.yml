@@ -121,6 +121,7 @@ nav:
   - 第七部分 · 改配方与诊断:
       - 第 41 章 · 配方平衡: chapters/07-formulation/41-formulation-balance.md
       - 第 42 章 · 替换规则与代价: chapters/07-formulation/42-substitution-tradeoffs.md
+      - 第 43 章 · 无麸质与特殊需求: chapters/07-formulation/43-gluten-free-structure.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -170,6 +171,7 @@ nav:
       - 第 40 章: qa/40-artisan-sourdough-qa.md
       - 第 41 章: qa/41-formulation-balance-qa.md
       - 第 42 章: qa/42-substitution-tradeoffs-qa.md
+      - 第 43 章: qa/43-gluten-free-structure-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
