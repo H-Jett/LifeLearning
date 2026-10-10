@@ -112,6 +112,8 @@ nav:
       - 第 33 章 · 其他玉石：材料、处理与保养: chapters/04-jade-organic/33-other-jades.md
       - 第 34 章 · 珍珠：养殖、评价与保养: chapters/04-jade-organic/34-pearls.md
       - 第 35 章 · 有机宝石与法律边界: chapters/04-jade-organic/35-organics-law.md
+      - 🛠 项目 P4 · 玉石市场实地观察: chapters/04-jade-organic/project-P4-market-observation.md
+      - 第四部分小结（速查）: chapters/04-jade-organic/summary.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -159,6 +161,7 @@ nav:
       - 第 33 章: qa/33-other-jades-qa.md
       - 第 34 章: qa/34-pearls-qa.md
       - 第 35 章: qa/35-organics-law-qa.md
+      - 项目 P4: qa/project-P4-market-observation-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

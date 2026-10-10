@@ -94,9 +94,11 @@
 | 33 | [其他玉石](chapters/04-jade-organic/33-other-jades.md) | 材料、处理与保养分别核验 | ✅ |
 | 34 | [珍珠](chapters/04-jade-organic/34-pearls.md) | 养殖、七项品质、处理与珠层边界 | ✅ |
 | 35 | [有机宝石与法律红线](chapters/04-jade-organic/35-organics-law.md) | 材料、物种、来源、许可分别核验 | ✅ |
-| P4 | 🛠 项目：玉石市场实地考察 | 带着清单去逛市场，回来能写出一份靠谱的观察记录 | ⬜ |
+| P4 | [🛠 项目：玉石市场实地观察](chapters/04-jade-organic/project-P4-market-observation.md) | 带着证据卡完成可复核观察 | ✅ |
 
 > **学完能**：在翡翠/和田玉这类"水深"品类里，用矿物学常识挡住绝大多数系统性造假。
+
+> **🎉 第四部分已全部完成**（6 章 + P4 项目）→ 速查见[第四部分小结](chapters/04-jade-organic/summary.md)。
 
 ---
 
