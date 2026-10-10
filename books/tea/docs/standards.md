@@ -116,6 +116,7 @@
 | 第 13 章 审评体系概览 | [13.8 本章主要参考](chapters/03-sensory/13-sensory-overview.md) |
 | 第 14 章 干评与湿评 | [14.7 本章主要参考](chapters/03-sensory/14-dry-wet-evaluation.md) |
 | 第 15 章 审评术语 | [15.8 本章主要参考](chapters/03-sensory/15-sensory-terms.md) |
+| 第 16 章 香气 | [16.8 本章主要参考](chapters/03-sensory/16-aroma.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 

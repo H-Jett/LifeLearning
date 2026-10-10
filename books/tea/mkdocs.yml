@@ -89,6 +89,7 @@ nav:
       - 第 13 章 · 审评体系概览: chapters/03-sensory/13-sensory-overview.md
       - 第 14 章 · 干评与湿评: chapters/03-sensory/14-dry-wet-evaluation.md
       - 第 15 章 · 审评术语: chapters/03-sensory/15-sensory-terms.md
+      - 第 16 章 · 香气: chapters/03-sensory/16-aroma.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -108,6 +109,7 @@ nav:
       - 第 13 章 · 审评体系概览: qa/13-sensory-overview-qa.md
       - 第 14 章 · 干评与湿评: qa/14-dry-wet-evaluation-qa.md
       - 第 15 章 · 审评术语: qa/15-sensory-terms-qa.md
+      - 第 16 章 · 香气: qa/16-aroma-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

@@ -72,8 +72,9 @@
 - ✅ 第 13 章 [审评体系概览：把“好喝”与“样品表现”分开](chapters/03-sensory/13-sensory-overview.md)
 - ✅ 第 14 章 [干评与湿评：先看“原料和做工”，再看“茶汤和叶底”](chapters/03-sensory/14-dry-wet-evaluation.md)
 - ✅ 第 15 章 [审评术语：把观察写成别人能复核的句子](chapters/03-sensory/15-sensory-terms.md)
+- ✅ 第 16 章 [香气：类型、浓度、纯度、持久性是四个问题](chapters/03-sensory/16-aroma.md)
 
-**下一站**：第 16 章 · 香气。
+**下一站**：第 17 章 · 滋味。
 
 ## 常用工具页
 
