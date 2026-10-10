@@ -116,6 +116,7 @@ nav:
       - 第 34 章 · 威士忌: chapters/06-spirits/34-whisky.md
       - 第 35 章 · 白兰地: chapters/06-spirits/35-brandy.md
       - 第 36 章 · 朗姆与甘蔗烈酒: chapters/06-spirits/36-rum.md
+      - 第 37 章 · 龙舌兰与梅斯卡尔: chapters/06-spirits/37-tequila-mezcal.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -159,6 +160,7 @@ nav:
       - 第 34 章: qa/34-whisky-qa.md
       - 第 35 章: qa/35-brandy-qa.md
       - 第 36 章: qa/36-rum-qa.md
+      - 第 37 章: qa/37-tequila-mezcal-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
