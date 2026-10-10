@@ -140,6 +140,7 @@
 
 - ✅ 第 42 章 [食品安全：温度红线、时间规则与交叉污染](chapters/07-safety/42-food-safety.md)
 - ✅ 第 43 章 [失败诊断手册：现象 → 原因 → 下次怎么改](chapters/07-safety/43-failure-diagnosis.md)
+- ✅ 第 44 章 [营养与烹饪：只讲证据等级](chapters/07-safety/44-nutrition-evidence.md)
 
 ## 常用工具页
 
