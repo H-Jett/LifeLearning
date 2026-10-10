@@ -430,12 +430,195 @@ def fig_kaimian() -> str:
     return svg(w, h, "\n".join(b), "开面三档示意")
 
 
+def fig_menhuang_types() -> str:
+    """闷黄三型：按闷黄位置分（杀青后/揉捻后/毛火后），含水率与时长差异巨大。"""
+    w, h = 900, 360
+    b = [txt(24, 34, "闷黄三型：位置不同，含水率与耗时差一个数量级（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "时长跨度从几十分钟到几天，下面按相对顺序排列，不是线性时间轴——"
+                     "具体数字因茶厂、品种而异，仅供建立量级感", 12.5, MUTED)]
+    cards = [
+        ("杀青后闷黄", "湿坯", "含水率高", "约 30~40 分钟", "北港毛尖",
+         "趁热拍紧、覆盖保温，变黄最快", GREEN),
+        ("揉捻后闷黄", "湿坯", "含水率 40%~50%", "约 6~8 小时", "温州黄芽、沩山毛尖",
+         "水分仍多，变化比杀青后闷黄慢一档", ORANGE),
+        ("毛火（初烘）后闷黄", "干坯", "含水率 20%~25%", "约 5~7 天", "君山银针、霍山黄芽",
+         "水分少、变化缓慢，常分两次以上闷黄（如君山银针初包+复包）", VERMILION),
+    ]
+    x0, cw = 40, 274
+    for i, (title, kind, moisture, dur, examples, note, color) in enumerate(cards):
+        x = x0 + i * cw
+        b.append(rect(x, 90, cw - 24, 234, fill="#FCFCFC", stroke=GRID, rx=8))
+        b.append(rect(x, 90, cw - 24, 6, fill=color, stroke="none", rx=3))
+        b.append(txt(x + (cw - 24) / 2, 120, title, 14.5, INK, anchor="middle", weight="bold"))
+        b.append(txt(x + (cw - 24) / 2, 140, f"（{kind}）", 12, MUTED, anchor="middle"))
+        lines = [
+            f"含水率：{moisture}",
+            f"耗时：{dur}",
+            f"代表茶：{examples}",
+        ]
+        for k, ln in enumerate(lines):
+            b.append(txt(x + 16, 172 + k * 22, ln, 12.5, INK))
+        # 换行显示说明文字（粗略按字符数截断，中文宽度足够）
+        note_lines = [note[:16], note[16:]] if len(note) > 16 else [note]
+        for k, ln in enumerate(note_lines):
+            if ln:
+                b.append(txt(x + 16, 250 + k * 18, ln, 11, MUTED))
+    b.append(txt(24, h - 18,
+                 "含水率越高，湿热反应越快；这也是「湿坯快、干坯慢」背后的物理原因（见本章 8.3 节）。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "闷黄三型对照示意")
+
+
+def fig_tf_tr_tb_balance() -> str:
+    """茶黄素/茶红素/茶褐素三色素比例随发酵程度变化（示意堆叠条）。"""
+    w, h = 1080, 400
+    b = [txt(24, 34, "发酵程度如何改变 TF / TR / TB 的比例（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "条形宽度表示三类色素的相对比例（示意，非实测百分比）——"
+                     "关键不是具体数字，是「儿茶素→TF→TR→TB 单向推进」这条链条的位置",
+             12.5, MUTED)]
+    x0, bw = 220, 560
+    rows = [
+        ("发酵不足", 96, [("未氧化儿茶素", 0.55, "#8FA83C"), ("TF", 0.30, ORANGE),
+                          ("TR", 0.13, VERMILION), ("TB", 0.02, "#5A3A24")],
+         "汤色欠红泛青，味青涩，叶底花青"),
+        ("发酵适度", 196, [("TF", 0.18, ORANGE), ("TR", 0.70, VERMILION),
+                           ("TB", 0.12, "#5A3A24")],
+         "红艳明亮、甜醇浓强；TF/TR 协调"),
+        ("发酵过度", 296, [("TF", 0.06, ORANGE), ("TR", 0.44, VERMILION),
+                           ("TB", 0.50, "#5A3A24")],
+         "红暗浑浊、香气低闷、滋味平淡"),
+    ]
+    for label, y, segs, note in rows:
+        b.append(txt(24, y + 18, label, 14, INK, weight="bold"))
+        cx = x0
+        for seg_label, frac, color in segs:
+            seg_w = bw * frac
+            b.append(rect(cx, y, seg_w, 28, fill=color, stroke="none", op=0.88))
+            if seg_w > 46:
+                b.append(txt(cx + seg_w / 2, y + 19, seg_label, 11, "#FFFFFF",
+                             anchor="middle", weight="bold"))
+            cx += seg_w
+        b.append(txt(x0 + bw + 14, y + 19, note, 11.5, MUTED))
+    b.append(line(x0, 90, x0, 340, GRID, 1, dash="3,4"))
+    b.append(line(x0 + bw, 90, x0 + bw, 340, GRID, 1, dash="3,4"))
+    b.append(txt(24, h - 48,
+                 "经验参考（非国标）：TF>0.7%、TR>10%，茶红素:茶黄素≈10~12:1 时汤质较优；"
+                 "比值过高则汤暗、滋味强度不足，过低则红浓度不够——具体数字因测法而异，见本章正文。",
+                 12.5, INK))
+    b.append(txt(24, h - 24,
+                 "这条链单向推进：发酵只能往右走，走过头不是「更浓」是「更淡」（第 4 章已讲）。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "TF/TR/TB 比例随发酵程度变化示意")
+
+
+def fig_roasting_levels() -> str:
+    """乌龙茶焙火火功：轻火/中火/足火/病火，温度区间与风味方向（示意）。"""
+    w, h = 980, 470
+    ox, oy, pw = 100, 400, 760
+    b = [txt(24, 34, "乌龙茶焙火火功：温度区间与风味方向（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "不同资料给出的区间本身互有出入（见本章正文）——这里画的是「火功越高、"
+                     "温度区间越靠右」这个相对关系，不是某个单一来源的精确刻度",
+             12.5, MUTED)]
+    b.append(line(ox, oy, ox + pw, oy, INK, 1.6))
+    b.append(txt(ox + pw, oy + 30, "温度 ℃（示意刻度）", 12.5, INK, anchor="end"))
+    for t in (80, 100, 120, 140, 160):
+        x = ox + pw * (t - 70) / (170 - 70)
+        b.append(line(x, oy, x, oy + 6, MUTED, 1))
+        b.append(txt(x, oy + 22, str(t), 11.5, MUTED, anchor="middle"))
+        b.append(line(x, oy, x, 96, GRID, 1, dash="3,4"))
+
+    def tx(t):
+        return ox + pw * (t - 70) / (170 - 70)
+
+    levels = [
+        ("轻火", 80, 100, GREEN,
+         ["香清远高扬，鲜爽微涩", "汤色金黄；不耐存，易「返青」"], 110),
+        ("中火", 90, 120, SKY,
+         ["花果蜜糖香，滋味醇厚顺滑", "耐泡；汤色橙黄；当前市场主流"], 180),
+        ("足火", 100, 130, ORANGE,
+         ["果香显，滋味浓厚耐泡", "「露白骨」；耐存"], 250),
+        ("高火", 120, 150, VERMILION,
+         ["焦糖香渐显，低档茶借高温掩盖瑕疵", "温度区间与足火有重叠"], 320),
+        ("病火\n（失败）", 155, 170, "#555555",
+         ["超约 160 ℃ 或吃火太急", "焦味、汤色黄黑、部分碳化"], 390),
+    ]
+    for name, t1, t2, color, notes, yy in levels:
+        x1, x2 = tx(t1), tx(t2)
+        b.append(rect(min(x1, x2), yy, max(abs(x2 - x1), 6), 22, fill=color, stroke="none",
+                       op=0.82, rx=4))
+        for k, ln in enumerate(name.split("\n")):
+            b.append(txt(ox - 10, yy + 16 + k * 15, ln, 13, INK, anchor="end", weight="bold"))
+        for k, ln in enumerate(notes):
+            b.append(txt(max(x1, x2) + 12, yy + 10 + k * 16, ln, 11, MUTED))
+    b.append(txt(24, h - 18,
+                 "机理主线：美拉德反应（氨基酸+还原糖）随温度升高而加深——"
+                 "轻火清香、中足火花果蜜糖香、过度则焦糖味掩盖本味，见本章 9.8 节。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "乌龙茶焙火火功温度区间示意")
+
+
+def fig_sheng_shu_paths() -> str:
+    """生茶自然陈化 vs 熟茶渥堆：两条路径的时间尺度与驱动力对比（示意）。"""
+    w, h = 980, 420
+    b = [txt(24, 34, "生茶自然陈化 vs 熟茶渥堆：两条后发酵路径（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "终点方向相近（多酚下降、茶褐素上升），但驱动力、时间尺度、"
+                     "是否人工干预完全不同——不是「同一件事的快慢版」",
+             12.5, MUTED)]
+
+    def box(x, y, ww, hh, label, color, sub=None):
+        o = [rect(x, y, ww, hh, fill=color, stroke="none", op=0.85, rx=6),
+             txt(x + ww / 2, y + (hh / 2 if not sub else hh / 2 - 6), label, 13.5, "#FFFFFF",
+                 anchor="middle", weight="bold")]
+        if sub:
+            o.append(txt(x + ww / 2, y + hh / 2 + 14, sub, 10.5, "#FFFFFFDD", anchor="middle"))
+        return o
+
+    # 上行：熟茶渥堆
+    b.append(txt(24, 112, "熟茶渥堆", 15, VERMILION, weight="bold"))
+    b += box(140, 92, 150, 46, "晒青毛茶", MUTED)
+    b.append(path("M 290 115 L 322 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(326, 92, 180, 46, "洒水渥堆", VERMILION, "堆高 1~2 m，40~60 ℃")
+    b.append(path("M 506 115 L 538 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(542, 92, 180, 46, "黑曲霉等微生物主导", VERMILION, "胞外酶深度水解氧化")
+    b.append(path("M 722 115 L 754 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(758, 92, 180, 46, "熟茶（数十天内定型）", "#8B3A1E")
+    b.append(txt(758 + 90, 92 + 46 + 20, "时间尺度：约 40~60 天", 11.5, MUTED, anchor="middle"))
+
+    # 下行：生茶自然陈化
+    b.append(txt(24, 242, "生茶自然陈化", 15, GREEN, weight="bold"))
+    b += box(140, 222, 150, 46, "晒青毛茶/蒸压成饼", MUTED)
+    b.append(path("M 290 245 L 322 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(326, 222, 180, 46, "常温常湿仓储", GREEN, "无主动加水加温")
+    b.append(path("M 506 245 L 538 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(542, 222, 180, 46, "非酶促氧化为主", GREEN, "残余酶促氧化贡献多大尚无定论")
+    b.append(path("M 722 245 L 754 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(758, 222, 180, 46, "陈化生茶", "#3E6B2E")
+    b.append(txt(758 + 90, 222 + 46 + 20, "时间尺度：数年到数十年", 11.5, MUTED, anchor="middle"))
+
+    b.append(line(60, 300, 940, 300, GRID, 1, dash="3,4"))
+    b.append(txt(24, 330,
+                 "共同终点方向：多酚/儿茶素下降、茶红素与茶褐素上升、滋味转醇——"
+                 "但「走到这个方向」靠的是两种完全不同的驱动力，不是「一个发酵、一个没发酵」。",
+                 12.5, INK))
+    b.append(txt(24, 356,
+                 "⚠️ 生茶陈化过程中微生物、残余酶、纯化学氧化各自贡献多少，本书未找到定论——",
+                 12.5, MUTED))
+    b.append(txt(24, 378,
+                 "详见本章 11.4 节「自然陈化：比渥堆模糊得多的机制」。",
+                 12.5, MUTED))
+    return svg(w, h, "\n".join(b), "生茶自然陈化与熟茶渥堆路径对比示意")
+
+
 FIGURES = [
     (P2, "process-matrix.svg", fig_process_matrix),
     (P2, "oxidation-axis.svg", fig_oxidation_axis),
     (P2, "liquor-colors.svg", fig_liquor_colors),
     (P2, "green-tea-branches.svg", fig_green_tea_branches),
     (P2, "shaqing-degrees.svg", fig_shaqing_degrees),
+    (P2, "menhuang-types.svg", fig_menhuang_types),
+    (P2, "roasting-levels.svg", fig_roasting_levels),
+    (P2, "tf-tr-tb-balance.svg", fig_tf_tr_tb_balance),
+    (P2, "sheng-shu-paths.svg", fig_sheng_shu_paths),
     (P1, "enzyme-temp.svg", fig_enzyme_temp),
     (P1, "shoot-structure.svg", fig_shoot_structure),
     (P1, "kaimian.svg", fig_kaimian),

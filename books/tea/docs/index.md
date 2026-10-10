@@ -59,10 +59,13 @@
 - ✅ 第 5 章 [分类的逻辑：GB/T 30766 与一张工艺总图](chapters/02-processing/05-classification.md)
 - ✅ 第 6 章 [绿茶：杀青，如何"锁住"绿](chapters/02-processing/06-green-tea.md)
 - ✅ 第 7 章 [白茶：萎凋，最少干预为什么最难控](chapters/02-processing/07-white-tea.md)
-- ⬜ 第 8 章 黄茶：闷黄 ｜ ⬜ 第 9 章 乌龙茶：做青与焙火
-- ⬜ 第 10 章 红茶 ｜ ⬜ 第 11 章 黑茶与普洱 ｜ ⬜ 第 12 章 再加工茶 ｜ ⬜ 项目 P1
+- ✅ 第 8 章 [黄茶：闷黄，一步之差与绿茶分家](chapters/02-processing/08-yellow-tea.md)
+- ✅ 第 9 章 [乌龙茶：做青与焙火，半发酵的技术顶点](chapters/02-processing/09-oolong-tea.md)
+- ✅ 第 10 章 [红茶：全发酵，茶黄素/茶红素/茶褐素的生成与汤色滋味](chapters/02-processing/10-red-tea.md)
+- ✅ 第 11 章 [黑茶与普洱，微生物后发酵：渥堆熟茶 vs 自然陈化生茶](chapters/02-processing/11-dark-tea.md)
+- ⬜ 第 12 章 再加工茶 ｜ ⬜ 项目 P1
 
-**下一站**：第 8 章 · 黄茶：闷黄，一步之差与绿茶分家。
+**下一站**：第 12 章 · 再加工茶，花茶窨制、紧压、抹茶、速溶与调饮基底。
 
 ## 常用工具页
 

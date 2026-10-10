@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 400" width="1080" height="400" role="img">
+<title>TF/TR/TB 比例随发酵程度变化示意</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="1080" height="400" fill="#FFFFFF"/>
+<text x="24" y="34" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="18" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">发酵程度如何改变 TF / TR / TB 的比例（示意）</text>
+<text x="24" y="58" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">条形宽度表示三类色素的相对比例（示意，非实测百分比）——关键不是具体数字，是「儿茶素→TF→TR→TB 单向推进」这条链条的位置</text>
+<text x="24" y="114" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">发酵不足</text>
+<rect x="220" y="96" width="308.0" height="28" fill="#8FA83C" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="374.0" y="115" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">未氧化儿茶素</text>
+<rect x="528.0" y="96" width="168.0" height="28" fill="#E69F00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="612.0" y="115" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TF</text>
+<rect x="696.0" y="96" width="72.8" height="28" fill="#D55E00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="732.4" y="115" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TR</text>
+<rect x="768.8" y="96" width="11.200000000000001" height="28" fill="#5A3A24" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="794" y="115" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">汤色欠红泛青，味青涩，叶底花青</text>
+<text x="24" y="214" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">发酵适度</text>
+<rect x="220" y="196" width="100.8" height="28" fill="#E69F00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="270.4" y="215" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TF</text>
+<rect x="320.8" y="196" width="392.0" height="28" fill="#D55E00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="516.8" y="215" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TR</text>
+<rect x="712.8" y="196" width="67.2" height="28" fill="#5A3A24" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="746.4" y="215" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TB</text>
+<text x="794" y="215" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">红艳明亮、甜醇浓强；TF/TR 协调</text>
+<text x="24" y="314" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">发酵过度</text>
+<rect x="220" y="296" width="33.6" height="28" fill="#E69F00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<rect x="253.6" y="296" width="246.4" height="28" fill="#D55E00" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="376.8" y="315" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TR</text>
+<rect x="500.0" y="296" width="280.0" height="28" fill="#5A3A24" stroke="none" stroke-width="1" rx="0" fill-opacity="0.88"/>
+<text x="640.0" y="315" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">TB</text>
+<text x="794" y="315" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">红暗浑浊、香气低闷、滋味平淡</text>
+<line x1="220" y1="90" x2="220" y2="340" stroke="#DDDDDD" stroke-width="1" stroke-dasharray="3,4"/>
+<line x1="780" y1="90" x2="780" y2="340" stroke="#DDDDDD" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="24" y="352" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">经验参考（非国标）：TF&gt;0.7%、TR&gt;10%，茶红素:茶黄素≈10~12:1 时汤质较优；比值过高则汤暗、滋味强度不足，过低则红浓度不够——具体数字因测法而异，见本章正文。</text>
+<text x="24" y="376" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">这条链单向推进：发酵只能往右走，走过头不是「更浓」是「更淡」（第 4 章已讲）。</text>
+</svg>
