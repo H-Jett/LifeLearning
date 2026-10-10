@@ -73,8 +73,9 @@
 - ✅ 第 14 章 [干评与湿评：先看“原料和做工”，再看“茶汤和叶底”](chapters/03-sensory/14-dry-wet-evaluation.md)
 - ✅ 第 15 章 [审评术语：把观察写成别人能复核的句子](chapters/03-sensory/15-sensory-terms.md)
 - ✅ 第 16 章 [香气：类型、浓度、纯度、持久性是四个问题](chapters/03-sensory/16-aroma.md)
+- ✅ 第 17 章 [滋味：把浓淡、厚薄、苦涩、鲜钝拆开记录](chapters/03-sensory/17-taste.md)
 
-**下一站**：第 17 章 · 滋味。
+**下一站**：第 18 章 · 叶底与汤色。
 
 ## 常用工具页
 
