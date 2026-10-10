@@ -127,6 +127,9 @@ nav:
       - 第 41 章 · 渠道全景: chapters/06-market-purchase/41-channels.md
       - 第 42 章 · 话术识别与议价: chapters/06-market-purchase/42-sales-claims.md
       - 第 43 章 · 保值、变现与保养: chapters/06-market-purchase/43-value-resale-care.md
+      - 第 44 章 · 场景实战: chapters/06-market-purchase/44-scenarios.md
+      - 🛠 项目 P5 · 完整选购决策: chapters/06-market-purchase/project-P5-full-decision.md
+      - 第六部分小结（速查）: chapters/06-market-purchase/summary.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -183,6 +186,7 @@ nav:
       - 第 41 章: qa/41-channels-qa.md
       - 第 42 章: qa/42-sales-claims-qa.md
       - 第 43 章: qa/43-value-resale-care-qa.md
+      - 第 44 章: qa/44-scenarios-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

@@ -129,10 +129,12 @@
 | 41 | [渠道全景 ★](chapters/06-market-purchase/41-channels.md) | 品牌店/水贝/电商/直播/拍卖/海外，价差究竟从哪来 | ✅ |
 | 42 | [话术识别与议价](chapters/06-market-purchase/42-sales-claims.md) | 常见销售话术的"翻译表"；哪些问题一问就露底 | ✅ |
 | 43 | [保值、变现与保养](chapters/06-market-purchase/43-value-resale-care.md) | 什么真能保值、变现折价率、日常保养与保险 | ✅ |
-| 44 | 场景实战 | 求婚钻戒 / 婚嫁三金 / 送礼 / 自戴的不同最优解 | ⬜ |
-| P5 | 🛠 项目：完整选购决策 | 预算 → 品类 → 参数 → 渠道 → 验货，走完全流程 | ⬜ |
+| 44 | [场景实战](chapters/06-market-purchase/44-scenarios.md) | 求婚钻戒 / 婚嫁三金 / 送礼 / 自戴的不同最优解 | ✅ |
+| P5 | [🛠 项目：完整选购决策](chapters/06-market-purchase/project-P5-full-decision.md) | 预算 → 品类 → 参数 → 渠道 → 验货，走完全流程 | ✅ |
 
 > **学完能**：独立完成一次从预算到验货的珠宝采购，并能说清每一步的取舍理由。
+
+> **🎉 第六部分已全部完成**（4 章 + P5 项目）→ 见[第六部分小结](chapters/06-market-purchase/summary.md)。
 
 ---
 
