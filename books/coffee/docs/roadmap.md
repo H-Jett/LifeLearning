@@ -95,9 +95,11 @@
 | 23 | [研磨：粒径分布、细粉与表面积](chapters/04-extraction/23-grinding-particle-size.md) ★ | 为什么"刻度"不是粒径；细粉的双重角色 | ✅ |
 | 24 | [水温、时间与搅拌：传质速率的三个旋钮](chapters/04-extraction/24-temperature-time-agitation.md) | 三者怎么互相替代、什么时候不能替代 | ✅ |
 | 25 | [床层力学与通道效应](chapters/04-extraction/25-bed-mechanics-channeling.md) | 为什么"均匀"往往比"参数正确"更重要 | ✅ |
-| P3 | 🛠 项目：给自己做一条"萃取率—口感"标定 | 固定其他变量，只动一个旋钮，画出自己的坐标 | ⬜ |
+| P3 | [🛠 项目：给自己做一条"萃取率—口感"标定](chapters/04-extraction/project-P3-extraction-calibration.md) | 固定其他变量，只动一个旋钮，画出自己的坐标 | ✅ |
 
 > **学完能**：任何一杯不对劲，都能落到"浓度不对 / 萃取率不对 / 萃取不均匀"这三格里的一格。
+
+> **🎉 第四部分已全部完成**（5 章 + P3 项目）。
 
 ---
 

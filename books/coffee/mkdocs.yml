@@ -98,6 +98,7 @@ nav:
       - 第 23 章 · 研磨：粒径分布、细粉与表面积: chapters/04-extraction/23-grinding-particle-size.md
       - 第 24 章 · 水温、时间与搅拌：传质速率的三个旋钮: chapters/04-extraction/24-temperature-time-agitation.md
       - 第 25 章 · 床层力学与通道效应: chapters/04-extraction/25-bed-mechanics-channeling.md
+      - 🛠 项目 P3 · 萃取率—口感标定: chapters/04-extraction/project-P3-extraction-calibration.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
