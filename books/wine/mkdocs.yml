@@ -105,6 +105,7 @@ nav:
   - 第五部分 · 系统品鉴与缺陷识别:
       - chapters/05-tasting/00-intro.md
       - 第 28 章 · 可复现的品鉴流程: chapters/05-tasting/28-reproducible-tasting.md
+      - 第 29 章 · 把风味说清楚: chapters/05-tasting/29-flavor-language.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -140,6 +141,7 @@ nav:
       - 第 26 章: qa/26-americas-qa.md
       - 第 27 章: qa/27-oceania-southafrica-china-qa.md
       - 第 28 章: qa/28-reproducible-tasting-qa.md
+      - 第 29 章: qa/29-flavor-language-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
