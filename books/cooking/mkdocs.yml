@@ -92,6 +92,7 @@ nav:
       - 第 19 章 · 去腥增香的机理: chapters/03-ingredients/19-off-odor.md
       - 第 20 章 · 蔬菜：细胞、水、叶绿素与"脆和烂"的临界点: chapters/03-ingredients/20-vegetables.md
       - 第 21 章 · 蛋与奶：最敏感的两种蛋白质: chapters/03-ingredients/21-eggs-milk.md
+      - 第 22 章 · 米与面：淘、泡、和、醒各自在做什么: chapters/03-ingredients/22-rice-flour.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -120,6 +121,7 @@ nav:
       - 第 19 章: qa/19-off-odor-qa.md
       - 第 20 章: qa/20-vegetables-qa.md
       - 第 21 章: qa/21-eggs-milk-qa.md
+      - 第 22 章: qa/22-rice-flour-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
