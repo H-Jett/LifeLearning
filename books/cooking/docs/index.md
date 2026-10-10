@@ -104,11 +104,12 @@
 - ✅ [第三部分导读](chapters/03-ingredients/00-intro.md)
 - ✅ 第 16 章 [肉的结构：肌纤维、结缔组织与脂肪](chapters/03-ingredients/16-meat-structure.md)
 - ✅ 第 17 章 [嫩化：腌制、上浆挂糊、静置分别在干什么](chapters/03-ingredients/17-tenderizing.md)
-- ⬜ 第 18 章 焯水、汆烫、过油 ｜ ⬜ 第 19 章 去腥增香 ｜ ⬜ 第 20 章 蔬菜 ｜
-  ⬜ 第 21 章 蛋与奶 ｜ ⬜ 第 22 章 米与面
+- ✅ 第 18 章 [焯水、汆烫、过油：预处理到底解决什么问题](chapters/03-ingredients/18-blanching.md)
+- ✅ 第 19 章 [去腥增香的机理](chapters/03-ingredients/19-off-odor.md)
+- ✅ 第 20 章 [蔬菜：细胞、水、叶绿素与"脆和烂"的临界点](chapters/03-ingredients/20-vegetables.md)
+- ⬜ 第 21 章 蛋与奶 ｜ ⬜ 第 22 章 米与面
 
-**下一站**：第 18 章 · 焯水、汆烫、过油——把"焯水"拆成四个互不相同的目的，
-并算清它的代价。
+**下一站**：第 21 章 · 蛋与奶：最敏感的两种蛋白质。
 
 ## 常用工具页
 
