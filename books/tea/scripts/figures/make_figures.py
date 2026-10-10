@@ -557,6 +557,58 @@ def fig_roasting_levels() -> str:
     return svg(w, h, "\n".join(b), "乌龙茶焙火火功温度区间示意")
 
 
+def fig_sheng_shu_paths() -> str:
+    """生茶自然陈化 vs 熟茶渥堆：两条路径的时间尺度与驱动力对比（示意）。"""
+    w, h = 980, 420
+    b = [txt(24, 34, "生茶自然陈化 vs 熟茶渥堆：两条后发酵路径（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "终点方向相近（多酚下降、茶褐素上升），但驱动力、时间尺度、"
+                     "是否人工干预完全不同——不是「同一件事的快慢版」",
+             12.5, MUTED)]
+
+    def box(x, y, ww, hh, label, color, sub=None):
+        o = [rect(x, y, ww, hh, fill=color, stroke="none", op=0.85, rx=6),
+             txt(x + ww / 2, y + (hh / 2 if not sub else hh / 2 - 6), label, 13.5, "#FFFFFF",
+                 anchor="middle", weight="bold")]
+        if sub:
+            o.append(txt(x + ww / 2, y + hh / 2 + 14, sub, 10.5, "#FFFFFFDD", anchor="middle"))
+        return o
+
+    # 上行：熟茶渥堆
+    b.append(txt(24, 112, "熟茶渥堆", 15, VERMILION, weight="bold"))
+    b += box(140, 92, 150, 46, "晒青毛茶", MUTED)
+    b.append(path("M 290 115 L 322 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(326, 92, 180, 46, "洒水渥堆", VERMILION, "堆高 1~2 m，40~60 ℃")
+    b.append(path("M 506 115 L 538 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(542, 92, 180, 46, "黑曲霉等微生物主导", VERMILION, "胞外酶深度水解氧化")
+    b.append(path("M 722 115 L 754 115", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(758, 92, 180, 46, "熟茶（数十天内定型）", "#8B3A1E")
+    b.append(txt(758 + 90, 92 + 46 + 20, "时间尺度：约 40~60 天", 11.5, MUTED, anchor="middle"))
+
+    # 下行：生茶自然陈化
+    b.append(txt(24, 242, "生茶自然陈化", 15, GREEN, weight="bold"))
+    b += box(140, 222, 150, 46, "晒青毛茶/蒸压成饼", MUTED)
+    b.append(path("M 290 245 L 322 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(326, 222, 180, 46, "常温常湿仓储", GREEN, "无主动加水加温")
+    b.append(path("M 506 245 L 538 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(542, 222, 180, 46, "非酶促氧化为主", GREEN, "残余酶促氧化贡献多大尚无定论")
+    b.append(path("M 722 245 L 754 245", INK, 1.6).replace("/>", ' marker-end="url(#ah)"/>'))
+    b += box(758, 222, 180, 46, "陈化生茶", "#3E6B2E")
+    b.append(txt(758 + 90, 222 + 46 + 20, "时间尺度：数年到数十年", 11.5, MUTED, anchor="middle"))
+
+    b.append(line(60, 300, 940, 300, GRID, 1, dash="3,4"))
+    b.append(txt(24, 330,
+                 "共同终点方向：多酚/儿茶素下降、茶红素与茶褐素上升、滋味转醇——"
+                 "但「走到这个方向」靠的是两种完全不同的驱动力，不是「一个发酵、一个没发酵」。",
+                 12.5, INK))
+    b.append(txt(24, 356,
+                 "⚠️ 生茶陈化过程中微生物、残余酶、纯化学氧化各自贡献多少，本书未找到定论——",
+                 12.5, MUTED))
+    b.append(txt(24, 378,
+                 "详见本章 11.4 节「自然陈化：比渥堆模糊得多的机制」。",
+                 12.5, MUTED))
+    return svg(w, h, "\n".join(b), "生茶自然陈化与熟茶渥堆路径对比示意")
+
+
 FIGURES = [
     (P2, "process-matrix.svg", fig_process_matrix),
     (P2, "oxidation-axis.svg", fig_oxidation_axis),
@@ -566,6 +618,7 @@ FIGURES = [
     (P2, "menhuang-types.svg", fig_menhuang_types),
     (P2, "roasting-levels.svg", fig_roasting_levels),
     (P2, "tf-tr-tb-balance.svg", fig_tf_tr_tb_balance),
+    (P2, "sheng-shu-paths.svg", fig_sheng_shu_paths),
     (P1, "enzyme-temp.svg", fig_enzyme_temp),
     (P1, "shoot-structure.svg", fig_shoot_structure),
     (P1, "kaimian.svg", fig_kaimian),

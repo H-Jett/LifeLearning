@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" width="980" height="420" role="img">
+<title>生茶自然陈化与熟茶渥堆路径对比示意</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="980" height="420" fill="#FFFFFF"/>
+<text x="24" y="34" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="18" fill="#222222" text-anchor="start" font-weight="bold" font-style="normal">生茶自然陈化 vs 熟茶渥堆：两条后发酵路径（示意）</text>
+<text x="24" y="58" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">终点方向相近（多酚下降、茶褐素上升），但驱动力、时间尺度、是否人工干预完全不同——不是「同一件事的快慢版」</text>
+<text x="24" y="112" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#D55E00" text-anchor="start" font-weight="bold" font-style="normal">熟茶渥堆</text>
+<rect x="140" y="92" width="150" height="46" fill="#666666" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="215.0" y="115.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">晒青毛茶</text>
+<path d="M 290 115 L 322 115" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="326" y="92" width="180" height="46" fill="#D55E00" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="416.0" y="109.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">洒水渥堆</text>
+<text x="416.0" y="129.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="10.5" fill="#FFFFFFDD" text-anchor="middle" font-weight="normal" font-style="normal">堆高 1~2 m，40~60 ℃</text>
+<path d="M 506 115 L 538 115" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="542" y="92" width="180" height="46" fill="#D55E00" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="632.0" y="109.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">黑曲霉等微生物主导</text>
+<text x="632.0" y="129.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="10.5" fill="#FFFFFFDD" text-anchor="middle" font-weight="normal" font-style="normal">胞外酶深度水解氧化</text>
+<path d="M 722 115 L 754 115" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="758" y="92" width="180" height="46" fill="#8B3A1E" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="848.0" y="115.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">熟茶（数十天内定型）</text>
+<text x="848" y="158" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">时间尺度：约 40~60 天</text>
+<text x="24" y="242" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="15" fill="#009E73" text-anchor="start" font-weight="bold" font-style="normal">生茶自然陈化</text>
+<rect x="140" y="222" width="150" height="46" fill="#666666" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="215.0" y="245.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">晒青毛茶/蒸压成饼</text>
+<path d="M 290 245 L 322 245" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="326" y="222" width="180" height="46" fill="#009E73" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="416.0" y="239.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">常温常湿仓储</text>
+<text x="416.0" y="259.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="10.5" fill="#FFFFFFDD" text-anchor="middle" font-weight="normal" font-style="normal">无主动加水加温</text>
+<path d="M 506 245 L 538 245" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="542" y="222" width="180" height="46" fill="#009E73" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="632.0" y="239.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">非酶促氧化为主</text>
+<text x="632.0" y="259.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="10.5" fill="#FFFFFFDD" text-anchor="middle" font-weight="normal" font-style="normal">残余酶促氧化贡献多大尚无定论</text>
+<path d="M 722 245 L 754 245" fill="none" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="758" y="222" width="180" height="46" fill="#3E6B2E" stroke="none" stroke-width="1" rx="6" fill-opacity="0.85"/>
+<text x="848.0" y="245.0" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="13.5" fill="#FFFFFF" text-anchor="middle" font-weight="bold" font-style="normal">陈化生茶</text>
+<text x="848" y="288" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="11.5" fill="#666666" text-anchor="middle" font-weight="normal" font-style="normal">时间尺度：数年到数十年</text>
+<line x1="60" y1="300" x2="940" y2="300" stroke="#DDDDDD" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="24" y="330" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#222222" text-anchor="start" font-weight="normal" font-style="normal">共同终点方向：多酚/儿茶素下降、茶红素与茶褐素上升、滋味转醇——但「走到这个方向」靠的是两种完全不同的驱动力，不是「一个发酵、一个没发酵」。</text>
+<text x="24" y="356" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">⚠️ 生茶陈化过程中微生物、残余酶、纯化学氧化各自贡献多少，本书未找到定论——</text>
+<text x="24" y="378" font-family="Noto Sans CJK SC,Source Han Sans SC,PingFang SC,Microsoft YaHei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif" font-size="12.5" fill="#666666" text-anchor="start" font-weight="normal" font-style="normal">详见本章 11.4 节「自然陈化：比渥堆模糊得多的机制」。</text>
+</svg>
