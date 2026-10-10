@@ -107,6 +107,7 @@ nav:
       - 第 28 章 · 可复现的品鉴流程: chapters/05-tasting/28-reproducible-tasting.md
       - 第 29 章 · 把风味说清楚: chapters/05-tasting/29-flavor-language.md
       - 第 30 章 · 评分与盲品: chapters/05-tasting/30-scoring-blind.md
+      - 第 31 章 · 缺陷与污染: chapters/05-tasting/31-faults.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -144,6 +145,7 @@ nav:
       - 第 28 章: qa/28-reproducible-tasting-qa.md
       - 第 29 章: qa/29-flavor-language-qa.md
       - 第 30 章: qa/30-scoring-blind-qa.md
+      - 第 31 章: qa/31-faults-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
