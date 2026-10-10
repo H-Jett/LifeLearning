@@ -116,6 +116,7 @@ nav:
       - 第 37 章 · 黄油蛋糕: chapters/06-products/37-butter-cakes.md
       - 第 38 章 · 酥皮、塔皮与派: chapters/06-products/38-pastry-pie.md
       - 第 39 章 · 吐司与软欧包: chapters/06-products/39-toast-soft-bread.md
+      - 第 40 章 · 欧包与酵种面包: chapters/06-products/40-artisan-sourdough.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -162,6 +163,7 @@ nav:
       - 第 37 章: qa/37-butter-cakes-qa.md
       - 第 38 章: qa/38-pastry-pie-qa.md
       - 第 39 章: qa/39-toast-soft-bread-qa.md
+      - 第 40 章: qa/40-artisan-sourdough-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

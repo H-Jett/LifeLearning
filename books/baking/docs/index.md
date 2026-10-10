@@ -154,6 +154,7 @@
 - ✅ 第 37 章 [黄油蛋糕：乳化法与配方平衡](chapters/06-products/37-butter-cakes.md)
 - ✅ 第 38 章 [酥皮、塔皮与派：固态脂肪、层与“短”](chapters/06-products/38-pastry-pie.md)
 - ✅ 第 39 章 [吐司与软欧包：面筋、发酵与整形](chapters/06-products/39-toast-soft-bread.md)
+- ✅ 第 40 章 [欧包与酵种面包：高含水、长发酵与蒸汽](chapters/06-products/40-artisan-sourdough.md)
 
 ## 常用工具页
 
