@@ -77,8 +77,8 @@ flowchart TD
 | 17 | [滋味](chapters/03-sensory/17-taste.md) | 浓淡、强弱、鲜爽、涩感、回甘、生津的机理 | ✅ |
 | 18 | [叶底与汤色](chapters/03-sensory/18-liquor-leaf.md) | 两项最不容易骗人的证据 | ✅ |
 | 19 | [缺陷与劣变](chapters/03-sensory/19-defects.md) | 烟焦、酸馊、陈霉、水闷、青气：从哪一步坏的 | ✅ |
-| 20 | 评分与对样 | 权重、计分与"对标准样"评茶 | ⬜ |
-| 🛠 | **项目 P2：自建审评表 + 30 天盲品训练计划** | 从"我觉得好喝"到可复现打分 | ⬜ |
+| 20 | [评分与对样](chapters/03-sensory/20-scoring-reference.md) | 权重、计分与"对标准样"评茶 | ✅ |
+| 🛠 | [**项目 P2：自建审评表 + 30 天盲品训练计划**](chapters/03-sensory/project-P2-blind-training.md) | 从"我觉得好喝"到可复现打分 | ✅ |
 
 > **学完能**：按标准方法审评一款茶，写出规范的审评词并给分；和别人对样时说得清分歧在哪。
 

@@ -93,6 +93,8 @@ nav:
       - 第 17 章 · 滋味: chapters/03-sensory/17-taste.md
       - 第 18 章 · 叶底与汤色: chapters/03-sensory/18-liquor-leaf.md
       - 第 19 章 · 缺陷与劣变: chapters/03-sensory/19-defects.md
+      - 第 20 章 · 评分与对样: chapters/03-sensory/20-scoring-reference.md
+      - 🛠 项目 P2 · 自建审评表 + 30 天盲品训练: chapters/03-sensory/project-P2-blind-training.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -116,6 +118,8 @@ nav:
       - 第 17 章 · 滋味: qa/17-taste-qa.md
       - 第 18 章 · 叶底与汤色: qa/18-liquor-leaf-qa.md
       - 第 19 章 · 缺陷与劣变: qa/19-defects-qa.md
+      - 第 20 章 · 评分与对样: qa/20-scoring-reference-qa.md
+      - 项目 P2 · 参考答案: qa/project-P2-blind-training-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

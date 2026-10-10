@@ -76,8 +76,10 @@
 - ✅ 第 17 章 [滋味：把浓淡、厚薄、苦涩、鲜钝拆开记录](chapters/03-sensory/17-taste.md)
 - ✅ 第 18 章 [叶底与汤色：两项最不容易被一句文案带走的证据](chapters/03-sensory/18-liquor-leaf.md)
 - ✅ 第 19 章 [缺陷与劣变：把异常写出来，再找可检验的候选原因](chapters/03-sensory/19-defects.md)
+- ✅ 第 20 章 [评分与对样：分数是比较工具，不是茶的永久身份证](chapters/03-sensory/20-scoring-reference.md)
+- ✅ [项目 P2：自建审评表 + 30 天盲品训练](chapters/03-sensory/project-P2-blind-training.md)
 
-**下一站**：第 20 章 · 评分与对样。
+**下一站**：第四部分 · 冲泡。
 
 ## 常用工具页
 
