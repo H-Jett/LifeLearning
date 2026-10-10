@@ -88,7 +88,7 @@
 | 21 | [法国 ①：波尔多与勃艮第](chapters/04-regions/21-bordeaux-burgundy.md) | 两套截然不同的分级哲学（酒庄分级 vs 地块分级） | ✅ |
 | 22 | [法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法](chapters/04-regions/22-france-regions.md) | 从北到南的气候梯度怎么写进了品种与风格 | ✅ |
 | 23 | [意大利：DOC/DOCG 与本土品种](chapters/04-regions/23-italy-doc-docg.md) | 为什么意大利的品种数量惊人；陈年要求写在 disciplinare 里 | ✅ |
-| 24 | 西班牙与葡萄牙 | 以陈年时长分级（Crianza/Reserva/Gran Reserva）的逻辑 | ⬜ |
+| 24 | [西班牙与葡萄牙](chapters/04-regions/24-spain-portugal.md) | 以陈年时长分级（Crianza/Reserva/Gran Reserva）的逻辑 | ✅ |
 | 25 | 德国、奥地利与中东欧 | 以成熟度分级的体系，以及 2021 年起向产地导向的改革 | ⬜ |
 | 26 | 新世界 ①：美国、智利、阿根廷 | AVA 的"地理边界"与欧洲"生产规范"的根本差别 | ⬜ |
 | 27 | 新世界 ②：澳洲、新西兰、南非与中国 | 后来者怎么用品种 + 气候立品牌；中国产区现状 | ⬜ |
