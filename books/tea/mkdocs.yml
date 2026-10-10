@@ -108,6 +108,7 @@ nav:
       - 第 26 章 · 中国四大茶区: chapters/05-origins/26-china-regions.md
       - 第 27 章 · 绿茶名品谱系: chapters/05-origins/27-green-tea-lineages.md
       - 第 28 章 · 乌龙谱系: chapters/05-origins/28-oolong-lineages.md
+      - 第 29 章 · 红茶谱系: chapters/05-origins/29-black-tea-lineages.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -142,6 +143,7 @@ nav:
       - 第 26 章 · 中国四大茶区: qa/26-china-regions-qa.md
       - 第 27 章 · 绿茶名品谱系: qa/27-green-tea-lineages-qa.md
       - 第 28 章 · 乌龙谱系: qa/28-oolong-lineages-qa.md
+      - 第 29 章 · 红茶谱系: qa/29-black-tea-lineages-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
