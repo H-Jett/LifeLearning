@@ -84,6 +84,7 @@ nav:
       - 第 13 章 · 4C①克拉：重量·直径·魔法尺寸: chapters/02-diamond/13-carat.md
       - 第 14 章 · 4C②颜色：D-Z 分级与荧光: chapters/02-diamond/14-color.md
       - 第 15 章 · 4C③净度：VVS~I3 与净度图: chapters/02-diamond/15-clarity.md
+      - 第 16 章 · 4C④切工：比例·对称·抛光: chapters/02-diamond/16-cut.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -109,6 +110,7 @@ nav:
       - 第 13 章: qa/13-carat-qa.md
       - 第 14 章: qa/14-color-qa.md
       - 第 15 章: qa/15-clarity-qa.md
+      - 第 16 章: qa/16-cut-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
