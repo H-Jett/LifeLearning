@@ -106,6 +106,7 @@ nav:
   - 第五部分 · 产区与名茶谱系:
       - chapters/05-origins/00-intro.md
       - 第 26 章 · 中国四大茶区: chapters/05-origins/26-china-regions.md
+      - 第 27 章 · 绿茶名品谱系: chapters/05-origins/27-green-tea-lineages.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -138,6 +139,7 @@ nav:
       - 第 25 章 · 醒茶、洗茶、冷泡: qa/25-common-practices-qa.md
       - 项目 P3 · 参考答案: qa/project-P3-brewing-matrix-qa.md
       - 第 26 章 · 中国四大茶区: qa/26-china-regions-qa.md
+      - 第 27 章 · 绿茶名品谱系: qa/27-green-tea-lineages-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
