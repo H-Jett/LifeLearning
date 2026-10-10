@@ -118,6 +118,7 @@
 | **AOC Cognac / Armagnac** | Cognac 官方 AOC 页面（2026 核对）：产品规范由 2026-06-10 认可；年龄标示取**最终调配中最年轻**生命之水的最低无间断橡木陈年。VS ≥2 年、VSOP ≥4 年、XO ≥10 年、XXO ≥14 年；装瓶后不再桶陈。雅文邑与其它白兰地的规范未在本书逐条核对，**不得外推 Cognac 数字**。 | ✅ Cognac 官方页面已核（2026-10-11）/ ⬜ Armagnac 规范待核 |
 | **NOM-006-SCFI-2012** | 墨西哥龙舌兰酒官方标准。Tequila 须由 *Agave tequilana* Weber azul（蓝色龙舌兰）制得并受原产地范围约束；分为 **Tequila** 与 **Tequila 100 % de agave** 两类：前者在发酵前可补加最多 49% 的其他糖，后者糖分只能来自蓝色龙舌兰，且须在受生产者控制、位于原产地范围内的工厂灌装。类别（clases）为 blanco、joven/oro、reposado、añejo、extra añejo；reposado 最少 2 个月木材接触，añejo 最少 1 年、extra añejo 最少 3 年，后二者容器不超过 600 L。 | ✅ 官方标准原文已核（CRT 发布 PDF，2026-10-11） |
 | **NOM-070-SCFI-2016** | 墨西哥梅斯卡尔官方标准，适用于 Mezcal 原产地范围内的生产、灌装与销售。其生产类别为 **Mezcal、Mezcal Artesanal、Mezcal Ancestral**；三者均经历蒸煮、粉碎、发酵、蒸馏四阶段，但允许设备与方法不同。类别描述的是符合规则的生产路径，不能直接替代对某一瓶品质的判断。 | ✅ 官方《Diario Oficial de la Federación》原文已核（2026-10-11） |
+| **EU Regulation 2019/787** | 欧盟烈酒定义、标签与地理标志条例。本书第 38 章用 Annex I：gin 是以杜松为主导风味的农产品乙醇加香烈酒；distilled gin 须让乙醇与杜松及天然植物材料共同蒸馏，单纯向乙醇添加香精不属于它；London gin 是满足更严条件的 distilled gin，植物香气仅来自与全部天然植物材料共同蒸馏，且不得着色、成品加糖不超过 0.1 g/L、最低 37.5% vol。该规则是欧盟市场定义，不能直接外推到全球所有产品。 | ✅ EUR-Lex 合并文本 Annex I 已核（2026-10-11） |
 
 ---
 
