@@ -100,6 +100,9 @@ nav:
       - 第 21 章 · 四个旋钮: chapters/04-brewing/21-four-knobs.md
       - 第 22 章 · 水: chapters/04-brewing/22-water.md
       - 第 23 章 · 器: chapters/04-brewing/23-vessels.md
+      - 第 24 章 · 一茶多泡: chapters/04-brewing/24-multiple-infusions.md
+      - 第 25 章 · 醒茶、洗茶、冷泡: chapters/04-brewing/25-common-practices.md
+      - 🛠 项目 P3 · 控制变量冲泡矩阵: chapters/04-brewing/project-P3-brewing-matrix.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -128,6 +131,9 @@ nav:
       - 第 21 章 · 四个旋钮: qa/21-four-knobs-qa.md
       - 第 22 章 · 水: qa/22-water-qa.md
       - 第 23 章 · 器: qa/23-vessels-qa.md
+      - 第 24 章 · 一茶多泡: qa/24-multiple-infusions-qa.md
+      - 第 25 章 · 醒茶、洗茶、冷泡: qa/25-common-practices-qa.md
+      - 项目 P3 · 参考答案: qa/project-P3-brewing-matrix-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

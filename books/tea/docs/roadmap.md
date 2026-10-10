@@ -93,9 +93,9 @@ flowchart TD
 | 21 | [四个旋钮](chapters/04-brewing/21-four-knobs.md) | 水温/茶水比/时间/器型分别调的是哪些成分 | ✅ |
 | 22 | [水](chapters/04-brewing/22-water.md) | 硬度、pH、矿物质如何改变汤色与滋味 | ✅ |
 | 23 | [器](chapters/04-brewing/23-vessels.md) | 盖碗/紫砂/玻璃/飘逸杯/煮饮的适用边界 | ✅ |
-| 24 | 一茶多泡 | 冲泡曲线与出汤节奏，"耐泡"到底是什么 | ⬜ |
-| 25 | 醒茶、洗茶、冷泡 | 常见说法的证据核查 | ⬜ |
-| 🛠 | **项目 P3：控制变量冲泡矩阵** | 同一款茶跑一个 3×3 实验，画出自己的冲泡曲线 | ⬜ |
+| 24 | [一茶多泡](chapters/04-brewing/24-multiple-infusions.md) | 冲泡曲线与出汤节奏，"耐泡"到底是什么 | ✅ |
+| 25 | [醒茶、洗茶、冷泡](chapters/04-brewing/25-common-practices.md) | 常见说法的证据核查 | ✅ |
+| 🛠 | [**项目 P3：控制变量冲泡矩阵**](chapters/04-brewing/project-P3-brewing-matrix.md) | 同一款茶跑一个 3×3 实验，画出自己的冲泡曲线 | ✅ |
 
 > **学完能**：拿到一款陌生茶，几泡内找到它的合适参数；能解释"为什么这泡苦了"。
 
