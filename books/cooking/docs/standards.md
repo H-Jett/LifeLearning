@@ -336,6 +336,13 @@
 | Mahmud 等，*A review of different frying oils and oleogels as alternative frying media for fat-uptake reduction in deep-fat fried foods*，*Heliyon*，2023（PMC10660127；doi:10.1016/j.heliyon.2023.e21500） | 油吸收受传热传质、外壳结构、食材形状/厚度、初始水分、时间、温度和油品质共同影响；表面失水形成孔隙，油吸收的重要部分可发生在离油后的冷却阶段，蒸汽冷凝使孔内压力下降。文中还提示不同食材与研究对“温度如何影响吸油”的结果不完全一致。 | ✅ 开放获取全文；正文只采用机制与多变量结论，不移植单个食品的数值 |
 | *Vegetable Oils and Their Use for Frying: A Review of Their Compositional Differences and Degradation*，2024（PMC11675685） | 油炸中水分流失形成孔道；离油冷却时，表面附着油可进入孔道。油吸收亦与油质、温度、时间、食材形状和孔隙相关；迅速沥去/吸去表面油可能降低最终脂质。 | ✅ 开放获取全文；综述结论用于交叉验证，不写为普适的“少油百分比”承诺 |
 
+### 5.27 火力与锅具（第 31 章）
+
+| 文献 | 本书用到的内容 | 核对状态 |
+|------|--------------|---------|
+| 美国 NIST《Thermophysical Properties》资料与 *Standard Cooking Fires* 测试报告（NIST.GCR.15-917-36） | 铝合金、铁/钢、不锈钢的热物性不同；在一个 2600 W 电炉、不同锅具的测试中，升温表现还受锅质量、锅底直径及与炉盘接触面积影响，不能只按材质归因。 | ✅ 已核对（NIST，2026-10-11）。⚠️ 报告是着火测试而非家庭烹饪品质对照；正文只用它反对“单一材质决定一切”，不导出选锅排名或烹饪时间。 |
+| Bradley、Read、Castle，*Investigation into the migration potential of coating materials from cookware products*，2007（PMID: 17364936；doi:10.1080/02652030601013711） | 26 件不粘涂层锅具在 250 °C、30 分钟的特定测试中，未超过研究所用的总迁移限值，部分物质的最坏情形估算也未超过可耐受摄入量。 | ✅ 已核对摘要。⚠️ 样品、温度、时长、涂层和磨损状态均有限；不外推为所有品牌、空烧或损伤锅具的安全保证。正文优先建议遵循制造商说明。 |
+
 ## 6. 已知缺口（开写相应章节前必须补上）
 
 | 缺口 | 影响哪部分 | 现在怎么处理 |
