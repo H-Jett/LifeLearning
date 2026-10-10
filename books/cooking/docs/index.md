@@ -128,6 +128,7 @@
 **下一站**：第六部分 · 从原理到菜。
 
 - ✅ 第 35 章 [番茄炒蛋：四条线的最小完整案例](chapters/06-dishes/35-tomato-eggs.md)
+- ✅ 第 36 章 [清炒青菜：水、火与叶绿素](chapters/06-dishes/36-stir-fried-greens.md)
 
 ## 常用工具页
 
