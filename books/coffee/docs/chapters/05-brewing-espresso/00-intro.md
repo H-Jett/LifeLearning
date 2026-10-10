@@ -11,5 +11,6 @@
 | 29 | [摩卡壶与虹吸壶](29-moka-siphon.md) | ✅ |
 | 30 | [意式机器结构](30-espresso-machine.md) | ✅ |
 | 31 | [粉饼制备](31-puck-preparation.md) | ✅ |
-| 32~33 | 配方与奶泡 | ⬜ |
+| 32 | [意式配方与调试](32-espresso-dial-in.md) | ✅ |
+| 33 | 奶与奶泡 | ⬜ |
 | P4 | 配方手册 | ⬜ |
