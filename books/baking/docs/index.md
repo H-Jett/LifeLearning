@@ -150,6 +150,7 @@
 
 - ✅ 第 34 章 [快速面包与马芬：化学膨发 + 最少搅拌](chapters/06-products/34-quick-breads-muffins.md)
 - ✅ 第 35 章 [饼干：一份配方的六种改法](chapters/06-products/35-cookies.md)
+- ✅ 第 36 章 [戚风与海绵：靠蛋撑起来的结构](chapters/06-products/36-chiffon-sponge.md)
 
 ## 常用工具页
 

@@ -112,6 +112,7 @@ nav:
   - 第六部分 · 从原理到成品:
       - 第 34 章 · 快速面包与马芬: chapters/06-products/34-quick-breads-muffins.md
       - 第 35 章 · 饼干: chapters/06-products/35-cookies.md
+      - 第 36 章 · 戚风与海绵: chapters/06-products/36-chiffon-sponge.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -154,6 +155,7 @@ nav:
       - 第 33 章: qa/33-cooling-and-staling-qa.md
       - 第 34 章: qa/34-quick-breads-muffins-qa.md
       - 第 35 章: qa/35-cookies-qa.md
+      - 第 36 章: qa/36-chiffon-sponge-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
