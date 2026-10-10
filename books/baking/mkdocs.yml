@@ -99,6 +99,7 @@ nav:
       - 第 24 章 · 发酵与冷藏：时间、温度与风味的三角: chapters/04-process/24-fermentation-time-temperature.md
       - 第 25 章 · 整形、醒发与割口: chapters/04-process/25-shaping-proofing-scoring.md
       - 第 26 章 · 称量与精度：为什么烘焙必须用秤: chapters/04-process/26-measurement-precision.md
+      - 第 27 章 · 配方以外的变量：面粉批次、湿度、海拔、水质: chapters/04-process/27-variables-beyond-the-recipe.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -132,6 +133,7 @@ nav:
       - 第 24 章: qa/24-fermentation-time-temperature-qa.md
       - 第 25 章: qa/25-shaping-proofing-scoring-qa.md
       - 第 26 章: qa/26-measurement-precision-qa.md
+      - 第 27 章: qa/27-variables-beyond-the-recipe-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
