@@ -157,6 +157,10 @@
 - ✅ 第 40 章 [欧包与酵种面包：高含水、长发酵与蒸汽](chapters/06-products/40-artisan-sourdough.md)
 - ✅ 🛠 [项目 P4：变体推演——同一份配方改三处](chapters/06-products/project-P4-variant-prediction.md)
 
+**第七部分 · 改配方与诊断**：
+
+- ✅ 第 41 章 [配方平衡：一份配方是几组竞争关系的配平](chapters/07-formulation/41-formulation-balance.md)
+
 ## 常用工具页
 
 | 页面 | 用途 |
