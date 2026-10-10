@@ -90,6 +90,10 @@ nav:
       - 第 19 章 · 仿钻：莫桑石与立方氧化锆: chapters/02-diamond/19-simulants.md
       - 第 20 章 · 钻石定价与流通: chapters/02-diamond/20-pricing.md
       - 🛠 项目 P2 · 给定预算配一颗钻: chapters/02-diamond/project-P2-budget-diamond.md
+      - 第二部分小结（速查）: chapters/02-diamond/summary.md
+  - 第三部分 · 有色宝石:
+      - chapters/03-colored/00-intro.md
+      - 第 21 章 · 有色宝石评价体系: chapters/03-colored/21-colored-evaluation.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -121,6 +125,7 @@ nav:
       - 第 19 章: qa/19-simulants-qa.md
       - 第 20 章: qa/20-pricing-qa.md
       - 项目 P2: qa/project-P2-budget-diamond-qa.md
+      - 第 21 章: qa/21-colored-evaluation-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
