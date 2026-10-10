@@ -465,6 +465,28 @@
 > 第 21 章同时复用 §4.2 的 **[B3]**（不同类别化合物萃取行为不同）与
 > §4.3 的 **[A2]**（统一到 2% TDS 后热冲与冷冲仍显著不同）。
 
+### 4.25 浓度、萃取率与"金杯"冲煮控制图（第 22 章）
+
+| 编号 | 文献 | 本书用它支撑什么 | |
+|------|------|----------------|---|
+| **[GC1]** | Lockhart, E. E., Pan American Coffee Bureau, & National Coffee Association of U.S.A. (1957). *The Soluble Solids in Beverage Coffee As An Index to Cup Quality*. Coffee Brewing Institute, Publication No. 27 | **"金杯"概念的原始出处**，由咖啡冲煮研究所（Coffee Brewing Institute，1952 年由美国国家咖啡协会与泛美咖啡局发起）发表。⚠️ **本书未能获取原文**（多方检索无公开全文/扫描件）；仅能通过 [GC2] 的引言转引确认其存在与大致结论（TDS 约 1.25%、萃取率约 20% 被认定为"理想"）。原始实验的评委人数、统计方法、水质与豆种等细节**本书一律不复述** | ⚠️ **仅见于后人转引，原文未核** |
+| **[GC2]** | Liang, J., Chan, K. C., & Ristenpart, W. D. (2021). An equilibrium desorption model for the strength and extraction yield of full immersion brewed coffee. *Scientific Reports*, 11, 6904. doi:10.1038/s41598-021-85787-1（开放获取，UC Davis eScholarship） | **第 22 章主干**：推导全浸泡式冲煮的平衡脱附模型；给出 **TDS = KE_max/(R_brew + KE_max)** 与**萃取率 E = TDS/(1−TDS) × R_brew**（质量守恒精确式）；证明**全浸泡式在平衡时萃取率与冲煮比几乎无关**（1 L 实验：E = 20.70 ± 1.08% 实测 vs 21.5 ± 0.2% 模型预测，R_brew = 3~25；传统杯测协议：E = 23.9 ± 0.6%（含咖啡因）/22.2 ± 0.4%（低咖啡因），R_brew = 12~21）；证明**烘箱干燥法系统性低估真实萃取率**（因湿粉中滞留的冲煮液未被计入），并给出修正式；K（平衡常数）在 80~99 ℃ 范围内**对温度不敏感**；E_max（理论最大可萃取比例）约取 **0.3**，引自 Moroney 等 2015（本书对该数字的态度见下方说明）；折光仪（VST）经**烘箱法**校准后"给出极好的 TDS 测量"（原文用溶解已知质量速溶咖啡的方法验证） | ✅ **已读全文**（含方法学、数据与讨论） |
+| **[GC3]** | Batali, M. E., Ristenpart, W. D., & Guinard, J.-X. (2020). Brew temperature, at fixed brew strength and extraction, has little impact on the sensory profile of drip brew coffee. *Scientific Reports*, 10, 16450（勘误 *Sci Rep* 2021, 11, 2676）。PMCID PMC7536440（开放获取） | **"金杯标准"数字的直接确认 + 对其"理想"措辞的学术批评**：原文明确写出经典图表"spans TDS values of 1.15–1.35% and PE values of 18–22%"并称之为行业的"Golden Cup Standard"；同时批评该图表"conflates hedonic or quality descriptors ('ideal')"、"unclear what consumer populations find coffees in the centre of the chart to be 'ideal'"；**感官数据显示苦、涩、稠厚感主要只随 TDS 变化**（"had significant differences based on TDS alone"），与经典图表"萃取率越高越苦"的隐含假设不完全一致；并证明**固定 TDS 与萃取率时，87~93 ℃ 范围内冲煮水温对受训评委可分辨的感官轮廓无显著影响** | ✅ **已读全文相关段落**（经 PMC 核对原文措辞） |
+| **[GC4]** | Frost, S. C., Ristenpart, W. D., & Guinard, J.-X. (2020). Effects of brew strength, brew yield, and roast on the sensory quality of drip brewed coffee. *Journal of Food Science*, 85(8), 2530–2543. doi:10.1111/1750-3841.15326 | 响应面法系统测定 TDS × 萃取率对多项感官属性的影响：**高 TDS 强烈关联更强的苦味、烟熏与烘烤香；高 TDS + 低萃取率关联更高的酸味与柑橘感；低 TDS 则在低或高萃取率两端分别关联甜感增强与茶感/花香增强**；指出经典九宫格"虽仍被广泛使用，但忽略了丰富的感官属性多样性" | ⚠️ **仅通过 [GC2] 引言的转述与可信二手摘要确认**，本书未直接读到全文 |
+| **[GC5]** | Guinard, J.-X., Frost, S., Batali, M., Cotter, A., Lim, L. X., & Ristenpart, W. D. (2023). A new Coffee Brewing Control Chart relating sensory properties and consumer liking to brew strength, extraction yield, and brew ratio. *Journal of Food Science*, 88, 2168–2177 | **UC Davis 团队对经典金杯图的系统性修订**：基于逾 58000 个感官数据点、响应面法为**每个感官属性**单独画等高线图（而非一张通用图）；发现不同风味属性的峰值落在 TDS–萃取率平面的**不同区域**（如甜感在低 TDS 低萃取率，黑巧克力在高萃取率低 TDS，酸味随 TDS 升高、随萃取率下降）；提出"强/弱"这类单一纵轴标签对某些属性**可能产生误导**。本书据此判断：**SCA 资助的学术界已系统性质疑固定金杯区间的普适性，但该研究定位为"补充/演化"，并非官方废除** | ⚠️ **仅通过 [SCA5] 官方新闻稿的详细转述确认内容**，本书未直接读到期刊全文 |
+| **[SCA3]** | Specialty Coffee Association (2018, Revised). *SCA Coffee Standards*, §5.1 Golden Cup Standard | 官方文本（经多个独立二手页面一致转引确认）：**"brew strength ... of 1.15 to 1.35 percent on the SCA Brewing Control Chart, resulting from a solubles extraction yield of 18 to 22 percent"** | ⚠️ **官网原文件 2026-10 核对当日返回 404，未能直接抓取**；内容经 [GC3] 的同行评议论文全文直接引述（措辞一致）与多个独立检索结果交叉确认，但**本书未亲自读到 SCA 官方 PDF 原文**，故标注待核 |
+| **[SCA4]** | Specialty Coffee Association (2021). *SCA Standard 310-2021: Home Coffee Brewers — Specifications and Test Methods* | 设备认证标准：**标准冲煮比为 55 g 咖啡 / 1.000 kg 水**；**目标萃取参数为该冲煮比下冲煮浓度 1.15%~1.55%**（注意：相比 [SCA3] 的 1.15%~1.35%，**上限被放宽到 1.55%**，说明 SCA 内部认证标准本身已不是铁板一块的单一数字）；冲煮温度区间 90~96 ℃ | ⚠️ **官网 PDF 2026-10 核对当日同样返回 404**，内容经检索引擎对该标准条文的一致转引确认，**本书未能亲自读到完整原文**，标注待核 |
+| **[SCA5]** | Specialty Coffee Association. *Towards a New Brewing Chart*. SCA News, Issue 25-13 | SCA 官方媒体对 [GC5] 研究的介绍：历史脉络（Lockhart 1950 年代 → 经典冲煮控制图）；明确列出经典图表三项缺陷——**混淆描述性数据与喜好性数据**、**九宫格边界暗示了实际感知不到的精细差异**（"17.9% 与 18.1% 萃取率"）、**只用苦/欠发展两极简化风味**；文中把新图表的中心区标注为"classic standard"而非"ideal" | ✅ **已直接读取原文**（sca.coffee 官网页面可正常访问） |
+
+> **关于"咖啡可溶物约 30%"（E_max）的立场更新**：第 21 章因未核到一手来源而拒绝写出这个数字。
+> 本章读到 [GC2] 把 E_max ≈ 0.3 作为模型的**输入假设**使用，但该数字本身**仍然只追溯到 Moroney 等 2015**
+> （即第 21 章的 [EX4]，本书同样未读到其正文）。**这不构成第二个独立来源**，只是同一来源被不同论文复用。
+> 因此本章延续第 21 章的立场：**不把 30% 当作可验证的物理上限来写**，只在"模型假设"这个限定语境下提一句。
+
+> **关于 Jonathan Gagné（《The Physics of Filter Coffee》作者，咖啡发烧友技术写作）**：
+> 检索未发现其发表过任何同行评议期刊论文。他关于"用折光仪精确到 0.01%"等方法是**博客与自费书籍**，
+> 本书**不作为一手依据**，只在「常见说法辨析」里作为"民间技术写作"提一句其存在。
+
 ## 五、"经验值"与"行业惯例"的标注规则
 
 不属于上面任何来源、但行业内广泛使用的参数（例如各器具的推荐水温区间、"养豆几天"这类建议），
@@ -506,6 +528,8 @@
 | 24 | **熟豆的孔隙率是多少** | [ST2]：生豆 9.8% → 熟豆 **34.2%**（电镜孔径分布计算） | [ST1]：生豆总孔隙 **4.47%**、连通孔隙 **0%**，热处理后 9.17%~13.52%；[ST3]：显微 CT 观察到孔隙率**增加最多约 60%**（只给增量） | **不是矛盾，是方法定义了量**：不同方法"看得见"的孔尺寸范围不同，且样品处理方式不同（常规烘焙 vs 定温热处理）。正文**只写方向**（从接近实心变为高度多孔且连通），**不给绝对值**。见[第 18 章 §18.1](chapters/03-roasting/18-structure-cracks-porosity.md) |
 | 25 | **"烘得越深越好萃"** | 动力学侧：同粒径下咖啡因浸出半衰期随烘焙加深**下降 40% 再 30%**[EX3]；结构侧孔隙与连通性上升[ST1][ST3][RD1] | 总量侧：**失重超过约 12%~14% 后萃取率反而下降**[RD1] | **拆成"更快"与"更多"两件事**：结构让水更容易进去，但可溶物本身在深烘时被分解或挥发。两者不矛盾。正文不写"最佳失重率"。见[第 18 章 §18.6](chapters/03-roasting/18-structure-cracks-porosity.md) |
 | 26 | **"RoR 掉头 / 夸张 flick 会严重降质"** | 行业普遍共识（烘焙师的批次经验） | [RP9]：EF 与 NR 两条曲线的 TA 动态与中庸曲线几乎无法区分，且作者称"据我们所知没有已发表数据支持"；[RD2]：两条曲线的**颜色**同样落在普适色曲线上 | **写成"在 TA 与颜色两个指标上不可区分"，而非"无害"**——两项研究**都未做感官评价**。本书把它定位为"**尚未被感官实验检验的行业判据**"。见[第 20 章 §20.4](chapters/03-roasting/20-roast-defects.md) |
+
+| 27 | **"金杯标准"的 TDS 上限到底是 1.35% 还是更高** | [SCA3]（2018 版 Coffee Standards §5.1，经 [GC3] 全文引述确认）：**1.15%~1.35%**、萃取率 **18%~22%** | [SCA4]（2021 版设备认证标准 SCA-310）：目标浓度区间放宽为 **1.15%~1.55%** | **不判定哪个"对"，而是如实写出 SCA 自己的标准之间存在版本差异**：教学语境下的经典"金杯"数字（1.15%~1.35%）与最新设备认证标准的目标区间（1.15%~1.55%）并不是同一份文件、同一个时间点的产物。正文引用"金杯"时明确标注这是**哪一份文件的数字**，并提示读者**以查询当时的 SCA 官网为准**。见[第 22 章 §22.3](chapters/04-extraction/22-tds-pe-golden-cup.md) |
 
 ## 七、本页的"不采信"清单
 
@@ -562,4 +586,8 @@
 | **"标准烘焙度分级表"与官方色度分档** | [RD1] 明言"目前没有标准方法能普遍而精确地量化烘焙度"；SCA-131 核对当日仍在制定中[SCA2]；且本书不复制官方表格版式 |
 | **"发展时间比（DTR）"的推荐区间** | 以该词为题名/摘要关键词在 Europe PMC 检索，**核对当日 0 命中**（§4.23 的检索记录）。可查到的近亲研究[NM1]只证明"差异可检出"且**未做感官评价**。正文判其为**行业惯例**，不给区间、也不判其错。见[第 20 章 §20.5](chapters/03-roasting/20-roast-defects.md) |
 | **"咖啡可溶物约占 30%"** | 未核到一手来源。文献里可核到的是**特定条件下测得的萃取率**，不是普适上限。见[第 21 章 §21.5](chapters/04-extraction/21-what-is-extraction.md) |
+| **Lockhart (1957) 原始报告的实验方法细节**（评委人数、统计方法、水质、豆种） | 多方检索未找到可公开获取的原文全文或扫描件；现代引用全部基于**对其结论性文字的转引**（见 [GC1]）。本书只写"该研究建立了金杯坐标系的雏形"，不复述任何方法学细节。见[第 22 章 §22.2](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **"17.5%~21.2% 后来被改成 18%~22%"这一具体修订史** | 仅见于咖啡行业资深从业者的口述考证（会议演讲 + 行业媒体转载），未见任何一手档案或同行评议论文核实这次修订的方法与理由。正文不写这条具体数字变化，只提示"现行区间并非一次性确定、细节已难以追溯"。见[第 22 章 §22.2](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **折光仪 Brix→咖啡 TDS 换算的具体回归系数**（如 0.85 这类数字） | 仅见于非同行评议的行业技术笔记（ResearchGate 自存稿），不是独立同行评议来源。正文只写"咖啡专用标度经烘箱法校准、不同于通用蔗糖 Brix 标度"这一方向性结论（有同行评议论文佐证），不写具体系数。见[第 22 章 §22.4](chapters/04-extraction/22-tds-pe-golden-cup.md) |
+| **Jonathan Gagné 关于折光仪精度的具体技术主张**（如"0.01% 精度"） | 检索未发现其发表过任何同行评议期刊论文；相关内容只见于个人博客与自费出版书籍。本书不把这类主张当作一手科学依据，只在「常见说法辨析」里提及其作为民间技术写作的存在。见[第 22 章 §22.6](chapters/04-extraction/22-tds-pe-golden-cup.md) |
 | **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |
