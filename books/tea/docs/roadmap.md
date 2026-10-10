@@ -57,8 +57,8 @@ flowchart TD
 | 10 | [红茶：全发酵](chapters/02-processing/10-red-tea.md) | 茶黄素/茶红素/茶褐素的生成与汤色滋味 | ✅ |
 | 11 | [黑茶与普洱](chapters/02-processing/11-dark-tea.md) | 微生物后发酵：渥堆（熟）vs 自然陈化（生） | ✅ |
 | 12 | [再加工茶](chapters/02-processing/12-reprocessed-tea.md) | 花茶窨制、紧压、抹茶、速溶与调饮基底 | ✅ |
-| — | 第二部分小结（速查） | 六类工艺一张对照表 | ⬜ |
-| 🛠 | **项目 P1：从工艺特征反推茶类** | 给若干条描述，判断类别与工艺缺陷 | ⬜ |
+| — | [第二部分小结（速查）](chapters/02-processing/summary.md) | 六类工艺一张对照表 | ✅ |
+| 🛠 | [**项目 P1：从工艺特征反推茶类**](chapters/02-processing/project-P1-reverse-engineering.md) | 给若干条描述，判断类别与工艺缺陷 | ✅ |
 
 > **学完能**：看到一款陌生茶的干茶、汤色、叶底，说出它属于哪一类、大致经历了什么工艺。
 

@@ -64,9 +64,9 @@
 - ✅ 第 10 章 [红茶：全发酵，茶黄素/茶红素/茶褐素的生成与汤色滋味](chapters/02-processing/10-red-tea.md)
 - ✅ 第 11 章 [黑茶与普洱，微生物后发酵：渥堆熟茶 vs 自然陈化生茶](chapters/02-processing/11-dark-tea.md)
 - ✅ 第 12 章 [再加工茶：花茶窨制、紧压、抹茶、速溶与调饮基底](chapters/02-processing/12-reprocessed-tea.md)
-- ⬜ 第二部分小结 ｜ ⬜ 项目 P1
+- ✅ [第二部分小结（速查）](chapters/02-processing/summary.md) ｜ ✅ [项目 P1：从工艺特征反推茶类与工艺缺陷](chapters/02-processing/project-P1-reverse-engineering.md)
 
-**下一站**：第二部分小结（速查），再用项目 P1 把“从工艺特征反推茶类”跑一遍。
+**下一站**：第三部分 · 感官审评，把“好喝”变成可复现的判断。
 
 ## 常用工具页
 

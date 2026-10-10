@@ -82,6 +82,8 @@ nav:
       - 第 10 章 · 红茶：全发酵: chapters/02-processing/10-red-tea.md
       - 第 11 章 · 黑茶与普洱: chapters/02-processing/11-dark-tea.md
       - 第 12 章 · 再加工茶: chapters/02-processing/12-reprocessed-tea.md
+      - 第二部分小结（速查）: chapters/02-processing/summary.md
+      - 🛠 项目 P1 · 从工艺特征反推茶类与工艺缺陷: chapters/02-processing/project-P1-reverse-engineering.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -97,6 +99,7 @@ nav:
       - 第 10 章 · 红茶：全发酵: qa/10-red-tea-qa.md
       - 第 11 章 · 黑茶与普洱: qa/11-dark-tea-qa.md
       - 第 12 章 · 再加工茶: qa/12-reprocessed-tea-qa.md
+      - 项目 P1 · 参考答案: qa/project-P1-reverse-engineering-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
