@@ -102,6 +102,7 @@ nav:
   - 第五部分 · 冲煮与意式:
       - chapters/05-brewing-espresso/00-intro.md
       - 第 26 章 · 手冲①：滤杯几何、滤材与流速: chapters/05-brewing-espresso/26-filter-geometry.md
+      - 第 27 章 · 手冲②：注水法与配方设计: chapters/05-brewing-espresso/27-pouring-recipes.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -136,6 +137,7 @@ nav:
       - 第 24 章: qa/24-temperature-time-agitation-qa.md
       - 第 25 章: qa/25-bed-mechanics-channeling-qa.md
       - 第 26 章: qa/26-filter-geometry-qa.md
+      - 第 27 章: qa/27-pouring-recipes-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
