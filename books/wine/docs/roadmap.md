@@ -90,7 +90,7 @@
 | 23 | [意大利：DOC/DOCG 与本土品种](chapters/04-regions/23-italy-doc-docg.md) | 为什么意大利的品种数量惊人；陈年要求写在 disciplinare 里 | ✅ |
 | 24 | [西班牙与葡萄牙](chapters/04-regions/24-spain-portugal.md) | 以陈年时长分级（Crianza/Reserva/Gran Reserva）的逻辑 | ✅ |
 | 25 | [德国、奥地利与中东欧](chapters/04-regions/25-germany-austria.md) | 以成熟度分级的体系，以及 2021 年起向产地导向的改革 | ✅ |
-| 26 | 新世界 ①：美国、智利、阿根廷 | AVA 的"地理边界"与欧洲"生产规范"的根本差别 | ⬜ |
+| 26 | [新世界 ①：美国、智利、阿根廷](chapters/04-regions/26-americas.md) | AVA 的"地理边界"与欧洲"生产规范"的根本差别 | ✅ |
 | 27 | 新世界 ②：澳洲、新西兰、南非与中国 | 后来者怎么用品种 + 气候立品牌；中国产区现状 | ⬜ |
 | P3 | 🛠 项目：做一个产区的深度档案 | 从法规原文出发，自己造一份可查的产区速查卡 | ⬜ |
 
