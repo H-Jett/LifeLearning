@@ -118,6 +118,8 @@ nav:
       - 第 40 章 · 一锅炖: chapters/06-dishes/40-one-pot-stew.md
       - 第 41 章 · 蛋炒饭: chapters/06-dishes/41-fried-rice.md
       - 项目 P4 · 变体推演: chapters/06-dishes/project-p4-variants.md
+  - 第七部分 · 安全、诊断与拓展:
+      - 第 42 章 · 食品安全: chapters/07-safety/42-food-safety.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -166,6 +168,7 @@ nav:
       - 第 39 章: qa/39-poached-sliced-meat-qa.md
       - 第 40 章: qa/40-one-pot-stew-qa.md
       - 第 41 章: qa/41-fried-rice-qa.md
+      - 第 42 章: qa/42-food-safety-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

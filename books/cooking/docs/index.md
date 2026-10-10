@@ -136,6 +136,10 @@
 - ✅ 第 41 章 [蛋炒饭：水分管理的极限练习](chapters/06-dishes/41-fried-rice.md)
 - ✅ [项目 P4：变体推演——换食材、换设备，把一道菜重做三遍](chapters/06-dishes/project-p4-variants.md)
 
+**第七部分 · 安全、诊断与拓展（🔜 进行中）**
+
+- ✅ 第 42 章 [食品安全：温度红线、时间规则与交叉污染](chapters/07-safety/42-food-safety.md)
+
 ## 常用工具页
 
 | 页面 | 用途 |
