@@ -115,6 +115,13 @@
 | GIA 4Cs「GIA Color D-to-Z」官方页与「A Guide to Diamond Color D to Z」 | D-Z 色级体系 1953 年由 Liddicoat 建立；比色石比对法（台面朝下、亭部朝上观察）；选用字母"D"是为了与此前混乱的 A/B/C 市场叫法彻底切割，而非"留出更高等级空间"（第 14 章） | <https://www.gia.edu/gia-about/4cs-color> |
 | 美国联邦贸易委员会（FTC）《珠宝业贸易规范》第 6 条（1938 年颁布）及现行 Jewelry Guides（16 C.F.R. Part 23 §23.14） | "蓝白钻"（blue white）术语 1938 年被列为禁止使用的误导性描述，是美国最早的珠宝广告措辞禁令之一（第 14 章） | <https://www.ftc.gov/system/files/documents/foia_requests/letters_to_diamond_companies.pdf> |
 | Rapaport Magazine「Dismantling the Stigma Surrounding Fluorescent Diamonds」及多篇行业价格分析（交叉验证用，具体折扣幅度会随行情变化） | 荧光在批发市场的折价现象与历史变化趋势；GIA 统计约 25%~35% 送检钻石带荧光、其中九成以上为蓝色、仅约 0.2% 呈现朦胧感；折价幅度按荧光强度与颜色级别不同而不同，属于市场惯例、随行情变化，本书不引用固定折价百分比作为结论（第 14 章） | <https://rapaport.com/magazine-article/dismantling-the-stigma-surrounding-fluorescent-diamonds/> |
+| GIA 4Cs「Diamond Clarity」官方页 | 净度 11 档的官方定义（FL~I3）、净度五要素（大小/数量/位置/性质/反差）、10 倍放大标准（第 15 章） | <https://4cs.gia.edu/en-us/diamond-clarity/> |
+| GIA 4Cs「Seven Things to Know About Diamond Clarity」 | 净度五要素的官方表述原文；10 倍放大镜是最终定级依据；内含物与瑕疵的区别；**GIA 官方明确声明不使用"eye-clean"（肉眼干净）这个术语**（第 15 章） | <https://4cs.gia.edu/en-us/blog/seven-things-to-know-about-diamond-clarity/> |
+| GIA 4Cs「VVS Diamond versus VS Diamond」 | VVS1/VVS2/VS1/VS2 四档的具体区分（从"极难"到"较易"在 10 倍镜下看见）及实例描述（第 15 章） | <https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/> |
+| GIA 4Cs「History of the 4Cs of Diamond Quality」 | 净度分级体系 1953 年由 Liddicoat 建立（与颜色 D-Z 同年）；最初 9 档、1970 年代加入 IF 级与 I3 级的历史沿革（第 15 章） | <https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/> |
+| 美国联邦贸易委员会《珠宝业贸易规范》16 C.F.R. §23.13（现行版本） | "flawless"（无瑕）一词的法定使用条件：须在经校正的 10 倍放大镜下、光照充足、由专业人员检验仍无瑕疵（第 15 章） | <https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-23> |
+| GIA 官网「How to Protect Your Diamond from Chipping」及多篇交叉验证的内含物耐久性分析 | 瑕疵位置（尤其腰围与尖角处）与耐久性风险的关系；GIA 分级时已将潜在耐久性影响纳入考量（第 15 章） | <https://www.gia.edu/gia-news-research/how-protect-diamond-chipping> |
+| 多个消费者教育网站交叉参考（diamonds.pro、beyond4cs 等，仅作方向性参考非唯一依据） | "肉眼干净"（eye-clean）作为非官方行业术语的使用习惯与经验性净度区间说法；⚠️ 不同来源给出的具体净度级别对应比例差异较大，本书不采用某一来源的精确百分比作为结论（第 15 章） | <https://www.diamonds.pro/education/eye-clean-diamonds/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
