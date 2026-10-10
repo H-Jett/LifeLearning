@@ -151,6 +151,7 @@
 | GIA「Jade」、「Jadeite Jade Quality Factors」及 *Gems & Gemology* 翡翠透明度研究 | 硬玉/软玉等材料边界、颜色/透明度/质地、种水色工与裂隙/形制的评价边界（第 30 章） | <https://www.gia.edu/jade> |
 | GIA「An Introduction to Gem Treatments」及 *Gems & Gemology* 翡翠染色/组装案例 | 翡翠漂白、聚合物浸渍、染色与组装结构的披露、检测和耐久性边界（第 31 章） | <https://my.gia.edu/articles/gem-treatment> |
 | GIA「Jade Care and Cleaning」及 *Gems & Gemology* 软玉研究 | 透闪石质软玉、处理/皮色仿制、名称与产地的证据边界、保养（第 32 章） | <https://www.gia.edu/jade-care-cleaning> |
+| GIA「Turquoise Care and Cleaning」、*Gems & Gemology* 绿松石与玉髓染色/含浸研究 | 绿松石、玉髓及其他玉石的处理、检测、保养与材料/市场名称边界（第 33 章） | <https://origin.prod.gia.edu/turquoise-care-cleaning> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

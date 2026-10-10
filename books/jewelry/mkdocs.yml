@@ -109,6 +109,7 @@ nav:
       - 第 30 章 · 翡翠：矿物学与种水色工: chapters/04-jade-organic/30-jadeite-basics.md
       - 第 31 章 · 翡翠：A/B/C货与处理边界: chapters/04-jade-organic/31-jadeite-treatment.md
       - 第 32 章 · 和田玉：名称、皮色与证据: chapters/04-jade-organic/32-hetian-nephrite.md
+      - 第 33 章 · 其他玉石：材料、处理与保养: chapters/04-jade-organic/33-other-jades.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -153,6 +154,7 @@ nav:
       - 第 30 章: qa/30-jadeite-basics-qa.md
       - 第 31 章: qa/31-jadeite-treatment-qa.md
       - 第 32 章: qa/32-hetian-nephrite-qa.md
+      - 第 33 章: qa/33-other-jades-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
