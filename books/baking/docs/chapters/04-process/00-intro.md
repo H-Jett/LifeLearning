@@ -93,7 +93,7 @@ flowchart TD
 | [第 23 章 温度控制](23-temperature-control.md) | 面团几 °C 到底影响什么？水温该怎么定？ | ✅ |
 | [第 24 章 发酵与冷藏](24-fermentation-time-temperature.md) | 快发和冷藏慢发，差的只是时间吗？ | ✅ |
 | [第 25 章 整形、醒发与割口](25-shaping-proofing-scoring.md) | 整形改的是什么？割口到底在干嘛？ | ✅ |
-| 第 26 章 称量与精度 | "一杯面粉"是多少克？ | ⬜ |
+| [第 26 章 称量与精度](26-measurement-precision.md) | "一杯面粉"是多少克？ | ✅ |
 | 第 27 章 配方以外的变量 | 为什么同一份配方在别人家不成立？ | ⬜ |
 
 ## 学完这一部分，你应该能
