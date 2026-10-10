@@ -98,6 +98,7 @@ nav:
       - 第 22 章 · 法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法: chapters/04-regions/22-france-regions.md
       - 第 23 章 · 意大利：DOC/DOCG 与本土品种: chapters/04-regions/23-italy-doc-docg.md
       - 第 24 章 · 西班牙与葡萄牙: chapters/04-regions/24-spain-portugal.md
+      - 第 25 章 · 德国、奥地利与中东欧: chapters/04-regions/25-germany-austria.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -129,6 +130,7 @@ nav:
       - 第 22 章: qa/22-france-regions-qa.md
       - 第 23 章: qa/23-italy-doc-docg-qa.md
       - 第 24 章: qa/24-spain-portugal-qa.md
+      - 第 25 章: qa/25-germany-austria-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
