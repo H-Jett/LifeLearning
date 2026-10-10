@@ -139,6 +139,8 @@
 | GIA「Sapphire Care and Cleaning Guide」 | 未处理/加热/扩散与充填、染色材料的保养差异（第 23 章） | <https://www.gia.edu/sapphire-care-cleaning> |
 | GIA「Emerald Quality Factors」、FAQ「F1, F2 and F3」及 *Gems & Gemology*「Classifying Emerald Clarity Enhancement」 | 祖母绿净度改善程度的 minor/F1、moderate/F2、significant/F3 含义及其非总品质属性（第 24 章） | <https://www.gia.edu/FAQ/gia-faq-analysis-grading-treated-emerald-f1-f2-f3> |
 | GIA「Emerald Care and Cleaning Guide」 | 裂隙填充的材料、清洗/维修边界与耐久性（第 24 章） | <https://www.gia.edu/emerald-care-cleaning> |
+| GIA「Spinel Quality Factors」、FAQ「What’s AAA-quality spinel?」及尖晶石扩散研究 | 尖晶石无统一 AAA 分级、处理/合成与报告核验边界（第 25 章） | <https://www.gia.edu/spinel/buyers-guide> |
+| GIA「Garnet Quality Factors」与「Garnet Care and Cleaning Guide」 | 石榴石族的种属/变种、评价差异与清洁边界（第 25 章） | <https://www.gia.edu/garnet-quality-factor> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
