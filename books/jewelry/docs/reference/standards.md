@@ -156,6 +156,7 @@
 | GIA「Amber Care and Cleaning」及 CITES 物种/贸易数据库、象类和砗磲资料 | 琥珀保养；有机宝石、受保护物种、来源和跨境许可的核验路径（第 35 章） | <https://www.gia.edu/amber-care-cleaning> |
 | 国家标准信息公共服务平台 GB 11887-2012 条目及第一号修改单 | 贵金属首饰纯度/命名标准的公开状态、修改单与版本边界（第 36 章） | <https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=160D097531C48C91014D54AEA0D0671A&refer=outter> |
 | FTC「Jewelry Guides」 | K 金与金属名称的消费者教育交叉参照；不替代中国标准（第 36 章） | <https://www.ftc.gov/business-guidance/resources/loupe-advertising-diamond-gemstones-pearls> |
+| GIA「White Gold vs. Silver」及 FTC「Buying Platinum, Gold, and Silver Jewelry」 | 白 K 金/银的镀铑、覆盖层术语、空心/实心的消费者教育与披露框架（第 37 章）；海外术语不替代中国标准 | <https://consumer.ftc.gov/articles/buying-platinum-gold-and-silver-jewelry> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
