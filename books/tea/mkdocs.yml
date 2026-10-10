@@ -120,6 +120,9 @@ nav:
       - 第 35 章 · 储存: chapters/06-buying-storage/35-storage.md
       - 第 36 章 · 包装与标准: chapters/06-buying-storage/36-packaging-standards.md
       - 🛠 项目 P5 · 一次真实选购决策复盘: chapters/06-buying-storage/project-P5-buying-review.md
+  - 第七部分 · 拓展:
+      - chapters/07-expansion/00-intro.md
+      - 第 37 章 · 茶与健康: chapters/07-expansion/37-health.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -164,6 +167,7 @@ nav:
       - 第 35 章 · 储存: qa/35-storage-qa.md
       - 第 36 章 · 包装与标准: qa/36-packaging-standards-qa.md
       - 项目 P5 · 参考答案: qa/project-P5-buying-review-qa.md
+      - 第 37 章 · 茶与健康: qa/37-health-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
