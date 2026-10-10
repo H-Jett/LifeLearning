@@ -121,6 +121,7 @@
 **下一站**：第五部分 · 厨房工程与调度。
 
 - ✅ 第 31 章 [火力与锅具：导热、蓄热、不粘涂层的取舍](chapters/05-kitchen-engineering/31-heat-pans.md)
+- ✅ 第 32 章 [油温怎么判断：现象、温度与“几成热”](chapters/05-kitchen-engineering/32-oil-temperature.md)
 
 ## 常用工具页
 
