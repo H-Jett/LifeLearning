@@ -120,6 +120,10 @@ nav:
       - 第 37 章 · 镀层、覆盖层与空心件: chapters/05-metals-craft/37-plating-and-hollow.md
       - 第 38 章 · 首饰制造工艺: chapters/05-metals-craft/38-manufacturing.md
       - 第 39 章 · 镶嵌工艺: chapters/05-metals-craft/39-setting.md
+      - 第 40 章 · 成本结构: chapters/05-metals-craft/40-cost-structure.md
+      - 第五部分小结（速查）: chapters/05-metals-craft/summary.md
+  - 第六部分 · 市场与选购实战:
+      - chapters/06-market-purchase/00-intro.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -172,6 +176,7 @@ nav:
       - 第 37 章: qa/37-plating-and-hollow-qa.md
       - 第 38 章: qa/38-manufacturing-qa.md
       - 第 39 章: qa/39-setting-qa.md
+      - 第 40 章: qa/40-cost-structure-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

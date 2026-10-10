@@ -112,9 +112,11 @@
 | 37 | [镀层、覆盖层与空心件](chapters/05-metals-craft/37-plating-and-hollow.md) | 白金 ≠ 铂金、镀铑会磨掉、包金与空心件 | ✅ |
 | 38 | [首饰制造工艺](chapters/05-metals-craft/38-manufacturing.md) | 失蜡铸造/执模/抛光/电镀，3D 打印带来的变化 | ✅ |
 | 39 | [镶嵌工艺](chapters/05-metals-craft/39-setting.md) | 各镶法的牢固度与显大效果；掉钻的真实原因 | ✅ |
-| 40 | 成本结构 ★ | 料 + 工 + 品牌 + 渠道 + 税：怎么估一件首饰的合理价 | ⬜ |
+| 40 | [成本结构 ★](chapters/05-metals-craft/40-cost-structure.md) | 料 + 工 + 品牌 + 渠道 + 税：怎么估一件首饰的合理价 | ✅ |
 
 > **学完能**：拿起一件首饰，从工艺细节判断做工档次，并大致拆解它的价格构成。
+
+> **🎉 第五部分已全部完成**（5 章）→ 速查见[第五部分小结](chapters/05-metals-craft/summary.md)。
 
 ---
 
