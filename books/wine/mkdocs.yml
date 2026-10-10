@@ -119,6 +119,8 @@ nav:
       - 第 37 章 · 龙舌兰与梅斯卡尔: chapters/06-spirits/37-tequila-mezcal.md
       - 第 38 章 · 金酒、伏特加与再造类烈酒: chapters/06-spirits/38-gin-vodka-compound.md
       - 第 39 章 · 中国白酒: chapters/06-spirits/39-chinese-baijiu.md
+  - 第七部分 · 选购、储存、侍酒与拓展:
+      - 第 40 章 · 选购与性价比: chapters/07-practice/40-buying-value.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -165,6 +167,7 @@ nav:
       - 第 37 章: qa/37-tequila-mezcal-qa.md
       - 第 38 章: qa/38-gin-vodka-compound-qa.md
       - 第 39 章: qa/39-chinese-baijiu-qa.md
+      - 第 40 章: qa/40-buying-value-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
