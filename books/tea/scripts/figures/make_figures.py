@@ -469,6 +469,52 @@ def fig_menhuang_types() -> str:
     return svg(w, h, "\n".join(b), "闷黄三型对照示意")
 
 
+def fig_roasting_levels() -> str:
+    """乌龙茶焙火火功：轻火/中火/足火/病火，温度区间与风味方向（示意）。"""
+    w, h = 980, 470
+    ox, oy, pw = 100, 400, 760
+    b = [txt(24, 34, "乌龙茶焙火火功：温度区间与风味方向（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "不同资料给出的区间本身互有出入（见本章正文）——这里画的是「火功越高、"
+                     "温度区间越靠右」这个相对关系，不是某个单一来源的精确刻度",
+             12.5, MUTED)]
+    b.append(line(ox, oy, ox + pw, oy, INK, 1.6))
+    b.append(txt(ox + pw, oy + 30, "温度 ℃（示意刻度）", 12.5, INK, anchor="end"))
+    for t in (80, 100, 120, 140, 160):
+        x = ox + pw * (t - 70) / (170 - 70)
+        b.append(line(x, oy, x, oy + 6, MUTED, 1))
+        b.append(txt(x, oy + 22, str(t), 11.5, MUTED, anchor="middle"))
+        b.append(line(x, oy, x, 96, GRID, 1, dash="3,4"))
+
+    def tx(t):
+        return ox + pw * (t - 70) / (170 - 70)
+
+    levels = [
+        ("轻火", 80, 100, GREEN,
+         ["香清远高扬，鲜爽微涩", "汤色金黄；不耐存，易「返青」"], 110),
+        ("中火", 90, 120, SKY,
+         ["花果蜜糖香，滋味醇厚顺滑", "耐泡；汤色橙黄；当前市场主流"], 180),
+        ("足火", 100, 130, ORANGE,
+         ["果香显，滋味浓厚耐泡", "「露白骨」；耐存"], 250),
+        ("高火", 120, 150, VERMILION,
+         ["焦糖香渐显，低档茶借高温掩盖瑕疵", "温度区间与足火有重叠"], 320),
+        ("病火\n（失败）", 155, 170, "#555555",
+         ["超约 160 ℃ 或吃火太急", "焦味、汤色黄黑、部分碳化"], 390),
+    ]
+    for name, t1, t2, color, notes, yy in levels:
+        x1, x2 = tx(t1), tx(t2)
+        b.append(rect(min(x1, x2), yy, max(abs(x2 - x1), 6), 22, fill=color, stroke="none",
+                       op=0.82, rx=4))
+        for k, ln in enumerate(name.split("\n")):
+            b.append(txt(ox - 10, yy + 16 + k * 15, ln, 13, INK, anchor="end", weight="bold"))
+        for k, ln in enumerate(notes):
+            b.append(txt(max(x1, x2) + 12, yy + 10 + k * 16, ln, 11, MUTED))
+    b.append(txt(24, h - 18,
+                 "机理主线：美拉德反应（氨基酸+还原糖）随温度升高而加深——"
+                 "轻火清香、中足火花果蜜糖香、过度则焦糖味掩盖本味，见本章 9.8 节。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "乌龙茶焙火火功温度区间示意")
+
+
 FIGURES = [
     (P2, "process-matrix.svg", fig_process_matrix),
     (P2, "oxidation-axis.svg", fig_oxidation_axis),
@@ -476,6 +522,7 @@ FIGURES = [
     (P2, "green-tea-branches.svg", fig_green_tea_branches),
     (P2, "shaqing-degrees.svg", fig_shaqing_degrees),
     (P2, "menhuang-types.svg", fig_menhuang_types),
+    (P2, "roasting-levels.svg", fig_roasting_levels),
     (P1, "enzyme-temp.svg", fig_enzyme_temp),
     (P1, "shoot-structure.svg", fig_shoot_structure),
     (P1, "kaimian.svg", fig_kaimian),

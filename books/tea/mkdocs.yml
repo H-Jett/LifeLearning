@@ -78,6 +78,7 @@ nav:
       - 第 6 章 · 绿茶：杀青: chapters/02-processing/06-green-tea.md
       - 第 7 章 · 白茶：萎凋: chapters/02-processing/07-white-tea.md
       - 第 8 章 · 黄茶：闷黄: chapters/02-processing/08-yellow-tea.md
+      - 第 9 章 · 乌龙茶：做青与焙火: chapters/02-processing/09-oolong-tea.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -89,6 +90,7 @@ nav:
       - 第 6 章 · 绿茶：杀青: qa/06-green-tea-qa.md
       - 第 7 章 · 白茶：萎凋: qa/07-white-tea-qa.md
       - 第 8 章 · 黄茶：闷黄: qa/08-yellow-tea-qa.md
+      - 第 9 章 · 乌龙茶：做青与焙火: qa/09-oolong-tea-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
