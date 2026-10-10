@@ -27,7 +27,7 @@ books:
     subtitle: 从一片叶子到一杯茶汤
     description: 工艺原理 + 茶叶化学 + 感官审评，深度对标评茶员知识体系。
     status: 进行中
-    progress: 七部分 40 章 · 已完成第一部分 + 第 5、6 章
+    progress: 七部分 40 章 · 已完成 11 章，进行到第二部分（六大茶类与工艺原理）
     palette:                       # 这本书的专属配色（不与其他书重复，见构建脚本的查重）
       primary: "#3F6B2B"           # 页头 / 主色
       accent: "#6E9B3E"            # 链接 hover / 强调
@@ -41,7 +41,7 @@ books:
     subtitle: 从宝石学原理到选购决策
     description: 选购避坑 + 系统宝石学，对标准 GIA / FGA 的知识框架。
     status: 进行中
-    progress: 已完成第一部分 · 宝石学地基（11 章 + 项目 P1）
+    progress: 七部分 46 章 · 已完成 15 章，进行到第二部分（钻石）
     palette:
       primary: "#4F4287"
       accent: "#7A6BB5"
@@ -54,7 +54,7 @@ books:
     subtitle: 从一颗生豆到一杯咖啡
     description: 风味化学 + 处理法与烘焙 + 萃取原理 + 杯测感官，对标 SCA / Q-Grader 知识框架。
     status: 进行中
-    progress: 骨架与路线图就绪 · 第 1 章已完成
+    progress: 七部分 44 章 · 已完成 24 章 + 项目 P1、P2，进行到第四部分（萃取原理）
     palette:
       primary: "#A35E2A"           # 烘焙琥珀
       accent: "#C8873F"
@@ -67,7 +67,7 @@ books:
     subtitle: 从葡萄酒到烈酒
     description: 品种与产区 + 酿造与陈年 + 系统品鉴，对标 WSET 的品酒与产区框架。
     status: 进行中
-    progress: 骨架与路线图就绪 · 第 1 章已完成
+    progress: 七部分 44 章 · 已完成 20 章 + 项目 P1，进行到第四部分（世界产区谱系与酒标法规）
     palette:
       primary: "#8E1B36"           # 勃艮第红
       accent: "#B8455F"
@@ -93,7 +93,7 @@ books:
     subtitle: 从照着菜谱做到自己决定怎么做
     description: 给厨房小白的原理书：热、水、味、时间四条线，讲清每一步操作、每一味调料、每个先后顺序的道理。
     status: 进行中
-    progress: 骨架与路线图就绪 · 第 1 章已完成
+    progress: 七部分 45 章 · 已完成 23 章，进行到第四部分（基础技法）
     palette:
       primary: "#0F6E7E"           # 灶台青
       accent: "#1F8C9B"
@@ -106,7 +106,7 @@ books:
     subtitle: 从看懂配方到自己改配方
     description: 面粉、水、糖、油、蛋、盐与膨发剂各自在做什么——讲清每一步操作和每个比例的道理，学会举一反三地改配方。
     status: 进行中
-    progress: 骨架与路线图就绪 · 第 1 章已完成
+    progress: 七部分 45 章 · 已完成 30 章 + 项目 P2，进行到第五部分（烤箱与热）
     palette:
       primary: "#A63A82"           # 莓果紫红。棕/焦糖色系已被 coffee 占满（距离不足），刻意换色域
       accent: "#C4629E"
