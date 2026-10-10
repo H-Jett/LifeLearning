@@ -101,6 +101,14 @@
 | Kimberley Process 官方资料与 Global Witness「The Kimberley Process」说明 | 金伯利进程的定义范围、局限（只管反政府武装冲突钻、不管国家暴力与人权问题、只管毛坯钻）（第 12 章） | <https://globalwitness.org/en/campaigns/conflict-diamonds/the-kimberley-process/> |
 | Kimberley Process Certification Scheme 官方统计（经多方转述交叉确认） | 全球毛坯钻石年产量约 1~1.3 亿克拉量级（近年数据约 1.08~1.3 亿克拉，逐年浮动）（第 12 章） | <https://www.kimberleyprocess.com> |
 | 化学与材料科学教科书通用知识（LibreTexts 等多来源交叉确认） | 钻石相对石墨的亚稳态：标准生成焓差约 2.9 kJ/mol，活化能垒极高故室温下动力学稳定（第 12 章） | <https://chem.libretexts.org/Bookshelves/General_Chemistry/CLUE:_Chemistry_Life_the_Universe_and_Everything/03:_Elements_Bonding_and_Physical_Properties/3.3:_Carbon:_An_Amazingly_Allotropic_Element> |
+| GIA 4Cs「Diamond Carat Weight」官方页 | 克拉的定义（1 克拉 = 200 毫克）、100 分制、"magic sizes"概念与 0.25/0.50/0.75/1.00 ct 等门槛（第 13 章） | <https://4cs.gia.edu/en-us/diamond-carat-weight/> |
+| GIA 4Cs「Understanding Carat Weight: GIA Diamond Grading Reports」 | "magic sizes"原文定义与 0.96 ct vs 1.02 ct 的具体案例（价差可达约 20%）；克拉重量称重与四舍五入规则（第 13 章） | <https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-carat-weight/> |
+| GIA 官方 FAQ「How is diamond carat weight rounded?」 | 克拉重量称重精确到千分位、只在千分位为 9 时才进位的四舍五入规则（第 13 章） | <https://www.gia.edu/FAQ/gia-faq-analysis-grading-diamond-carat-weight-rounded> |
+| GIA 4Cs「Nine Things About Diamond Carat Weight You Need to Know」 | "magic sizes"行业术语来源；0.25/0.50/0.75/1.00 ct 等门槛；切工深浅如何隐藏/暴露重量导致同重量直径不同（第 13 章） | <https://4cs.gia.edu/en-us/blog/nine-things-about-diamond-carat-weight-you-need-to-know/> |
+| Rapaport「Oversize Me: The Diamonds Outperforming a Weak Market」（行业分析） | Rapaport 价格表按克拉区间分级的具体机制；不同克拉门槛处的实测价格跳涨百分比（如 0.90~0.99 到 1.00~1.49 区间约 29%，1.00~1.49 到 1.50~1.99 区间约 65%，均为该文发布时点的市场数据，会随行情变化）（第 13 章） | <https://rapaport.com/analysis/oversize-me-the-diamonds-outperforming-a-weak-market/> |
+| RapTech 文档「Rapaport Price Lists」 | Rapaport 价格表的克拉分级结构（按克拉区间×颜色×净度建立价格矩阵）、每周发布机制、不含切工信息等局限（第 13 章） | <https://raptech.rapaport.com/rapaport-price-lists/> |
+| Wikipedia「Carat (mass)」（交叉验证用） | 克拉单位的历史：源自角豆种子、1907 年国际计量大会确立 200 毫克标准、此前各国标准在 187~216 毫克间不一（第 13 章） | <https://en.wikipedia.org/wiki/Carat_(mass)> |
+| 多来源交叉确认（diamonds.pro、beyond4cs 等消费者教育站，仅作方向性交叉验证非唯一依据） | 圆钻克拉重量与近似直径的对照区间（如约 1.00 ct 约 6.4~6.5 mm、约 2.00 ct 约 8.1~8.2 mm）；具体数值因切工比例浮动，仅供理解"克拉≠直径"这一结构，不作为鉴定或估价依据（第 13 章） | <https://www.diamonds.pro/education/carat-weight/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
