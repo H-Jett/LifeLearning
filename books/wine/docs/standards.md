@@ -115,7 +115,7 @@
 | 编号 / 名称 | 内容与本书用到的条文 | 状态 |
 |------------|-------------------|------|
 | **The Scotch Whisky Regulations 2009**（UK SI 2009/2890） | 第 3 条「Scotch Whisky」定义：须在**苏格兰的蒸馏厂**以水与麦芽大麦（可加其他谷物整粒）生产，糖化、发酵、蒸馏均在该厂完成；**蒸馏酒精度低于 94.8 % vol**；只在**容量不超过 700 L 的橡木桶**中熟成；**只在苏格兰**熟成；**熟成不少于 3 年**；除**水**与**纯焦糖色**外**不得添加任何物质**；最低 **40 % vol**。五个类别：Single Malt / Single Grain / Blended Malt / Blended Grain / Blended Scotch Whisky（定义见同条第 2 款）。 | ✅ 第 3 条已核对原文（legislation.gov.uk，2026-09-11）|
-| **AOC Cognac / Armagnac** | 监管：INAO + BNIC（干邑行业管理局）。涉及产区分级（crus）、夏朗德壶式蒸馏器双蒸、陈年计龄（compte）与 VS / VSOP / XO 的最低年数、最低装瓶度数等。**本书尚未核对 cahier des charges 原文**——XO 的最低年数曾经修改过，**不得凭记忆写**。 | ⬜ 待核对 |
+| **AOC Cognac / Armagnac** | Cognac 官方 AOC 页面（2026 核对）：产品规范由 2026-06-10 认可；年龄标示取**最终调配中最年轻**生命之水的最低无间断橡木陈年。VS ≥2 年、VSOP ≥4 年、XO ≥10 年、XXO ≥14 年；装瓶后不再桶陈。雅文邑与其它白兰地的规范未在本书逐条核对，**不得外推 Cognac 数字**。 | ✅ Cognac 官方页面已核（2026-10-11）/ ⬜ Armagnac 规范待核 |
 | **NOM-006-SCFI** | 墨西哥官方标准（Norma Oficial Mexicana），龙舌兰酒（Tequila）。涉及 100 % agave 与 mixto 的界线、blanco / joven / reposado / añejo / extra añejo 的陈年最低要求；监管机构 CRT（Consejo Regulador del Tequila）。**本书尚未核对原文。** | ⬜ 待核对 |
 
 ---

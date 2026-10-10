@@ -114,6 +114,7 @@ nav:
       - chapters/06-spirits/00-intro.md
       - 第 33 章 · 蒸馏原理: chapters/06-spirits/33-distillation.md
       - 第 34 章 · 威士忌: chapters/06-spirits/34-whisky.md
+      - 第 35 章 · 白兰地: chapters/06-spirits/35-brandy.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -155,6 +156,7 @@ nav:
       - 第 32 章: qa/32-psychology-qa.md
       - 第 33 章: qa/33-distillation-qa.md
       - 第 34 章: qa/34-whisky-qa.md
+      - 第 35 章: qa/35-brandy-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
