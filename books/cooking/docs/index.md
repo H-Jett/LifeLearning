@@ -115,9 +115,9 @@
 - ✅ [第四部分导读](chapters/04-techniques/00-intro.md)
 - ✅ 第 23 章 [炒：短时间、高温、少水](chapters/04-techniques/23-stir-fry.md)
 - ✅ 第 24 章 [煎：接触传热与"粘锅"的物理](chapters/04-techniques/24-pan-fry-sticking.md) ｜ ✅ 第 25 章 [炸：油作为传热介质，外壳是怎么形成的](chapters/04-techniques/25-frying.md) ｜ ✅ 第 26 章 [蒸：恒温 100 °C 的温和与它的局限](chapters/04-techniques/26-steaming.md) ｜ ✅ 第 27 章 [煮与汆：水里的对流与溶出](chapters/04-techniques/27-boiling-poaching.md)
-- ✅ 第 28 章 [炖、焖、卤：长时间低温改造结缔组织](chapters/04-techniques/28-braise-stew.md) ｜ ⬜ 第 29 章 烤 ｜ ⬜ 第 30 章 凉拌与生食
+- ✅ 第 28 章 [炖、焖、卤：长时间低温改造结缔组织](chapters/04-techniques/28-braise-stew.md) ｜ ✅ 第 29 章 [烤：辐射 + 热空气 + 干燥](chapters/04-techniques/29-roasting-baking.md) ｜ ⬜ 第 30 章 凉拌与生食
 
-**下一站**：第 29 章 · 烤：辐射、热空气与干燥。
+**下一站**：第 30 章 · 凉拌与生食：不加热时靠什么好吃、靠什么安全。
 
 ## 常用工具页
 
