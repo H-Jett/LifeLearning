@@ -110,6 +110,9 @@ nav:
       - 第 31 章 · 缺陷与污染: chapters/05-tasting/31-faults.md
       - 第 32 章 · 品鉴的心理学: chapters/05-tasting/32-psychology.md
       - 🛠 项目 P4 · 建立个人风味坐标: chapters/05-tasting/project-P4-flavor-map.md
+  - 第六部分 · 烈酒:
+      - chapters/06-spirits/00-intro.md
+      - 第 33 章 · 蒸馏原理: chapters/06-spirits/33-distillation.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -149,6 +152,7 @@ nav:
       - 第 30 章: qa/30-scoring-blind-qa.md
       - 第 31 章: qa/31-faults-qa.md
       - 第 32 章: qa/32-psychology-qa.md
+      - 第 33 章: qa/33-distillation-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
