@@ -133,6 +133,8 @@
 | GIA *Gems & Gemology*「Synthetic Moissanite: A New Diamond Substitute」 | 莫桑石双折射、热导探针的局限与综合检测原则（第 19 章） | <https://www.gia.edu/gems-gemology/winter-1997-synthetic-moissanite-nassau> |
 | Rapaport「Price List Guide」 | Rapaport Price List 是特定条件的参考/要价基准、非实际成交记录，需按实时交易条件调整（第 20 章） | <https://help.rapaport.com/en/articles/2982406-rapaport-price-lists-your-guide-to-diamond-pricing-tools> |
 | GIA「Colored Gemstone Value Factors」与彩宝选购指南 | 色调/饱和度/明度/均匀度、颜色优先、彩宝品种特异的净度与切工判断（第 21 章） | <https://www.gia.edu/gia-news-research/value-factors-design-cut-quality-colored-gemstone-value-factors> |
+| SSEF「Ruby Reports」、GIA「The Royal Ruby」 | “pigeon blood red”须按报告机构、条件和检测对象理解；铬致红与市场术语边界（第 22 章） | <https://www.ssef.ch/reports/ruby/> |
+| GIA *Gems & Gemology*「Identification and Durability of Lead Glass–Filled Rubies」、GIA「An Introduction to Gem Treatments」 | 铅玻璃充填的实验室特征、耐久性及处理披露边界（第 22 章） | <https://www.gia.edu/gems-gemology/spring-2006-identification-lead-glass-filled-rubies-mcclure> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

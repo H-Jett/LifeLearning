@@ -94,6 +94,7 @@ nav:
   - 第三部分 · 有色宝石:
       - chapters/03-colored/00-intro.md
       - 第 21 章 · 有色宝石评价体系: chapters/03-colored/21-colored-evaluation.md
+      - 第 22 章 · 红宝石：颜色、处理与报告: chapters/03-colored/22-ruby.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -126,6 +127,7 @@ nav:
       - 第 20 章: qa/20-pricing-qa.md
       - 项目 P2: qa/project-P2-budget-diamond-qa.md
       - 第 21 章: qa/21-colored-evaluation-qa.md
+      - 第 22 章: qa/22-ruby-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
