@@ -53,8 +53,8 @@ books:
     title: 系统学咖啡
     subtitle: 从一颗生豆到一杯咖啡
     description: 风味化学 + 处理法与烘焙 + 萃取原理 + 杯测感官，对标 SCA / Q-Grader 知识框架。
-    status: 进行中
-    progress: 七部分 44 章 · 已完成 24 章 + 项目 P1、P2，进行到第四部分（萃取原理）
+    status: 完成
+    progress: ✅ 七部分 44 章 + 5 个实战项目 · 全书完成
     palette:
       primary: "#A35E2A"           # 烘焙琥珀
       accent: "#C8873F"

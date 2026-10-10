@@ -675,4 +675,5 @@
 | **熟豆新鲜度与储存** | [FS1] Giulia et al. (2025，全文核对)：特定咖啡在 5 ℃ 与 20 ℃储存一个月的挥发物/感官差异；[FS2] Kreuml et al. (2013，摘要核对)：长期储存的感官劣化；[FS3] Cotter et al. (2018，摘要核对)：冷冻整豆在特定条件下香气更接近新鲜对照。见[第 41 章](chapters/07-purchase-storage/41-freshness-storage.md)。 |
 | **器具选购的边际收益** | 基于本书已核对的研磨、床层、机器与家庭对比实验章节建立决策框架；不包含品牌、型号或价格推荐。见[第 42 章](chapters/07-purchase-storage/42-equipment-priorities.md)。 |
 | **咖啡经济与认证** | ICO 公共市场信息页（页面核对）：指标价是行业参考；Fairtrade Coffee Standard（2026 页面核对）：市场参考/最低价/差价/Premium 的交易规则。直接贸易缺乏统一全球标准，正文只提出透明度追问。见[第 43 章](chapters/07-purchase-storage/43-coffee-economics.md)。 |
+| **专业学习路径与 Q Grader** | SCA Coffee Skills Program、Q Grader 与 How to Prepare 页面（2026 页面核对）：前者为模块化课程/证书及文凭路径；后者面向有杯测或感官经验的质量评价学习者，以 CVA 为基础。课程、费用、考核与续期均须以报名时官方页面为准。见[第 44 章](chapters/07-purchase-storage/44-learning-paths.md)。 |
 | **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |

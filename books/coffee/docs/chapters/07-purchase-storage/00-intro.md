@@ -8,4 +8,4 @@
 | 41 | [新鲜度与储存](41-freshness-storage.md) | ✅ |
 | 42 | [器具选购顺序](42-equipment-priorities.md) | ✅ |
 | 43 | [咖啡的经济](43-coffee-economics.md) | ✅ |
-| 44 | 专业方向与自学路径 | ⬜ |
+| 44 | [专业方向与自学路径](44-learning-paths.md) | ✅ |

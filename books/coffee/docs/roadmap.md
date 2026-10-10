@@ -157,7 +157,9 @@
 | 41 | [新鲜度与储存：排气、氧化与冷冻的证据](chapters/07-purchase-storage/41-freshness-storage.md) ★ | "养豆""赏味期""冷冻"各自的证据级别 | ✅ |
 | 42 | [器具选购顺序：边际收益排序](chapters/07-purchase-storage/42-equipment-priorities.md) | 同样的钱先买什么；哪些升级是心理作用 | ✅ |
 | 43 | [咖啡的经济：C 价、指标价与"贵"从哪来](chapters/07-purchase-storage/43-coffee-economics.md) | 一杯咖啡的钱分给了谁；认证与直接贸易的实际含义 | ✅ |
-| 44 | 往专业方向走：证照体系与自学路径 | Q-Grader / SCA 课程各考什么、要不要考、怎么准备 | ⬜ |
+| 44 | [往专业方向走：证照体系与自学路径](chapters/07-purchase-storage/44-learning-paths.md) | 按目标选择自学、技能课程或 Q Grader 路径 | ✅ |
+
+> **🎉 第七部分与全书已全部完成**（5 章；全书 44 章 + 5 个项目）。
 
 配套速查资料（**随时更新，不算章节**）：
 

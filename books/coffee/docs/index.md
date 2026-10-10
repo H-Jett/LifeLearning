@@ -53,59 +53,16 @@
 | 一 | [咖啡的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ 已完成） |
 | 二 | [上游：从一棵树到一袋生豆](chapters/02-upstream/00-intro.md) ★ | 读懂豆袋每个字段，判断"这支豆贵在哪"（✅ 已完成） |
 | 三 | [烘焙：把前体变成风味](chapters/03-roasting/00-intro.md) ★ | 分清"闷/涩/空"是烘焙问题还是冲煮问题（✅ 已完成） |
-| 四 | [萃取原理](chapters/04-extraction/00-intro.md) ★ | 所有器具的共同底层：溶解 + 扩散 + 传质（🔜 进行中） |
-| 五 | 冲煮与意式实操 | 拿到陌生豆，三次以内找到可接受的参数 |
-| 六 | 杯测与感官（对标 Q-Grader）★ | 规范描述一杯咖啡，并知道自己有多可信 |
-| 七 | 选豆、储存与拓展 | 花的钱买到多少确定性 |
+| 四 | [萃取原理](chapters/04-extraction/00-intro.md) ★ | 所有器具的共同底层：溶解 + 扩散 + 传质（✅ 已完成） |
+| 五 | [冲煮与意式实操](chapters/05-brewing-espresso/00-intro.md) | 拿到陌生豆，三次以内找到可接受的参数（✅ 已完成） |
+| 六 | [杯测与感官（对标 Q-Grader）](chapters/06-sensory/00-intro.md) ★ | 规范描述一杯咖啡，并知道自己有多可信（✅ 已完成） |
+| 七 | [选豆、储存与拓展](chapters/07-purchase-storage/00-intro.md) | 花的钱买到多少确定性（✅ 已完成） |
 
 ★ = 核心目标。
 
-**当前进度**：
+**当前进度**：**✅ 全书完成：七部分 44 章 + 5 个实战项目。** 完整目录与章节链接见[学习路线图](roadmap.md)。
 
-**第一部分 · 咖啡的物质基础（✅ 已完成）**
-
-- ✅ [第一部分导读](chapters/01-foundation/00-intro.md)
-- ✅ 第 1 章 [一颗咖啡豆里有什么：成分与风味的对应](chapters/01-foundation/01-bean-composition.md)
-- ✅ 第 2 章 [咖啡果与咖啡豆：植物学结构与它的工艺含义](chapters/01-foundation/02-cherry-anatomy.md)
-- ✅ 第 3 章 [水：被忽略的 98%](chapters/01-foundation/03-water.md)
-- ✅ 第 4 章 [风味是怎么被感知的：味觉、嗅觉与三叉神经](chapters/01-foundation/04-perception.md)
-- ✅ 第 5 章 [咖啡与健康：只讲证据等级](chapters/01-foundation/05-health-evidence.md)
-- ✅ 🛠 [项目 P1 给三包豆做一份"成分翻译"](chapters/01-foundation/project-P1-composition-translation.md)
-
-**第二部分 · 上游：从一棵树到一袋生豆（✅ 已完成）**
-
-- ✅ [第二部分导读](chapters/02-upstream/00-intro.md)
-- ✅ 第 6 章 [物种与品种：阿拉比卡、卡内弗拉与利比里卡](chapters/02-upstream/06-species-varieties.md)
-- ✅ 第 7 章 [种植环境：海拔、纬度、荫蔽、土壤与气候](chapters/02-upstream/07-growing-environment.md)
-- ✅ 第 8 章 [病虫害与品种更新](chapters/02-upstream/08-pests-and-renewal.md)
-- ✅ 第 9 章 [采收与成熟度](chapters/02-upstream/09-harvest-ripeness.md)
-- ✅ 第 10 章 [处理法 ①：日晒、水洗、蜜处理的原理](chapters/02-upstream/10-processing-basics.md)
-- ✅ 第 11 章 [处理法 ②：厌氧、接种发酵与"实验性处理"](chapters/02-upstream/11-fermentation-experimental.md)
-- ✅ 第 12 章 [干燥、含水率与生豆储存](chapters/02-upstream/12-drying-storage.md)
-- ✅ 第 13 章 [生豆分级与瑕疵](chapters/02-upstream/13-green-grading.md)
-- ✅ 第 14 章 [产区地图：把地名拆回它的自变量](chapters/02-upstream/14-origin-map.md)
-- ✅ 🛠 [项目 P2 同产区、不同处理法的对照](chapters/02-upstream/project-P2-processing-comparison.md)
-
-**第三部分 · 烘焙：把前体变成风味（🔜 进行中）**
-
-- ✅ [第三部分导读](chapters/03-roasting/00-intro.md)
-- ✅ 第 15 章 [烘焙的物理：传热、豆内温度场与"豆温不是一个数"](chapters/03-roasting/15-roasting-physics.md)
-- ✅ 第 16 章 [烘焙的化学 ①：脱水、焦糖化与美拉德反应](chapters/03-roasting/16-roasting-chemistry-1.md)
-- ✅ 第 17 章 [烘焙的化学 ②：绿原酸的去路与苦味的真正来源](chapters/03-roasting/17-cga-and-bitterness.md)
-- ✅ 第 18 章 [结构变化：一爆、二爆、豆内压力与孔隙](chapters/03-roasting/18-structure-cracks-porosity.md)
-- ✅ 第 19 章 [烘焙度的测量：色度、失重率、密度](chapters/03-roasting/19-roast-degree-measurement.md)
-- ✅ 第 20 章 [烘焙缺陷与曲线之争](chapters/03-roasting/20-roast-defects.md)
-
-**第四部分 · 萃取原理：一切冲煮方法的共同底层（🔜 进行中）**
-
-- ✅ [第四部分导读](chapters/04-extraction/00-intro.md)
-- ✅ 第 21 章 [萃取是什么：溶解、扩散与浓度梯度](chapters/04-extraction/21-what-is-extraction.md)
-- ✅ 第 22 章 [浓度与萃取率：TDS、PE 与"金杯"坐标系](chapters/04-extraction/22-tds-pe-golden-cup.md)
-- ✅ 第 23 章 [研磨：粒径分布、细粉与表面积](chapters/04-extraction/23-grinding-particle-size.md)
-- ✅ 第 24 章 [水温、时间与搅拌：传质速率的三个旋钮](chapters/04-extraction/24-temperature-time-agitation.md)
-- ⬜ 第 25 章（床层力学与通道效应）+ 项目 P3
-
-**下一站**：第 25 章「床层力学与通道效应」。
+已完成的章节、项目、答案与来源均已收录在路线图；建议按目标从相应部分开始，而不是再从“下一章”顺序追赶。
 
 ## 常用工具页
 
