@@ -96,6 +96,7 @@ nav:
       - 第 20 章 · 怎么读一张酒标: chapters/04-regions/20-reading-a-wine-label.md
       - 第 21 章 · 法国 ①：波尔多与勃艮第: chapters/04-regions/21-bordeaux-burgundy.md
       - 第 22 章 · 法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法: chapters/04-regions/22-france-regions.md
+      - 第 23 章 · 意大利：DOC/DOCG 与本土品种: chapters/04-regions/23-italy-doc-docg.md
   - 速查与资料:
       - 出处与资料登记: standards.md
       - 术语表: glossary.md
@@ -125,6 +126,7 @@ nav:
       - 第 20 章: qa/20-reading-a-wine-label-qa.md
       - 第 21 章: qa/21-bordeaux-burgundy-qa.md
       - 第 22 章: qa/22-france-regions-qa.md
+      - 第 23 章: qa/23-italy-doc-docg-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
