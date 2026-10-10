@@ -112,6 +112,7 @@
 | 第 9 章 乌龙茶：做青与焙火 | [9.11 本章主要参考](chapters/02-processing/09-oolong-tea.md) |
 | 第 10 章 红茶：全发酵 | [10.9 本章主要参考](chapters/02-processing/10-red-tea.md) |
 | 第 11 章 黑茶与普洱 | [11.10 本章主要参考](chapters/02-processing/11-dark-tea.md) |
+| 第 12 章 再加工茶 | [12.9 本章主要参考](chapters/02-processing/12-reprocessed-tea.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 
