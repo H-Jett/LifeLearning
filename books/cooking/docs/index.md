@@ -64,8 +64,8 @@
 |------|------|----------|
 | 一 | [底层四条线](chapters/01-four-lines/00-intro.md) | 拆解任何菜谱的框架（✅ 已完成） |
 | 二 | [味觉与调味原理](chapters/02-taste/00-intro.md) ★ | 说得出"它缺盐、缺鲜、缺酸还是缺香"（✅ 已完成） |
-| 三 | [食材与预处理](chapters/03-ingredients/00-intro.md) | 看着冰箱里的东西定方案，而不是搜"XX 怎么做"（🔜 进行中） |
-| 四 | 基础技法 ★ | 八种技法的传热特征、成功条件与失败诊断 |
+| 三 | [食材与预处理](chapters/03-ingredients/00-intro.md) | 看着冰箱里的东西定方案，而不是搜"XX 怎么做"（✅ 已完成） |
+| 四 | [基础技法](chapters/04-techniques/00-intro.md) ★ | 八种技法的传热特征、成功条件与失败诊断（🔜 进行中） |
 | 五 | 厨房工程与调度 | 在家庭灶的限制内把事做成；一顿多菜排时间表 |
 | 六 | 从原理到菜 ★ | 拆解家常菜，每步标注对应原理 + 变体推演 |
 | 七 | 安全、诊断与拓展 | 温度红线 + 一张能查的失败诊断表 |
@@ -99,7 +99,7 @@
 - ✅ 第 15 章 [尝一口再决定：调味的纠偏流程](chapters/02-taste/15-tasting-loop.md)
 - ✅ 🛠 [项目 P2 · 给自己做一套咸度与鲜度标定](chapters/02-taste/project-p2-salt-umami-baseline.md)
 
-**第三部分 · 食材与预处理（🔜 进行中）**
+**第三部分 · 食材与预处理（✅ 已完成）**
 
 - ✅ [第三部分导读](chapters/03-ingredients/00-intro.md)
 - ✅ 第 16 章 [肉的结构：肌纤维、结缔组织与脂肪](chapters/03-ingredients/16-meat-structure.md)
@@ -107,9 +107,17 @@
 - ✅ 第 18 章 [焯水、汆烫、过油：预处理到底解决什么问题](chapters/03-ingredients/18-blanching.md)
 - ✅ 第 19 章 [去腥增香的机理](chapters/03-ingredients/19-off-odor.md)
 - ✅ 第 20 章 [蔬菜：细胞、水、叶绿素与"脆和烂"的临界点](chapters/03-ingredients/20-vegetables.md)
-- ⬜ 第 21 章 蛋与奶 ｜ ⬜ 第 22 章 米与面
+- ✅ 第 21 章 [蛋与奶：最敏感的两种蛋白质](chapters/03-ingredients/21-eggs-milk.md)
+- ✅ 第 22 章 [米与面：淘、泡、和、醒各自在做什么](chapters/03-ingredients/22-rice-flour.md)
 
-**下一站**：第 21 章 · 蛋与奶：最敏感的两种蛋白质。
+**第四部分 · 基础技法（🔜 进行中）**
+
+- ✅ [第四部分导读](chapters/04-techniques/00-intro.md)
+- ✅ 第 23 章 [炒：短时间、高温、少水](chapters/04-techniques/23-stir-fry.md)
+- ⬜ 第 24 章 煎 ｜ ⬜ 第 25 章 炸 ｜ ⬜ 第 26 章 蒸 ｜ ⬜ 第 27 章 煮与汆
+- ⬜ 第 28 章 炖/焖/卤 ｜ ⬜ 第 29 章 烤 ｜ ⬜ 第 30 章 凉拌与生食
+
+**下一站**：第 24 章 · 煎：接触传热与"粘锅"的物理。
 
 ## 常用工具页
 
