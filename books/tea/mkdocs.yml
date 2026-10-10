@@ -103,6 +103,9 @@ nav:
       - 第 24 章 · 一茶多泡: chapters/04-brewing/24-multiple-infusions.md
       - 第 25 章 · 醒茶、洗茶、冷泡: chapters/04-brewing/25-common-practices.md
       - 🛠 项目 P3 · 控制变量冲泡矩阵: chapters/04-brewing/project-P3-brewing-matrix.md
+  - 第五部分 · 产区与名茶谱系:
+      - chapters/05-origins/00-intro.md
+      - 第 26 章 · 中国四大茶区: chapters/05-origins/26-china-regions.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -134,6 +137,7 @@ nav:
       - 第 24 章 · 一茶多泡: qa/24-multiple-infusions-qa.md
       - 第 25 章 · 醒茶、洗茶、冷泡: qa/25-common-practices-qa.md
       - 项目 P3 · 参考答案: qa/project-P3-brewing-matrix-qa.md
+      - 第 26 章 · 中国四大茶区: qa/26-china-regions-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
