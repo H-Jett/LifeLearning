@@ -141,6 +141,8 @@
 | GIA「Emerald Care and Cleaning Guide」 | 裂隙填充的材料、清洗/维修边界与耐久性（第 24 章） | <https://www.gia.edu/emerald-care-cleaning> |
 | GIA「Spinel Quality Factors」、FAQ「What’s AAA-quality spinel?」及尖晶石扩散研究 | 尖晶石无统一 AAA 分级、处理/合成与报告核验边界（第 25 章） | <https://www.gia.edu/spinel/buyers-guide> |
 | GIA「Garnet Quality Factors」与「Garnet Care and Cleaning Guide」 | 石榴石族的种属/变种、评价差异与清洁边界（第 25 章） | <https://www.gia.edu/garnet-quality-factor> |
+| GIA *Gems & Gemology*「Geographic Origin Determination of Paraíba Tourmaline」及「Copper-Bearing Tourmaline from Mozambique」 | LMHC 的帕拉伊巴名称框架、多来源、热处理与定量化学产地判断边界（第 26 章） | <https://www.gia.edu/gems-gemology/winter-2019-paraiba-tourmaline-geographic-origin-determination?lang=en> |
+| GIA「Tourmaline Care and Cleaning Guide」 | 碧玺热、热冲击、处理与温和清洁边界（第 26 章） | <https://www.gia.edu/tourmaline-care-cleaning> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

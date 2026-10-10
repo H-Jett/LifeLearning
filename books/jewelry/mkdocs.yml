@@ -98,6 +98,7 @@ nav:
       - 第 23 章 · 蓝宝石：颜色、产地与扩散: chapters/03-colored/23-sapphire.md
       - 第 24 章 · 绿柱石：祖母绿、海蓝宝与摩根石: chapters/03-colored/24-beryl.md
       - 第 25 章 · 尖晶石与石榴石: chapters/03-colored/25-spinel-garnet.md
+      - 第 26 章 · 碧玺与帕拉伊巴: chapters/03-colored/26-tourmaline-paraiba.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -134,6 +135,7 @@ nav:
       - 第 23 章: qa/23-sapphire-qa.md
       - 第 24 章: qa/24-beryl-qa.md
       - 第 25 章: qa/25-spinel-garnet-qa.md
+      - 第 26 章: qa/26-tourmaline-paraiba-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
