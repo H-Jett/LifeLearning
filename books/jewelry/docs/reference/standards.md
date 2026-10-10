@@ -145,6 +145,8 @@
 | GIA「Tourmaline Care and Cleaning Guide」 | 碧玺热、热冲击、处理与温和清洁边界（第 26 章） | <https://www.gia.edu/tourmaline-care-cleaning> |
 | GIA「Alexandrite Quality Factors」与 Buyer’s Guide | 变石的光源下颜色、切工、多色性、天然/实验室生长报告边界（第 27 章） | <https://www.gia.edu/alexandrite-quality-factor> |
 | GIA「Optical Effects of Phenomenal Cabochons」及 *Gems & Gemology*「Glass Imitation of Cat’s-Eye Chrysoberyl」 | 猫眼效应的成因、观察维度以及现象不等于材料身份（第 27 章） | <https://www.gia.edu/gia-news-research/optical-effects-phenomenal-cabochons> |
+| GIA「Tanzanite Quality Factors」与「Tanzanite Care and Cleaning Guide」 | 坦桑石多色性、常见加热的检测边界、涂层/充填和保养（第 28 章） | <https://www.gia.edu/tanzanite-quality-factor> |
+| GIA「An Introduction to Gem Treatments」与「More than the Mohs Scale」 | 托帕石等材料的处理披露、硬度以外的耐久性与清洁边界（第 28 章） | <https://www.gia.edu/gem-treatment> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
