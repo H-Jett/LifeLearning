@@ -160,6 +160,7 @@
 | GIA 珠宝制造业报道及 Ganoksin 铸造/电镀工艺资料 | CAD/原型、失蜡铸造、镶嵌、抛光、电镀与常见表面/铸造问题的工艺链（第 38 章） | <https://www.gia.edu/gia-news-research/shenzhen-china-gem-jewelry-industry> |
 | GIA 镶嵌、宝石耐久性与质控资料 | 爪镶、包镶、槽镶、密钉镶的保护/维护边界，尖角保护与石座贴合（第 39 章） | <https://www.gia.edu/gia-news-research/how-protect-diamond-chipping> |
 | GIA 珠宝估价指南、购买指南及 FTC 消费者购买资料 | 报价比较、估价用途、交易凭证、退换政策和披露边界（第 40 章） | <https://4cs.gia.edu/en-us/blog/appraisal-tips/> |
+| 市场监管总局网络交易规则、网信办直播电商规则与消费提示 | 网络/直播交易的经营主体、商品、价格、售后展示与证据留存路径（第 41 章） | <https://www.samr.gov.cn/wljys/gzzd/art/2023/art_09c394cce74f424a8d82dbc4811a11ec.html> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
