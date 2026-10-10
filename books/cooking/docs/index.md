@@ -142,6 +142,7 @@
 - ✅ 第 43 章 [失败诊断手册：现象 → 原因 → 下次怎么改](chapters/07-safety/43-failure-diagnosis.md)
 - ✅ 第 44 章 [营养与烹饪：只讲证据等级](chapters/07-safety/44-nutrition-evidence.md)
 - ✅ 第 45 章 [再往外走：设备清单与烘焙/发酵/西餐的地图](chapters/07-safety/45-next-map.md)
+- ✅ [项目 P5：写出你自己的“家常菜说明书”](chapters/07-safety/project-p5-home-cookbook.md)
 
 ## 常用工具页
 
