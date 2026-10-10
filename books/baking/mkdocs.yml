@@ -109,6 +109,8 @@ nav:
       - 第 32 章 · 怎么判断烤好了: chapters/05-oven-heat/32-doneness.md
       - 第 33 章 · 出炉之后: chapters/05-oven-heat/33-cooling-and-staling.md
       - 项目 P3 · 给你的烤箱做一次标定: chapters/05-oven-heat/project-P3-oven-calibration.md
+  - 第六部分 · 从原理到成品:
+      - 第 34 章 · 快速面包与马芬: chapters/06-products/34-quick-breads-muffins.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -149,6 +151,7 @@ nav:
       - 第 31 章: qa/31-pans-molds-liners-qa.md
       - 第 32 章: qa/32-doneness-qa.md
       - 第 33 章: qa/33-cooling-and-staling-qa.md
+      - 第 34 章: qa/34-quick-breads-muffins-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
