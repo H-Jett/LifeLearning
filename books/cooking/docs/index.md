@@ -134,6 +134,7 @@
 - ✅ 第 39 章 [水煮肉片与滑肉：上浆与两段加热](chapters/06-dishes/39-poached-sliced-meat.md)
 - ✅ 第 40 章 [一锅炖：把所有原理压在一个锅里](chapters/06-dishes/40-one-pot-stew.md)
 - ✅ 第 41 章 [蛋炒饭：水分管理的极限练习](chapters/06-dishes/41-fried-rice.md)
+- ✅ [项目 P4：变体推演——换食材、换设备，把一道菜重做三遍](chapters/06-dishes/project-p4-variants.md)
 
 ## 常用工具页
 
