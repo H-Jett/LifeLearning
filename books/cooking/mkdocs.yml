@@ -112,6 +112,7 @@ nav:
   - 第六部分 · 从原理到菜:
       - 第 35 章 · 番茄炒蛋: chapters/06-dishes/35-tomato-eggs.md
       - 第 36 章 · 清炒青菜: chapters/06-dishes/36-stir-fried-greens.md
+      - 第 37 章 · 红烧肉: chapters/06-dishes/37-red-braised-pork.md
   - 记录表:
       - forms/index.md
       - 一道菜的处理方案表: forms/dish-plan.md
@@ -155,6 +156,7 @@ nav:
       - 第 34 章: qa/34-home-kitchen-limits-qa.md
       - 第 35 章: qa/35-tomato-eggs-qa.md
       - 第 36 章: qa/36-stir-fried-greens-qa.md
+      - 第 37 章: qa/37-red-braised-pork-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
