@@ -144,8 +144,9 @@
 - ✅ 第 31 章 [模具、烤盘与垫材：材质、颜色与厚度](chapters/05-oven-heat/31-pans-molds-liners.md)
 - ✅ 第 32 章 [怎么判断烤好了：内部温度与状态判据，不是只看时间](chapters/05-oven-heat/32-doneness.md)
 - ✅ 第 33 章 [出炉之后：回稳、冷却与回软](chapters/05-oven-heat/33-cooling-and-staling.md)
+- ✅ [项目 P3：给你的烤箱做一次标定](chapters/05-oven-heat/project-P3-oven-calibration.md)
 
-**下一站**：项目 P3，给你的烤箱做一次标定。
+**下一站**：第六部分 · 从原理到成品。
 
 ## 常用工具页
 
