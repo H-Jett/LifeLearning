@@ -88,6 +88,19 @@
 | GIA 4Cs「Diamond Grading Report vs Appraisal」 | 分级报告与估价的区别；Dossier 与完整报告的差异（第 11 章） | <https://4cs.gia.edu/en-us/blog/what-is-the-difference-between-a-diamond-grading-report-and-an-appraisal/> |
 | NGTC 官方网站（证书查询入口） | 中国证书核验：编号 + 防伪码；仅显示数据不显示样式；查询时间范围限制（第 11 章） | <https://www.ngtc.com.cn> |
 | 中国质量认证资质说明（CMA / CAL / CNAS 对比资料） | 三个标志的性质差异；CNAL 为 CNAS 的历史标志（第 11 章） | <https://zhuanlan.zhihu.com/p/73855797> |
+| GIA *G&G*「Kimberlites: Earth's Diamond Delivery System」（Summer 2019） | 钻石形成深度 150~700 km；钻石年龄比寄主金伯利岩老 10~30 亿年；金伯利岩只是"运输工具"（第 12 章） | <https://www.gia.edu/gems-gemology/summer-2019-kimberlites-earths-diamond-delivery-system> |
+| GIA *G&G*「Recent Advances in Understanding the Geology of Diamonds」（Winter 2013） | 钻石形成压力/温度条件（>4 GPa，950~1400 °C）；大陆地幔根（keel）对钻石结晶的意义（第 12 章） | <https://www.gia.edu/gems-gemology/wn13-advances-diamond-geology-shirey> |
+| GIA「The 'Type' Classification System of Diamonds and its Importance in Gemology」（Breeding & Shigley） | 钻石分型体系：Ia/Ib/IIa/IIb 定义与氮硼杂质阈值（第 12 章） | <https://www.gia.edu/dam/migrated-assets/docs/doc1/type-classification-system-of-diamonds-SU09.pdf> |
+| Wikipedia「Diamond type」（交叉验证用，非一手） | 各分型在天然钻石中的占比区间（Ia 约 95%、Ib 约 0.1%、IIa 约 1~2%、IIb 约 0.1%）；与 GIA 原文互相印证（第 12 章） | <https://en.wikipedia.org/wiki/Diamond_type> |
+| American Gem Society「Diamond Classification: What's Your Type?」 | 钻石分型与颜色、HPHT 处理、培育钻石关系的消费者向说明，交叉验证分型占比（第 12 章） | <https://www.americangemsociety.org/diamonds-whats-your-type/> |
+| GIA 4Cs「History of the 4Cs of Diamond Quality」 | Shipley 创立 GIA（1931）、4C 概念起源（1940 年代）、D-Z 色级 1953 年推出及选 D 的原因（第 12 章） | <https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/> |
+| American Gem Society「The History of the Diamond as an Engagement Ring」 | 1477 年马克西米连一世与勃艮第的玛丽的订婚钻戒记录；De Beers 1947 年推出"A Diamond is Forever"标语及三年内销量增长 50% 的数据（第 12 章） | <https://www.americangemsociety.org/buying-diamonds-with-confidence/the-history-of-the-diamond-as-an-engagement-ring/> |
+| Edward Jay Epstein《The Diamond Invention》及 *The Atlantic*（1982）"Have You Ever Tried to Sell a Diamond?" 相关报道与转述 | "钻石发明"论的核心论点：De Beers 如何通过控制流通量维持稀缺性叙事（第 12 章）——**本书未能直接取得原文全文，以多个独立转述/引用来源交叉确认其论点与关键引述**，属二手转述，已在正文标注 | <https://en.wikipedia.org/wiki/De_Beers_antitrust_litigation>（含对 Epstein 论点的学术引用与背景） |
+| 美国司法部（DOJ）新闻稿（2004-07-13） | De Beers Centenary AG 就 1990 年代工业钻石价格操纵指控认罪，缴纳 1000 万美元刑事罚金（第 12 章） | <https://www.justice.gov/archive/opa/pr/2004/July/04_at_476.htm> |
+| Wikipedia「De Beers antitrust litigation」 | 2008 年 Sullivan/Hopkins 集体诉讼和解（2.95 亿美元）的条款与分配细节；De Beers 不承认过错（第 12 章） | <https://en.wikipedia.org/wiki/De_Beers_antitrust_litigation> |
+| Kimberley Process 官方资料与 Global Witness「The Kimberley Process」说明 | 金伯利进程的定义范围、局限（只管反政府武装冲突钻、不管国家暴力与人权问题、只管毛坯钻）（第 12 章） | <https://globalwitness.org/en/campaigns/conflict-diamonds/the-kimberley-process/> |
+| Kimberley Process Certification Scheme 官方统计（经多方转述交叉确认） | 全球毛坯钻石年产量约 1~1.3 亿克拉量级（近年数据约 1.08~1.3 亿克拉，逐年浮动）（第 12 章） | <https://www.kimberleyprocess.com> |
+| 化学与材料科学教科书通用知识（LibreTexts 等多来源交叉确认） | 钻石相对石墨的亚稳态：标准生成焓差约 2.9 kJ/mol，活化能垒极高故室温下动力学稳定（第 12 章） | <https://chem.libretexts.org/Bookshelves/General_Chemistry/CLUE:_Chemistry_Life_the_Universe_and_Everything/03:_Elements_Bonding_and_Physical_Properties/3.3:_Carbon:_An_Amazingly_Allotropic_Element> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。

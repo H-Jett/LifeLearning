@@ -78,6 +78,9 @@ nav:
       - 第 11 章 · 证书体系: chapters/01-gemology/11-certificates.md
       - 🛠 项目 P1 · 首饰尽职调查: chapters/01-gemology/project-P1-due-diligence.md
       - 第一部分小结（速查）: chapters/01-gemology/summary.md
+  - 第二部分 · 钻石:
+      - chapters/02-diamond/00-intro.md
+      - 第 12 章 · 钻石是什么（成因·性质·钻石神话）: chapters/02-diamond/12-what-is-diamond.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -99,6 +102,7 @@ nav:
       - 第 9 章: qa/09-instruments-qa.md
       - 第 10 章: qa/10-treatment-synthetic-qa.md
       - 第 11 章: qa/11-certificates-qa.md
+      - 第 12 章: qa/12-what-is-diamond-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
