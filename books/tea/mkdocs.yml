@@ -123,6 +123,8 @@ nav:
   - 第七部分 · 拓展:
       - chapters/07-expansion/00-intro.md
       - 第 37 章 · 茶与健康: chapters/07-expansion/37-health.md
+      - 第 38 章 · 茶史与茶文化速览: chapters/07-expansion/38-history-culture.md
+      - 第 39 章 · 评茶师 / 茶艺师考试导览: chapters/07-expansion/39-exams.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -168,6 +170,8 @@ nav:
       - 第 36 章 · 包装与标准: qa/36-packaging-standards-qa.md
       - 项目 P5 · 参考答案: qa/project-P5-buying-review-qa.md
       - 第 37 章 · 茶与健康: qa/37-health-qa.md
+      - 第 38 章 · 茶史与茶文化速览: qa/38-history-culture-qa.md
+      - 第 39 章 · 评茶师 / 茶艺师考试导览: qa/39-exams-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
