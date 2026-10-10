@@ -130,6 +130,9 @@ nav:
       - 第 44 章 · 场景实战: chapters/06-market-purchase/44-scenarios.md
       - 🛠 项目 P5 · 完整选购决策: chapters/06-market-purchase/project-P5-full-decision.md
       - 第六部分小结（速查）: chapters/06-market-purchase/summary.md
+  - 第七部分 · 速查与进阶:
+      - chapters/07-reference-advanced/00-intro.md
+      - 第 45 章 · 考证路径: chapters/07-reference-advanced/45-learning-paths.md
   - 速查与资料:
       - 宝石物理常数速查表: reference/constants.md
       - 标准与文献索引: reference/standards.md
@@ -187,6 +190,7 @@ nav:
       - 第 42 章: qa/42-sales-claims-qa.md
       - 第 43 章: qa/43-value-resale-care-qa.md
       - 第 44 章: qa/44-scenarios-qa.md
+      - 第 45 章: qa/45-learning-paths-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
