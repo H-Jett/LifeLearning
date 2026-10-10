@@ -142,8 +142,9 @@
 - ✅ 第 29 章 [预热、炉温与实际温度：你的烤箱几乎一定不准](chapters/05-oven-heat/29-preheat-and-real-temperature.md)
 - ✅ 第 30 章 [蒸汽的作用：为什么欧包要喷水](chapters/05-oven-heat/30-steam-in-the-oven.md)
 - ✅ 第 31 章 [模具、烤盘与垫材：材质、颜色与厚度](chapters/05-oven-heat/31-pans-molds-liners.md)
+- ✅ 第 32 章 [怎么判断烤好了：内部温度与状态判据，不是只看时间](chapters/05-oven-heat/32-doneness.md)
 
-**下一站**：第 32 章 怎么判断烤好了。
+**下一站**：第 33 章 出炉之后。
 
 ## 常用工具页
 
