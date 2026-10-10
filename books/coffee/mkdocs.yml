@@ -124,6 +124,7 @@ nav:
       - 第 40 章 · 读懂一包豆：标签上每个字段的信息量: chapters/07-purchase-storage/40-bag-labels.md
       - 第 41 章 · 新鲜度与储存：排气、氧化与冷冻的证据: chapters/07-purchase-storage/41-freshness-storage.md
       - 第 42 章 · 器具选购顺序：边际收益排序: chapters/07-purchase-storage/42-equipment-priorities.md
+      - 第 43 章 · 咖啡的经济：指标价与“贵”从哪来: chapters/07-purchase-storage/43-coffee-economics.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -174,6 +175,7 @@ nav:
       - 第 40 章: qa/40-bag-labels-qa.md
       - 第 41 章: qa/41-freshness-storage-qa.md
       - 第 42 章: qa/42-equipment-priorities-qa.md
+      - 第 43 章: qa/43-coffee-economics-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
