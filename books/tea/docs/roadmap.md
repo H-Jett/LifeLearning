@@ -127,8 +127,8 @@ flowchart TD
 | 33 | [选购](chapters/06-buying-storage/33-selection.md) | 用最低信息卡降低信息不对称 | ✅ |
 | 34 | [价格是怎么形成的](chapters/06-buying-storage/34-price.md) | 用成本、渠道与叙事拆开价格 | ✅ |
 | 35 | [储存](chapters/06-buying-storage/35-storage.md) | 先防受潮、串味与霉变，再谈陈化 | ✅ |
-| 36 | 包装与标准 | 读懂执行标准号、等级、地理标志与保质期 | ⬜ |
-| 🛠 | **项目 P5：一次真实选购决策复盘** | 把全书知识跑一遍真实购买 | ⬜ |
+| 36 | [包装与标准](chapters/06-buying-storage/36-packaging-standards.md) | 读标签的边界：标准是入口，不是品质保证 | ✅ |
+| 🛠 | [**项目 P5：一次真实选购决策复盘**](chapters/06-buying-storage/project-P5-buying-review.md) | 把全书知识跑一遍真实购买 | ✅ |
 
 ---
 
