@@ -66,7 +66,12 @@
 - ✅ 第 12 章 [再加工茶：花茶窨制、紧压、抹茶、速溶与调饮基底](chapters/02-processing/12-reprocessed-tea.md)
 - ✅ [第二部分小结（速查）](chapters/02-processing/summary.md) ｜ ✅ [项目 P1：从工艺特征反推茶类与工艺缺陷](chapters/02-processing/project-P1-reverse-engineering.md)
 
-**下一站**：第三部分 · 感官审评，把“好喝”变成可复现的判断。
+**第三部分当前进度**（🔜 进行中）：
+
+- ✅ [第三部分导读](chapters/03-sensory/00-intro.md)
+- ✅ 第 13 章 [审评体系概览：把“好喝”与“样品表现”分开](chapters/03-sensory/13-sensory-overview.md)
+
+**下一站**：第 14 章 · 干评与湿评。
 
 ## 常用工具页
 
