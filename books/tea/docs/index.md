@@ -70,8 +70,9 @@
 
 - ✅ [第三部分导读](chapters/03-sensory/00-intro.md)
 - ✅ 第 13 章 [审评体系概览：把“好喝”与“样品表现”分开](chapters/03-sensory/13-sensory-overview.md)
+- ✅ 第 14 章 [干评与湿评：先看“原料和做工”，再看“茶汤和叶底”](chapters/03-sensory/14-dry-wet-evaluation.md)
 
-**下一站**：第 14 章 · 干评与湿评。
+**下一站**：第 15 章 · 审评术语。
 
 ## 常用工具页
 

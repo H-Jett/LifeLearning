@@ -114,6 +114,7 @@
 | 第 11 章 黑茶与普洱 | [11.10 本章主要参考](chapters/02-processing/11-dark-tea.md) |
 | 第 12 章 再加工茶 | [12.9 本章主要参考](chapters/02-processing/12-reprocessed-tea.md) |
 | 第 13 章 审评体系概览 | [13.8 本章主要参考](chapters/03-sensory/13-sensory-overview.md) |
+| 第 14 章 干评与湿评 | [14.7 本章主要参考](chapters/03-sensory/14-dry-wet-evaluation.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 

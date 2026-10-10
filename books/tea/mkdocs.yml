@@ -87,6 +87,7 @@ nav:
   - 第三部分 · 感官审评:
       - chapters/03-sensory/00-intro.md
       - 第 13 章 · 审评体系概览: chapters/03-sensory/13-sensory-overview.md
+      - 第 14 章 · 干评与湿评: chapters/03-sensory/14-dry-wet-evaluation.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -104,6 +105,7 @@ nav:
       - 第 12 章 · 再加工茶: qa/12-reprocessed-tea-qa.md
       - 项目 P1 · 参考答案: qa/project-P1-reverse-engineering-qa.md
       - 第 13 章 · 审评体系概览: qa/13-sensory-overview-qa.md
+      - 第 14 章 · 干评与湿评: qa/14-dry-wet-evaluation-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
