@@ -118,6 +118,8 @@
 | 第 15 章 审评术语 | [15.8 本章主要参考](chapters/03-sensory/15-sensory-terms.md) |
 | 第 16 章 香气 | [16.8 本章主要参考](chapters/03-sensory/16-aroma.md) |
 | 第 17 章 滋味 | [17.8 本章主要参考](chapters/03-sensory/17-taste.md) |
+| 第 18 章 叶底与汤色 | [18.7 本章主要参考](chapters/03-sensory/18-liquor-leaf.md) |
+| 第 19 章 缺陷与劣变 | [19.7 本章主要参考](chapters/03-sensory/19-defects.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 
