@@ -100,6 +100,9 @@ nav:
       - 第 25 章 · 整形、醒发与割口: chapters/04-process/25-shaping-proofing-scoring.md
       - 第 26 章 · 称量与精度：为什么烘焙必须用秤: chapters/04-process/26-measurement-precision.md
       - 第 27 章 · 配方以外的变量：面粉批次、湿度、海拔、水质: chapters/04-process/27-variables-beyond-the-recipe.md
+  - 第五部分 · 烤箱与热:
+      - chapters/05-oven-heat/00-intro.md
+      - 第 28 章 · 炉内传热：辐射、对流、导热与蓄热: chapters/05-oven-heat/28-oven-heat-transfer.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -134,6 +137,7 @@ nav:
       - 第 25 章: qa/25-shaping-proofing-scoring-qa.md
       - 第 26 章: qa/26-measurement-precision-qa.md
       - 第 27 章: qa/27-variables-beyond-the-recipe-qa.md
+      - 第 28 章: qa/28-oven-heat-transfer-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
