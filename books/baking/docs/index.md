@@ -84,9 +84,9 @@
 | 二 | [膨发的三条路线](chapters/02-leavening/00-intro.md) ★ | 生物 / 化学 / 物理：气从哪来、被什么关住（✅ 已完成） |
 | 三 | [结构是怎么立住的](chapters/03-structure/00-intro.md) ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力（✅ 已完成） |
 | 四 | [操作即控制变量](chapters/04-process/00-intro.md) | 搅拌、温度、发酵、整形、称量、配方以外的变量（✅ 已完成） |
-| 五 | [烤箱与热](chapters/05-oven-heat/00-intro.md) ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数（🔜 进行中） |
-| 六 | 从原理到成品 ★ | 逐类拆解 + 变体推演（改糖 / 改油 / 改粉 / 放大份量） |
-| 七 | 改配方与诊断 ★ | 替换规则与代价 + 一张能查的失败诊断表 |
+| 五 | [烤箱与热](chapters/05-oven-heat/00-intro.md) ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数（✅ 已完成） |
+| 六 | 从原理到成品 ★ | 逐类拆解 + 变体推演（改糖 / 改油 / 改粉 / 放大份量）（✅ 已完成） |
+| 七 | 改配方与诊断 ★ | 替换规则与代价 + 一张能查的失败诊断表（✅ 已完成） |
 
 ★ = 核心目标。
 
@@ -135,7 +135,7 @@
 - ✅ 第 26 章 [称量与精度：为什么烘焙必须用秤](chapters/04-process/26-measurement-precision.md)
 - ✅ 第 27 章 [配方以外的变量：面粉批次、湿度、海拔、水质](chapters/04-process/27-variables-beyond-the-recipe.md)
 
-**第五部分当前进度**：
+**第五部分当前进度**（✅ 已完成）：
 
 - ✅ [第五部分导读](chapters/05-oven-heat/00-intro.md)
 - ✅ 第 28 章 [炉内传热：辐射、对流、导热与蓄热](chapters/05-oven-heat/28-oven-heat-transfer.md)
@@ -146,7 +146,7 @@
 - ✅ 第 33 章 [出炉之后：回稳、冷却与回软](chapters/05-oven-heat/33-cooling-and-staling.md)
 - ✅ [项目 P3：给你的烤箱做一次标定](chapters/05-oven-heat/project-P3-oven-calibration.md)
 
-**下一站**：第六部分 · 从原理到成品。
+**第六部分当前进度**（✅ 已完成）：
 
 - ✅ 第 34 章 [快速面包与马芬：化学膨发 + 最少搅拌](chapters/06-products/34-quick-breads-muffins.md)
 - ✅ 第 35 章 [饼干：一份配方的六种改法](chapters/06-products/35-cookies.md)
@@ -157,7 +157,7 @@
 - ✅ 第 40 章 [欧包与酵种面包：高含水、长发酵与蒸汽](chapters/06-products/40-artisan-sourdough.md)
 - ✅ 🛠 [项目 P4：变体推演——同一份配方改三处](chapters/06-products/project-P4-variant-prediction.md)
 
-**第七部分 · 改配方与诊断**：
+**第七部分 · 改配方与诊断**（✅ 已完成）：
 
 - ✅ 第 41 章 [配方平衡：一份配方是几组竞争关系的配平](chapters/07-formulation/41-formulation-balance.md)
 - ✅ 第 42 章 [替换规则与代价：减糖、换油、换粉、换液体](chapters/07-formulation/42-substitution-tradeoffs.md)
