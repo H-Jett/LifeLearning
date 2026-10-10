@@ -107,9 +107,10 @@
 - ✅ 第 18 章 [焯水、汆烫、过油：预处理到底解决什么问题](chapters/03-ingredients/18-blanching.md)
 - ✅ 第 19 章 [去腥增香的机理](chapters/03-ingredients/19-off-odor.md)
 - ✅ 第 20 章 [蔬菜：细胞、水、叶绿素与"脆和烂"的临界点](chapters/03-ingredients/20-vegetables.md)
-- ⬜ 第 21 章 蛋与奶 ｜ ⬜ 第 22 章 米与面
+- ✅ 第 21 章 [蛋与奶：最敏感的两种蛋白质](chapters/03-ingredients/21-eggs-milk.md)
+- ⬜ 第 22 章 米与面
 
-**下一站**：第 21 章 · 蛋与奶：最敏感的两种蛋白质。
+**下一站**：第 22 章 · 米与面：淘、泡、和、醒各自在做什么。
 
 ## 常用工具页
 
