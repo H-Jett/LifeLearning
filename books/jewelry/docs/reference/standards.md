@@ -88,6 +88,40 @@
 | GIA 4Cs「Diamond Grading Report vs Appraisal」 | 分级报告与估价的区别；Dossier 与完整报告的差异（第 11 章） | <https://4cs.gia.edu/en-us/blog/what-is-the-difference-between-a-diamond-grading-report-and-an-appraisal/> |
 | NGTC 官方网站（证书查询入口） | 中国证书核验：编号 + 防伪码；仅显示数据不显示样式；查询时间范围限制（第 11 章） | <https://www.ngtc.com.cn> |
 | 中国质量认证资质说明（CMA / CAL / CNAS 对比资料） | 三个标志的性质差异；CNAL 为 CNAS 的历史标志（第 11 章） | <https://zhuanlan.zhihu.com/p/73855797> |
+| GIA *G&G*「Kimberlites: Earth's Diamond Delivery System」（Summer 2019） | 钻石形成深度 150~700 km；钻石年龄比寄主金伯利岩老 10~30 亿年；金伯利岩只是"运输工具"（第 12 章） | <https://www.gia.edu/gems-gemology/summer-2019-kimberlites-earths-diamond-delivery-system> |
+| GIA *G&G*「Recent Advances in Understanding the Geology of Diamonds」（Winter 2013） | 钻石形成压力/温度条件（>4 GPa，950~1400 °C）；大陆地幔根（keel）对钻石结晶的意义（第 12 章） | <https://www.gia.edu/gems-gemology/wn13-advances-diamond-geology-shirey> |
+| GIA「The 'Type' Classification System of Diamonds and its Importance in Gemology」（Breeding & Shigley） | 钻石分型体系：Ia/Ib/IIa/IIb 定义与氮硼杂质阈值（第 12 章） | <https://www.gia.edu/dam/migrated-assets/docs/doc1/type-classification-system-of-diamonds-SU09.pdf> |
+| Wikipedia「Diamond type」（交叉验证用，非一手） | 各分型在天然钻石中的占比区间（Ia 约 95%、Ib 约 0.1%、IIa 约 1~2%、IIb 约 0.1%）；与 GIA 原文互相印证（第 12 章） | <https://en.wikipedia.org/wiki/Diamond_type> |
+| American Gem Society「Diamond Classification: What's Your Type?」 | 钻石分型与颜色、HPHT 处理、培育钻石关系的消费者向说明，交叉验证分型占比（第 12 章） | <https://www.americangemsociety.org/diamonds-whats-your-type/> |
+| GIA 4Cs「History of the 4Cs of Diamond Quality」 | Shipley 创立 GIA（1931）、4C 概念起源（1940 年代）、D-Z 色级 1953 年推出及选 D 的原因（第 12 章） | <https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/> |
+| American Gem Society「The History of the Diamond as an Engagement Ring」 | 1477 年马克西米连一世与勃艮第的玛丽的订婚钻戒记录；De Beers 1947 年推出"A Diamond is Forever"标语及三年内销量增长 50% 的数据（第 12 章） | <https://www.americangemsociety.org/buying-diamonds-with-confidence/the-history-of-the-diamond-as-an-engagement-ring/> |
+| Edward Jay Epstein《The Diamond Invention》及 *The Atlantic*（1982）"Have You Ever Tried to Sell a Diamond?" 相关报道与转述 | "钻石发明"论的核心论点：De Beers 如何通过控制流通量维持稀缺性叙事（第 12 章）——**本书未能直接取得原文全文，以多个独立转述/引用来源交叉确认其论点与关键引述**，属二手转述，已在正文标注 | <https://en.wikipedia.org/wiki/De_Beers_antitrust_litigation>（含对 Epstein 论点的学术引用与背景） |
+| 美国司法部（DOJ）新闻稿（2004-07-13） | De Beers Centenary AG 就 1990 年代工业钻石价格操纵指控认罪，缴纳 1000 万美元刑事罚金（第 12 章） | <https://www.justice.gov/archive/opa/pr/2004/July/04_at_476.htm> |
+| Wikipedia「De Beers antitrust litigation」 | 2008 年 Sullivan/Hopkins 集体诉讼和解（2.95 亿美元）的条款与分配细节；De Beers 不承认过错（第 12 章） | <https://en.wikipedia.org/wiki/De_Beers_antitrust_litigation> |
+| Kimberley Process 官方资料与 Global Witness「The Kimberley Process」说明 | 金伯利进程的定义范围、局限（只管反政府武装冲突钻、不管国家暴力与人权问题、只管毛坯钻）（第 12 章） | <https://globalwitness.org/en/campaigns/conflict-diamonds/the-kimberley-process/> |
+| Kimberley Process Certification Scheme 官方统计（经多方转述交叉确认） | 全球毛坯钻石年产量约 1~1.3 亿克拉量级（近年数据约 1.08~1.3 亿克拉，逐年浮动）（第 12 章） | <https://www.kimberleyprocess.com> |
+| 化学与材料科学教科书通用知识（LibreTexts 等多来源交叉确认） | 钻石相对石墨的亚稳态：标准生成焓差约 2.9 kJ/mol，活化能垒极高故室温下动力学稳定（第 12 章） | <https://chem.libretexts.org/Bookshelves/General_Chemistry/CLUE:_Chemistry_Life_the_Universe_and_Everything/03:_Elements_Bonding_and_Physical_Properties/3.3:_Carbon:_An_Amazingly_Allotropic_Element> |
+| GIA 4Cs「Diamond Carat Weight」官方页 | 克拉的定义（1 克拉 = 200 毫克）、100 分制、"magic sizes"概念与 0.25/0.50/0.75/1.00 ct 等门槛（第 13 章） | <https://4cs.gia.edu/en-us/diamond-carat-weight/> |
+| GIA 4Cs「Understanding Carat Weight: GIA Diamond Grading Reports」 | "magic sizes"原文定义与 0.96 ct vs 1.02 ct 的具体案例（价差可达约 20%）；克拉重量称重与四舍五入规则（第 13 章） | <https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-carat-weight/> |
+| GIA 官方 FAQ「How is diamond carat weight rounded?」 | 克拉重量称重精确到千分位、只在千分位为 9 时才进位的四舍五入规则（第 13 章） | <https://www.gia.edu/FAQ/gia-faq-analysis-grading-diamond-carat-weight-rounded> |
+| GIA 4Cs「Nine Things About Diamond Carat Weight You Need to Know」 | "magic sizes"行业术语来源；0.25/0.50/0.75/1.00 ct 等门槛；切工深浅如何隐藏/暴露重量导致同重量直径不同（第 13 章） | <https://4cs.gia.edu/en-us/blog/nine-things-about-diamond-carat-weight-you-need-to-know/> |
+| Rapaport「Oversize Me: The Diamonds Outperforming a Weak Market」（行业分析） | Rapaport 价格表按克拉区间分级的具体机制；不同克拉门槛处的实测价格跳涨百分比（如 0.90~0.99 到 1.00~1.49 区间约 29%，1.00~1.49 到 1.50~1.99 区间约 65%，均为该文发布时点的市场数据，会随行情变化）（第 13 章） | <https://rapaport.com/analysis/oversize-me-the-diamonds-outperforming-a-weak-market/> |
+| RapTech 文档「Rapaport Price Lists」 | Rapaport 价格表的克拉分级结构（按克拉区间×颜色×净度建立价格矩阵）、每周发布机制、不含切工信息等局限（第 13 章） | <https://raptech.rapaport.com/rapaport-price-lists/> |
+| Wikipedia「Carat (mass)」（交叉验证用） | 克拉单位的历史：源自角豆种子、1907 年国际计量大会确立 200 毫克标准、此前各国标准在 187~216 毫克间不一（第 13 章） | <https://en.wikipedia.org/wiki/Carat_(mass)> |
+| 多来源交叉确认（diamonds.pro、beyond4cs 等消费者教育站，仅作方向性交叉验证非唯一依据） | 圆钻克拉重量与近似直径的对照区间（如约 1.00 ct 约 6.4~6.5 mm、约 2.00 ct 约 8.1~8.2 mm）；具体数值因切工比例浮动，仅供理解"克拉≠直径"这一结构，不作为鉴定或估价依据（第 13 章） | <https://www.diamonds.pro/education/carat-weight/> |
+| GIA *Gems & Gemology*「A Contribution to Understanding the Effect of Blue Fluorescence on the Appearance of Diamonds」（Moses et al., Winter 1997） | 经典的荧光视觉影响研究：普通观察者未检测到系统性影响；强蓝色荧光在台面朝上观察时反而让颜色显得更好；荧光与透明度无明显关系（第 14 章） | <https://www.gia.edu/gems-gemology/winter-1997-fluorescence-diamonds-moses> |
+| GIA *Gems & Gemology*「Measurement and Characterization of the Effects of Blue Fluorescence on Diamond Appearance」（Luo et al., Summer 2021） | 用成像系统量化荧光对颜色与透明度的影响，证实 1997 年研究的视觉趋势；朦胧感主因是结构缺陷散射而非荧光本身；极强荧光在高 UV 环境下色调角可移动达两个色级（第 14 章） | <https://www.gia.edu/gems-gemology/summer-2021-measurement-and-characterization-of-the-effects-of-blue-fluorescence-on-diamond-appearance> |
+| GIA *Gems & Gemology*「Diamond Spectroscopy, Defect Centers, Color, and Treatments」及相关 G&G 荧光综述文章 | N3 色心结构（三氮原子围绕一个空位）、415 nm 零声子线、Cape 系列吸收谱、N3 荧光机制与蓝色发光波段（第 14 章） | <https://pubs.geoscienceworld.org/msa/rimg/article/88/1/637/614938/Diamond-Spectroscopy-Defect-Centers-Color-and> |
+| GIA 4Cs「GIA Color D-to-Z」官方页与「A Guide to Diamond Color D to Z」 | D-Z 色级体系 1953 年由 Liddicoat 建立；比色石比对法（台面朝下、亭部朝上观察）；选用字母"D"是为了与此前混乱的 A/B/C 市场叫法彻底切割，而非"留出更高等级空间"（第 14 章） | <https://www.gia.edu/gia-about/4cs-color> |
+| 美国联邦贸易委员会（FTC）《珠宝业贸易规范》第 6 条（1938 年颁布）及现行 Jewelry Guides（16 C.F.R. Part 23 §23.14） | "蓝白钻"（blue white）术语 1938 年被列为禁止使用的误导性描述，是美国最早的珠宝广告措辞禁令之一（第 14 章） | <https://www.ftc.gov/system/files/documents/foia_requests/letters_to_diamond_companies.pdf> |
+| Rapaport Magazine「Dismantling the Stigma Surrounding Fluorescent Diamonds」及多篇行业价格分析（交叉验证用，具体折扣幅度会随行情变化） | 荧光在批发市场的折价现象与历史变化趋势；GIA 统计约 25%~35% 送检钻石带荧光、其中九成以上为蓝色、仅约 0.2% 呈现朦胧感；折价幅度按荧光强度与颜色级别不同而不同，属于市场惯例、随行情变化，本书不引用固定折价百分比作为结论（第 14 章） | <https://rapaport.com/magazine-article/dismantling-the-stigma-surrounding-fluorescent-diamonds/> |
+| GIA 4Cs「Diamond Clarity」官方页 | 净度 11 档的官方定义（FL~I3）、净度五要素（大小/数量/位置/性质/反差）、10 倍放大标准（第 15 章） | <https://4cs.gia.edu/en-us/diamond-clarity/> |
+| GIA 4Cs「Seven Things to Know About Diamond Clarity」 | 净度五要素的官方表述原文；10 倍放大镜是最终定级依据；内含物与瑕疵的区别；**GIA 官方明确声明不使用"eye-clean"（肉眼干净）这个术语**（第 15 章） | <https://4cs.gia.edu/en-us/blog/seven-things-to-know-about-diamond-clarity/> |
+| GIA 4Cs「VVS Diamond versus VS Diamond」 | VVS1/VVS2/VS1/VS2 四档的具体区分（从"极难"到"较易"在 10 倍镜下看见）及实例描述（第 15 章） | <https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/> |
+| GIA 4Cs「History of the 4Cs of Diamond Quality」 | 净度分级体系 1953 年由 Liddicoat 建立（与颜色 D-Z 同年）；最初 9 档、1970 年代加入 IF 级与 I3 级的历史沿革（第 15 章） | <https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/> |
+| 美国联邦贸易委员会《珠宝业贸易规范》16 C.F.R. §23.13（现行版本） | "flawless"（无瑕）一词的法定使用条件：须在经校正的 10 倍放大镜下、光照充足、由专业人员检验仍无瑕疵（第 15 章） | <https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-23> |
+| GIA 官网「How to Protect Your Diamond from Chipping」及多篇交叉验证的内含物耐久性分析 | 瑕疵位置（尤其腰围与尖角处）与耐久性风险的关系；GIA 分级时已将潜在耐久性影响纳入考量（第 15 章） | <https://www.gia.edu/gia-news-research/how-protect-diamond-chipping> |
+| 多个消费者教育网站交叉参考（diamonds.pro、beyond4cs 等，仅作方向性参考非唯一依据） | "肉眼干净"（eye-clean）作为非官方行业术语的使用习惯与经验性净度区间说法；⚠️ 不同来源给出的具体净度级别对应比例差异较大，本书不采用某一来源的精确百分比作为结论（第 15 章） | <https://www.diamonds.pro/education/eye-clean-diamonds/> |
 
 > **来源分级提醒**：上表中 GIA 的 *G&G* 属同行评议文献（一手），GIA 教育页属权威机构发布物；
 > IGS 与 Gemology Project 属专业社区资料，**用于交叉验证而非唯一依据**。
