@@ -98,6 +98,7 @@ nav:
   - 第四部分 · 冲泡:
       - chapters/04-brewing/00-intro.md
       - 第 21 章 · 四个旋钮: chapters/04-brewing/21-four-knobs.md
+      - 第 22 章 · 水: chapters/04-brewing/22-water.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -124,6 +125,7 @@ nav:
       - 第 20 章 · 评分与对样: qa/20-scoring-reference-qa.md
       - 项目 P2 · 参考答案: qa/project-P2-blind-training-qa.md
       - 第 21 章 · 四个旋钮: qa/21-four-knobs-qa.md
+      - 第 22 章 · 水: qa/22-water-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

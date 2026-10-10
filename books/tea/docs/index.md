@@ -83,8 +83,9 @@
 
 - ✅ [第四部分导读](chapters/04-brewing/00-intro.md)
 - ✅ 第 21 章 [四个旋钮：水温、茶水比、时间、器型各在改变什么](chapters/04-brewing/21-four-knobs.md)
+- ✅ 第 22 章 [水：不是“矿物质越多越好”，而是水样与茶样的匹配](chapters/04-brewing/22-water.md)
 
-**下一站**：第 22 章 · 水。
+**下一站**：第 23 章 · 器。
 
 ## 常用工具页
 

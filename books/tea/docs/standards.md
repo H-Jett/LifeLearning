@@ -122,6 +122,7 @@
 | 第 19 章 缺陷与劣变 | [19.7 本章主要参考](chapters/03-sensory/19-defects.md) |
 | 第 20 章 评分与对样 | [20.7 本章主要参考](chapters/03-sensory/20-scoring-reference.md) |
 | 第 21 章 四个旋钮 | [21.7 本章主要参考](chapters/04-brewing/21-four-knobs.md) |
+| 第 22 章 水 | [22.7 本章主要参考](chapters/04-brewing/22-water.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 
