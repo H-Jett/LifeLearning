@@ -33,7 +33,7 @@ flowchart TD
 - ✅ 第 19 章 [原产地制度的逻辑](19-origin-system-logic.md)
 - ✅ 第 20 章 [怎么读一张酒标](20-reading-a-wine-label.md)
 - ✅ 第 21 章 [法国 ①：波尔多与勃艮第](21-bordeaux-burgundy.md)
-- ⬜ 第 22 章 法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法
+- ✅ 第 22 章 [法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法](22-france-regions.md)
 - ⬜ 第 23 章 意大利：DOC/DOCG 与本土品种
 - ⬜ 第 24 章 西班牙与葡萄牙
 - ⬜ 第 25 章 德国、奥地利与中东欧
