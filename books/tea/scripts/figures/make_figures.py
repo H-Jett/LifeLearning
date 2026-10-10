@@ -430,12 +430,52 @@ def fig_kaimian() -> str:
     return svg(w, h, "\n".join(b), "开面三档示意")
 
 
+def fig_menhuang_types() -> str:
+    """闷黄三型：按闷黄位置分（杀青后/揉捻后/毛火后），含水率与时长差异巨大。"""
+    w, h = 900, 360
+    b = [txt(24, 34, "闷黄三型：位置不同，含水率与耗时差一个数量级（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "时长跨度从几十分钟到几天，下面按相对顺序排列，不是线性时间轴——"
+                     "具体数字因茶厂、品种而异，仅供建立量级感", 12.5, MUTED)]
+    cards = [
+        ("杀青后闷黄", "湿坯", "含水率高", "约 30~40 分钟", "北港毛尖",
+         "趁热拍紧、覆盖保温，变黄最快", GREEN),
+        ("揉捻后闷黄", "湿坯", "含水率 40%~50%", "约 6~8 小时", "温州黄芽、沩山毛尖",
+         "水分仍多，变化比杀青后闷黄慢一档", ORANGE),
+        ("毛火（初烘）后闷黄", "干坯", "含水率 20%~25%", "约 5~7 天", "君山银针、霍山黄芽",
+         "水分少、变化缓慢，常分两次以上闷黄（如君山银针初包+复包）", VERMILION),
+    ]
+    x0, cw = 40, 274
+    for i, (title, kind, moisture, dur, examples, note, color) in enumerate(cards):
+        x = x0 + i * cw
+        b.append(rect(x, 90, cw - 24, 234, fill="#FCFCFC", stroke=GRID, rx=8))
+        b.append(rect(x, 90, cw - 24, 6, fill=color, stroke="none", rx=3))
+        b.append(txt(x + (cw - 24) / 2, 120, title, 14.5, INK, anchor="middle", weight="bold"))
+        b.append(txt(x + (cw - 24) / 2, 140, f"（{kind}）", 12, MUTED, anchor="middle"))
+        lines = [
+            f"含水率：{moisture}",
+            f"耗时：{dur}",
+            f"代表茶：{examples}",
+        ]
+        for k, ln in enumerate(lines):
+            b.append(txt(x + 16, 172 + k * 22, ln, 12.5, INK))
+        # 换行显示说明文字（粗略按字符数截断，中文宽度足够）
+        note_lines = [note[:16], note[16:]] if len(note) > 16 else [note]
+        for k, ln in enumerate(note_lines):
+            if ln:
+                b.append(txt(x + 16, 250 + k * 18, ln, 11, MUTED))
+    b.append(txt(24, h - 18,
+                 "含水率越高，湿热反应越快；这也是「湿坯快、干坯慢」背后的物理原因（见本章 8.3 节）。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "闷黄三型对照示意")
+
+
 FIGURES = [
     (P2, "process-matrix.svg", fig_process_matrix),
     (P2, "oxidation-axis.svg", fig_oxidation_axis),
     (P2, "liquor-colors.svg", fig_liquor_colors),
     (P2, "green-tea-branches.svg", fig_green_tea_branches),
     (P2, "shaqing-degrees.svg", fig_shaqing_degrees),
+    (P2, "menhuang-types.svg", fig_menhuang_types),
     (P1, "enzyme-temp.svg", fig_enzyme_temp),
     (P1, "shoot-structure.svg", fig_shoot_structure),
     (P1, "kaimian.svg", fig_kaimian),
