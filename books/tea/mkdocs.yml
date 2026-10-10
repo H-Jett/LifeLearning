@@ -116,6 +116,8 @@ nav:
   - 第六部分 · 选购、储存与流通:
       - chapters/06-buying-storage/00-intro.md
       - 第 33 章 · 选购: chapters/06-buying-storage/33-selection.md
+      - 第 34 章 · 价格是怎么形成的: chapters/06-buying-storage/34-price.md
+      - 第 35 章 · 储存: chapters/06-buying-storage/35-storage.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -156,6 +158,8 @@ nav:
       - 第 32 章 · 世界茶: qa/32-world-tea-qa.md
       - 项目 P4 · 参考答案: qa/project-P4-origin-map-qa.md
       - 第 33 章 · 选购: qa/33-selection-qa.md
+      - 第 34 章 · 价格是怎么形成的: qa/34-price-qa.md
+      - 第 35 章 · 储存: qa/35-storage-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
