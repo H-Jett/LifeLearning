@@ -139,6 +139,7 @@
 **第七部分 · 安全、诊断与拓展（🔜 进行中）**
 
 - ✅ 第 42 章 [食品安全：温度红线、时间规则与交叉污染](chapters/07-safety/42-food-safety.md)
+- ✅ 第 43 章 [失败诊断手册：现象 → 原因 → 下次怎么改](chapters/07-safety/43-failure-diagnosis.md)
 
 ## 常用工具页
 
