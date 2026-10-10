@@ -160,6 +160,7 @@
 **第七部分 · 改配方与诊断**：
 
 - ✅ 第 41 章 [配方平衡：一份配方是几组竞争关系的配平](chapters/07-formulation/41-formulation-balance.md)
+- ✅ 第 42 章 [替换规则与代价：减糖、换油、换粉、换液体](chapters/07-formulation/42-substitution-tradeoffs.md)
 
 ## 常用工具页
 
