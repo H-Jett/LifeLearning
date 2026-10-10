@@ -108,6 +108,8 @@
 | 第 2 章 品种与产地 | [2.11 本章主要参考](chapters/01-foundation/02-cultivar-terroir.md) |
 | 第 3 章 鲜叶与采摘 | [3.11 本章主要参考](chapters/01-foundation/03-plucking.md) |
 | 第 4 章 酶与氧化 | [4.14 本章主要参考](chapters/01-foundation/04-enzymes-oxidation.md) |
+| 第 5 章 分类的逻辑 | [5.10 本章主要参考](chapters/02-processing/05-classification.md) |
+| 第 6 章 绿茶 | [6.10 本章主要参考](chapters/02-processing/06-green-tea.md) |
 | 第 7 章 白茶：萎凋 | [7.10 本章主要参考](chapters/02-processing/07-white-tea.md) |
 | 第 8 章 黄茶：闷黄 | [8.9 本章主要参考](chapters/02-processing/08-yellow-tea.md) |
 | 第 9 章 乌龙茶：做青与焙火 | [9.11 本章主要参考](chapters/02-processing/09-oolong-tea.md) |
@@ -125,6 +127,23 @@
 | 第 21 章 四个旋钮 | [21.7 本章主要参考](chapters/04-brewing/21-four-knobs.md) |
 | 第 22 章 水 | [22.7 本章主要参考](chapters/04-brewing/22-water.md) |
 | 第 23 章 器 | [23.7 本章主要参考](chapters/04-brewing/23-vessels.md) |
+| 第 24 章 一茶多泡 | [24.7 本章主要参考](chapters/04-brewing/24-multiple-infusions.md) |
+| 第 25 章 醒茶、洗茶、冷泡 | [25.7 本章主要参考](chapters/04-brewing/25-common-practices.md) |
+| 第 26 章 中国四大茶区 | [26.6 本章主要参考](chapters/05-origins/26-china-regions.md) |
+| 第 27 章 绿茶名品谱系 | [27.6 本章主要参考](chapters/05-origins/27-green-tea-lineages.md) |
+| 第 28 章 乌龙谱系 | [28.6 本章主要参考](chapters/05-origins/28-oolong-lineages.md) |
+| 第 29 章 红茶谱系 | [29.6 本章主要参考](chapters/05-origins/29-black-tea-lineages.md) |
+| 第 30 章 白茶与黄茶谱系 | [30.6 本章主要参考](chapters/05-origins/30-white-yellow-lineages.md) |
+| 第 31 章 黑茶与普洱 | [31.7 本章主要参考](chapters/05-origins/31-dark-tea-puer-lineages.md) |
+| 第 32 章 世界茶 | [32.6 本章主要参考](chapters/05-origins/32-world-tea.md) |
+| 第 33 章 选购 | [33.6 本章主要参考](chapters/06-buying-storage/33-selection.md) |
+| 第 34 章 价格形成 | [34.5 本章主要参考](chapters/06-buying-storage/34-price.md) |
+| 第 35 章 储存 | [35.6 本章主要参考](chapters/06-buying-storage/35-storage.md) |
+| 第 36 章 包装与标准 | [36.5 本章主要参考](chapters/06-buying-storage/36-packaging-standards.md) |
+| 第 37 章 茶与健康 | [37.6 本章主要参考](chapters/07-expansion/37-health.md) |
+| 第 38 章 茶史与茶文化 | [38.5 本章主要参考](chapters/07-expansion/38-history-culture.md) |
+| 第 39 章 考试导览 | [39.5 本章主要参考](chapters/07-expansion/39-exams.md) |
+| 第 40 章 索引与术语 | [40.6 本章主要参考](chapters/07-expansion/40-index-terms.md) |
 
 **来源分级**（按 [CLAUDE.md 的查证纪律](https://github.com/H-Jett/LifeLearning/blob/main/CLAUDE.md) §1.1）：
 

@@ -32,61 +32,30 @@
 
 | 部分 | 主题 | 你会获得 |
 |------|------|----------|
-| 一 | [茶的物质基础](chapters/01-foundation/00-intro.md) | 建立"成分 → 感受"的对应关系（✅ **已完成**） |
-| 二 | [六大茶类与工艺原理](chapters/02-processing/00-intro.md) ★ | 从工艺推出成品特征，反之亦然（🔜 进行中） |
-| 三 | 感官审评 ★ | 按标准方法审评并写出规范审评词 |
-| 四 | 冲泡：可控变量与茶汤 | 拿到陌生茶几泡内找到合适参数 |
-| 五 | 产区与名茶谱系 | 把名字挂到工艺与风味上 |
-| 六 | 选购、储存与流通 | 花钱不吃亏 |
-| 七 | 拓展 | 茶与健康的证据、茶史、考试导览 |
+| 一 | [茶的物质基础](chapters/01-foundation/00-intro.md) | 建立“成分 → 感受”的对应关系（✅） |
+| 二 | [六大茶类与工艺原理](chapters/02-processing/00-intro.md) ★ | 从工艺推出成品特征，反之亦然（✅） |
+| 三 | [感官审评](chapters/03-sensory/00-intro.md) ★ | 按标准方法审评并写出规范审评词（✅） |
+| 四 | [冲泡：可控变量与茶汤](chapters/04-brewing/00-intro.md) | 拿到陌生茶几泡内找到合适参数（✅） |
+| 五 | [产区与名茶谱系](chapters/05-origins/00-intro.md) | 把名字挂到工艺与风味上（✅） |
+| 六 | [选购、储存与流通](chapters/06-buying-storage/00-intro.md) | 花钱不吃亏（✅） |
+| 七 | [拓展](chapters/07-expansion/00-intro.md) | 茶与健康的证据、茶史、考试导览（✅） |
 
 ★ = 核心目标。
 
-**第一部分当前进度**：
+## 完成状态与复习入口
 
-- ✅ 第 1 章 [一片叶子里有什么：成分与滋味的对应](chapters/01-foundation/01-leaf-chemistry.md)
-- ✅ 第 2 章 [茶树：品种、产地与"山场"如何进入茶汤](chapters/01-foundation/02-cultivar-terroir.md)
-- ✅ 第 3 章 [鲜叶与采摘：嫩度、采摘标准与"等级"的由来](chapters/01-foundation/03-plucking.md)
-- ✅ 第 4 章 [酶与氧化：所谓"发酵"到底发生了什么](chapters/01-foundation/04-enzymes-oxidation.md)
+**🎉 七部分、40 章、5 个项目均已完成。** 建议沿着“原理 → 工艺 → 审评 → 冲泡 → 选购”的顺序读，
+再用项目页把知识变成记录。
 
-**🎉 第一部分（茶的物质基础）全部完成！**
-→ [第一部分小结（速查）](chapters/01-foundation/summary.md)：一页表带走成分对应、酚氨比方向、
-溶出难易、六大茶类总表，以及**全部结论的证据强度清单**（✅ 有共识 / ⚠️ 有争议 / ❌ 明确错误）。
-
-**第二部分当前进度**（🔜 进行中）：
-
-- ✅ [第二部分导读](chapters/02-processing/00-intro.md)（含**六大茶类工序矩阵图**）
-- ✅ 第 5 章 [分类的逻辑：GB/T 30766 与一张工艺总图](chapters/02-processing/05-classification.md)
-- ✅ 第 6 章 [绿茶：杀青，如何"锁住"绿](chapters/02-processing/06-green-tea.md)
-- ✅ 第 7 章 [白茶：萎凋，最少干预为什么最难控](chapters/02-processing/07-white-tea.md)
-- ✅ 第 8 章 [黄茶：闷黄，一步之差与绿茶分家](chapters/02-processing/08-yellow-tea.md)
-- ✅ 第 9 章 [乌龙茶：做青与焙火，半发酵的技术顶点](chapters/02-processing/09-oolong-tea.md)
-- ✅ 第 10 章 [红茶：全发酵，茶黄素/茶红素/茶褐素的生成与汤色滋味](chapters/02-processing/10-red-tea.md)
-- ✅ 第 11 章 [黑茶与普洱，微生物后发酵：渥堆熟茶 vs 自然陈化生茶](chapters/02-processing/11-dark-tea.md)
-- ✅ 第 12 章 [再加工茶：花茶窨制、紧压、抹茶、速溶与调饮基底](chapters/02-processing/12-reprocessed-tea.md)
-- ✅ [第二部分小结（速查）](chapters/02-processing/summary.md) ｜ ✅ [项目 P1：从工艺特征反推茶类与工艺缺陷](chapters/02-processing/project-P1-reverse-engineering.md)
-
-**第三部分当前进度**（🔜 进行中）：
-
-- ✅ [第三部分导读](chapters/03-sensory/00-intro.md)
-- ✅ 第 13 章 [审评体系概览：把“好喝”与“样品表现”分开](chapters/03-sensory/13-sensory-overview.md)
-- ✅ 第 14 章 [干评与湿评：先看“原料和做工”，再看“茶汤和叶底”](chapters/03-sensory/14-dry-wet-evaluation.md)
-- ✅ 第 15 章 [审评术语：把观察写成别人能复核的句子](chapters/03-sensory/15-sensory-terms.md)
-- ✅ 第 16 章 [香气：类型、浓度、纯度、持久性是四个问题](chapters/03-sensory/16-aroma.md)
-- ✅ 第 17 章 [滋味：把浓淡、厚薄、苦涩、鲜钝拆开记录](chapters/03-sensory/17-taste.md)
-- ✅ 第 18 章 [叶底与汤色：两项最不容易被一句文案带走的证据](chapters/03-sensory/18-liquor-leaf.md)
-- ✅ 第 19 章 [缺陷与劣变：把异常写出来，再找可检验的候选原因](chapters/03-sensory/19-defects.md)
-- ✅ 第 20 章 [评分与对样：分数是比较工具，不是茶的永久身份证](chapters/03-sensory/20-scoring-reference.md)
-- ✅ [项目 P2：自建审评表 + 30 天盲品训练](chapters/03-sensory/project-P2-blind-training.md)
-
-**第四部分当前进度**（🔜 进行中）：
-
-- ✅ [第四部分导读](chapters/04-brewing/00-intro.md)
-- ✅ 第 21 章 [四个旋钮：水温、茶水比、时间、器型各在改变什么](chapters/04-brewing/21-four-knobs.md)
-- ✅ 第 22 章 [水：不是“矿物质越多越好”，而是水样与茶样的匹配](chapters/04-brewing/22-water.md)
-- ✅ 第 23 章 [器：器具改变的是接触环境，不是给茶“加魔法”](chapters/04-brewing/23-vessels.md)
-
-**下一站**：第 24 章 · 一茶多泡。
+| 部分 | 速查小结 | 实战项目 |
+|------|----------|----------|
+| 一 | [物质基础](chapters/01-foundation/summary.md) | — |
+| 二 | [工艺原理](chapters/02-processing/summary.md) | [P1 工艺反推](chapters/02-processing/project-P1-reverse-engineering.md) |
+| 三 | [感官审评](chapters/03-sensory/summary.md) | [P2 盲品训练](chapters/03-sensory/project-P2-blind-training.md) |
+| 四 | [冲泡](chapters/04-brewing/summary.md) | [P3 冲泡矩阵](chapters/04-brewing/project-P3-brewing-matrix.md) |
+| 五 | [产区谱系](chapters/05-origins/summary.md) | [P4 谱系盲品](chapters/05-origins/project-P4-origin-map.md) |
+| 六 | [选购与储存](chapters/06-buying-storage/summary.md) | [P5 选购复盘](chapters/06-buying-storage/project-P5-buying-review.md) |
+| 七 | [拓展](chapters/07-expansion/summary.md) | [标准与术语索引](chapters/07-expansion/40-index-terms.md) |
 
 ## 常用工具页
 

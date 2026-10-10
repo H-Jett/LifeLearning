@@ -95,6 +95,7 @@ nav:
       - 第 19 章 · 缺陷与劣变: chapters/03-sensory/19-defects.md
       - 第 20 章 · 评分与对样: chapters/03-sensory/20-scoring-reference.md
       - 🛠 项目 P2 · 自建审评表 + 30 天盲品训练: chapters/03-sensory/project-P2-blind-training.md
+      - 第三部分小结: chapters/03-sensory/summary.md
   - 第四部分 · 冲泡:
       - chapters/04-brewing/00-intro.md
       - 第 21 章 · 四个旋钮: chapters/04-brewing/21-four-knobs.md
@@ -103,6 +104,7 @@ nav:
       - 第 24 章 · 一茶多泡: chapters/04-brewing/24-multiple-infusions.md
       - 第 25 章 · 醒茶、洗茶、冷泡: chapters/04-brewing/25-common-practices.md
       - 🛠 项目 P3 · 控制变量冲泡矩阵: chapters/04-brewing/project-P3-brewing-matrix.md
+      - 第四部分小结: chapters/04-brewing/summary.md
   - 第五部分 · 产区与名茶谱系:
       - chapters/05-origins/00-intro.md
       - 第 26 章 · 中国四大茶区: chapters/05-origins/26-china-regions.md
@@ -113,6 +115,7 @@ nav:
       - 第 31 章 · 黑茶与普洱: chapters/05-origins/31-dark-tea-puer-lineages.md
       - 第 32 章 · 世界茶: chapters/05-origins/32-world-tea.md
       - 🛠 项目 P4 · 谱系盲品地图: chapters/05-origins/project-P4-origin-map.md
+      - 第五部分小结: chapters/05-origins/summary.md
   - 第六部分 · 选购、储存与流通:
       - chapters/06-buying-storage/00-intro.md
       - 第 33 章 · 选购: chapters/06-buying-storage/33-selection.md
@@ -120,11 +123,14 @@ nav:
       - 第 35 章 · 储存: chapters/06-buying-storage/35-storage.md
       - 第 36 章 · 包装与标准: chapters/06-buying-storage/36-packaging-standards.md
       - 🛠 项目 P5 · 一次真实选购决策复盘: chapters/06-buying-storage/project-P5-buying-review.md
+      - 第六部分小结: chapters/06-buying-storage/summary.md
   - 第七部分 · 拓展:
       - chapters/07-expansion/00-intro.md
       - 第 37 章 · 茶与健康: chapters/07-expansion/37-health.md
       - 第 38 章 · 茶史与茶文化速览: chapters/07-expansion/38-history-culture.md
       - 第 39 章 · 评茶师 / 茶艺师考试导览: chapters/07-expansion/39-exams.md
+      - 第 40 章 · 国标索引与中英术语对照: chapters/07-expansion/40-index-terms.md
+      - 第七部分小结: chapters/07-expansion/summary.md
   - 记录表:
       - 冲泡记录表: forms/brewing-log.md
   - 思考题参考答案:
@@ -172,6 +178,7 @@ nav:
       - 第 37 章 · 茶与健康: qa/37-health-qa.md
       - 第 38 章 · 茶史与茶文化速览: qa/38-history-culture-qa.md
       - 第 39 章 · 评茶师 / 茶艺师考试导览: qa/39-exams-qa.md
+      - 第 40 章 · 国标索引与中英术语对照: qa/40-index-terms-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
