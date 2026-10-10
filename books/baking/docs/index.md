@@ -83,8 +83,8 @@
 | 一 | [原料各自在做什么](chapters/01-ingredients/00-intro.md) | 七个角色 + 烘焙百分比这套通用语言（✅ 已完成） |
 | 二 | [膨发的三条路线](chapters/02-leavening/00-intro.md) ★ | 生物 / 化学 / 物理：气从哪来、被什么关住（✅ 已完成） |
 | 三 | [结构是怎么立住的](chapters/03-structure/00-intro.md) ★ | 面筋、淀粉、蛋白、脂肪在不同温度上的接力（✅ 已完成） |
-| 四 | [操作即控制变量](chapters/04-process/00-intro.md) | 搅拌、温度、发酵、整形——配方之外你还能动的旋钮（✅ 已完成） |
-| 五 | 烤箱与热 ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数 |
+| 四 | [操作即控制变量](chapters/04-process/00-intro.md) | 搅拌、温度、发酵、整形、称量、配方以外的变量（✅ 已完成） |
+| 五 | [烤箱与热](chapters/05-oven-heat/00-intro.md) ★ | 把别人的"180 °C / 25 分钟"翻译成你家烤箱的参数（🔜 进行中） |
 | 六 | 从原理到成品 ★ | 逐类拆解 + 变体推演（改糖 / 改油 / 改粉 / 放大份量） |
 | 七 | 改配方与诊断 ★ | 替换规则与代价 + 一张能查的失败诊断表 |
 
@@ -132,8 +132,18 @@
 - ✅ 第 23 章 [温度控制：面团终温、黄油温度与水温](chapters/04-process/23-temperature-control.md)
 - ✅ 第 24 章 [发酵与冷藏：时间、温度与风味的三角](chapters/04-process/24-fermentation-time-temperature.md)
 - ✅ 第 25 章 [整形、醒发与割口](chapters/04-process/25-shaping-proofing-scoring.md)
+- ✅ 第 26 章 [称量与精度：为什么烘焙必须用秤](chapters/04-process/26-measurement-precision.md)
+- ✅ 第 27 章 [配方以外的变量：面粉批次、湿度、海拔、水质](chapters/04-process/27-variables-beyond-the-recipe.md)
 
-**下一站**：第五部分 · 烤箱与热——第 26 章 称量与精度。
+**第五部分当前进度**：
+
+- ✅ [第五部分导读](chapters/05-oven-heat/00-intro.md)
+- ✅ 第 28 章 [炉内传热：辐射、对流、导热与蓄热](chapters/05-oven-heat/28-oven-heat-transfer.md)
+- ✅ 第 29 章 [预热、炉温与实际温度：你的烤箱几乎一定不准](chapters/05-oven-heat/29-preheat-and-real-temperature.md)
+- ✅ 第 30 章 [蒸汽的作用：为什么欧包要喷水](chapters/05-oven-heat/30-steam-in-the-oven.md)
+- ⬜ 第 31 章 模具、烤盘与垫材：材质、颜色与厚度
+
+**下一站**：第 31 章 模具、烤盘与垫材。
 
 ## 常用工具页
 
