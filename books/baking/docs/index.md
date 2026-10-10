@@ -162,6 +162,7 @@
 - ✅ 第 41 章 [配方平衡：一份配方是几组竞争关系的配平](chapters/07-formulation/41-formulation-balance.md)
 - ✅ 第 42 章 [替换规则与代价：减糖、换油、换粉、换液体](chapters/07-formulation/42-substitution-tradeoffs.md)
 - ✅ 第 43 章 [无麸质与特殊需求：只讲工艺与代价](chapters/07-formulation/43-gluten-free-structure.md)
+- ✅ 第 44 章 [失败诊断手册：现象 → 可能原因 → 下次改哪个变量](chapters/07-formulation/44-failure-diagnosis.md)
 
 ## 常用工具页
 
