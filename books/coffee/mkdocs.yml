@@ -114,6 +114,7 @@ nav:
       - chapters/06-sensory/00-intro.md
       - 第 34 章 · 杯测：标准化的意义与流程: chapters/06-sensory/34-cupping.md
       - 第 35 章 · 评分体系：百分制与 Coffee Value Assessment: chapters/06-sensory/35-scoring-cva.md
+      - 第 36 章 · 风味描述语言：风味轮与感官词典: chapters/06-sensory/36-flavor-language.md
   - 记录表:
       - forms/index.md
       - 冲煮记录表: forms/brew-log.md
@@ -157,6 +158,7 @@ nav:
       - 第 33 章: qa/33-milk-foam-qa.md
       - 第 34 章: qa/34-cupping-qa.md
       - 第 35 章: qa/35-scoring-cva-qa.md
+      - 第 36 章: qa/36-flavor-language-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

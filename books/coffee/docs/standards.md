@@ -667,4 +667,5 @@
 | **奶与奶泡** | [MF1] Huppertz (2010, *International Journal of Dairy Technology*, DOI: 10.1111/j.1471-0307.2010.00629.x，摘要核对)：组成与加工影响牛奶发泡；[MF2] Klimanova et al. (2022, *International Journal of Hospitality Management*, DOI: 10.1016/j.ijhm.2022.103376，摘要核对)：蒸汽微泡受乳品、温度和乳清蛋白影响；[MF3] 2025 植物饮品综述（DOI: 10.3390/beverages11010024，摘要核对）。见[第 33 章](chapters/05-brewing-espresso/33-milk-foam.md)。 |
 | **杯测与 CVA** | SCA Coffee Value Assessment 公开页与其 2024 描述性评估说明（页面核对）：将物理、描述、偏好和外部属性分开；本文不复制协议表格或主张家庭练习为认证流程。见[第 34 章](chapters/06-sensory/34-cupping.md)。 |
 | **评分体系与 CVA** | 复用 SCA CVA 公开页及其对描述性/偏好性评估与演进背景的公开说明；“CVA 95 分”若未说明具体环节、版本、样品和程序，不能当作可解释的通用分数。见[第 35 章](chapters/06-sensory/35-scoring-cva.md)。 |
+| **风味语言与参照物** | SCA 对风味轮的公开使用指引（页面核对）：从中心大类向外具体化，结合 WCR 词典定义与参照物；WCR Resources 官方页为词典入口。本文不重制风味轮或词典内容。见[第 36 章](chapters/06-sensory/36-flavor-language.md)。 |
 | **把标记化合物当"缺陷判定阈值"** | [DF1] 给的是**相对丰度变化**并明说用于快速筛查，不是判定限；且与 [DF2] 共用同一套样品，**不构成独立重复** |
