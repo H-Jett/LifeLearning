@@ -123,6 +123,9 @@
 - ✅ 第 31 章 [火力与锅具：导热、蓄热、不粘涂层的取舍](chapters/05-kitchen-engineering/31-heat-pans.md)
 - ✅ 第 32 章 [油温怎么判断：现象、温度与“几成热”](chapters/05-kitchen-engineering/32-oil-temperature.md)
 - ✅ 第 33 章 [切配前置与一顿多菜的时间表](chapters/05-kitchen-engineering/33-mise-en-place-scheduling.md)
+- ✅ 第 34 章 [家庭灶的限制怎么绕](chapters/05-kitchen-engineering/34-home-kitchen-limits.md)
+
+**下一站**：第六部分 · 从原理到菜。
 
 ## 常用工具页
 
