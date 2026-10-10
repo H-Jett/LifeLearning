@@ -104,6 +104,7 @@ nav:
       - chapters/05-oven-heat/00-intro.md
       - 第 28 章 · 炉内传热：辐射、对流、导热与蓄热: chapters/05-oven-heat/28-oven-heat-transfer.md
       - 第 29 章 · 预热、炉温与实际温度：你的烤箱几乎一定不准: chapters/05-oven-heat/29-preheat-and-real-temperature.md
+      - 第 30 章 · 蒸汽的作用：为什么欧包要喷水: chapters/05-oven-heat/30-steam-in-the-oven.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -140,6 +141,7 @@ nav:
       - 第 27 章: qa/27-variables-beyond-the-recipe-qa.md
       - 第 28 章: qa/28-oven-heat-transfer-qa.md
       - 第 29 章: qa/29-preheat-and-real-temperature-qa.md
+      - 第 30 章: qa/30-steam-in-the-oven-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，

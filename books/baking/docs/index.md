@@ -140,9 +140,10 @@
 - ✅ [第五部分导读](chapters/05-oven-heat/00-intro.md)
 - ✅ 第 28 章 [炉内传热：辐射、对流、导热与蓄热](chapters/05-oven-heat/28-oven-heat-transfer.md)
 - ✅ 第 29 章 [预热、炉温与实际温度：你的烤箱几乎一定不准](chapters/05-oven-heat/29-preheat-and-real-temperature.md)
-- ⬜ 第 30 章 蒸汽的作用：为什么欧包要喷水
+- ✅ 第 30 章 [蒸汽的作用：为什么欧包要喷水](chapters/05-oven-heat/30-steam-in-the-oven.md)
+- ⬜ 第 31 章 模具、烤盘与垫材：材质、颜色与厚度
 
-**下一站**：第 30 章 蒸汽的作用。
+**下一站**：第 31 章 模具、烤盘与垫材。
 
 ## 常用工具页
 
