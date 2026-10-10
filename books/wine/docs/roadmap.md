@@ -85,7 +85,7 @@
 |----|------|----------------|------|
 | 19 | [原产地制度的逻辑：PDO/PGI、AOC、DOCG、DO、AVA](chapters/04-regions/19-origin-system-logic.md) ★ | 各国名称体系其实在回答同一个问题：谁保证了什么 | ✅ |
 | 20 | [怎么读一张酒标](chapters/04-regions/20-reading-a-wine-label.md) ★ | 哪些字受法律约束、哪些字是营销；必填项与选填项 | ✅ |
-| 21 | 法国 ①：波尔多与勃艮第 | 两套截然不同的分级哲学（酒庄分级 vs 地块分级） | ⬜ |
+| 21 | [法国 ①：波尔多与勃艮第](chapters/04-regions/21-bordeaux-burgundy.md) | 两套截然不同的分级哲学（酒庄分级 vs 地块分级） | ✅ |
 | 22 | 法国 ②：罗讷、卢瓦尔、阿尔萨斯、香槟、南法 | 从北到南的气候梯度怎么写进了品种与风格 | ⬜ |
 | 23 | 意大利：DOC/DOCG 与本土品种 | 为什么意大利的品种数量惊人；陈年要求写在 disciplinare 里 | ⬜ |
 | 24 | 西班牙与葡萄牙 | 以陈年时长分级（Crianza/Reserva/Gran Reserva）的逻辑 | ⬜ |
