@@ -132,6 +132,7 @@
 - ✅ 第 37 章 [红烧肉：糖色、胶原与收汁](chapters/06-dishes/37-red-braised-pork.md)
 - ✅ 第 38 章 [清蒸鱼：窄窗口蛋白质与去腥](chapters/06-dishes/38-steamed-fish.md)
 - ✅ 第 39 章 [水煮肉片与滑肉：上浆与两段加热](chapters/06-dishes/39-poached-sliced-meat.md)
+- ✅ 第 40 章 [一锅炖：把所有原理压在一个锅里](chapters/06-dishes/40-one-pot-stew.md)
 
 ## 常用工具页
 
