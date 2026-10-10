@@ -469,6 +469,48 @@ def fig_menhuang_types() -> str:
     return svg(w, h, "\n".join(b), "闷黄三型对照示意")
 
 
+def fig_tf_tr_tb_balance() -> str:
+    """茶黄素/茶红素/茶褐素三色素比例随发酵程度变化（示意堆叠条）。"""
+    w, h = 1080, 400
+    b = [txt(24, 34, "发酵程度如何改变 TF / TR / TB 的比例（示意）", 18, INK, weight="bold"),
+         txt(24, 58, "条形宽度表示三类色素的相对比例（示意，非实测百分比）——"
+                     "关键不是具体数字，是「儿茶素→TF→TR→TB 单向推进」这条链条的位置",
+             12.5, MUTED)]
+    x0, bw = 220, 560
+    rows = [
+        ("发酵不足", 96, [("未氧化儿茶素", 0.55, "#8FA83C"), ("TF", 0.30, ORANGE),
+                          ("TR", 0.13, VERMILION), ("TB", 0.02, "#5A3A24")],
+         "汤色欠红泛青，味青涩，叶底花青"),
+        ("发酵适度", 196, [("TF", 0.18, ORANGE), ("TR", 0.70, VERMILION),
+                           ("TB", 0.12, "#5A3A24")],
+         "红艳明亮、甜醇浓强；TF/TR 协调"),
+        ("发酵过度", 296, [("TF", 0.06, ORANGE), ("TR", 0.44, VERMILION),
+                           ("TB", 0.50, "#5A3A24")],
+         "红暗浑浊、香气低闷、滋味平淡"),
+    ]
+    for label, y, segs, note in rows:
+        b.append(txt(24, y + 18, label, 14, INK, weight="bold"))
+        cx = x0
+        for seg_label, frac, color in segs:
+            seg_w = bw * frac
+            b.append(rect(cx, y, seg_w, 28, fill=color, stroke="none", op=0.88))
+            if seg_w > 46:
+                b.append(txt(cx + seg_w / 2, y + 19, seg_label, 11, "#FFFFFF",
+                             anchor="middle", weight="bold"))
+            cx += seg_w
+        b.append(txt(x0 + bw + 14, y + 19, note, 11.5, MUTED))
+    b.append(line(x0, 90, x0, 340, GRID, 1, dash="3,4"))
+    b.append(line(x0 + bw, 90, x0 + bw, 340, GRID, 1, dash="3,4"))
+    b.append(txt(24, h - 48,
+                 "经验参考（非国标）：TF>0.7%、TR>10%，茶红素:茶黄素≈10~12:1 时汤质较优；"
+                 "比值过高则汤暗、滋味强度不足，过低则红浓度不够——具体数字因测法而异，见本章正文。",
+                 12.5, INK))
+    b.append(txt(24, h - 24,
+                 "这条链单向推进：发酵只能往右走，走过头不是「更浓」是「更淡」（第 4 章已讲）。",
+                 12.5, INK))
+    return svg(w, h, "\n".join(b), "TF/TR/TB 比例随发酵程度变化示意")
+
+
 def fig_roasting_levels() -> str:
     """乌龙茶焙火火功：轻火/中火/足火/病火，温度区间与风味方向（示意）。"""
     w, h = 980, 470
@@ -523,6 +565,7 @@ FIGURES = [
     (P2, "shaqing-degrees.svg", fig_shaqing_degrees),
     (P2, "menhuang-types.svg", fig_menhuang_types),
     (P2, "roasting-levels.svg", fig_roasting_levels),
+    (P2, "tf-tr-tb-balance.svg", fig_tf_tr_tb_balance),
     (P1, "enzyme-temp.svg", fig_enzyme_temp),
     (P1, "shoot-structure.svg", fig_shoot_structure),
     (P1, "kaimian.svg", fig_kaimian),
