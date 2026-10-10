@@ -107,6 +107,7 @@ nav:
       - 第 30 章 · 蒸汽的作用：为什么欧包要喷水: chapters/05-oven-heat/30-steam-in-the-oven.md
       - 第 31 章 · 模具、烤盘与垫材: chapters/05-oven-heat/31-pans-molds-liners.md
       - 第 32 章 · 怎么判断烤好了: chapters/05-oven-heat/32-doneness.md
+      - 第 33 章 · 出炉之后: chapters/05-oven-heat/33-cooling-and-staling.md
   - 记录表:
       - forms/index.md
       - 配方解码表: forms/recipe-decode.md
@@ -146,6 +147,7 @@ nav:
       - 第 30 章: qa/30-steam-in-the-oven-qa.md
       - 第 31 章: qa/31-pans-molds-liners-qa.md
       - 第 32 章: qa/32-doneness-qa.md
+      - 第 33 章: qa/33-cooling-and-staling-qa.md
 
 extra:
   # 点页头站名/logo 回书架。用 !ENV 由 build_site.py 注入，
