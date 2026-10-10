@@ -12,5 +12,5 @@
 | 30 | [意式机器结构](30-espresso-machine.md) | ✅ |
 | 31 | [粉饼制备](31-puck-preparation.md) | ✅ |
 | 32 | [意式配方与调试](32-espresso-dial-in.md) | ✅ |
-| 33 | 奶与奶泡 | ⬜ |
+| 33 | [奶与奶泡](33-milk-foam.md) | ✅ |
 | P4 | 配方手册 | ⬜ |
