@@ -92,8 +92,8 @@ books:
     title: 做菜的原理
     subtitle: 从照着菜谱做到自己决定怎么做
     description: 给厨房小白的原理书：热、水、味、时间四条线，讲清每一步操作、每一味调料、每个先后顺序的道理。
-    status: 进行中
-    progress: 七部分 45 章 · 已完成 23 章，进行到第四部分（基础技法）
+    status: 完成
+    progress: ✅ 七部分 45 章 + 5 个实战项目 · 全书完成
     palette:
       primary: "#0F6E7E"           # 灶台青
       accent: "#1F8C9B"
